@@ -20,6 +20,15 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Quality Of Life',
+      items: [
+        { type: 'doc', id: 'qol/exploration', label: 'Exploration' },
+        { type: 'doc', id: 'qol/mass-crafting', label: 'Mass Crafting' },
+        { type: 'doc', id: 'qol/upgrades', label: 'Upgrades' },
+      ]
+    },
+    {
+      type: 'category',
       label: 'Drops',
       items: [
         {

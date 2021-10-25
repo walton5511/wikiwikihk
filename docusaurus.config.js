@@ -11,7 +11,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'olympus', // Usually your GitHub org/user name.
+  organizationName: 'OlympusGG', // Usually your GitHub org/user name.
+  trailingSlash: false,
   projectName: 'wiki', // Usually your repo name.
   themeConfig:
     ({

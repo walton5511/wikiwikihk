@@ -14,6 +14,7 @@ module.exports = {
       type: 'category',
       label: 'Custom Features',
       items: [
+        { type: 'doc', id: 'custom-features/achievements', label: 'Achievements' },
         { type: 'doc', id: 'custom-features/pocket-dimensions', label: 'Pocket Dimensions' },
         { type: 'doc', id: 'custom-features/loyalty-system', label: 'Loyalty System' },
       ]

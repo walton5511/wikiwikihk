@@ -52,7 +52,7 @@ Loyalty shop is placed at **NosVille**
 | 40 coins | Adventurer's Knapsack (30 Days) (Limited) |
 |  75 coins| Adventurer's Knapsack (60 Days) (Limited) |
 |  40 coins| Partner's Backpack (30 Days) (Limited) |
-| 75 coins| Partner's Backpack (30 Days) (Limited) |
+| 75 coins| Partner's Backpack (60 Days) (Limited) |
 |  40 coins| Pet Basket (30 Days) (Limited) |
 | 75 coins| Pet Basket (60 Days) (Limited) |
 |  25 coins| Soul Revival Stone (Limited) |

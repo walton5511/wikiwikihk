@@ -18,6 +18,7 @@ module.exports = {
         { type: 'doc', id: 'custom-features/pocket-dimensions', label: 'Pocket Dimensions' },
         { type: 'doc', id: 'custom-features/loyalty-system', label: 'Loyalty System' },
         { type: 'doc', id: 'custom-features/npc-buffers', label: 'NPC Buffers' },
+        { type: 'doc', id: 'custom-features/trophy-system', label: 'Trophy System' },
       ]
     },
     {

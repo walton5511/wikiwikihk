@@ -32,6 +32,13 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'General guides',
+      items: [
+        { type: 'doc', id: 'guides/fast-level-up', label: 'Fast Level Up' },
+      ]
+    },
+    {
+      type: 'category',
       label: 'SP guides',
       items: [
         { type: 'doc', id: 'sp-guides/sp1', label: 'SP1' },

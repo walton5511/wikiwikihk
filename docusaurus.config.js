@@ -40,6 +40,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      
+      algolia: {
+        appId: 'Z1PIPBOW0R',
+        apiKey: '23c1e1f173c9ac1eccb39c059880f1a4',
+        indexName: 'prod_DOC',
+        contextualSearch: false,
+        searchParameters: {}
+      },
     }),
   presets: [
     [

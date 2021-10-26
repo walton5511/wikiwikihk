@@ -32,6 +32,16 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'SP guides',
+      items: [
+        { type: 'doc', id: 'sp-guides/sp1', label: 'SP1' },
+        { type: 'doc', id: 'sp-guides/sp2', label: 'SP2' },
+        { type: 'doc', id: 'sp-guides/sp3', label: 'SP3' },
+        { type: 'doc', id: 'sp-guides/sp4', label: 'SP4' },
+      ]
+    },
+    {
+      type: 'category',
       label: 'Drops',
       items: [
         {

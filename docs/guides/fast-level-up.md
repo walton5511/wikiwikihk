@@ -98,9 +98,13 @@ Feel free to use these as they are unchanged on this server.
 
 ## Level 90 - 99
 
-From here on out you will need to start optimizing your equipment and start farming in Act 5.2, mainly on Eastern Path.
+From here on out you will need to start optimizing your equipment and start farming in Act 5.2, as well as completing the Act 5.2 main questline.
 
-### Tips:
+### Act 5.2 Main Questline
+
+This one is fairly easy and I recommend you always complete it as far as you can until you need to wait until someone is hosting a Kertos/Valakus/Grenigas raid in order to progress further. This will give you a decent amount of EXP (enough to get you to at least from level 90 to 93).
+
+### Eastern Path Farming and Tips:
 
 - Split the map into multiple lures.
 - Set a return point at the beginning of the map.

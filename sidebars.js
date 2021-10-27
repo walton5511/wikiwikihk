@@ -39,6 +39,13 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'SP cards',
+      items: [
+        { type: 'doc', id: 'sp-cards/swordsman', label: 'Swordsman' },
+      ]
+    },
+    {
+      type: 'category',
       label: 'SP guides',
       items: [
         { type: 'doc', id: 'sp-guides/sp1', label: 'SP1' },

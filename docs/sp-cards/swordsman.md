@@ -2,10 +2,8 @@
 
 # Swordsman Specialist Cards
 
-Various Changes have been implemented into the Specialist Cards so here are the Skills of every SP as of right now. Changes can happen further down the line.
+Various changes have been implemented into the Specialist Cards so here are the Skills of every SP as of right now. Changes can happen further down the line.
 
-
-<br></br>
 
 ### Warrior
 

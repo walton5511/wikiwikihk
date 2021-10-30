@@ -1,3 +1,10 @@
+---
+id: archer
+slug: archer
+title: Archer SPs
+hide_title: true
+---
+
 # Archer Specialist Cards
 Various changes have been implemented into the Specialist Cards so here are the Skills of every SP as of right now.  
 Changes can happen further down the line.

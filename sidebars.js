@@ -28,6 +28,8 @@ module.exports = {
         { type: 'doc', id: 'qol/exploration', label: 'Exploration' },
         { type: 'doc', id: 'qol/mass-crafting', label: 'Mass Crafting' },
         { type: 'doc', id: 'qol/upgrades', label: 'Upgrades' },
+        { type: 'doc', id: 'qol/raidboxes', label: 'Raid Boxes' },
+        { type: 'doc', id: 'qol/npc-shops', label: 'New NPC Shops' },
       ]
     },
     {

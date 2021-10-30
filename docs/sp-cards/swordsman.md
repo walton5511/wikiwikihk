@@ -1,3 +1,10 @@
+---
+id: swordsman
+slug: swordsman
+title: Swordsman SPs
+hide_title: true
+---
+
 # Swordsman Specialist Cards
 Various changes have been implemented into the Specialist Cards so here are the Skills of every SP as of right now.  
 Changes can happen further down the line.

@@ -2,6 +2,7 @@ module.exports = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   docs: [
     'home',
+    'rules',
     {
       type: 'category',
       label: 'Useful links',

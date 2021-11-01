@@ -28,6 +28,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             docId: 'home',
             position: 'left',
             label: 'Home',
+          },
+          {
+            to: 'blog',
+            label: 'Changelogs',
+            position: 'left'
           }
         ],
       },

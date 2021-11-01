@@ -27,6 +27,7 @@ _Notes:_
 
 - _Always use the highest level armour you can wear._
 - _You don't need shell options for progressing yet._
+- _Secondary weapon recommendations are meant as support weapons._
 
 **Archer**:
 
@@ -85,7 +86,7 @@ Wildkeepers (Aster) and Berserkers (Rashid) will have an easy time clearing thei
 
 ### Act 5.1 Side Quests
 
-On the internet you will find many full lists and guides on all possible 5.1 questlines.
+On the internet you will find many full lists and [guides](https://nosapki.nostale.club/misje_pustynia) on all possible 5.1 questlines.
 Feel free to use these as they are unchanged on this server.
 
 #### Tips:

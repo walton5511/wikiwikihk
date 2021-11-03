@@ -24,7 +24,7 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/JtUnh4E.png)
 
 ### Slade
-![](https://i.imgur.com/8AeWPTh.png)
+![](https://i.imgur.com/WfaEYRx.png)
 
 ### Ibrahim
 ![](https://i.imgur.com/dPWPFMs.png)

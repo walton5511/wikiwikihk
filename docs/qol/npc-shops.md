@@ -20,8 +20,8 @@ Our first new NPC vendor is Helen, which trades different Mall items for loyalty
 This NPC should spark some memories in some players, as you can see you are able to buy upgrade materials and different Mall items at a fixed price here.
 
 
-#### Nemo, Raids and Trophies
-![](https://i.imgur.com/iCGpNzA.png)  
+#### Nemo (Mysterious Monk), Raids and Trophies
+![](https://i.imgur.com/xTGtMGz.png)  
 Nemo as the Trophy NPC shouldn't be a stranger to some people,here you can buy everything Raid and Trophy related.
 
 

@@ -29,34 +29,41 @@ module.exports = {
         { type: 'doc', id: 'qol/exploration', label: 'Exploration' },
         { type: 'doc', id: 'qol/mass-crafting', label: 'Mass Crafting' },
         { type: 'doc', id: 'qol/upgrades', label: 'Upgrades' },
-        { type: 'doc', id: 'qol/raidboxes', label: 'Raid Boxes' },
         { type: 'doc', id: 'qol/npc-shops', label: 'New NPC Shops' },
       ]
     },
     {
       type: 'category',
-      label: 'General guides',
+      label: 'Guides',
       items: [
-        { type: 'doc', id: 'guides/fast-level-up', label: 'Fast Level Up' },
+        { type: 'doc', id: 'guides/fast-level-up', label: 'Level Up guide' },
+        {
+          type: 'category',
+          label: 'SP guides',
+          items: [
+            { type: 'doc', id: 'guides/sp-guides/sp1', label: 'SP1' },
+            { type: 'doc', id: 'guides/sp-guides/sp2', label: 'SP2' },
+            { type: 'doc', id: 'guides/sp-guides/sp3', label: 'SP3' },
+            { type: 'doc', id: 'guides/sp-guides/sp4', label: 'SP4' },
+          ]
+        },
       ]
     },
     {
       type: 'category',
-      label: 'SP cards',
+      label: 'Information',
       items: [
-        { type: 'doc', id: 'sp-cards/swordsman', label: 'Swordsman' },
-        { type: 'doc', id: 'sp-cards/archer', label: 'Archer' },
-        { type: 'doc', id: 'sp-cards/mage', label: 'Mage' },
-      ]
-    },
-    {
-      type: 'category',
-      label: 'SP guides',
-      items: [
-        { type: 'doc', id: 'sp-guides/sp1', label: 'SP1' },
-        { type: 'doc', id: 'sp-guides/sp2', label: 'SP2' },
-        { type: 'doc', id: 'sp-guides/sp3', label: 'SP3' },
-        { type: 'doc', id: 'sp-guides/sp4', label: 'SP4' },
+        {
+          type: 'category',
+          label: 'SP cards',
+          items: [
+            { type: 'doc', id: 'information/sp-cards/swordsman', label: 'Swordsman' },
+            { type: 'doc', id: 'information/sp-cards/archer', label: 'Archer' },
+            { type: 'doc', id: 'information/sp-cards/mage', label: 'Mage' },
+          ]
+        },
+        { type: 'doc', id: 'information/raidboxes', label: 'Raid Boxes' },
+        { type: 'doc', id: 'information/mounts', label: 'Mounts' },
       ]
     },
     {

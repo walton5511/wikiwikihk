@@ -41,7 +41,7 @@ hide_title: true
 
 4.2 If you find a bug in the game, please report it to a GM as soon as possible, that will result in a possible reward.
 
-4.3 If you take advantage of a bug without notifying us, you will be punished according to the severity of the bug. 
+4.3 If you take advantage of a bug, you will be punished according to the severity of the bug. 
 
 4.4 The use of in-game bots or third-party software is totally forbidden and will result in a permanent ban on your account. 
 
@@ -51,7 +51,7 @@ hide_title: true
 
 5.2 It is forbidden to sell your account to other players. 
 
-5.3 If one of your accounts is banned all other accounts will be banned as well. 
+5.3 If your account is banned, all your future accounts will be banned as well. 
 
 5.4 If you share your account with a different person, you lose every support privilege. 
 

@@ -1,0 +1,490 @@
+---
+id: sp_rework
+slug: sp_rework
+title: SP reworks
+hide_title: true
+---
+
+# SP Reworks
+
+## Warrior
+- Whirlwind:
+  - [NEW] There is a 100% chance of causing Whirlwind. // combo skill, thrice
+- Provoke:
+  - [NEW] There is a 100% chance of causing [Impenetrable].
+- Fury:
+  - Cool time: 70s -> 60s
+- Earth Shock:
+  - Cool time: 50s -> 30s
+- Rising Dragon:
+  - Cool time: 120s -> 60s
+- [Morale Increase]:
+  - Duration: 300s -> 900s
+  - [REMOVE] Hit rate of all attacks is increased by (PlayerLevelx2).
+  - [REMOVE] Dodge is increased by (PlayerLevelx2).
+  - [NEW] Morale stat is increased by (Player Level/3).
+- [Iron Skin]:
+  - [REMOVE] Melee damage is decreased by 20%.
+  - [REMOVE] Ranged damage is decreased by 65%.
+  - [NEW] Damage is decreased by 30%.
+- [NEW] [Impenetrable]:
+  - 5Lv. Good: General Effect
+  - Duration: 2s
+    - No HP consumption
+- [NEW] [Intimidate]:
+  - 3Lv. Good: General Effect
+  - Duration: 10s
+  - Morale stat is decreased by 30.
+
+## Blade
+- Job: 35 -> 30
+- Sword Storm:
+  - Target: Around Enemy in 3 -> 4 cell
+  - [NEW] There is a 100% chance of causing Sword Storm. // combo skill, thrice
+  - There is a 70% -> 40% chance of causing [Wounded Leg].
+- Lightning Speed Attack:
+  - Range: 7 -> 10
+  - Dash Speed: 60 -> 90
+- Lethal Blow:
+  - Cool time: 100s -> 40s
+  - There is a 70% -> 40% chance of causing [Cut].
+- Sharp Edge:
+  - Cool time: 120s -> 60s
+- Dancing Swords:
+  - Cool time: 120s -> 60s
+
+## Crusader
+- Job: 50 -> 40
+- Holy Bolt:
+  - Target: Select One -> Around Enemy in 2 cell
+  - [NEW] There is a 100% chance of causing Holy Bolt.// combo skill, cool time: 10s
+- Triple Bolt:
+  - Attack Range: 7 -> 11
+  - Cool time: 34s -> 20s
+- Triple Charging:
+  - Cool time: 50s -> 60s
+- Prayer of Defence:
+  - Cool time: 180s -> 30s
+- Prayer of Offence:
+  - Cool time: 180s -> 30s
+- Concentrated Power:
+  - Cool time: 120s -> 90s
+  - Target: Around Enemy in 3 -> 4 cell
+- [Prayer of Defence]:
+  - 9Lv. -> 10Lv. Good: Magic Effect
+  - Duration: 180s -> 900s
+- [Prayer of Offence]:
+  - Duration: 180s -> 900s
+- [The 1st Triple Charging]:
+  - Duration: 15s -> 20s
+  - All attacks are increased by 30% -> 20%.
+- [The 2nd Triple Charging]:
+  - Duration: 15s -> 20s
+  - All attacks are increased by 50% -> 30%.
+- [Holy Shield]:  // disappears when you move
+  - Duration: 10s -> 30s
+  - [REMOVE] Never receives critical hits.
+  - [NEW] All defence powers are increased by (Player Levelx6).
+
+## Berserker
+- Job: 55 -> 50
+- Bash:
+  - Target: Select One -> Around Enemy in 1 cell
+- Big Swing:
+  - [NEW] There is a 100% chance of causing Big Swing. // combo skill, thrice
+- Sonic Rush:
+  - Attack Range: 8 -> 10
+- Life and Death:
+  - [REMOVE] The lower your HP, the stronger the effect.
+  - [NEW] There is a 100% chance of causing [Life and Death]. 
+- [NEW] [Life and Death]:
+  - 3Lv. Good: Magic Effect
+  - Duration: 20s
+  - Every 2 seconds: HP is reduced by (Player Levelx4).
+  - Shadow element is increased by 500.
+
+## Gladiator
+- Lightning Surge:
+  - Cool time: 20s -> 10s
+- Shield Attack:
+  - Cool time: 50s -> 20s
+  - Attack Range: 7 -> 10
+  - There is a 90% -> 100% chance of causing [Knockdown].
+- Hunting Horn:
+  - Attack Range: 7 -> 10
+  - Target: Select One -> Around Enemy in 2 cell
+- Iron Roll:
+  - Cool time: 90s -> 40s
+- Engorgment:
+  - Cool time: 80s -> 60s
+- Declaration of War:
+  - Cool time: 90s -> 50s
+- Execution:
+  - Cool time: 130s -> 90s
+- [Engorgment]:
+  - Light resistance is increased by (Player Level/9) -> 20.
+  - Water resistance is increased by (Player Level/9) -> 20.
+- [Victory Cry]:
+  - Reduces cooldown of skills by 50% -> 25%.
+
+## Battle Monk
+- 10% -> 30% resistance to the effect: [Shivering Frost] -> [Eternal Ice] and lower.
+- Targeted Stab:
+  - Attack Range: 13 -> 10
+- Buddha's Words  // no longer stays active on cast, it's just one-time skill like any other
+- Dragon Spear:
+  - Cool time: 50s -> 20s
+  - [REMOVE] There is a 80% chance of causing [Energy Deficiency].
+  - [REMOVE] Chance of inflicting critical hits is increased by (Player Level/2)%.
+- Sacrifice:
+  - [NEW] Decreases HP by 10%.  // self
+- [Spirit of Enlightment]:
+  - Duration: 200s -> 300s
+- [Spirit of Temperance]:
+  - [REMOVE] Increases maximum HP by 25%, however not above 5,000 HP.
+  - [NEW] Increases maximum HP by 15%.
+- [Spirit of Sacrifice]:
+  - [REMOVE] Provides a 70% chance to reduce damage by 25%.
+- [Noble Gesture]:  ## no longer a distance-bound buff
+  - [REMOVE] Reduces 75% of the damage that another player within range receives. Instead you take 75% of that player's damage.
+  - [NEW] Every 4 seconds: 4% HP is recovered.
+
+## Red Mage
+- Movement speed +0 -> +1
+- Fire Storm:
+  - [NEW] There is a 80% chance of causing [Fatal Burn]. // hp reduction
+- Fire Blessing:
+  - Cool time: 300s -> 30s
+- Fire Wall:
+  - Cool time: 45s -> 20s
+- Meteor Shower:
+  - Cool time: 50s -> 35s
+- Meteor Strike:
+  - Cool time: 120s -> 60s
+- [Fire Blessing]:
+  - Duration: 300s -> 900s
+
+## Holy Mage
+- Movement speed +0 -> +1
+- Job: 35 -> 30
+- Healing:
+  - Restores (Player Levelx20 -> x30).
+- Holy Light:
+  - Cool time: 7s -> 5.5s
+  - Target: Around Enemy in 1 -> 2 cell
+- Mana Shield:
+  - Cool time: 180s -> 30s
+- Heaven Song:
+  - There is a 80% -> 100% chance of causing [Heaven Song].
+- Cure All:
+  - Cool time: 35s -> 25s
+- Undead Purge -> Mass Revive:
+  - Cool time: 70s -> 120s
+  - [REMOVE] Inflicts damage on undead with lower level.
+  - [REMOVE] There is a 100% chance of causing [Holy Shield].
+  - [NEW] Revives dead allies.
+  - [NEW] There is a 50% chance to recover lost hearts in raid.
+- Group Healing:
+  - Consumption MP: 250 -> 1000
+  - [NEW] 10% HP is recovered.
+- Holy Weapon:
+  - Cool time: 300s -> 30s
+- Blessing:
+  - Cool time: 300s -> 30s
+- Holy Hammer:
+  - Cool time: 120s -> 60s
+  - There is a 70% -> 100% chance of causing [Eliminate shadows].
+- [Mana Shield]:
+  - [REMOVE] Damage is decreased by 20%.
+  - Heal 30% -> 50% of inflicted damage by reducing MP.
+  - [REMOVE] Concentration is increased by (Player Levelx1).
+- [Blessing]:
+  - Duration: 300s -> 900s
+- [Holy Weapon]:
+  - Duration: 300s -> 900s
+- [Heaven Song]:
+  - [REMOVE] Changes to non-preferred attack with a probability of 100%.
+
+## Blue Mage
+- Movement speed +0 -> +1
+- Job: 50 -> 40
+- Ice Lance:
+  - Cool time: 25 -> 17
+- Frozen Shield:
+  - [NEW] There is a 100% chance of causing [Ice Block].
+- Glacier:
+  - There is a 15% -> 50% chance of causing [Fear] -> [Shivering Frost].
+- Blessing of Water:
+  - Cool time: 300s -> 30s
+- Heavy Hail:
+  - Cool time: 65s -> 30s
+- Intense Cold:
+  - Cool time: 80s -> 40s
+- Blizzard:
+  - Cool time: 180s -> 90s
+- [Frozen Shield]:
+  - Duration: 3s -> 2s
+- [NEW] [Ice Block]:
+  - Positive Magic Effect
+  - Duration: 180s
+  - Damage is decreased by 20%.
+  - Heal 20% of inflicted damage by reducing MP.
+- [Blessing of Water]:
+  - Duration: 300s -> 900s
+- [Slight Freeze]:
+  - Duration: 4s -> 2s
+
+## Dark Gunner
+- Job: 55 -> 50
+- Spell Revolver:
+  - Chance of inflicting critical hits is increased by 10% -> 5%.
+- Combination Shot:
+  - [NEW] There is a 50% chance of causing Combination Shot.// combo skill, recursive
+  - Chance of inflicting critical hits is increased by 15% -> 10%.
+- Ghost Guard:
+  - Cool time: 300s -> 30s
+- Dark Force:
+  - Cool time: 300s -> 30s
+- Posession:
+  - Cool time: 40s -> 30s
+  - Attack Range: 7 -> 12
+- Requiem:
+  - Cool time: 100s -> 60s
+- Ghost Invasion:
+  - Cool time: 160s -> 90s
+  - [NEW] No penalty for ranged attacks at close range.
+- [Dark Force]:
+  - Duration: 300s -> 900s
+  - Shadow resistence is increased by 10 -> 30.
+  - Probability to receive critical hits is decreased by 20% -> 10%.
+- [Posession]:
+  - Duration: 25s -> 20s
+  - Level: 4 -> 5
+  - [REMOVE] Hit rate of all attacks is decreased by 20.
+  - [NEW] All elemental resistance is decreased by 10.
+
+## Volcano
+- Volcanic Gas:
+  - There is a 25% -> 60% chance of causing [Poisonous Volcanic Gas].
+- Power of Volcano:
+  - Cool time: 90s -> 30s
+- Lava Swamp:
+  - Casting time: 0.2s -> 0s
+- [Power of the Volcano]:
+  - Duration: 240s -> 900s
+- [Lava Gush]:
+  - [REMOVE] Fire resistance is decreased by 5%.
+  - [NEW] Fire resistance is decreased by 10.
+- [Large Lava Gush]:
+  - [REMOVE] Fire resistance is decreased by 8%.
+  - [NEW] Fire resistance is decreased by 15.
+- [Bubbling Lava Gush]:
+  - [REMOVE] Fire resistance is decreased by 12%.
+  - [NEW] Fire resistance is decreased by 20.
+- [Lava Lava Gush]:
+  - [REMOVE] Fire resistance is decreased by 15%.
+  - [NEW] Fire resistance is decreased by 25.
+- [Lava Swamp]:
+  - [REMOVE] Fire resistance is decreased by 3%.
+  - [NEW] Fire resistance is decreased by 5.
+- [First Shockwave]:
+  - [REMOVE] Fire resistance is decreased by 3%.
+  - [NEW] Fire resistance is decreased by 5.
+- [Second Shockwave]:
+  - [REMOVE] Fire resistance is decreased by 5%.
+  - [NEW] Fire resistance is decreased by 10.
+- [Third Shockwave]:
+  - [REMOVE] Fire resistance is decreased by 7%.
+  - [NEW] Fire resistance is decreased by 15.
+
+## Tide Lord
+- 10% -> 30% resistance to the effect: [Shivering Frost] -> [Eternal Ice] and lower.
+- The Large Trident:
+  - Cast time: 0.6s -> 0.3s
+  - Cool time: 20s -> 12s
+- Ocean's Blessing:
+  - Cool time: 300s -> 30s
+- Lightning Strike:
+  - Magic attack power is increased by 850 -> 400.
+  - Water element is increased by 600 -> 400.
+  - There is a 50% -> 30% chance of causing [Electric Shock].
+  - There is a 80% -> 100% chance of causing Doublie Lightning.
+- Double Lightning:
+  - Casting time: 0.4s -> 0.2s
+  - Cool time: 70s -> 30s
+  - Consumption MP: 0 -> 500
+  - Magic attack power is increased by 1000 -> 600.
+  - Water element is increased by 650 -> 600.
+  - There is a 40% -> 30% chance of causing [Big Electric Shock].
+  - There is a 20% -> 100% chance of causing [Lightning Storm].
+- Lightning Storm:
+  - Attack Target: Around Enemy in 10 -> 5 cell
+  - Cool time: 120s -> 30s
+  - Magic attack power is increased by 1800 -> 1000.
+  - Water element is increased by 1800 -> 1000.
+  - There is a 100% -> 30% chance of causing [Big Electric Shock].
+  - [REMOVE] There is a 100% chance that 60% of the remaining MP is lost.
+- Tsunami:
+  - Cool time: 50s -> 25s
+- Head's Up, Blue Whale!
+  - Cool time: 165s -> 90s
+  - There is a 80% -> 100% chance of causing [Water Pressure].
+- [Ocean's Blessing]:
+  - Duration: 300s -> 900s
+- [Water Bubble]:
+  - [REMOVE] Reduces the effectiveness of the enemy's attack strengthening buffs.
+
+## Ranger
+- Hawk Eye:
+  - Cast time: 1s -> 0.3s
+- Wind Walker:
+  - Cast time: 1s -> 0.3s
+- Covering Fire:
+  - Cool time: 60s -> 12s
+- Rapid Recovery:
+  - Cool time: 180s -> 30s
+  - Cast time: 1s -> 0.3s
+- Thunder Storm:
+  - Cool time: 120s -> 90s
+  - Target: Around Enemy in 3 -> 4 cell
+
+## Assassin
+- Movement speed +1 -> +2
+- Job: 35 -> 30
+- Critical Hit:
+  - [REMOVE] There is a 100% chance of causing [Pact of Darkness].
+  - Cool time: 40s -> 60s
+- Tumble:
+  - There is a 80% -> 100% chance of causing [Drain attack power].
+- Tomahawk:
+  - Right Hand -> Left Hand
+  - Ranged -> Melee attack is increased by 600.
+- Deadly Strike:
+  - [NEW] If you're invisible, your next damaging skill has a 100% chance to hit.
+- Bomb:
+  - There is a 80% -> 100% chance of causing [Drain attack power].
+- [Critical hit]:
+  - Duration: 5s -> 120s
+  - Chance of inflicting critical hits is increased by 30% -> 10%.
+  - Increase damage from critical hits by 50% -> 10%.
+  - [REMOVE] Increases PvP attack power by 10%.
+- [Sinister Shadow]:  // disappears on hit
+  - Duration: 4s -> 10s
+  - [NEW] Chance of inflicting critical hits is increased by 30%.
+  - [NEW] Reduces cooldown of skills by 30%.
+- [Fatal Bleeding]:
+  - Duration: 15s -> 7s
+
+## Destroyer
+- Job: 50 -> 40
+- Lucky Wideshot:
+  - Attack Range: 6 -> 8
+- Miraculous Healing:
+  - Cool time: 180s -> 60s
+  - [NEW] Removes all bad effects up to level 4.
+- Hell Drop:
+  - Target: Around Enemy in 2 -> 3 cell
+  - Cool time: 120s -> 90s
+  - Cast time: 1.0s -> 0.4s
+  - [NEW] There is a 100% chance that every attack hits.
+
+## Wild Keeper
+- Job: 55 -> 50
+- Boomerang Blast:
+  - Attack Range: 6 -> 9
+- Snake Rush:
+  - Attack Range: 6 -> 9
+  - [NEW] There is a 100% chance of causing Snake Rush. // combo skill, twice
+  - There is a 40% -> 25% chance of causing [Blacout].
+- Beast Claw:
+  - Attack Range: 6 -> 9
+- Eagle Spirit:
+  - Cool time: 180s -> 30s
+- Elemental Shining:
+  - Cool time: 300s -> 30s
+- Boomerang Throw:
+  - Cool time: 32s -> 20s
+- Wolf Spirit:
+  - Cool time: 300s -> 30s
+- Elemental Leech:
+  - Cool time: 60s -> 40s
+- Ivy:
+  - Cool time: 60s -> 35s
+- Bear Spirit:
+  - Cool time: 300s -> 30s
+- Forest Power:
+  - Cool time: 110s -> 90s
+  - Attack Range: 6 -> 9
+- [Eagle Spirit]:
+  - Duration: 180s -> 900s
+  - [NEW] No penalty for ranged attacks at close range.
+- [Wolf Spirit]:
+  - Duration: 300s -> 900s
+- [Bear Spirit]:
+  - Duration: 300s -> 900s
+  - 11Lv. -> 9Lv. Good: Magic Effect
+- [Elemental Shining]:
+  - Duration: 300s -> 900s
+
+## Cannon Shooter
+- Staggered Fire:
+  - Target: Around Enemy in 0 -> 1 cell
+- Cannon Panning:
+  - Cool time: 40s -> 12s
+- Cannon Shot:
+  - Cool time: 40s -> 20s
+  - There is a 60% -> 30% chance of causing [Blackout] -> [Great Explosive Shockwave].
+  - Attack Range: 10 -> 11
+- Hellfire:
+  - Target: Around Enemy in 1 -> 2 cells
+- Signal Rocket:
+  - Target: Around Enemy in 1 -> 2 cells
+- Rocket Riding:
+  - Cool time: 10s -> 18s
+  - Target: Around Enemy in 1 -> 2 cells
+- Weapon Master:
+  - [REMOVE] There is a 100% chance of causing [Weapon Defence].
+- Ultimate Cannon:
+  - Cool time: 100s -> 85s
+- [Explosive Enhancements]:
+  - The Fire Cannoneer's area of effect is increased by 2 -> 1.
+- [Turbo Loader]:
+  - Duration: 15s -> 120s
+  - Fire element is increased by Player Levelx2 -> x3.
+  - [REMOVE] Reduces cooldown of skills by 40%.
+
+## Scout
+- 10% -> 30% resistance to the effect: [Shivering Frost] -> [Eternal Ice] and lower.
+- Rotating Arrow - Highest Level:
+  - Cool time: 10s -> 7s
+- Fog Arrow:
+  - Cool time: 50s -> 35s
+- Vital Energy:
+  - Cool time: 120s -> 60s
+- Hunting Falcon:
+  - [REMOVE] Falcon has a 75% chance to cause “Sniping target”.
+- [Vital Energy]:
+  - [REMOVE] Chance of inflicting critical hits is increased by (Player Level/10)%.
+  - [REMOVE] Increases damage from critical hits by (Player Level/10)%.
+  - [REMOVE] Below level 3 there is a (Player Level/10)% chance of never gettign a very toxic effect.
+  - [REMOVE] Below level 3 there is a (Player Level/10)% chance of never gettign a disease effect.
+  - [NEW] Below level 3 there is a 10% chance of never getting a bad general effect.
+  - [NEW] Every 2 seconds: Restores (Player Levelx2) HP.
+  - [NEW] Every 2 seconds: Restores (Player Levelx2) MP.
+  - [NEW] Defense is increased by 10%.
+- [Eagle Eyes]:
+  - [NEW] Chance of inflicting critical hits is increased by 10%.
+
+## Jajamaru
+- Shuriken Attack:
+  - Attack Range: 5 -> 8
+- Bomb Drop:
+  - Attack Range: 5 -> 8
+- Summon Kamapkun:
+  - Cool time: 40s -> 12s
+- Creation:
+  - Cool time: 55s -> 40s
+  - [NEW] There is a 10% chance of summoning Mega Jajamaru.
+- Power of the Empty Heart:
+  - Attack Range: 2 -> 4
+  - Cool time: 27s -> 20s

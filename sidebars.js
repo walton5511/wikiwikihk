@@ -36,10 +36,9 @@ module.exports = {
       type: 'category',
       label: 'Guides',
       items: [
-        { type: 'doc', id: 'guides/fast-level-up', label: 'Level Up guide' },
         {
           type: 'category',
-          label: 'SP guides',
+          label: 'SP Quests guide',
           items: [
             { type: 'doc', id: 'guides/sp-guides/sp1', label: 'SP1' },
             { type: 'doc', id: 'guides/sp-guides/sp2', label: 'SP2' },
@@ -47,6 +46,8 @@ module.exports = {
             { type: 'doc', id: 'guides/sp-guides/sp4', label: 'SP4' },
           ]
         },
+        { type: 'doc', id: 'guides/fast-level-up', label: 'Level Up guide' },
+        { type: 'doc', id: 'guides/eq-progression', label: 'Equipment Progression guide' },
       ]
     },
     {
@@ -64,6 +65,7 @@ module.exports = {
         },
         { type: 'doc', id: 'information/raidboxes', label: 'Raid Boxes' },
         { type: 'doc', id: 'information/mounts', label: 'Mounts' },
+        { type: 'doc', id: 'information/titles', label: 'Titles' },
       ]
     },
     {

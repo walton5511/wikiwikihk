@@ -1,0 +1,108 @@
+---
+id: titles
+slug: tiles
+title: Titles
+hide_title: true
+---
+
+#  Titles
+
+You can get Titles through various means such as Leveling, Raiding, RBB, etc...  
+Titles have different effects and they will be displayed under your name.  
+You can choose to display a different title name, while having the effect of another.  
+![](https://i.imgur.com/KAHMeFf.png)
+
+## Class Titles
+
+- Mystic:
+  - Magic attacks are increased by 5%.
+- Arch Mage:
+  - Magic attacks are increased by 10%.
+- Bull's Eye:
+  - Ranged attacks are increased by 5%.
+- Robin Hood:
+  - Ranged attacks are increased by 10%.
+- Mercenary:
+  - Melee attacks are increased by 5%.
+- Templar:
+  - Melee attacks are increased by 10%.
+- Lawful Evil:
+  - Melee attacks are increased by 5%.
+- Chaotic Good:
+  - Melee attacks are increased by 10%.
+
+## Raid Titles
+
+- Sweet Tooth (Cuby):
+  - Experience gain is increased by 10%.
+- Gardener(Ginseng):
+  - Probability to receive critical hits is decreased by 5%.
+- Ritualist(Dark Castra):
+  - Mana for using skills is decreased by 20%.
+- Aracnophobe(Spider):
+  - Dodge is increased by (Player Level x 1).
+- Rock Solid(Slade):
+  - Defence is increased by 10%.
+- Sakura's Hero(Mamaju):
+  - On attack, there is a 10% chance of inflicting [Sobbing & Crying] on your opponent.
+- Master Thief(Ibrahim):
+  - Morale stat is increased by 5.
+- Fire Hound(Kertos):
+  - Increases damage with a probability of 5% by 5%.
+- Pyromaniac(Valakus):
+  - There is a 5% chance that damage from all attacks is reduced by 5%.
+- Phoenix(Grenigas):
+  - HP recovery is increased by 200.
+- Dragon Slayer(Lord Draco):
+  - 40% resistance to the effect [Dragon Dread] and lower.
+- Ice Cold(Glacerus):
+  - 40% resistance to the effect [Eternal Ice] and lower.
+- Little Witch(Laurena):
+  - Reduces cooldown of skills by 10%.
+- Little Angel(Zenas):
+  - Damage to demons is increased by 10%.  // both demon faction players and demon-race mobs)
+- Little Devil(Erenia):
+  - Damage to angels is increased by 10%.  // both angel faction players and angel-race mobs
+- Ancelloan's Herald(Fernon):
+  - HP is increased by 2% of damage given.
+- Firebreather(Morcos):
+  - Fire element is increased  by 100.
+- Shadowheart(Hatus):
+  - Shadow element is increased by 100.
+- Watercharmer(Calvina):
+  - Water element is increased by 100.
+- Lightbringer(Berios):
+  - Light element is increased by 100.
+
+## Level Titles
+
+- Weed Killer (Level 10): 
+  - Damage to low-level plants is increased by 15%.
+- Animal Lover (Level 20):
+  - Damage to low-level animals is increased by 15%.
+- Rebel (Level 30):
+  - Damage to Kovolts is increased by 15%.
+- Idealist (Level 40):
+  - Experience gain is increased by 5%.
+- Peacemaker (Level 50):
+  - 100% resistance to the effect: [Resurrection Side Effects] and lower.
+- Diplomat (Level 60):
+  - Damage to Catsies is increased by 15%.
+- Hunter (Level 70):
+  - Damage to low-level monsters is increased by 10%.
+- Saviour of NosVille (Level 80):
+  - Damage to human beings is increased by 10%.
+- Indefatigable (Level 90):
+  - Movement speed is increased by 1.
+- Zenith (Level 99):
+  - Damage to high-level monsters is increased by 10%.
+
+## Other Titles
+
+- Unicorn (Rainbowbattle):
+  - PvP attack power is increased by 5% during the Rainbow Battle.
+  - Movement speed is increased by 2 during the Rainbow Battle.
+- Midas' Touch:  // previously Croesus
+  - Increases Gold earned by 5%.
+- Fire Devil:
+  - Damage to monsters in the Land of Death is increased by 20%.

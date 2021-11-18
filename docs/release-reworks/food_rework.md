@@ -7,29 +7,29 @@ hide_title: true
 
 # Food & Snacks Reworks
 
-- Spare Ribs 30x:
-  - Recipe:
+-Spare Ribs 30x:![1](https://user-images.githubusercontent.com/58304124/142494554-4b6c8473-5ab5-42ff-a24c-f9b033f00800.png)
+ - Recipe:
     - Meat 10x
 	  - Mixed Herbs 10x
   	- Vegetable Oil 5x
   - Type: Food
   - HP: 3000
   - MP: 3000
-- Steak 30x:
+- Steak 30x:![2](https://user-images.githubusercontent.com/58304124/142494566-d93ec26a-7490-4f96-91c0-9c3f6a844ef4.png)
   - Recipe:
     - Meat 20x
     - Vegetable 10x
     - Mixed Herbs 5x
   - Type: Food
   - HP: 5000
-- Fruit Salad 30x:
+- Fruit Salad 30x:![3](https://user-images.githubusercontent.com/58304124/142494646-3c099b93-5f9e-4a3d-a38c-362c38c6de9e.png)
   - Recipe:
     - Fruit 20x
 	  - Cereal Grains 10x
     - Sugar 5x
   - Type: Food
   - MP: 5000
-- Hamburger 30x:
+- Hamburger 30x:![4](https://user-images.githubusercontent.com/58304124/142494651-c3c9f8b5-e93b-46ce-a5a6-b3a4f9f9b288.png)
   - Recipe:
     - Vegetable 10x
   	- Egg & Cheese 10x
@@ -37,35 +37,35 @@ hide_title: true
 	- Type: Snack
 	- HP: 2000
 	- MP: 2000
-- Cheese Sandwich 30x:
+- Cheese Sandwich 30x:![5](https://user-images.githubusercontent.com/58304124/142494663-01e4397b-9710-4d9f-ac25-484ce5ae676a.png)
   - Recipe:
     - Cereal Grains 20x
   	- Vegetable 10x
   	- Egg & Cheese 5x
   - Type: Snack
   - HP: 3000
-- Fruit Juice 30x:
+- Fruit Juice 30x:![6](https://user-images.githubusercontent.com/58304124/142494674-905de118-dc9d-4501-b520-a85fc4f12d7d.png)
   - Recipe:
     - Fruit 10x
   	- Sugar 10x
   	- Sweet Syrup 5x
   - Type: Snack
   - MP: 3000
-- Taco 10x:
+- Taco 10x:![7](https://user-images.githubusercontent.com/58304124/142494716-8570b24b-f254-4744-8586-850166b45052.png)
   - Recipe:
     - Meat 10x
   	- Fruit 5x
   	- Vegetable Oil 5x
   - Type: Appetizer
   - HP: 500
-- Mashed Potato 10x:
+- Mashed Potato 10x:![8](https://user-images.githubusercontent.com/58304124/142494729-9adc9def-83da-4df1-9ab6-9081797b1b6d.png)
   - Recipe:
     - Vegetable 10x
   	- Meat 5x
   	- Mixed Herbs 5x
   - Type: Appetizer
   - MP: 500
-- Noodles 10x:
+- Noodles 10x:![9](https://user-images.githubusercontent.com/58304124/142494738-2dbb51e7-28da-45db-9780-6c2079acc523.png)
   - Recipe:
     - Ceral Grains 10x
 	  - Vegetable 5x
@@ -73,7 +73,7 @@ hide_title: true
   - Type: Appetizer
   - HP: 400
   - MP: 400
-- Fruit Tart 10x:
+- Fruit Tart 10x:![10](https://user-images.githubusercontent.com/58304124/142494744-71d3e998-ecde-4fc6-a828-62dd243f165f.png)
   - Recipe:
     - Fruit 10x
   	- Cereal Grains 5x
@@ -82,7 +82,7 @@ hide_title: true
   - HP: 300
   - MP: 300
   - SP: 300
-- Chocolate Ice Cream 30x:
+- Chocolate Ice Cream 30x:![11](https://user-images.githubusercontent.com/58304124/142494749-730b19b1-b78f-442a-840f-ad27502a73ee.png)
   - Recipe:
     - Ice 10x
   	- Milk 5x
@@ -91,7 +91,7 @@ hide_title: true
   - HP: 4000
   - MP: 4000
   - SP: 1000
-- Ice Ceam Cone 30x:
+- Ice Ceam Cone 30x:![12](https://user-images.githubusercontent.com/58304124/142494758-4d3ef171-d3ef-4a96-a432-16953037c6c4.png)
   - Recipe:
     - Milk 10x
   	- Ice 5x
@@ -100,7 +100,7 @@ hide_title: true
   - HP: 2500
   - MP: 2500
   - SP: 500
-- Fruit Ice Cream 10x:
+- Fruit Ice Cream 10x:![13](https://user-images.githubusercontent.com/58304124/142494773-43f6c069-59a3-4755-bc8e-099b7e368f48.png)
   - Recipe:
     - Ice 5x
     - Milk 5x
@@ -108,51 +108,51 @@ hide_title: true
   - Type: Appetizer
   - HP: 500
   - MP: 500
-- Hot Lamb Skewer 50x:
+- Hot Lamb Skewer 50x:![14](https://user-images.githubusercontent.com/58304124/142494779-a397eda6-fdd3-48a2-b924-ea1044862ee7.png)
   - Recipe:
     - Lamb 10x
   - Type: Snack
   - HP: 1000
   - MP: 500
-- Refreshing Ground Water 50x:
+- Refreshing Ground Water 50x:![15](https://user-images.githubusercontent.com/58304124/142494791-e0ea986c-47f9-4594-9755-b141a48dca84.png)
   - Recipe:
     - Groundwater 10x
   - Type: Snack
   - HP: 500
   - MP: 1000
-- Fresh Apple Juice 10x:
+- Fresh Apple Juice 10x:![16](https://user-images.githubusercontent.com/58304124/142494808-f898f972-32b8-45e0-9a43-9a9adcfe60cf.png)
   - Recipe:
     - Red Apple Box 3x
     - Seed of Power 20x
   - Type: Potion
   - HP: 3000
   - MP: 3000
-- Strong Cider 10x:
+- Strong Cider 10x:![17](https://user-images.githubusercontent.com/58304124/142494818-adb1208e-f14d-4860-b36c-51d9937c1c1e.png)
   - Recipe:
     - Red Apple Box 5x
     - Seed of Power 30x
   - Type: Potion
   - HP: 5000
   - MP: 5000
-- Fruit Strawberry Juice 10x:
+- Fresh Strawberry Juice 10x:![18](https://user-images.githubusercontent.com/58304124/142494828-7978be41-469c-468f-bfab-35e050fb2f1c.png)
   - Recipe:
     - Huge Strawberry Box 3x
   	- Seed of Power 20x
   - Type: Potion
   - HP: 6000
-- Strong Strawberry Cider 10x:
+- Strong Strawberry Cider 10x:![19](https://user-images.githubusercontent.com/58304124/142494836-de660a24-5699-4e27-b353-4553faec0dd1.png)
   - Recipe:
     - Huge Strawberry Box 5x
   	- Seed of Power 30x
   - Type: Potion
   - HP: 10000
-- Fresh Grape Juice 10x:
+- Fresh Grape Juice 10x:![20](https://user-images.githubusercontent.com/58304124/142494841-fabb828e-9684-4508-a350-8afee36fb10d.png)
   - Recipe:
     - Ripe Grape Box 3x
 	  - Seed of Power 20x
   - Type: Potion
   - MP: 6000
-- Strong Grape Wine 10x:
+- Strong Grape Wine 10x:![21](https://user-images.githubusercontent.com/58304124/142494850-ed4d340a-25a5-4cdf-8a19-a5f3fd64ac75.png)
   - Recipe:
     - Ripe Grape Box 5x
   	- Seed of Power 30x

@@ -10,8 +10,8 @@ hide_title: true
 - Spare Ribs 30x:
   - Recipe:
     - Meat 10x
-	- Mixed Herbs 10x
-	- Vegetable Oil 5x
+	  - Mixed Herbs 10x
+  	- Vegetable Oil 5x
   - Type: Food
   - HP: 3000
   - MP: 3000
@@ -25,59 +25,59 @@ hide_title: true
 - Fruit Salad 30x:
   - Recipe:
     - Fruit 20x
-	- Cereal Grains 10x
+	  - Cereal Grains 10x
     - Sugar 5x
   - Type: Food
   - MP: 5000
 - Hamburger 30x:
   - Recipe:
     - Vegetable 10x
-	- Egg & Cheese 10x
-	- Vegetable Oil 5x
+  	- Egg & Cheese 10x
+  	- Vegetable Oil 5x
 	- Type: Snack
 	- HP: 2000
 	- MP: 2000
 - Cheese Sandwich 30x:
   - Recipe:
     - Cereal Grains 20x
-	- Vegetable 10x
-	- Egg & Cheese 5x
+  	- Vegetable 10x
+  	- Egg & Cheese 5x
   - Type: Snack
   - HP: 3000
 - Fruit Juice 30x:
   - Recipe:
     - Fruit 10x
-	- Sugar 10x
-	- Sweet Syrup 5x
+  	- Sugar 10x
+  	- Sweet Syrup 5x
   - Type: Snack
   - MP: 3000
 - Taco 10x:
   - Recipe:
     - Meat 10x
-	- Fruit 5x
-	- Vegetable Oil 5x
+  	- Fruit 5x
+  	- Vegetable Oil 5x
   - Type: Appetizer
   - HP: 500
 - Mashed Potato 10x:
   - Recipe:
     - Vegetable 10x
-	- Meat 5x
-	- Mixed Herbs 5x
+  	- Meat 5x
+  	- Mixed Herbs 5x
   - Type: Appetizer
   - MP: 500
 - Noodles 10x:
   - Recipe:
     - Ceral Grains 10x
-	- Vegetable 5x
-	- Salt 5x
+	  - Vegetable 5x
+  	- Salt 5x
   - Type: Appetizer
   - HP: 400
   - MP: 400
 - Fruit Tart 10x:
   - Recipe:
     - Fruit 10x
-	- Cereal Grains 5x
-	- Sugar 5x
+  	- Cereal Grains 5x
+  	- Sugar 5x
   - Type: Appetizer
   - HP: 300
   - MP: 300
@@ -85,8 +85,8 @@ hide_title: true
 - Chocolate Ice Cream 30x:
   - Recipe:
     - Ice 10x
-	- Milk 5x
-	- Sweet Syrup 5x
+  	- Milk 5x
+  	- Sweet Syrup 5x
   - Type: Food
   - HP: 4000
   - MP: 4000
@@ -94,8 +94,8 @@ hide_title: true
 - Ice Ceam Cone 30x:
   - Recipe:
     - Milk 10x
-	- Ice 5x
-	- Sweet Syrup 5x
+  	- Ice 5x
+  	- Sweet Syrup 5x
   - Type: Snack
   - HP: 2500
   - MP: 2500
@@ -137,24 +137,24 @@ hide_title: true
 - Fruit Strawberry Juice 10x:
   - Recipe:
     - Huge Strawberry Box 3x
-	- Seed of Power 20x
+  	- Seed of Power 20x
   - Type: Potion
   - HP: 6000
 - Strong Strawberry Cider 10x:
   - Recipe:
     - Huge Strawberry Box 5x
-	- Seed of Power 30x
+  	- Seed of Power 30x
   - Type: Potion
   - HP: 10000
 - Fresh Grape Juice 10x:
   - Recipe:
     - Ripe Grape Box 3x
-	- Seed of Power 20x
+	  - Seed of Power 20x
   - Type: Potion
   - MP: 6000
 - Strong Grape Wine 10x:
   - Recipe:
     - Ripe Grape Box 5x
-	- Seed of Power 30x
+  	- Seed of Power 30x
   - Type: Potion
   - MP: 10000

@@ -8,7 +8,8 @@ module.exports = {
       label: 'Useful links',
       items: [
         { type: 'link', label: 'Website', href: 'https://dashboard.olympusgg.com', },
-        { type: 'link', label: 'Discord', href: 'https://discord.gg/olympusgg', }
+        { type: 'link', label: 'Discord', href: 'https://discord.gg/olympusgg', },
+        { type: 'link', label: 'Support', href: 'https://discord.gg/U3pMwCg59Q', },
       ]
     },
     {
@@ -20,6 +21,7 @@ module.exports = {
         { type: 'doc', id: 'custom-features/loyalty-system', label: 'Loyalty System' },
         { type: 'doc', id: 'custom-features/npc-buffers', label: 'NPC Buffers' },
         { type: 'doc', id: 'custom-features/trophy-system', label: 'Trophy System' },
+        { type: 'doc', id: 'custom-features/rbb', label: 'Rainbow Battle' },
       ]
     },
     {
@@ -66,6 +68,7 @@ module.exports = {
         { type: 'doc', id: 'information/raidboxes', label: 'Raid Boxes' },
         { type: 'doc', id: 'information/mounts', label: 'Mounts' },
         { type: 'doc', id: 'information/titles', label: 'Titles' },
+        { type: 'doc', id: 'information/shells', label: 'Shell Options' },
       ]
     },
     {

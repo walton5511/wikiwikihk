@@ -17,7 +17,7 @@ hide_title: true
 - Hot Wood/Metal/Leather/Rag: 25k
 - Earth Element: 10k
 - Spring Water: 50k
-- Earth Crytsal: 250k
+- Earth Crystal: 250k
 - Sea View Gloves/Boots: 250k
 - Black Stone Gloves/Boots: 250k
 - Robber Gang's Shining Gloves/Boots: 250k

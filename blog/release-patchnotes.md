@@ -52,7 +52,7 @@ hide_table_of_contents: false
 - Removed A5 ship waiting time.
 - Readjusted FC's point system, mostly in favor of PvE.
 - Readjusted enhanced mobs to be less disruptive of gameplay and balancing.
-- Removed Midguard portal.
+- Removed Midgard portal.
 - Removed Burning Sword debuff from Volcano maps.
 - Added Radal's Rings to Soraya's shop.
 - Added Magic Eraser to Malcolm's shop.

@@ -67,7 +67,7 @@ hide_title: true
   - MP: 500
 - Noodles 10x:![9](https://user-images.githubusercontent.com/58304124/142494738-2dbb51e7-28da-45db-9780-6c2079acc523.png)
   - Recipe:
-    - Ceral Grains 10x
+    - Cereal Grains 10x
 	  - Vegetable 5x
   	- Salt 5x
   - Type: Appetizer
@@ -91,7 +91,7 @@ hide_title: true
   - HP: 4000
   - MP: 4000
   - SP: 1000
-- Ice Ceam Cone 30x:![12](https://user-images.githubusercontent.com/58304124/142494758-4d3ef171-d3ef-4a96-a432-16953037c6c4.png)
+- Ice Cream Cone 30x:![12](https://user-images.githubusercontent.com/58304124/142494758-4d3ef171-d3ef-4a96-a432-16953037c6c4.png)
   - Recipe:
     - Milk 10x
   	- Ice 5x

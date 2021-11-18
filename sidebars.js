@@ -8,7 +8,8 @@ module.exports = {
       label: 'Useful links',
       items: [
         { type: 'link', label: 'Website', href: 'https://dashboard.olympusgg.com', },
-        { type: 'link', label: 'Discord', href: 'https://discord.gg/olympusgg', }
+        { type: 'link', label: 'Discord', href: 'https://discord.gg/olympusgg', },
+        { type: 'link', label: 'Support', href: 'https://discord.gg/U3pMwCg59Q', },
       ]
     },
     {

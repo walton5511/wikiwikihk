@@ -29,10 +29,10 @@ hide_table_of_contents: false
 - Reworked [mounts](/information/mounts).
 - Reworked drops of all maps. (see Drops on [homepage](/))
 - Reworked [equipment](/release-reworks/eq_rework).
-- Reworked Rainbow Battle.
+- Reworked [Rainbow Battle](/custom-features/rbb).
 - Reworked [foods and snacks](/release-reworks/food_rework).
 - Reworked [gambling](/qol/upgrades#shells-on-betting).
-- Reworked shells.
+- Reworked [shells](/information/shells).
 
 ## Other changes
 - Cleaned monster trash loots.

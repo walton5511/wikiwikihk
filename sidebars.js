@@ -66,6 +66,7 @@ module.exports = {
         { type: 'doc', id: 'information/raidboxes', label: 'Raid Boxes' },
         { type: 'doc', id: 'information/mounts', label: 'Mounts' },
         { type: 'doc', id: 'information/titles', label: 'Titles' },
+        { type: 'doc', id: 'information/shells', label: 'Shell Options' },
       ]
     },
     {

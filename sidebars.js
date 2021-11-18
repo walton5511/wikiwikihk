@@ -21,6 +21,7 @@ module.exports = {
         { type: 'doc', id: 'custom-features/loyalty-system', label: 'Loyalty System' },
         { type: 'doc', id: 'custom-features/npc-buffers', label: 'NPC Buffers' },
         { type: 'doc', id: 'custom-features/trophy-system', label: 'Trophy System' },
+        { type: 'doc', id: 'custom-features/rbb', label: 'Rainbow Battle' },
       ]
     },
     {

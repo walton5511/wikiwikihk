@@ -47,13 +47,11 @@ hide_title: true
 
 ## 5. Multi-Accounts 
 ---
-5.1 You are allowed to have only one Olympus account per physical person.
+5.1 You are allowed to have and use only **one** Olympus account. You are also allowed to connect with one single character at the same time, meaning you cannot use someone else's account to play multiple characters at the same time.
 
-5.2 It is forbidden to sell your account to other players. 
+5.2 It is forbidden to sell or share your account with other players. 
 
 5.3 If your account is banned, all your future accounts will be banned as well. 
-
-5.4 If you share your account with a different person, you lose every support privilege. 
 
 ## 6. Communication With The Team 
 ---
@@ -70,9 +68,9 @@ hide_title: true
 
 7.2 The game team will never ask you for your login information (account name, password...etc.) 
 
-6.3 Asking a player for information such as login credentials is forbidden.  
+7.3 Asking a player for information such as login credentials is forbidden.  
 
-6.4 Revealing another player’s personal information is forbidden and will result in a permanent ban on your account. 
+7.4 Revealing another player’s personal information is forbidden and will result in a permanent ban on your account. 
 
 ## 8. Ticket System 
 ---

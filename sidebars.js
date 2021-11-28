@@ -3,6 +3,7 @@ module.exports = {
   docs: [
     'home',
     'rules',
+    'shop-rotations',
     {
       type: 'category',
       label: 'Useful links',

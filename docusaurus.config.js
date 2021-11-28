@@ -30,8 +30,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'Home',
           },
           {
-            to: 'blog',
+            to: 'changelogs',
             label: 'Changelogs',
+            position: 'left'
+          },
+          {
+            to: 'shop',
+            label: 'Shop rotations',
             position: 'left'
           }
         ],
@@ -67,5 +72,23 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
       },
     ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'changelogs',
+        routeBasePath: 'changelogs',
+        path: './changelogs',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'shop',
+        routeBasePath: 'shop',
+        path: './shop',
+      },
+    ]
   ],
 });

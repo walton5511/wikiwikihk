@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[7699],{266:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/bug-fix","name":"bug-fix","count":1,"permalink":"/blog/tags/bug-fix"}')}}]);

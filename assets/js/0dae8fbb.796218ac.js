@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[9892],{2709:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Rotations - Week 0","permalink":"/shop/2021-11-20-rotations-week-0"},{"title":"Rotations - Week 1","permalink":"/shop/2021-11-28-rotations-week-1"}]}')}}]);

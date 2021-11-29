@@ -52,8 +52,8 @@ You can quickly rush to level 85 in the Land of Death before tackling Act 5.1. I
 
 ### Quick LoD Info:
 
-- It opens at every even hour (server time) in ch4 or ch5
-- 30 minutes later exp-gain increases significantly and the Fire Devil spawns
+- It alternates between channels 2&4 and 3&5 every 2 hours.
+- 30 minutes after opening, exp-gain increases significantly and the Fire Devil spawns.
 
 ## Level 83/85-90
 

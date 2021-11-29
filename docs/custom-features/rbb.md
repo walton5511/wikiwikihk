@@ -21,7 +21,7 @@ When it is time for the RBB you will get a little pop up as you do with the IC o
 
 ## Gameplay
 Each Team starts at their spawn point with all their nosmates, which will not participate in battle but still provide their passive buffs. The map has different points of interest:
-1. Big Rainbow crystal, which you can use like a lever and take it for your team, it then generates points every minute for your tem.
+1. Big Rainbow crystal, which you can use like a lever and take it for your team, it then generates points every minute for your team.
 2. Small Rainbow crystals, same as above but they give less points per minute.
 3. Giant Mandra, there are 2 of them on the map. They deal big damage and stun the player but give 5 points when you kill them.
 

@@ -23,6 +23,9 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Castra
 ![](https://i.imgur.com/JtUnh4E.png)
 
+### Spider
+![](https://i.imgur.com/5uszYf8.png)
+
 ### Slade
 ![](https://i.imgur.com/WfaEYRx.png)
 

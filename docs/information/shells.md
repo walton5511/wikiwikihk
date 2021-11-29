@@ -28,7 +28,7 @@ Champion Equipment will be calculated as 100Lv.
 | Blackout                                | 3        | 4        | -        | -        |
 | Heavy Blackout                          | -        | -        | 4        | -        |
 | Increased Damage to Monster Entities    | 12       | 18       | -        | -        |
-| Increased Damage to Low-Level Entities  | -        | 12       | 18       | -        |
+| Increased Damage to Low-Level Entities  | 12       | 18       | -        | -        |
 | Increased Damage to High-Level Entities | -        | -        | 18       | 24       |
 | Increased Chance of Critical Hit        | 5        | 9        | -        | -        |
 | Increased Critical Damage               | 25       | 50       | -        | -        |
@@ -58,7 +58,7 @@ Champion Equipment will be calculated as 100Lv.
 | Option Name                                 | C Option | B Option | A Option | S Option |
 |:------------------------------------------- |:-------- | -------- | -------- |:-------- |
 | Increased Damage in PvP                     | 10       | 13       | 16       | 30       |
-| Opponent's Defences reduced in PvP          | 10       | 13       | 16       | 30       |
+| Opponent's Defences reduced in PvP          | 10       | 16       | 22       | 35       |
 | Opponent's Fire Resistance reduced in PvP   | -        | 8        | 15       | -        |
 | Opponent's Water Resistance reduced in PvP  | -        | 8        | 15       | -        |
 | Opponent's Light Resistance reduced in PvP  | -        | 8        | 15       | -        |

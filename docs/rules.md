@@ -51,8 +51,6 @@ hide_title: true
 
 5.2 It is forbidden to sell or share your account with other players. 
 
-5.3 If your account is banned, all your future accounts will be banned as well. 
-
 ## 6. Communication With The Team 
 ---
 6.1 It is forbidden to ask GM or the team for gold, items or experience, this can result in a warning. 

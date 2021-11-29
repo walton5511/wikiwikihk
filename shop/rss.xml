@@ -4,14 +4,14 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sun, 28 Nov 2021 16:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 17:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Rotations - Week 0]]></title>
             <link>https://wiki.olympusgg.com/shop/2021-11-20-rotations-week-0</link>
             <guid>2021-11-20-rotations-week-0</guid>
-            <pubDate>Sun, 28 Nov 2021 16:45:02 GMT</pubDate>
+            <pubDate>Mon, 29 Nov 2021 17:18:59 GMT</pubDate>
             <description><![CDATA[Rotations]]></description>
             <content:encoded><![CDATA[<h2>Rotations</h2><h3><strong>Week 0</strong> - <strong>On Release, 20th Nov 2021</strong></h3><ul><li><strong>[NEW]</strong> Darko Random Box</li><li><strong>[NEW]</strong> &#x27;Blazing Blades&#x27; In-line Skates Random Box</li><li><strong>[NEW]</strong> Aegir&#x27;s PSP Random Box</li><li><strong>[NEW]</strong> Barni&#x27;s PSP Random Box</li><li><strong>[NEW]</strong> Freya&#x27;s PSP Random Box</li></ul><h4><code>New Stuff</code>:</h4><ul><li><code>All prizes are as official.</code></li></ul>]]></content:encoded>
         </item>
@@ -19,7 +19,7 @@
             <title><![CDATA[Rotations - Week 1]]></title>
             <link>https://wiki.olympusgg.com/shop/2021-11-28-rotations-week-1</link>
             <guid>2021-11-28-rotations-week-1</guid>
-            <pubDate>Sun, 28 Nov 2021 16:45:02 GMT</pubDate>
+            <pubDate>Mon, 29 Nov 2021 17:18:59 GMT</pubDate>
             <description><![CDATA[Rotations]]></description>
             <content:encoded><![CDATA[<h2>Rotations</h2><h3><strong>Week 1</strong> - <strong>28th Nov 2021</strong></h3><ul><li><strong>[REMOVE]</strong> Darko Random Box</li><li><strong>[NEW]</strong> Viking Bushi Random Box</li><li><strong>[REMOVE]</strong> &#x27;Blazing Blades&#x27; In-line Skates Random Box</li><li><strong>[NEW]</strong> &#x27;Icy Ike&#x27; Magical Skis Random Box</li><li><strong>[NEW]</strong> Fairy Wings Random Box</li></ul><h4><code>New Stuff</code>:</h4><ul><li><code>Fairy Wings</code>:<ul><li>Movement speed is increased by 1.</li><li>The equipped fairy&#x27;s element increases by 15.</li></ul></li><li><code>&#x27;Icy Ike&#x27; Magical Skis</code>:<ul><li>Movement Speed: 21</li><li>Speed in Act4 maps: +3</li><li>Speed Booster Effect: Teleports you 5 spaces forwards.</li></ul></li><li><code>Viking&#x27;s Blessing</code>:<ul><li>Damage dealt is increased by 5%.</li><li>Every 60 seconds: Restores (PlayerLevel x 20) MP.</li></ul></li></ul>]]></content:encoded>
         </item>

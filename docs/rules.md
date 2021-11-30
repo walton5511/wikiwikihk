@@ -21,13 +21,13 @@ hide_title: true
 ---
 3.1 You are obligated to respect each player and team member with no distinction. Everyone deserves respect.
 
-3.2 It is forbidden to scam, steal or simulate theft in this game.  
+3.2 It is forbidden to scam, steal or simulate theft in this game. This includes **but not limited to**, Fake advertising or misleading. e.g: putting 1try amulet in bazaar and using a speaker saying "CHEAP AMULET BUY NOW!!!". Or, making fake offers to a person selling an item.  
 
 3.3 It is forbidden to have transactions outside of Olympus (such as selling gold, accounts...etc.) 
 
 3.4 Any sort of offensive language or NSFW content is strictly forbidden. 
 
-3.5 Any behavior aimed at disrupting the game experience of other players is forbidden.
+3.5 Any behavior aimed at disrupting the game experience of other players or grief them is forbidden. e.g: intentionally targeting someone you don't like with "map stealing".
 
 3.6 It is forbidden to spam, which is repeating the same message several times. There is a risk of mute and more severe punishment if the behavior is repetitive. 
 

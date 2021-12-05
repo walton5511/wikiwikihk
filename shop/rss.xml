@@ -4,24 +4,32 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sun, 05 Dec 2021 15:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Rotations - Week 0]]></title>
-            <link>https://wiki.olympusgg.com/shop/2021-11-20-rotations-week-0</link>
-            <guid>2021-11-20-rotations-week-0</guid>
-            <pubDate>Sun, 05 Dec 2021 15:38:21 GMT</pubDate>
+            <title><![CDATA[Rotations - Week 2]]></title>
+            <link>https://wiki.olympusgg.com/shop/2021-12-05-rotations-week-2</link>
+            <guid>2021-12-05-rotations-week-2</guid>
+            <pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Rotations]]></description>
-            <content:encoded><![CDATA[<h2>Rotations</h2><h3><strong>Week 0</strong> - <strong>On Release, 20th Nov 2021</strong></h3><ul><li><strong>[NEW]</strong> Darko Random Box</li><li><strong>[NEW]</strong> &#x27;Blazing Blades&#x27; In-line Skates Random Box</li><li><strong>[NEW]</strong> Aegir&#x27;s PSP Random Box</li><li><strong>[NEW]</strong> Barni&#x27;s PSP Random Box</li><li><strong>[NEW]</strong> Freya&#x27;s PSP Random Box</li></ul><h4><code>New Stuff</code>:</h4><ul><li><code>All prizes are as official.</code></li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<h2>Rotations</h2><h3><strong>Week 2</strong> - <strong>5th Dec 2021</strong></h3><ul><li><strong>[REMOVE]</strong> Aegir&#x27;s PSP Random Box</li><li><strong>[REMOVE]</strong> Barni&#x27;s PSP Random Box</li><li><strong>[REMOVE]</strong> Freya&#x27;s PSP Random Box</li><li><strong>[NEW]</strong> Lotus PSP Random Box</li><li><strong>[NEW]</strong> Orkani PSP Random Box</li><li><strong>[NEW]</strong> Shinobis PSP Random Box</li><li><strong>[REMOVE]</strong> Viking Bushi Random Box</li><li><strong>[NEW]</strong> Ninja Bushi Random Box</li><li><strong>[REMOVE]</strong> &#x27;Icy Ike&#x27; Magical Skis Random Box</li><li><strong>[NEW]</strong> Black Unicorn Random Box</li><li><strong>[NEW]</strong> Oto-Fox Costume Random Box</li></ul><h4><code>New Stuff</code>:</h4><ul><li><code>Ninja&#x27;s Blessing</code>:<ul><li>Damage dealt is increased by 5%.</li><li>Shadow element resistance is increased by 10.</li></ul></li><li><code>Oto-Fox Costume</code>:<ul><li>Movement speed is increased by 1.</li><li>Maximum HP is increased by 500.</li></ul></li><li><code>Oto-Fox Costume Hat</code>:<ul><li>There is a 3% chance of causing Blackout.</li><li>Light resistance is increased by 5.</li></ul></li><li><code>Black Unicorn</code>:<ul><li>Movement Speed: 21.</li><li>Speed in Act5 maps: +3.</li><li>Speed Booster Effect: Teleport to random place on map.</li></ul></li></ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Rotations - Week 1]]></title>
             <link>https://wiki.olympusgg.com/shop/2021-11-28-rotations-week-1</link>
             <guid>2021-11-28-rotations-week-1</guid>
-            <pubDate>Sun, 05 Dec 2021 15:38:21 GMT</pubDate>
+            <pubDate>Sun, 28 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Rotations]]></description>
             <content:encoded><![CDATA[<h2>Rotations</h2><h3><strong>Week 1</strong> - <strong>28th Nov 2021</strong></h3><ul><li><strong>[REMOVE]</strong> Darko Random Box</li><li><strong>[NEW]</strong> Viking Bushi Random Box</li><li><strong>[REMOVE]</strong> &#x27;Blazing Blades&#x27; In-line Skates Random Box</li><li><strong>[NEW]</strong> &#x27;Icy Ike&#x27; Magical Skis Random Box</li><li><strong>[NEW]</strong> Fairy Wings Random Box</li></ul><h4><code>New Stuff</code>:</h4><ul><li><code>Fairy Wings</code>:<ul><li>Movement speed is increased by 1.</li><li>The equipped fairy&#x27;s element increases by 15.</li></ul></li><li><code>&#x27;Icy Ike&#x27; Magical Skis</code>:<ul><li>Movement Speed: 21</li><li>Speed in Act4 maps: +3</li><li>Speed Booster Effect: Teleports you 5 spaces forwards.</li></ul></li><li><code>Viking&#x27;s Blessing</code>:<ul><li>Damage dealt is increased by 5%.</li><li>Every 60 seconds: Restores (PlayerLevel x 20) MP.</li></ul></li></ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rotations - Week 0]]></title>
+            <link>https://wiki.olympusgg.com/shop/2021-11-20-rotations-week-0</link>
+            <guid>2021-11-20-rotations-week-0</guid>
+            <pubDate>Sat, 20 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rotations]]></description>
+            <content:encoded><![CDATA[<h2>Rotations</h2><h3><strong>Week 0</strong> - <strong>On Release, 20th Nov 2021</strong></h3><ul><li><strong>[NEW]</strong> Darko Random Box</li><li><strong>[NEW]</strong> &#x27;Blazing Blades&#x27; In-line Skates Random Box</li><li><strong>[NEW]</strong> Aegir&#x27;s PSP Random Box</li><li><strong>[NEW]</strong> Barni&#x27;s PSP Random Box</li><li><strong>[NEW]</strong> Freya&#x27;s PSP Random Box</li></ul><h4><code>New Stuff</code>:</h4><ul><li><code>All prizes are as official.</code></li></ul>]]></content:encoded>
         </item>
     </channel>
 </rss>

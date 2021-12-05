@@ -19,6 +19,7 @@ There are currently four types of random boxes, and they rotate on different tim
 |:----------------------- |:--------------- |
 | Pet Random Boxes        | Every Week      |
 | Vehicle Random Boxes    | Every Week      |
+| Costume Random Boxes    | Every Week      |
 | Wings Random Boxes      | Every Two Weeks |
 | Partner SP Random Boxes | Every Two Weeks |
 

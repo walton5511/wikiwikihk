@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/shop</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2021-12-05T00:00:00.000Z</updated>
+    <updated>2021-12-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/shop"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rotations - Week 3]]></title>
+        <id>2021-12-12-rotations-week-3</id>
+        <link href="https://wiki.olympusgg.com/shop/2021-12-12-rotations-week-3"/>
+        <updated>2021-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rotations]]></summary>
+        <content type="html"><![CDATA[<h2>Rotations</h2><h3><strong>Week 3</strong> - <strong>12th Dec 2021</strong></h3><ul><li><strong>[REMOVE]</strong> Ninja Random Box</li><li><strong>[NEW]</strong> Rudy Rowdy Random Box</li><li><strong>[REMOVE]</strong> &#x27;Icy Ike&#x27; Magical Skis Random Box</li><li><strong>[NEW]</strong> &#x27;Doni Darkslide&#x27; Skateboard Random Box</li><li><strong>[REMOVE]</strong> Fairy Wings Random Box</li><li><strong>[NEW]</strong> Golden Wings Random Box</li><li><strong>[REMOVE]</strong> Oto-Fox Costume Random Box</li><li><strong>[NEW]</strong> Long Winter Coat Set Random Box </li></ul><h4>Notice:</h4><ul><li><code>Rudi Rowdy</code>:<ul><li>Increases the damage against <!-- -->[Low-level monsters]<!-- --> by 15%.</li><li>The effectiveness of recovery items is increased by 10%.</li></ul></li><li><code>Golden Wings</code>:<ul><li>Movement speed is increased by 1.</li><li>Resists forced movement with a probability of 50%.</li><li>Damage received is decreased by 10%.</li></ul></li><li><code>Doni Darkslide Skateboard</code>:<ul><li>Movement Speed: 21</li><li>Speed in Act5 maps: +3</li><li>Speed Booster Effect: There is a certain chance for the Shadow Prowler buff to take effect when the Speed Booster ends.</li></ul></li><li><code>Long Winter Coat</code><ul><li>Movement speed is increased by 1.</li><li>All defences are increased by 5%.</li></ul></li><li><code>Winter Hat</code><ul><li>There is a 3% chance of causing Strong Freeze.</li><li>Water resistance is increased by 5.</li></ul></li></ul><p><img src="https://i.imgur.com/pbaUezK.png"/></p>]]></content>
+        <author>
+            <name>Kravos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rotations - Week 2]]></title>
         <id>2021-12-05-rotations-week-2</id>

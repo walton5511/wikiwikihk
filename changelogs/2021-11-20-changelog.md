@@ -1,6 +1,6 @@
 ---
-title: Olympus Release Patchnotes
-slug: Olympus Release Patchnotes
+title: Changelog - 20/11/2021 - Release Patchnotes
+slug: 2021-11-20-changelog
 authors:
   - name: Zeref
     title: Game Designer
@@ -8,7 +8,7 @@ authors:
   - name: Vee
     title: Community Manager
     image_url: https://i.imgur.com/fJbMEHO.png    
-tags: [release, patchnotes]
+tags: [changelog, release, patchnotes]
 hide_table_of_contents: false
 ---
 

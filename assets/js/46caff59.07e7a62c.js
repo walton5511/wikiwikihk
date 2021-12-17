@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[5473],{34240:function(s){s.exports=JSON.parse('{"allTagsPath":"/changelogs/tags","slug":"/changelogs/tags/trophies","name":"trophies","count":1,"permalink":"/changelogs/tags/trophies"}')}}]);

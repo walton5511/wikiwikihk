@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[6945],{6945:function(i,k,e){e.r(k)}}]);

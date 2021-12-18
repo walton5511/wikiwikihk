@@ -6,7 +6,7 @@ hide_title: true
 ---
 # **Shop Rotations**
 ---
-> **Last Updated**: **28th November 2021**
+> **Last Updated**: **18th December 2021**
 ---
 
 ## **Rotational Random Boxes**
@@ -18,8 +18,8 @@ There are currently four types of random boxes, and they rotate on different tim
 | Box Type                | Update Interval |
 |:----------------------- |:--------------- |
 | Pet Random Boxes        | Every Week      |
-| Vehicle Random Boxes    | Every Week      |
-| Costume Random Boxes    | Every Week      |
+| Vehicle Random Boxes    | Every Two Weeks |
+| Costume Random Boxes    | Every Two Weeks |
 | Wings Random Boxes      | Every Two Weeks |
 | Partner SP Random Boxes | Every Two Weeks |
 

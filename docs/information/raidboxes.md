@@ -58,3 +58,6 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 
 ### Baron Berios
 ![](https://i.imgur.com/HxFU7Pj.png)
+
+## Laurena
+!["Laurena Box"](https://i.imgur.com/wjod7u9.png)

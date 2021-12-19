@@ -11,6 +11,7 @@ module.exports = {
         { type: 'link', label: 'Website', href: 'https://dashboard.olympusgg.com', },
         { type: 'link', label: 'Discord', href: 'https://discord.gg/olympusgg', },
         { type: 'link', label: 'Support', href: 'https://discord.gg/U3pMwCg59Q', },
+        { type: 'link', label: 'ElitePvPers', href: 'https://www.elitepvpers.com/forum/nostale-pserver-advertising/4966630-international-olympus-ascend-opening-20-11-2021-a.html', },
       ]
     },
     {

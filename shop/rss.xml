@@ -4,9 +4,18 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sat, 18 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rotations - Christmas Week]]></title>
+            <link>https://wiki.olympusgg.com/shop/2021-12-24-rotations-christmas-week</link>
+            <guid>2021-12-24-rotations-christmas-week</guid>
+            <pubDate>Fri, 24 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[`For Christmas, we're putting the regular rotations on hold, meaning this week, shop items won't rotate according to schedule.]]></description>
+            <content:encoded><![CDATA[<p><code>For Christmas, we&#x27;re putting the regular rotations on hold, meaning this week, shop items won&#x27;t rotate according to schedule.
+Instead, we add Christmas exclusive shop items, for one week only.</code></p><h2>Rotations</h2><h3><strong>Christmas Week</strong> - <strong>24th Dec 2021</strong></h3><ul><li><strong>[NEW]</strong> Rudolph Buschi Random Box</li><li><strong>[NEW]</strong> Magic Sleigh Random Box</li><li><strong>[NEW]</strong> Santa Buschi Costume Set Random Box </li></ul><h4><code>Notice</code>:</h4><ul><li><code>Rudolf Bushi</code>:<ul><li><strong>[NEW]</strong> <!-- -->[Blessing of Christmas]<!-- -->: </li><li><div>Damage dealt is increased by 5%.</div></li><li><div>Increases fame received by 5%.</div></li></ul></li><li><code>Magic Sleigh with Red-nosed Reindeer</code>:<ul><li><div>Movement Speed: 22</div></li><li><div>Speed in Act4 maps: +3</div></li><li>Speed Booster Effect:</li><li><div>Provides a certain chance to trigger [Magic of the Red Nose] when the speed booster effect ends.</div> - [Magic of the Red Nose]: - <div>Positive Effect (3 Level)</div>- <div>Duration: 30s</div>- <div>Every 2 seconds: Restores (Player Levelx3) HP.</div></li><li><div>Speed Booster Speed: +3, 5s</div></li></ul></li><li><code>Santa Bushtail Costume</code><ul><li><div>Movement speed is increased by 1.</div></li><li><div>Increases fame received by 5%.</div></li></ul></li><li><code>Santa Bushtail Hat</code><ul><li><div>There is a 3% chance of causing [Shock].</div></li><li><div>Shadow resistance is increased by 5.</div></li></ul></li></ul><p><img src="https://i.imgur.com/Ym3KF39.png"/></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Rotations - Week 4]]></title>
             <link>https://wiki.olympusgg.com/shop/2021-12-18-rotations-week-4</link>

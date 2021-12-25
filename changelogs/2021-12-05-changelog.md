@@ -1,7 +1,7 @@
 ---
 title: Changelog - 05/12/2021
 slug: 2021-12-05-changelog
-tags: [changelog, balance, psp, shop]
+tags: [changelog, balance, psp, qol, shop]
 hide_table_of_contents: false
 ---
 

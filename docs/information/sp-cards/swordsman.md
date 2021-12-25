@@ -17,42 +17,42 @@ Dominate the Battlefield with the might of the Sword. The furious fighting style
 
 The Warrior is the first Specialist Card of the Swordsman and can be obtained in Fernon Outpost from the Mysterious Soulstone.
 
-![](https://i.imgur.com/ZGy1Kmm.png) 
+![](/img/sps/swordsman/s-01-00.png) 
 
 <br/>
 
 **Two-Handed Sword Attack**  
-![](https://i.imgur.com/HdIPupW.png)
+![](/img/sps/swordsman/s-01-01.png)
 
 **Triple Slash**  
-![](https://i.imgur.com/giTVylE.png) 
+![](/img/sps/swordsman/s-01-02.png) 
 
 **Iron Skin**  
-![](https://i.imgur.com/4GMdBVl.png)  ![](https://i.imgur.com/XZhcycY.png)
+![](/img/sps/swordsman/s-01-03.png)  ![](/img/sps/swordsman/s-01-03a.png)
  
 **Whirlwind**  
-![](https://i.imgur.com/Zb6X2Ju.png)
+![](/img/sps/swordsman/s-01-04.png)
 
 **Provoke**  
-![](https://i.imgur.com/41nVxXn.png) ![](https://i.imgur.com/syhKALk.png)
+![](/img/sps/swordsman/s-01-05.png) ![](/img/sps/swordsman/s-01-05a.png)
 
 **Finishing Blow**  
-![](https://i.imgur.com/Tzi5iZR.png)
+![](/img/sps/swordsman/s-01-06.png)
 
 **Intimidate**  
-![](https://i.imgur.com/RCxmYa2.png) ![](https://i.imgur.com/Ug3vBbd.png)
+![](/img/sps/swordsman/s-01-07.png) ![](/img/sps/swordsman/s-01-07a.png)
 
 **Shoulder Charge**  
-![](https://i.imgur.com/LP6PCGf.png)
+![](/img/sps/swordsman/s-01-08.png)
 
 **Fury**  
-![](https://i.imgur.com/osepPJN.png)
+![](/img/sps/swordsman/s-01-09.png)
 
 **Earth Shock**  
-![](https://i.imgur.com/3JUYonT.png)
+![](/img/sps/swordsman/s-01-10.png)
 
 **Rising Dragon**  
-![](https://i.imgur.com/qG6kGpE.png)
+![](/img/sps/swordsman/s-01-11.png)
 
 <br/>
 
@@ -62,44 +62,43 @@ The eyes of these sword fighters well up with hatred. Anyone who gets in the way
 
 The Ninja is the second Specialist Card of the Swordsman and can be obtained in Fernon Temple -1 from the Mysterious Soulstone.
 
-![](https://i.imgur.com/fusSa88.png)  
+![](/img/sps/swordsman/s-02-00.png)  
 <font color='ff5722'>Movement Speed +1</font><br/>
 
 <br/>
 
 **Basic Slash**  
-![](https://i.imgur.com/gARctZh.png)
+![](/img/sps/swordsman/s-02-01.png)
 
 **Cross Cutting**  
-![](https://i.imgur.com/llpx9uK.png)
+![](/img/sps/swordsman/s-02-02.png)
 
 **Energy Blade**  
-![](https://i.imgur.com/RMOTlqD.png)
+![](/img/sps/swordsman/s-02-03.png)
 
 **Chain Attack**  
-![](https://i.imgur.com/rnq5ZTm.png)
+![](/img/sps/swordsman/s-02-04.png)
 
 **Blade Protection**  
-![](https://i.imgur.com/X91VXoO.png)
+![](/img/sps/swordsman/s-02-05.png) ![](/img/sps/swordsman/s-02-05a.png)
 
 **Sword Storm**  
-![](https://i.imgur.com/EFXPWsv.png)
+![](/img/sps/swordsman/s-02-06.png) ![](/img/sps/swordsman/s-02-06a.png) ![](/img/sps/swordsman/s-02-06b.png)
 
 **Light Speed Attack**  
-![](https://i.imgur.com/QcR4qTV.png)
+![](/img/sps/swordsman/s-02-07.png)
 
 **Breath of Recovery**  
-![](https://i.imgur.com/TuVxrHI.png)
+![](/img/sps/swordsman/s-02-08.png)
 
 **Lethal Blow**  
-![](https://i.imgur.com/JthRrpn.png)
+![](/img/sps/swordsman/s-02-09.png)
 
 **Sharp Edge**  
-![](https://i.imgur.com/ZdcHtTf.png)
-
+![](/img/sps/swordsman/s-02-10.png) ![](/img/sps/swordsman/s-02-10a.png)
 
 **Dancing Sword**  
-![](https://i.imgur.com/piKPp6Z.png)
+![](/img/sps/swordsman/s-02-11.png)
 
 <br/>
 
@@ -109,42 +108,43 @@ The Iron will and belief of the Crusader ensure the Balance between good and evi
 
 The Crusader is the third Specialist Card of the Swordsman and can be obtained in Peak of Mt. Krem  from the Mysterious Soulstone.
 
-![](https://i.imgur.com/oj9iarj.png)
+![](/img/sps/swordsman/s-03-00.png)
 
 <br/>
 
 **Elemental Attack**  
-![](https://i.imgur.com/8grfh1k.png)
+![](/img/sps/swordsman/s-03-01.png)
 
 **Holy Bolt**  
-![](https://i.imgur.com/nadnGbY.png)
+![](/img/sps/swordsman/s-03-02.png) ![](/img/sps/swordsman/s-03-02a.png)
 
 **Triple Bolt**  
-![](https://i.imgur.com/WvOKFa0.png)
+![](/img/sps/swordsman/s-03-03.png)
 
 **Holy Breath**  
-![](https://i.imgur.com/MNXRuno.png)
+![](/img/sps/swordsman/s-03-04.png) ![](/img/sps/swordsman/s-03-04a.png)
 
 **Triple Charging**  
-![](https://i.imgur.com/xbgFp7s.png)
+![](/img/sps/swordsman/s-03-05.png)  
+![](/img/sps/swordsman/s-03-05a.png) ![](/img/sps/swordsman/s-03-05b.png) ![](/img/sps/swordsman/s-03-05c.png)
 
 **Shining Effect**  
-![](https://i.imgur.com/kv4CPMB.png)
+![](/img/sps/swordsman/s-03-06.png) ![](/img/sps/swordsman/s-03-06a.png)
 
 **Holy Cross**  
-![](https://i.imgur.com/yTpfh7V.png)
+![](/img/sps/swordsman/s-03-07.png)
 
 **Growth Shield**  
-![](https://i.imgur.com/czFDA9W.png)
+![](/img/sps/swordsman/s-03-08.png) ![](/img/sps/swordsman/s-03-08a.png)
 
 **Prayer of Defence**  
-![](https://i.imgur.com/J1Frlwn.png)
+![](/img/sps/swordsman/s-03-09.png) ![](/img/sps/swordsman/s-03-09a.png)
 
 **Prayer of Offence**  
-![](https://i.imgur.com/W7aKf4O.png)
+![](/img/sps/swordsman/s-03-10.png) ![](/img/sps/swordsman/s-03-10a.png)
 
 **Concentrated Power**  
-![](https://i.imgur.com/HzeL2kw.png)
+![](/img/sps/swordsman/s-03-11.png)
 
 <br/>
 
@@ -154,42 +154,42 @@ Using the Power of Darkness these Soldiers force their enemies into submission b
 
 The Berserker is the fourth Specialist Card for the Swordsman and can be obtained in Fir Forest from the Mysterious Soulstone.
 
-![](https://i.imgur.com/iypW5eb.png)
+![](/img/sps/swordsman/s-04-00.png)
 
 <br/>
 
 **Axe Swing**  
-![](https://i.imgur.com/X0Pq1WP.png)
+![](/img/sps/swordsman/s-04-01.png)
 
 **Bash**  
-![](https://i.imgur.com/KN9THwp.png)
+![](/img/sps/swordsman/s-04-02.png)
 
 **Big Swing**  
-![](https://i.imgur.com/2xAQlKW.png)
+![](/img/sps/swordsman/s-04-03.png) ![](/img/sps/swordsman/s-04-03a.png) ![](/img/sps/swordsman/s-04-03b.png)
 
 **Berserker**  
-![](https://i.imgur.com/4nBvXgA.png)
+![](/img/sps/swordsman/s-04-04.png) ![](/img/sps/swordsman/s-04-04a.png)
 
 **Sonic Rush**  
-![](https://i.imgur.com/hmrMYkO.png)
+![](/img/sps/swordsman/s-04-05.png)
 
 **Rage**  
-![](https://i.imgur.com/kJWfD1J.png)
+![](/img/sps/swordsman/s-04-06.png)
 
 **Frenzied Attack**  
-![](https://i.imgur.com/YZmBGt2.png)
+![](/img/sps/swordsman/s-04-07.png) ![](/img/sps/swordsman/s-04-07a.png)
 
 **Break Armour**  
-![](https://i.imgur.com/ZterF5r.png)
+![](/img/sps/swordsman/s-04-08.png) ![](/img/sps/swordsman/s-04-08a.png)
 
 **Adrenaline Strike**  
-![](https://i.imgur.com/JA93Esc.png)
+![](/img/sps/swordsman/s-04-09.png)
 
 **Life and Death**  
-![](https://i.imgur.com/LZTI2D6.png)
+![](/img/sps/swordsman/s-04-10.png)
 
 **Split Tornado**  
-![](https://i.imgur.com/EOFo63J.png)
+![](/img/sps/swordsman/s-04-11.png)
 
 <br/>
 
@@ -197,44 +197,44 @@ The Berserker is the fourth Specialist Card for the Swordsman and can be obtaine
 ---
 The Gladiator is the fifth Specialist Card of the Swordsman and can be obtained from Draco's Raidboxes or through crafting at Great Magician Kan in Desert Eagle City.
 
-![](https://i.imgur.com/5ScBVlk.png)
+![](/img/sps/swordsman/s-05-00.png)
 
 You receive 30% resistance to the following effect: Dragon Dread  
 
 <br/>
 
 **Basic Attack**  
-![](https://i.imgur.com/Bmwl2GT.png)
+![](/img/sps/swordsman/s-05-01.png)
 
 **Double Blow**  
-![](https://i.imgur.com/1TydXOU.png)
+![](/img/sps/swordsman/s-05-02.png)
 
 **Lightning Surge**  
-![](https://i.imgur.com/BEADaQ3.png)
+![](/img/sps/swordsman/s-05-03.png)
 
 **Shield Attack**  
-![](https://i.imgur.com/M0JusTe.png)
+![](/img/sps/swordsman/s-05-04.png)
 
 **Hunting Horn**  
-![](https://i.imgur.com/ccrXJnB.png)
+![](/img/sps/swordsman/s-05-05.png)
 
 **Taunt**  
-![](https://i.imgur.com/7STxEOV.png)
+![](/img/sps/swordsman/s-05-06.png) ![](/img/sps/swordsman/s-05-06a.png) ![](/img/sps/swordsman/s-05-06b.png)
 
 **Magical Reflection**  
-![](https://i.imgur.com/7KAnrS2.png)
+![](/img/sps/swordsman/s-05-07.png) ![](/img/sps/swordsman/s-05-07a.png)
 
 **Iron Roll**  
-![](https://i.imgur.com/UtLsInd.png)
+![](/img/sps/swordsman/s-05-08.png)
 
 **Engorgement**  
-![](https://i.imgur.com/Uqv3QXS.png)
+![](/img/sps/swordsman/s-05-09.png) ![](/img/sps/swordsman/s-05-09a.png) ![](/img/sps/swordsman/s-05-09b.png)
 
 **Declaration of War**  
-![](https://i.imgur.com/jHQ9l01.png)
+![](/img/sps/swordsman/s-05-10.png)
 
 **Execution**  
-![](https://i.imgur.com/6Q5xCqr.png)
+![](/img/sps/swordsman/s-05-11.png)
 
 <br/>
 
@@ -242,42 +242,131 @@ You receive 30% resistance to the following effect: Dragon Dread
 ---
 The Battle Monk is the sixth Specialist Card for the Swordsman and can be obtained from Glacerus's Raidboxes or through crafting from Felix Frost in Desert Eagle City.
 
-![](https://i.imgur.com/SwtHRb3.png)
+![](/img/sps/swordsman/s-06-00.png)
 
 You receive 30% resistance to the following effect: Eternal Ice  
 
 <br/>
 
 **Basic Spear Attack**  
-![](https://i.imgur.com/adphx4W.png)
+![](/img/sps/swordsman/s-06-01.png)
 
 **Divided Sea**  
-![](https://i.imgur.com/yZti8bc.png)
+![](/img/sps/swordsman/s-06-02.png)
 
 **Targeted Stab**  
-![](https://i.imgur.com/isRIDlZ.png)
+![](/img/sps/swordsman/s-06-03.png)
 
 **Mighty Hurricane**  
-![](https://i.imgur.com/NHB9FBp.png)
+![](/img/sps/swordsman/s-06-04.png)
 
 **Seven Stabs**  
-![](https://i.imgur.com/wcLprS8.png)  
-![](https://i.imgur.com/OeXBNMg.png)
+![](/img/sps/swordsman/s-06-05.png) ![](/img/sps/swordsman/s-06-05a.png)
 
 **Cyclone**  
-![](https://i.imgur.com/OCuoycT.png)
+![](/img/sps/swordsman/s-06-06.png) ![](/img/sps/swordsman/s-06-06a.png)
 
 **Sacrifice**  
-![](https://i.imgur.com/o2IEf0p.png)
+![](/img/sps/swordsman/s-06-07.png)  
+![](/img/sps/swordsman/s-06-07a.png) ![](/img/sps/swordsman/s-06-07b.png) ![](/img/sps/swordsman/s-06-07c.png)
 
 **Meditation**  
-![](https://i.imgur.com/sCi8LNb.png)
+![](/img/sps/swordsman/s-06-08.png)  
+![](/img/sps/swordsman/s-06-08a.png) ![](/img/sps/swordsman/s-06-08b.png) ![](/img/sps/swordsman/s-06-08c.png)
 
 **Spiral Spear**  
-![](https://i.imgur.com/KEL314t.png)
+![](/img/sps/swordsman/s-06-09.png)
 
 **Buddha's Words**  
-![](https://i.imgur.com/zBhBLFz.png)
+![](/img/sps/swordsman/s-06-10.png)
 
 **Restart**  
-![](https://i.imgur.com/4dyBHcq.png)
+![](/img/sps/swordsman/s-06-11.png)
+
+<br/>
+
+### Death Reaper
+---
+The Death Reaper is the 7th specialist card of the archer which you can obtain through exchanging 50x Laurena's Gemstone at Lilith in Port Alveus Square.
+
+![](/img/sps/swordsman/s-07-00.png)
+<font color='ff5722'>Movement Speed +2</font><br/>
+
+<br/>
+
+**Death's Scythe**  
+![](/img/sps/swordsman/s-07-01.png)
+
+**Slasher**  
+![](/img/sps/swordsman/s-07-02.png)
+
+**Bloodsucker**  
+![](/img/sps/swordsman/s-07-03.png)
+
+**Death Approaches**  
+![](/img/sps/swordsman/s-07-04.png)
+
+**Soul Bash**  
+![](/img/sps/swordsman/s-07-05.png)
+
+**Infinite Armour**  
+![](/img/sps/swordsman/s-07-06.png) ![](/img/sps/swordsman/s-07-06a.png)
+
+**Spirit Catcher**  
+![](/img/sps/swordsman/s-07-07.png)
+
+**Reaper's Scythe**  
+![](/img/sps/swordsman/s-07-08.png)
+
+**Shadow Of Death**  
+![](/img/sps/swordsman/s-07-09.png) ![](/img/sps/swordsman/s-07-09a.png)
+
+**Time Twister**  
+![](/img/sps/swordsman/s-07-10.png) ![](/img/sps/swordsman/s-07-10a.png) ![](/img/sps/swordsman/s-07-10b.png)
+
+**Spirit Splitter**  
+![](/img/sps/swordsman/s-07-11.png)
+
+<br/>
+
+### Renegade
+---
+The Renegade is the 8th specialist card of the archer which you can obtain through exchanging 50x Laurena's Gemstone at Sarakael in Port Alveus Square.
+
+![](/img/sps/swordsman/s-08-00.png)
+<font color='ff5722'>Movement Speed +1</font><br/>
+
+<br/>
+
+**Blinding Blade**  
+![](/img/sps/swordsman/s-08-01.png)
+
+**Judgement of Light**  
+![](/img/sps/swordsman/s-08-02.png)
+
+**Repent**  
+![](/img/sps/swordsman/s-08-03.png)
+
+**Justice**  
+![](/img/sps/swordsman/s-08-04.png)
+
+**Double Ripper**  
+![](/img/sps/swordsman/s-08-05.png)
+
+**Sanctuary**  
+![](/img/sps/swordsman/s-08-06.png)
+
+**Ignition**  
+![](/img/sps/swordsman/s-08-07.png) ![](/img/sps/swordsman/s-08-07a.png)
+
+**Blade of the Cross**  
+![](/img/sps/swordsman/s-08-08.png)
+
+**Reignition**  
+![](/img/sps/swordsman/s-08-09.png) ![](/img/sps/swordsman/s-08-09a.png) ![](/img/sps/swordsman/s-08-09b.png)
+
+**Corruption**  
+![](/img/sps/swordsman/s-08-10.png) ![](/img/sps/swordsman/s-08-10a.png)
+
+**Convert**  
+![](/img/sps/swordsman/s-08-11.png)

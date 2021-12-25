@@ -17,42 +17,42 @@ Ranger initiate fights by firing a deadly rain of arrows on their opponents. Tak
 
 The Ranger is the first Specialist Card for the Archer which can be obtained in Fernon Outpost from the Mysterious Soulstone.
 
-![](https://i.imgur.com/VYJiA6V.png)
+![](/img/sps/archer/a-01-00.png)
 
 <br/>
 
 **Archery**  
-![](https://i.imgur.com/2VdOQB3.png)
+![](/img/sps/archer/a-01-01.png)
 
 **Hawk Eye**  
-![](https://i.imgur.com/emfiEUE.png)
+![](/img/sps/archer/a-01-02.png) ![](/img/sps/archer/a-01-02a.png)
 
 **Head Shot**  
-![](https://i.imgur.com/rVKfdcF.png)
+![](/img/sps/archer/a-01-03.png)
 
 **Wind Walker**  
-![](https://i.imgur.com/OrYrT9w.png)
+![](/img/sps/archer/a-01-04.png) ![](/img/sps/archer/a-01-04a.png)
 
 **Flashbang**  
-![](https://i.imgur.com/GRMPx9v.png)
+![](/img/sps/archer/a-01-05.png) ![](/img/sps/archer/a-01-05a.png) ![](/img/sps/archer/a-01-05b.png)
 
 **Triple Arrow**  
-![](https://i.imgur.com/EjcTmFv.png)
+![](/img/sps/archer/a-01-06.png)
 
 **Range Boost**  
-![](https://i.imgur.com/AQhFK48.png)
+![](/img/sps/archer/a-01-07.png)
 
 **Screw Bolt**  
-![](https://i.imgur.com/lkHa8vk.png)
+![](/img/sps/archer/a-01-08.png)
 
 **Covering Fire**  
-![](https://i.imgur.com/OErHwH4.png)
+![](/img/sps/archer/a-01-09.png)
 
 **Rapid Recovery**  
-![](https://i.imgur.com/EiSR1hf.png)
+![](/img/sps/archer/a-01-10.png) ![](/img/sps/archer/a-01-10a.png)
 
 **Thunderstorm**  
-![](https://i.imgur.com/AuwhoPP.png)
+![](/img/sps/archer/a-01-11.png)
 
 <br/>
 
@@ -62,44 +62,44 @@ A fierce and bloodthirsty warrior hides behind the calm exterior of this mask. E
 
 The Assassin is the second Specialist Card for the Archer which can be obtained in Fernon Temple -1 from the Mysterious Soulstone.
 
-![](https://i.imgur.com/ip6nGut.png)
+![](/img/sps/archer/a-02-00.png)
 
 <font color='ff5722'>Movement Speed +2</font><br/>
 
 <br/>
 
 **Dagger Attack**  
-![](https://i.imgur.com/1LeBRwv.png)
+![](/img/sps/archer/a-02-01.png)
 
 **Critical Hit**  
-![](https://i.imgur.com/DTMLOEr.png)
+![](/img/sps/archer/a-02-02.png) ![](/img/sps/archer/a-02-02a.png) ![](/img/sps/archer/a-02-02b.png)
 
 **Slash**  
-![](https://i.imgur.com/0LmPxGc.png)
+![](/img/sps/archer/a-02-03.png)
 
 **Thick Smog**  
-![](https://i.imgur.com/dQ4keav.png)
+![](/img/sps/archer/a-02-04.png) ![](/img/sps/archer/a-02-04a.png) ![](/img/sps/archer/a-02-04b.png)
 
 **Chain Hook Throw**  
-![](https://i.imgur.com/n4kBV4b.png)
+![](/img/sps/archer/a-02-05.png)
 
 **Tumble**  
-![](https://i.imgur.com/TEkCCmE.png)
+![](/img/sps/archer/a-02-06.png)
 
 **Tomahawk**  
-![](https://i.imgur.com/sYdOSa2.png)
+![](/img/sps/archer/a-02-07.png)
 
 **Shadow**  
-![](https://i.imgur.com/lcPB3WW.png)
+![](/img/sps/archer/a-02-08.png)
 
 **Storm Slash**  
-![](https://i.imgur.com/e094Npq.png)
+![](/img/sps/archer/a-02-09.png)
 
 **Deadly Strike**  
-![](https://i.imgur.com/hsiOW7Z.png)
+![](/img/sps/archer/a-02-10.png)
 
 **Bomb**  
-![](https://i.imgur.com/rJ9hrIF.png)
+![](/img/sps/archer/a-02-11.png)
 
 <br/>
 
@@ -110,42 +110,42 @@ The Destroyer's destructive nature is the downfall of any enemies that stand in 
 The Destroyer is the third Specialist Card for the Archer which can be obtained in Peak of Mt. Krem from the Mysterious Soulstone.
 
 
-![](https://i.imgur.com/4dq1x4L.png)
+![](/img/sps/archer/a-03-00.png)
 
 <br/>
 
 **Fire Shotgun**  
-![](https://i.imgur.com/8nMOUvl.png)
+![](/img/sps/archer/a-03-01.png)
 
 **Rapid Shot**  
-![](https://i.imgur.com/wsOgP8d.png)
+![](/img/sps/archer/a-03-02.png)
 
 **Lucky Wideshot**  
-![](https://i.imgur.com/xhR6uVo.png)
+![](/img/sps/archer/a-03-03.png)
 
 **Booster on**  
-![](https://i.imgur.com/1a5yv49.png)
+![](/img/sps/archer/a-03-04.png)
 
 **Bomber**  
-![](https://i.imgur.com/Tg8WZ01.png)
+![](/img/sps/archer/a-03-05.png)
 
 **Poison Gas Shell**  
-![](https://i.imgur.com/FxJ8xRq.png)
+![](/img/sps/archer/a-03-06.png) ![](/img/sps/archer/a-03-06a.png) ![](/img/sps/archer/a-03-06b.png)
 
 **Burst Shot**  
-![](https://i.imgur.com/ks3WwA0.png)
+![](/img/sps/archer/a-03-07.png)
 
 **Miraculous Healing**  
-![](https://i.imgur.com/zasNs1P.png)
+![](/img/sps/archer/a-03-08.png) ![](/img/sps/archer/a-03-08a.png)
 
 **Boom Shot**  
-![](https://i.imgur.com/Tw4zSPL.png)
+![](/img/sps/archer/a-03-09.png)
 
 **Fire Mine**  
-![](https://i.imgur.com/BY7QCXU.png)
+![](/img/sps/archer/a-03-10.png)
 
 **Hell Drop Fire**  
-![](https://i.imgur.com/eXfNEeP.png)
+![](/img/sps/archer/a-03-11.png)
 
 <br/>
 
@@ -155,42 +155,42 @@ These warriors are well at home in the wilderness thanks to their animal instinc
 
 The Wild Keeper is the fourth Specialist Card of the Archer which can be obtained in Fir Forest from the Mysterious Soulstone.
 
-![](https://i.imgur.com/ku39OmN.png)
+![](/img/sps/archer/a-04-00.png)
 
 <br/>
 
 **Boomerang Blast**  
-![](https://i.imgur.com/SqHY8de.png)
+![](/img/sps/archer/a-04-01.png)
 
 **Snake Rush**  
-![](https://i.imgur.com/DLAykZO.png)
+![](/img/sps/archer/a-04-02.png) ![](/img/sps/archer/a-04-02a.png)
 
 **Beast Claw**  
-![](https://i.imgur.com/F311A8F.png)
+![](/img/sps/archer/a-04-03.png)
 
 **Eagle Spirit**  
-![](https://i.imgur.com/XsNR4Pz.png)
+![](/img/sps/archer/a-04-04.png) ![](/img/sps/archer/a-04-04a.png)
 
 **Elemental Shining**  
-![](https://i.imgur.com/WXih1vr.png)
+![](/img/sps/archer/a-04-05.png) ![](/img/sps/archer/a-04-05a.png)
 
 **Boomerang Throw**  
-![](https://i.imgur.com/3mE4pLq.png)
+![](/img/sps/archer/a-04-06.png)
 
 **Wolf Spirit**  
-![](https://i.imgur.com/4OYAKtK.png)
+![](/img/sps/archer/a-04-07.png) ![](/img/sps/archer/a-04-07a.png)
 
 **Elemental Leech**  
-![](https://i.imgur.com/UvrHrPI.png)
+![](/img/sps/archer/a-04-08.png) ![](/img/sps/archer/a-04-08a.png)
 
 **Ivy**  
-![](https://i.imgur.com/rAwp1px.png)
+![](/img/sps/archer/a-04-09.png)
 
 **Bear Spirit**  
-![](https://i.imgur.com/Fip1AM0.png)
+![](/img/sps/archer/a-04-10.png) ![](/img/sps/archer/a-04-10a.png)
 
 **Forest Power**  
-![](https://i.imgur.com/PNAqmix.png)
+![](/img/sps/archer/a-04-11.png)
 
 <br/>
 
@@ -198,44 +198,44 @@ The Wild Keeper is the fourth Specialist Card of the Archer which can be obtaine
 ---
 The Fire Cannoneer is the fifth Specialist Card of the Archer which can be obtained through Draco's Raidbox or Great Magician Kan in Desert Eagle City.
 
-![](https://i.imgur.com/A2IP8RZ.png)
+![](/img/sps/archer/a-05-00.png)
 
 You receive 30% resistance to the following effect: Dragon Dread <br/> <font color='ff5722'>Movement Speed +2</font>
 
 <br/>
 
 **Cannon Fire**  
-![](https://i.imgur.com/WbOkWRN.png)
+![](/img/sps/archer/a-05-01.png)
 
 **Staggered Fire**  
-![](https://i.imgur.com/xtUsPDo.png)
+![](/img/sps/archer/a-05-02.png)
 
 **Cannon Panning**  
-![](https://i.imgur.com/KuVJJqF.png)
+![](/img/sps/archer/a-05-03.png)
 
 **Cannon Shot**  
-![](https://i.imgur.com/6umWFGl.png)
+![](/img/sps/archer/a-05-04.png)
 
 **Shot with Targeting**  
-![](https://i.imgur.com/gQ0QwJ0.png)
+![](/img/sps/archer/a-05-05.png)
 
 **Hand Grenade**  
-![](https://i.imgur.com/wOu0PAV.png)
+![](/img/sps/archer/a-05-06.png)
 
 **Hellfire**  
-![](https://i.imgur.com/6uYPmQz.png)
+![](/img/sps/archer/a-05-07.png)
 
 **Signal Rocket**  
-![](https://i.imgur.com/MXBh5tz.png)
+![](/img/sps/archer/a-05-08.png)
 
 **Rocket Riding**  
-![](https://i.imgur.com/WuBLw19.png)
+![](/img/sps/archer/a-05-09.png)
 
 **Weapon Master**  
-![](https://i.imgur.com/sE4EU7y.png)
+![](/img/sps/archer/a-05-10.png) ![](/img/sps/archer/a-05-10a.png) ![](/img/sps/archer/a-05-10b.png)
 
 **Ultimate Cannon**  
-![](https://i.imgur.com/52fiB2e.png)
+![](/img/sps/archer/a-05-11.png)
 
 <br/>
 
@@ -243,42 +243,134 @@ You receive 30% resistance to the following effect: Dragon Dread <br/> <font col
 ---
 The Scout is the sixth Specialist Card of the Archer and can be obtained through Glacerus's Raidboxes or through crafting at Felix Frost in Desert Eagle City.
 
-![](https://i.imgur.com/TI4wEvL.png)
+![](/img/sps/archer/a-06-00.png)
 
 You receive 30% resistance to the following effect: Eternal Ice <br/> <font color='ff5722'>Movement Speed +1</font>
 
 <br/>
 
 **Elemental Attack**  
-![](https://i.imgur.com/Nmp98ZB.png)
+![](/img/sps/archer/a-06-01.png)
 
 **Falcon Nosedive**  
-![](https://i.imgur.com/leZ8n78.png)
+![](/img/sps/archer/a-06-02.png) ![](/img/sps/archer/a-06-02a.png)
 
 **Mobile Trap**  
-![](https://i.imgur.com/AljWzpv.png)
+![](/img/sps/archer/a-06-03.png)
 
 **Spy Out**  
-![](https://i.imgur.com/EI3bXfD.png)
+![](/img/sps/archer/a-06-04.png)
 
 **Recoil**  
-![](https://i.imgur.com/xSxFr1a.png)
+![](/img/sps/archer/a-06-05.png)
 
 **Vital Energy**  
-![](https://i.imgur.com/4oQmigS.png)
+![](/img/sps/archer/a-06-06.png) ![](/img/sps/archer/a-06-06a.png) ![](/img/sps/archer/a-06-06b.png)
 
 **Fog Arrow**  
-![](https://i.imgur.com/vwY9Oxc.png)
+![](/img/sps/archer/a-06-07.png)
 
 **Falcon's Astuteness**  
-![](https://i.imgur.com/4aFp0E7.png)
+![](/img/sps/archer/a-06-08.png)
 
 **Lightning Reload**  
-![](https://i.imgur.com/jkY6PcU.png)  
-![](https://i.imgur.com/yhvPxLP.png)
+![](/img/sps/archer/a-06-09.png) ![](/img/sps/archer/a-06-09a.png) ![](/img/sps/archer/a-06-09b.png)
 
 **Ambush**  
-![](https://i.imgur.com/Ywqu8b9.png)
+![](/img/sps/archer/a-06-10.png)
 
 **Sniper**  
-![](https://i.imgur.com/SltRbT1.png)
+![](/img/sps/archer/a-06-11.png)
+
+<br/>
+
+### Demon Hunter
+---
+A hunter who made a deal with the devil personally.
+'Even I have sold my soul... I will destroy all the demons!'
+
+The Demon Hunter is the 7th specialist card of the archer which you can obtain through exchanging 50x Laurena's Gemstone at Lilith in Port Alveus Square.
+
+![](/img/sps/archer/a-07-00.png)
+<font color='ff5722'>Movement Speed +1</font><br/>
+
+<br/>
+
+
+**Devil Shot**  
+![](/img/sps/archer/a-07-01.png)
+
+**Bullet Storm**  
+![](/img/sps/archer/a-07-02.png)
+
+**Throwing Blade**  
+![](/img/sps/archer/a-07-03.png) ![](/img/sps/archer/a-07-03a.png)
+
+**Vengeful Spirit Rain**  
+![](/img/sps/archer/a-07-04.png)
+
+**Vengeful Spirit Pendulum**  
+![](/img/sps/archer/a-07-05.png)  
+![](/img/sps/archer/a-07-05a.png)
+
+**Vengeful Spirit Onslaught**  
+![](/img/sps/archer/a-07-06.png)
+
+**Berserk Spirit**  
+![](/img/sps/archer/a-07-07.png)  
+![](/img/sps/archer/a-07-07a.png) ![](/img/sps/archer/a-07-07b.png) ![](/img/sps/archer/a-07-07c.png)
+
+**Spirit Summons**  
+![](/img/sps/archer/a-07-08.png)
+
+**Spirit Explosion**  
+![](/img/sps/archer/a-07-09.png)
+
+**Possession**  
+![](/img/sps/archer/a-07-10.png) ![](/img/sps/archer/a-07-10a.png) ![](/img/sps/archer/a-07-10b.png)
+
+**Soul Sword**  
+![](/img/sps/archer/a-07-11.png)
+
+### Avenging Angel
+---
+The Avenging Angel is the 8th specialist card of the archer which you can obtain through exchanging 50x Laurena's Gemstone at Sarakael in Port Alveus Square.
+
+![](/img/sps/archer/a-08-00.png)
+<font color='ff5722'>Movement Speed +2</font><br/>
+
+<br/>
+
+**Swordmastery**  
+![](/img/sps/archer/a-08-01.png)
+
+**Flying Dagger**  
+![](/img/sps/archer/a-08-02.png)
+
+**Stinging Explosion**  
+![](/img/sps/archer/a-08-03.png)
+
+**Sword of Justice**  
+![](/img/sps/archer/a-08-04.png)
+
+**Shadow Bond**  
+![](/img/sps/archer/a-08-05.png)
+
+**Lightning Blade**  
+![](/img/sps/archer/a-08-06.png)
+
+**Cut and Run**  
+![](/img/sps/archer/a-08-07.png) ![](/img/sps/archer/a-08-07a.png)
+
+**Magical Fetters**  
+![](/img/sps/archer/a-08-08.png) ![](/img/sps/archer/a-08-08a.png)  
+![](/img/sps/archer/a-08-08b.png) ![](/img/sps/archer/a-08-08c.png) ![](/img/sps/archer/a-08-08d.png) ![](/img/sps/archer/a-08-08e.png) ![](/img/sps/archer/a-08-08f.png)
+
+**Meteor Thrust**  
+![](/img/sps/archer/a-08-09.png)
+
+**Divine Blade**  
+![](/img/sps/archer/a-08-10.png)
+
+**Spirit Lance**  
+![](/img/sps/archer/a-08-11.png)

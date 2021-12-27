@@ -287,7 +287,7 @@ You receive 30% resistance to the following effect: Eternal Ice
 
 ### Death Reaper
 ---
-The Death Reaper is the 7th specialist card of the archer which you can obtain through exchanging 50x Laurena's Gemstone at Lilith in Port Alveus Square.
+The Death Reaper is the 7th specialist card of the Swordsman which you can obtain through exchanging 50x Laurena's Gemstone at Lilith in Port Alveus Square.
 
 ![](/img/sps/swordsman/s-07-00.png)
 <font color='ff5722'>Movement Speed +2</font><br/>
@@ -331,7 +331,7 @@ The Death Reaper is the 7th specialist card of the archer which you can obtain t
 
 ### Renegade
 ---
-The Renegade is the 8th specialist card of the archer which you can obtain through exchanging 50x Laurena's Gemstone at Sarakael in Port Alveus Square.
+The Renegade is the 8th specialist card of the Swordsman which you can obtain through exchanging 50x Laurena's Gemstone at Sarakael in Port Alveus Square.
 
 ![](/img/sps/swordsman/s-08-00.png)
 <font color='ff5722'>Movement Speed +1</font><br/>

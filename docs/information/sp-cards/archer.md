@@ -289,7 +289,7 @@ You receive 30% resistance to the following effect: Eternal Ice <br/> <font colo
 A hunter who made a deal with the devil personally.
 'Even I have sold my soul... I will destroy all the demons!'
 
-The Demon Hunter is the 7th specialist card of the archer which you can obtain through exchanging 50x Laurena's Gemstone at Lilith in Port Alveus Square.
+The Demon Hunter is the 7th specialist card of the Archer which you can obtain through exchanging 50x Laurena's Gemstone at Lilith in Port Alveus Square.
 
 ![](/img/sps/archer/a-07-00.png)
 <font color='ff5722'>Movement Speed +1</font><br/>
@@ -334,7 +334,7 @@ The Demon Hunter is the 7th specialist card of the archer which you can obtain t
 
 ### Avenging Angel
 ---
-The Avenging Angel is the 8th specialist card of the archer which you can obtain through exchanging 50x Laurena's Gemstone at Sarakael in Port Alveus Square.
+The Avenging Angel is the 8th specialist card of the Archer which you can obtain through exchanging 50x Laurena's Gemstone at Sarakael in Port Alveus Square.
 
 ![](/img/sps/archer/a-08-00.png)
 <font color='ff5722'>Movement Speed +2</font><br/>

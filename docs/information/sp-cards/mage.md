@@ -15,44 +15,46 @@ Changes can happen further down the line.
 ---
 These Magicians are the very embodiment of destruction and demise. Their destructive power has its roots in the most powerful of fire spells.
 
-![](https://i.imgur.com/CrqiPci.png)
+The Red Magician is the first Specialist Card for the Mage which can be obtained in Fernon Outpost from the Mysterious Soulstone.
+
+![](/img/sps/mage/m-01-00.png)
 
 <font color='ff5722'>Movement Speed +1</font><br/>
 
 <br/>
 
 **Fire Bolt**  
-![](https://i.imgur.com/FZkv0li.png)
+![](/img/sps/mage/m-01-01.png)
 
 **Fire Burst**  
-![](https://i.imgur.com/wSWS4Lj.png)
+![](/img/sps/mage/m-01-02.png)
 
 **Fiery Breath**  
-![](https://i.imgur.com/cy8HJaT.png)
+![](/img/sps/mage/m-01-03.png)
 
 **Mana Transfusion**  
-![](https://i.imgur.com/vmFsNuh.png)
+![](/img/sps/mage/m-01-04.png) ![](/img/sps/mage/m-01-04a.png)
 
 **Fire Storm**  
-![](https://i.imgur.com/gVWQopF.png)
+![](/img/sps/mage/m-01-05.png)
 
 **Firelance**  
-![](https://i.imgur.com/JVMCKja.png)
+![](/img/sps/mage/m-01-06.png)
 
 **Fire Blessing**  
-![](https://i.imgur.com/f2YUfGk.png)
+![](/img/sps/mage/m-01-07.png) ![](/img/sps/mage/m-01-07a.png)
 
 **Firewall**  
-![](https://i.imgur.com/nqBOsfw.png)
+![](/img/sps/mage/m-01-08.png)
 
 **Meteor Shower**  
-![](https://i.imgur.com/jk5LGx7.png)
+![](/img/sps/mage/m-01-09.png)
 
 **Inferno**  
-![](https://i.imgur.com/m3kFkEV.png)
+![](/img/sps/mage/m-01-10.png)
 
 **Meteor Strike**  
-![](https://i.imgur.com/OPsl6kr.png)
+![](/img/sps/mage/m-01-11.png)
 
 <br/>
 
@@ -61,44 +63,46 @@ These Magicians are the very embodiment of destruction and demise. Their destruc
 The guardians of light, order and balance.
 These wise mages act according to Erenia's divine will, using the power of good to defeat their enemies.
 
-![](https://i.imgur.com/anhI6TY.png)
+The Holy Mage is the second Specialist Card for the Mage which can be obtained in Fernon Temple -1 from the Mysterious Soulstone.
+
+![](/img/sps/mage/m-02-00.png)
 
 <font color='ff5722'>Movement Speed +1</font><br/>
 
 <br/>
 
 **Holy Attack**  
-![](https://i.imgur.com/jpwJXV8.png)
+![](/img/sps/mage/m-02-01.png)
 
 **Healing**  
-![](https://i.imgur.com/3SE38Xb.png)
+![](/img/sps/mage/m-02-02.png)
 
 **Holy Light**  
-![](https://i.imgur.com/fFYNeEJ.png)
+![](/img/sps/mage/m-02-03.png)
 
 **Mana Shield**  
-![](https://i.imgur.com/1XDTx7T.png)
+![](/img/sps/mage/m-02-04.png) ![](/img/sps/mage/m-02-04a.png)
 
 **Heaven Song**  
-![](https://i.imgur.com/IloYiD5.png)
+![](/img/sps/mage/m-02-05.png) ![](/img/sps/mage/m-02-05a.png)
 
 **Cure All**  
-![](https://i.imgur.com/vMENDFl.png)
+![](/img/sps/mage/m-02-06.png) ![](/img/sps/mage/m-02-06a.png)
 
 **Mass Revive**  
-![](https://i.imgur.com/MGyRPXh.png)
+![](/img/sps/mage/m-02-07.png)
 
 **Group Healing**  
-![](https://i.imgur.com/4ulOAQ2.png)
+![](/img/sps/mage/m-02-08.png)
 
 **Holy weapon**  
-![](https://i.imgur.com/OXVtMLr.png)
+![](/img/sps/mage/m-02-09.png) ![](/img/sps/mage/m-02-09a.png) ![](/img/sps/mage/m-02-09b.png)
 
 **Blessing**  
-![](https://i.imgur.com/ekz0Lwm.png)
+![](/img/sps/mage/m-02-10.png) ![](/img/sps/mage/m-02-10a.png) ![](/img/sps/mage/m-02-10b.png)
 
 **Holy Hammer**  
-![](https://i.imgur.com/PLq3FUg.png)
+![](/img/sps/mage/m-02-11.png)
 
 <br/>
 
@@ -106,44 +110,46 @@ These wise mages act according to Erenia's divine will, using the power of good 
 ---
 Their frozen hearts allow Blue Magicians to turn their bodies to ice in dangerous situations, greatly increasing their resistance to the water element. They are overlords of cold and frost.
 
-![](https://i.imgur.com/564Jt1V.png)
+The Blue Magician is the third Specialist Card for the Mage which can be obtained in Peak of Mt. Krem from the Mysterious Soulstone.
+
+![](/img/sps/mage/m-03-00.png)
 
 <font color='ff5722'>Movement Speed +1</font><br/>
 
 <br/>
 
 **Ice Ball**  
-![](https://i.imgur.com/fuJDpU8.png)
+![](/img/sps/mage/m-03-01.png)
 
 **Ice Shard**  
-![](https://i.imgur.com/LUyEfQC.png)
+![](/img/sps/mage/m-03-02.png)
 
 **Freezing Blast**  
-![](https://i.imgur.com/kTlhIVx.png)
+![](/img/sps/mage/m-03-03.png)
 
 **Ice Lance**  
-![](https://i.imgur.com/l6Squ6o.png)
+![](/img/sps/mage/m-03-04.png)
 
 **Ice Chain**  
-![](https://i.imgur.com/mHMSNYu.png)
+![](/img/sps/mage/m-03-05.png)
 
 **Frozen Shield**  
-![](https://i.imgur.com/K0B3i8Z.png)
+![](/img/sps/mage/m-03-06.png) ![](/img/sps/mage/m-03-06a.png) ![](/img/sps/mage/m-03-06b.png)
 
 **Glacier**  
-![](https://i.imgur.com/b1IypOJ.png)
+![](/img/sps/mage/m-03-07.png)
 
 **Blessing of Water**  
-![](https://i.imgur.com/WuJM3pL.png)
+![](/img/sps/mage/m-03-08.png) ![](/img/sps/mage/m-03-08a.png)
 
 **Heavy Hail**  
-![](https://i.imgur.com/mTH3q7F.png)
+![](/img/sps/mage/m-03-09.png)
 
 **Intense Cold**  
-![](https://i.imgur.com/qAXzLLx.png)
+![](/img/sps/mage/m-03-10.png)
 
 **Blizzard**  
-![](https://i.imgur.com/0rglcnH.png)
+![](/img/sps/mage/m-03-11.png)
 
 <br/>
 
@@ -151,42 +157,44 @@ Their frozen hearts allow Blue Magicians to turn their bodies to ice in dangerou
 ---
 Dark Gunners rout their enemies with forbidden magic. These warriors derive their strength from the dark powers of the devil.
 
-![](https://i.imgur.com/O8OZGTT.png)
+The Dark Gunner is the fourth Specialist Card of the Mage which can be obtained in Fir Forest from the Mysterious Soulstone.
+
+![](/img/sps/mage/m-04-00.png)
 
 <br/>
 
 **Spell Revolver**  
-![](https://i.imgur.com/Qmchs5H.png)
+![](/img/sps/mage/m-04-01.png)
 
 **Combination Shot**  
-![](https://i.imgur.com/JSZxIIw.png)
+![](/img/sps/mage/m-04-02.png) !![](/img/sps/mage/m-04-02a.png)
 
 **Magic Blitz**  
-![](https://i.imgur.com/6ZDy1p5.png)
+![](/img/sps/mage/m-04-03.png)
 
 **Ghost Guard**  
-![](https://i.imgur.com/5qPLhc7.png)
+![](/img/sps/mage/m-04-04.png) !![](/img/sps/mage/m-04-04a.png)
 
 **Curse Blitz**  
-![](https://i.imgur.com/Qigj42O.png)
+![](/img/sps/mage/m-04-05.png)
 
 **Dark Force**  
-![](https://i.imgur.com/opGFCDX.png)
+![](/img/sps/mage/m-04-06.png) !![](/img/sps/mage/m-04-06a.png)
 
 **Possession**  
-![](https://i.imgur.com/BZiNFAX.png)
+![](/img/sps/mage/m-04-07.png) !![](/img/sps/mage/m-04-07a.png)
 
 **Ghost Recharge**  
-![](https://i.imgur.com/ANd9FMP.png)
+![](/img/sps/mage/m-04-08.png)
 
 **Evil Potion**  
-![](https://i.imgur.com/WkKoVXn.png)
+![](/img/sps/mage/m-04-09.png) !![](/img/sps/mage/m-04-09a.png)
 
 **Requiem**  
-![](https://i.imgur.com/T1XAGcK.png)
+![](/img/sps/mage/m-04-10.png) !![](/img/sps/mage/m-04-10a.png)
 
 **Ghost Invasion**  
-![](https://i.imgur.com/ojWpXlH.png)
+![](/img/sps/mage/m-04-11.png)
 
 <br/>
 
@@ -194,44 +202,48 @@ Dark Gunners rout their enemies with forbidden magic. These warriors derive thei
 ---
 The Volcano is an extraordinary Magician who has limitless control of the earth and fire. "My magic leads all others to ruin."
 
-![](https://i.imgur.com/7lHIlVF.png)
+The Volcano is the fifth Specialist Card of the Mage which can be obtained through Draco's Raidbox or Great Magician Kan in Desert Eagle City.
+
+![](/img/sps/mage/m-05-00.png)
 
 You receive 30% resistance to the following effect: Dragon Dread <br/> <font color='ff5722'>Movement Speed +2</font>
 
 <br/>
 
 **Magma Ball**  
-![](https://i.imgur.com/ORTYqga.png)
+![](/img/sps/mage/m-05-01.png)
 
 **Volcanic Eruption**  
-![](https://i.imgur.com/SSV62JC.png)
+![](/img/sps/mage/m-05-02.png)
 
 **Volcanic Gas**  
-![](https://i.imgur.com/frNRE9w.png)
+![](/img/sps/mage/m-05-03.png)
 
 **Magma Plating**  
-![](https://i.imgur.com/jPTv3vt.png)
+![](/img/sps/mage/m-05-04.png) ![](/img/sps/mage/m-05-04a.png) ![](/img/sps/mage/m-05-04b.png)
 
 **Lava Wave**  
-![](https://i.imgur.com/lWXauL8.png)
+![](/img/sps/mage/m-05-05.png)
 
 **Power of the Volcano**  
-![](https://i.imgur.com/NsesD4U.png)
+![](/img/sps/mage/m-05-06.png) ![](/img/sps/mage/m-05-06a.png)
 
 **Earthquake**  
-![](https://i.imgur.com/A2URrwv.png)
+![](/img/sps/mage/m-05-07.png)
 
 **Volcanic Roar**  
-![](https://i.imgur.com/4Mdo1up.png)
+![](/img/sps/mage/m-05-08.png)
 
 **Lava Swamp**  
-![](https://i.imgur.com/RLX1SxH.png)
+![](/img/sps/mage/m-05-09.png)
+![](/img/sps/mage/m-05-09a.png) ![](/img/sps/mage/m-05-09b.png) ![](/img/sps/mage/m-05-09c.png)
 
 **Magma Sword**  
-![](https://i.imgur.com/PQHSbMA.png)
+![](/img/sps/mage/m-05-10.png)
 
 **Ash Storm**  
-![](https://i.imgur.com/Sf9RewN.png)
+![](/img/sps/mage/m-05-11.png)
+![](/img/sps/mage/m-05-11a.png) ![](/img/sps/mage/m-05-11b.png) ![](/img/sps/mage/m-05-11c.png)
 
 <br/>
 
@@ -240,41 +252,133 @@ You receive 30% resistance to the following effect: Dragon Dread <br/> <font col
 The Tide Lord rules over the power of the ocean.
 "Feel my power from the abyss of the sea."
 
-![](https://i.imgur.com/gPQuAZU.png)
+The Tide Lord is the sixth Specialist Card of the Mage and can be obtained through Glacerus's Raidboxes or through crafting at Felix Frost in Desert Eagle City.
+
+![](/img/sps/mage/m-06-00.png)
 
 You receive 30% resistance to the following effect: Eternal Ice <br/> <font color='ff5722'>Movement Speed +2</font>
 
 <br/>
 
 **Thunder Trident**  
-![](https://i.imgur.com/njTffqv.png)
+![](/img/sps/mage/m-06-01.png)
 
 **Typhoon**  
-![](https://i.imgur.com/kvtkJkK.png)
+![](/img/sps/mage/m-06-02.png)
 
 **The Large Trident**  
-![](https://i.imgur.com/28m1o8X.png)
+![](/img/sps/mage/m-06-03.png)
 
 **Ocean's Blessing**  
-![](https://i.imgur.com/CNG0QKp.png)
+![](/img/sps/mage/m-06-04.png) ![](/img/sps/mage/m-06-04a.png)
 
-**Lightnin Strike**  
-![](https://i.imgur.com/skDeQh7.png)
+**Lightning Strike**  
+![](/img/sps/mage/m-06-05.png) ![](/img/sps/mage/m-06-05a.png) ![](/img/sps/mage/m-06-05b.png)
 
 **Feeding Time**   
-![](https://i.imgur.com/cxTKGdq.png)
+![](/img/sps/mage/m-06-06.png)
 
 **Giant Swirl**  
-![](https://i.imgur.com/xfiqV1M.png)
+![](/img/sps/mage/m-06-07.png)
 
 **Song of the Sirens**  
-![](https://i.imgur.com/Z2HTesi.png)
+![](/img/sps/mage/m-06-08.png) ![](/img/sps/mage/m-06-08a.png)
 
 **Tsunami**  
-![](https://i.imgur.com/8EFHwkF.png)
+![](/img/sps/mage/m-06-09.png) ![](/img/sps/mage/m-06-09a.png)
 
 **Water Bubble**  
-![](https://i.imgur.com/NL7ifFH.png)
+![](/img/sps/mage/m-06-10.png) ![](/img/sps/mage/m-06-10.png)
 
 **Head's Up, Blue Whale!**  
-![](https://i.imgur.com/fc6wmEx.png)
+![](/img/sps/mage/m-06-11.png) ![](/img/sps/mage/m-06-11a.png) ![](/img/sps/mage/m-06-11b.png)
+
+<br/>
+
+### Seer
+---
+The Seer is the 7th specialist card of the Mage which you can obtain through exchanging 50x Laurena's Gemstone at Lilith in Port Alveus Square.
+
+![](/img/sps/mage/m-07-00.png)
+<font color='ff5722'>Movement Speed +1</font><br/>
+
+<br/>
+
+**Magic Bullet**  
+![](/img/sps/mage/m-07-01.png)
+
+**Confusion**  
+![](/img/sps/mage/m-07-02.png) ![](/img/sps/mage/m-07-02a.png)
+
+**Death Cage**  
+![](/img/sps/mage/m-07-03.png)
+
+**Blink**  
+![](/img/sps/mage/m-07-04.png) ![](/img/sps/mage/m-07-04a.png)
+
+**Cursed Hands**  
+![](/img/sps/mage/m-07-05.png)
+
+**Illusion**  
+![](/img/sps/mage/m-07-06.png) ![](/img/sps/mage/m-07-06a.png) ![](/img/sps/mage/m-07-06b.png)
+
+**Mana Extraction**  
+![](/img/sps/mage/m-07-07.png)
+
+**Mind Sink**  
+![](/img/sps/mage/m-07-08.png) ![](/img/sps/mage/m-07-08a.png)
+
+**Blade Charger**  
+![](/img/sps/mage/m-07-09.png) ![](/img/sps/mage/m-07-09a.png) ![](/img/sps/mage/m-07-09b.png)
+
+**Time Loss**  
+![](/img/sps/mage/m-07-10.png)  
+![](/img/sps/mage/m-07-10a.png) ![](/img/sps/mage/m-07-10b.png) ![](/img/sps/mage/m-07-10c.png)
+
+**Super Abracadabra**  
+![](/img/sps/mage/m-07-11.png)
+
+<br/>
+
+### Archmage
+---
+The Archmage is the 8th specialist card of the Mage which you can obtain through exchanging 50x Laurena's Gemstone at Sarakael in Port Alveus Square.
+
+![](/img/sps/mage/m-08-00.png)
+<font color='ff5722'>Movement Speed +1</font><br/>
+
+<br/>
+
+**Light Spell**  
+![](/img/sps/mage/m-08-01.png)
+
+**Light Catalyst**  
+![](/img/sps/mage/m-08-02.png) ![](/img/sps/mage/m-08-02a.png)
+
+**Suppression**  
+![](/img/sps/mage/m-08-03.png)
+
+**Holy Prism**  
+![](/img/sps/mage/m-08-04.png)
+
+**Holy Explosion**  
+![](/img/sps/mage/m-08-05.png)
+
+**Fast Lane**  
+![](/img/sps/mage/m-08-06.png)  
+![](/img/sps/mage/m-08-06a.png) ![](/img/sps/mage/m-08-06b.png) ![](/img/sps/mage/m-08-06c.png)
+
+**Spellbook Scholar**  
+![](/img/sps/mage/m-08-07.png) ![](/img/sps/mage/m-08-07a.png)
+
+**Scared Mist**  
+![](/img/sps/mage/m-08-08.png) ![](/img/sps/mage/m-08-08a.png)
+
+**Mass Teleport**  
+![](/img/sps/mage/m-08-09.png) ![](/img/sps/mage/m-08-09a.png)
+
+**Urano Metria**  
+![](/img/sps/mage/m-08-10.png)
+
+**Illumination**  
+![](/img/sps/mage/m-08-11.png) ![](/img/sps/mage/m-08-11a.png)

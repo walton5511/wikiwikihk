@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/shop</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2021-12-24T00:00:00.000Z</updated>
+    <updated>2022-01-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/shop"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rotations - Week 6]]></title>
+        <id>2022-01-02-rotations-week-6</id>
+        <link href="https://wiki.olympusgg.com/shop/2022-01-02-rotations-week-6"/>
+        <updated>2022-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rotations]]></summary>
+        <content type="html"><![CDATA[<h2>Rotations</h2><h3><strong>Week 6</strong> - <strong>2nd Jan 2022</strong></h3><h4>Pets</h4><ul><li><strong>[REMOVE]</strong> Viking Bushi Random Box</li><li><strong>[REMOVE]</strong> Rudolph Bushi Random Box</li><li><strong>[NEW]</strong> Indian Bushi Random Box</li><li><code>Indian&#x27;s Blessing:</code><ul><li><div>Damage dealt is increased by %5.</div></li><li><div>Fire resistance is increased by 10.</div></li><li><div>Damage received from critical hits is decreased by 10%.</div></li></ul></li><li><code>Indian Blood Tie</code>:<ul><li><div>There is a 100% probability to remove bad effects of level 4 or lower.</div></li><li><div>Every 2 seconds: 10% HP is recovered.</div></li></ul></li></ul><h4>Mounts</h4><ul><li><strong>[REMOVE]</strong> White Unicorn Random Box</li><li><strong>[REMOVE]</strong> Magic Sleigh with Red-nosed Reindeer Random Box</li><li><strong>[NEW]</strong> &#x27;Billy Boneshaker&#x27; Bike:<ul><li>Speed: 21</li><li>Bonus Speed: +3 in Act5</li><li>Speed Booster Effect: <div>Teleports you 5 fields forwards.</div></li><li>Speed Booster Speed: +3, 5s</li></ul></li></ul><h4>Wings</h4><ul><li><strong>[REMOVE]</strong> Golden Wings Random Box</li><li><strong>[NEW]</strong> Crystal Wings Random Box</li><li><code>Crystal Wings:</code><ul><li><div>Movement speed is increased by 1.</div></li><li><div>Up to level 4 there is a 15% chance of never getting a bad effect.</div></li></ul></li></ul><h4>Costume</h4><ul><li><strong>[REMOVE]</strong> Santa Bushi Costume Set Random Box</li></ul>]]></content>
+        <author>
+            <name>Kravos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rotations - Christmas Week]]></title>
         <id>2021-12-24-rotations-christmas-week</id>

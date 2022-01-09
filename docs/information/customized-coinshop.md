@@ -23,6 +23,18 @@ Everything you need to know about the customization of coinshop items is listed 
 - **[Ninja's Blessing]:**
   - Damage dealt is increased by %5.
   - Shadow resistance is increased by 10.
+### ``Super Santa Bushi``
+- **[Blessing of Christmas]:**
+  - Damage dealt is increased by %5.
+  - Increases fame received by 5%.
+### ``Indian Bushi``
+- **[Indian's Blessing]:**
+  - Damage dealt is increased by %5.
+  - Fire resistance is increased by 10.
+  - Damage received from critical hits is decreased by 10%.
+- **[Indian Blood Tie]:**
+  - There is a 100% probability to remove bad effects of level 4 or lower.
+  - Every 2 seconds: 10% HP is recovered.
 
 ---
 
@@ -43,10 +55,13 @@ Everything you need to know about the customization of coinshop items is listed 
 ### ``Golden Wings``
   - Movement speed is increased by 1.
   - Resists forced movement with a probability of 50%.
-  - All defences are incresed by 10%.
+  - Damage received is decreased by 10%.
 ### ``Fairy Wings``
   - Movement speed is increased by 1.
   - The equipped fairy's element increases by 15.
+### ``Crystal Wings``
+  - Movement speed is increased by 1.
+  - Up to level 4 there is a 15% chance of never getting a back effect.
 
 ---
 
@@ -76,6 +91,24 @@ Everything you need to know about the customization of coinshop items is listed 
 ### ``Orkani``
 - **[Marked (S)]:**
   - Level 3 -> 5
+### ``Laurena``
+- **Thorn Bush:**
+  - Cool time: 15s -> 35s
+  - There is a 30% -> 100% chance of causing [Thorn Bush].
+- **Scent of the Curse:**
+  - There is a 25% -> 100% chance of causing [Scent of the Curse].
+- **[Pulse of Light (S)]:**
+  - Level 4 -> 5
+- **[Thorn Bush (S)]:**
+  - Movement speed is decreased by 3 -> 2.
+- **[Scent of the Curse (S)]:**
+  - Level: 4 -> 5
+  - [NEW] There is a 100% chance that damage from magic attacks is increased by 20%.
+### ``Foxy``
+- **Piercing Howl:**
+  - Cool time: 30s -> 60s
+- **[Fall for the Charms (S)]:**
+  - Level 4 -> 5
 
 ---
 
@@ -106,6 +139,20 @@ Everything you need to know about the customization of coinshop items is listed 
   - Positive Effect (1 Level)
   - Duration: 3s
   - Reflects the maximum received damage from (Player Level*20).
+### ``Santa Bushi Costume``
+- **Santa Bushi Costume**
+  - Movement speed is increased by 1.
+  - Increases fame received by 5%.
+- **Santa Bushi Hat**
+  - Shadow resistance is increased by 5.
+  - There is a 3% chance of causing [Shock].
+### ``Illusionist's Costume``
+- **Illusionist's Costume**
+  - Movement speed is increased by 1.
+  - There is a 5% chance that damage from magic attacks is reduced by 100%.
+- **Illusionist's Top Hat**
+  - Damage dealt is increased by 4%.
+  - There is a 3% chance of causing [Trickery].
 
 ---
 

@@ -4,9 +4,17 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sun, 02 Jan 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rotations - Week 7]]></title>
+            <link>https://wiki.olympusgg.com/shop/2022-01-09-rotations-week-7</link>
+            <guid>2022-01-09-rotations-week-7</guid>
+            <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rotations]]></description>
+            <content:encoded><![CDATA[<h2>Rotations</h2><h3><strong>Week 7</strong> - <strong>9th Jan 2022</strong></h3><h4>Pets</h4><ul><li><strong>[REMOVE]</strong> Indian Bushi Random Box</li><li><strong>[NEW]</strong> Ninja Bushi Random Box</li></ul><h4>PSP</h4><ul><li><strong>[REMOVE]</strong> Barni PSP Random Box</li><li><strong>[REMOVE]</strong> Freya PSP Random Box</li><li><strong>[REMOVE]</strong> Aegir PSP Random Box</li><li><strong>[NEW]</strong> Foxy PSP Random Box:<ul><li><code>Piercing Howl</code>:<ul><li>Cool down: 30s -&gt; 60s</li></ul></li><li><code>[Fall for the Charms (S)]</code>:<ul><li>Level 4 -&gt; 5</li></ul></li></ul></li></ul><h4>Costume</h4><ul><li><strong>[REMOVE]</strong> Karate Costume Set Random Box</li><li><strong>[NEW]</strong> Illusionist&#x27;s Costume Set Random Box<ul><li><code>Illusionist&#x27;s Costume</code>:<ul><li><div>Movement speed is increased by 1.</div></li><li><div>There is a 5% chance that damage from magic attacks is reduced by 100%.</div></li></ul></li><li><code>Illusionist&#x27;s Top Hat</code>:<ul><li><div>There is a 3% chance of causing [Trickery].</div></li><li><div>Damage dealt is increased by 4%.</div></li></ul></li></ul></li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Rotations - Week 6]]></title>
             <link>https://wiki.olympusgg.com/shop/2022-01-02-rotations-week-6</link>

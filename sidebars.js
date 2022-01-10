@@ -3,6 +3,7 @@ module.exports = {
   docs: [
     'home',
     'rules',
+    'bug-bounty',
     'shop-rotations',
     {
       type: 'category',

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[635],{79370:function(s){s.exports=JSON.parse('{"allTagsPath":"/shop/tags","slug":"/shop/tags/rotation","name":"rotation","count":8,"permalink":"/shop/tags/rotation"}')}}]);

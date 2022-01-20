@@ -203,7 +203,7 @@ Everything you need to know about the customization of coinshop items is listed 
   - **Speed Booster Speed:** +3, 5s
 
 ### ``'Blazing Blades' In-line Skates``
-  - **``Speed:** 21
+  - **Speed:** 21
   - **Bonus Speed:** +3 in Act5
   - **Speed Booster Effect:** Removes all negative effects under level 4.
   - **Speed Booster Speed:** +3, 5s

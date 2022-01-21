@@ -77,6 +77,7 @@ module.exports = {
           label: 'Quests',
           items: [
             { type: 'doc', id: 'guides/quests/act-6-questline', label: 'Act 6 Questline guide' },
+            { type: 'doc', id: 'guides/quests/act-6-daily-quests', label: 'Act 6 Daily Quests guide' },
           ]
         },
         { type: 'doc', id: 'guides/act-6-passives', label: 'Act 6 Passives guide' },

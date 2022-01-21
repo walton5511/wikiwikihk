@@ -61,6 +61,7 @@ Graham offers you a wide range of different Recipes, from Raid Seals to differen
 ![Graham Recipes](https://i.imgur.com/LXshKY7.png)
 
 You need 3 tickets in order to craft a Raid Seal **(Zenas = Mystic Heaven, Erenia = Hellord)**
+
 ![Erenia Raid Seal](https://i.imgur.com/7JYZup0.png)
 
 ![Zenas Raid Seal](https://i.imgur.com/ErQP4cE.png)
@@ -72,8 +73,9 @@ For the Production Scrolls **(Not recommended except secondary, rest obtainable 
 ![](https://imgur.com/ir1afYo.png)
 
 Two helmets for each class, one helmet for each fraction.
-Heaven Side Helmets -> x25 Mystic Heaven Tickets
-Hellord Side Helmets -> x25 Hellord Tickets
+
+- Heaven Side Helmets -> x25 Mystic Heaven Tickets
+- Hellord Side Helmets -> x25 Hellord Tickets
 
 ![](https://i.imgur.com/Eof2wsr.png)![](https://i.imgur.com/jIYanGH.png)
 

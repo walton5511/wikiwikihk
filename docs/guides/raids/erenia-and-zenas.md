@@ -45,6 +45,7 @@ Lotus ![](https://i.imgur.com/pXMTq20.png):
 ![](https://i.imgur.com/uoFvJL0.png)
 
 For mages Laurena ![](https://i.imgur.com/54pUrO2.png):
+
 ![](https://i.imgur.com/ADJd3ZZ.png)
 
 For mages Foxy ![](https://i.imgur.com/ZJnF1eO.png):
@@ -87,9 +88,11 @@ ____
 ### Erenia
 When you enter the Erenia raid you wait until the mobs spawned. After killing them you enter the second room.
 Entering the second room will display 5 altars on the minimap which you have to destroy.
+
 ![](https://cdn.discordapp.com/attachments/649449553640292384/932684176161927228/unknown.png)
 
 After all 5 altars are gone a stone above the next portal will spawn which has to be destroyed too.
+
 ![](https://cdn.discordapp.com/attachments/649449553640292384/932685900482220062/unknown.png)
 
 Now you're able to enter the room with Amon. You have now the choice of saving the NPC or letting him die.
@@ -137,21 +140,20 @@ ____
 
 ***The following items have a selling price to NPCs:***
 
->![](https://i.imgur.com/4pFCQ3q.png) ![](https://i.imgur.com/P5z3gSa.png) ![](https://i.imgur.com/LSndDdV.png) 15.000.000 Gold each
-![](https://i.imgur.com/CxS7wvi.png) 5.000.000 Gold
-![](https://i.imgur.com/xY7s1mm.png) 250.000 Gold
-![](https://i.imgur.com/9fdvIB3.png) 50.000 Gold
+- ![](https://i.imgur.com/4pFCQ3q.png) ![](https://i.imgur.com/P5z3gSa.png) ![](https://i.imgur.com/LSndDdV.png) 15.000.000 Gold each
+- ![](https://i.imgur.com/CxS7wvi.png) 5.000.000 Gold
+- ![](https://i.imgur.com/xY7s1mm.png) 250.000 Gold
+- ![](https://i.imgur.com/9fdvIB3.png) 50.000 Gold
 
 ***Items that you might not know yet:***
 
-![](https://i.imgur.com/pq1jD5D.png) Archipelago Mount Box
->-> Nossi the Dragon
--> Horned Sweeper
--> Magic Bone Drake
--> Magic Donkey Pinata
+- ![](https://i.imgur.com/pq1jD5D.png) Archipelago Mount Box
+    - Nossi the Dragon
+    - Horned Sweeper
+    - Magic Bone Drake
+    - Magic Donkey Pinata
 
-![](https://i.imgur.com/F9qKuMI.png) Sacred Halo (Trophy of Zenas)
-![](https://i.imgur.com/af4W5vO.png) Sinful Heart (Trophy of Erenia)
-
- ![](https://i.imgur.com/U64w6ew.png) Archdaemon Amon's Specialist Partner Card
-![](https://i.imgur.com/3aX6UKl.png) Guardian Lucifer's Specialist Partner Card
+- ![](https://i.imgur.com/F9qKuMI.png) Sacred Halo (Trophy of Zenas)
+- ![](https://i.imgur.com/af4W5vO.png) Sinful Heart (Trophy of Erenia)
+- ![](https://i.imgur.com/U64w6ew.png) Archdaemon Amon's Specialist Partner Card
+- ![](https://i.imgur.com/3aX6UKl.png) Guardian Lucifer's Specialist Partner Card

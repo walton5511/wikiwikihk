@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/shop</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-01-16T00:00:00.000Z</updated>
+    <updated>2022-01-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/shop"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rotations - Week 9]]></title>
+        <id>2022-01-21-rotations-week-9</id>
+        <link href="https://wiki.olympusgg.com/shop/2022-01-21-rotations-week-9"/>
+        <updated>2022-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rotations]]></summary>
+        <content type="html"><![CDATA[<h2>Rotations</h2><h3><strong>Week 9</strong> - <strong>21th Jan 2022</strong></h3><h4>Pets</h4><ul><li><strong>[REMOVE]</strong> Darko Random Box</li><li><strong>[NEW]</strong> Fibi Frosty Random Box<ul><li>There is a 5% -&gt; 8% chance of causing <!-- -->[Freeze]<!-- --> -&gt; <!-- -->[Slight Freeze]<!-- -->.</li><li><strong>[Slight Freeze]<!-- -->:</strong><ul><li>Duration: 2s</li><li>Movement impossible</li><li>No attack possible</li></ul></li></ul></li></ul><h4>PSP</h4><ul><li><strong>[REMOVE]</strong> Foxy PSP Random Box</li><li><strong>[NEW]</strong> Amon PSP Random Box:<ul><li>Boiling Over:<ul><li>There is a 20% -&gt; 100% chance of causing <!-- -->[Boiling Over]<!-- -->.</li></ul></li><li>Provocation:<ul><li>Attack range: 7 -&gt; 6</li><li>[REMOVE]<!-- --> There is a 100% chance of causing <!-- -->[Provocation]<!-- -->.</li><li>[NEW]<!-- --> Draws enemies to 1 fields away from you.</li></ul></li><li>[Flame of Hell (S)]<!-- -->:<ul><li>Level: 4 -&gt; 5</li><li>[NEW]<!-- --> Critical damage received is increased by 20%.</li></ul></li><li>[Boiling Over]<!-- -->:  // (F) to (S)<ul><li>Self Buff -&gt; Enemy Debuff</li><li>[REMOVE]<!-- --> Enemy&#x27;s HP is decreased by x% of the damage I have received.</li><li>[NEW]<!-- --> Shadow resistence is decreased by 2/4/6/8/9/12/20.</li></ul></li><li>[Boiling Over (S)]<!-- -->:<ul><li>Level: 4 -&gt; 5</li></ul></li></ul></li></ul><h4>Costume</h4><ul><li><strong>[REMOVE]</strong> Illusionist&#x27;s Costume Set Random Box</li><li><strong>[NEW]</strong> Dracula&#x27;s Costume Set Random Box<ul><li><code>Dracula&#x27;s Costume</code>:<ul><li><div>Movement speed is increased by 1.</div></li><li><div>Increases champion experience received by 10%.</div></li></ul></li><li><code>Dracula&#x27;s Hat</code>:<ul><li><div>Increases champion experience received by 5%.</div></li><li><div>The effectiveness of recovery items is increased by 20%.</div></li></ul></li></ul></li></ul>]]></content>
+        <author>
+            <name>Zeref</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rotations - Week 8]]></title>
         <id>2022-01-16-rotations-week-8</id>

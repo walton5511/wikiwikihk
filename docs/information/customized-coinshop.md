@@ -9,32 +9,41 @@ hide_title: true
 
 ---
 
-Everything you need to know about the customization of coinshop items is listed here. The list will be updated as new stuff is released.
+Everything you need to know about the customization of coinshop items is listed here, as well as information about the big prizes of God's Altar. The list will be updated as new stuff is released.
 
 ---
 
-## **Pets' Custom Buffs**
+## **Pets' Buffs**
 
 ### ``Viking Bushi``
 - **[Odin's Blessing]:**
-  - Damage dealt is increased by %5.
+  - Damage dealt is increased by 5%.
   - Every 60 seconds: MP is increased by (Player Level\*20).
 ### ``Ninja Bushi``
 - **[Ninja's Blessing]:**
-  - Damage dealt is increased by %5.
+  - Damage dealt is increased by 5%.
   - Shadow resistance is increased by 10.
 ### ``Super Santa Bushi``
 - **[Blessing of Christmas]:**
-  - Damage dealt is increased by %5.
+  - Damage dealt is increased by 5%.
   - Increases fame received by 5%.
 ### ``Indian Bushi``
 - **[Indian's Blessing]:**
-  - Damage dealt is increased by %5.
+  - Damage dealt is increased by 5%.
   - Fire resistance is increased by 10.
   - Damage received from critical hits is decreased by 10%.
 - **[Indian Blood Tie]:**
+  - Duration: 5s
   - There is a 100% probability to remove bad effects of level 4 or lower.
   - Every 2 seconds: 10% HP is recovered.
+### ``Fibi Frosty``
+- **[Owl Blessing]:**
+  - Damage dealt is increased by  10%.
+  - Water resistance is increased by 10.
+- **[Slight Freeze]:**
+  - Duration: 2s
+  - Movement impossible.
+  - No attack possible.
 
 ---
 
@@ -55,7 +64,7 @@ Everything you need to know about the customization of coinshop items is listed 
 ### ``Golden Wings``
   - Movement speed is increased by 1.
   - Resists forced movement with a probability of 50%.
-  - Damage received is decreased by 10%.
+  - All defences are incresed by 10%.
 ### ``Fairy Wings``
   - Movement speed is increased by 1.
   - The equipped fairy's element increases by 15.
@@ -91,24 +100,58 @@ Everything you need to know about the customization of coinshop items is listed 
 ### ``Orkani``
 - **[Marked (S)]:**
   - Level 3 -> 5
-### ``Laurena``
-- **Thorn Bush:**
+# Laurena PSP
+- Thorn Bush:
   - Cool time: 15s -> 35s
   - There is a 30% -> 100% chance of causing [Thorn Bush].
-- **Scent of the Curse:**
+- Scent of the Curse:
   - There is a 25% -> 100% chance of causing [Scent of the Curse].
-- **[Pulse of Light (S)]:**
+- [Pulse of Light (S)]:
   - Level 4 -> 5
-- **[Thorn Bush (S)]:**
+- [Thorn Bush (S)]:
   - Movement speed is decreased by 3 -> 2.
-- **[Scent of the Curse (S)]:**
+- [Scent of the Curse (S)]:
   - Level: 4 -> 5
   - [NEW] There is a 100% chance that damage from magic attacks is increased by 20%.
 ### ``Foxy``
-- **Piercing Howl:**
+- Piercing Howl:
   - Cool time: 30s -> 60s
-- **[Fall for the Charms (S)]:**
-  - Level 4 -> 5
+- [Fall for the Charms (S)]:
+  - Level: 4 -> 5
+### ``Amon``
+- Boiling Over:
+  - There is a 20% -> 100% chance of causing [Boiling Over].
+- Provocation:
+  - Attack range: 7 -> 6
+  - [REMOVE] There is a 100% chance of causing [Provocation].
+  - [NEW] Draws enemies to 1 fields away from you.
+- [Flame of Hell (S)]:
+  - Level: 4 -> 5
+  - [NEW] Critical damage received is increased by 20%.
+- [Boiling Over]:  // (F) to (S)
+  - Self Buff -> Enemy Debuff
+  - [REMOVE] Enemy's HP is decreased by x% of the damage I have received.
+  - [NEW] Shadow resistence is decreased by 2/4/6/8/9/12/20.
+- [Boiling Over (S)]:
+  - Level: 4 -> 5
+### ``Lucifer``
+- Mark of Light:
+  - There is a 6% -> 20% of causing [Mark of Light].
+- [Light of Judgement (S)]:
+  - Level: 3 -> 5
+  - Duration: 18s -> 10s
+- [Mark of Light (S)]:
+  - Level: 3 -> 5
+  - Duration: 5s -> 10s
+  - Movement speed is decreased by 4 -> 2.
+- [Name of God]:  // (F) to (S)
+  - Duration: 20/18/16/14/12/10/8 -> 6/7/8/9/10/11/12
+  - [REMOVE] There is a x% chance that buffs below Lv 4 will be removed.
+  - [REMOVE] There is a x% chance that no good effects below level 4 can be used.
+  - [NEW] Light resistence is decreased by 2/4/6/8/9/12/20.
+- [Name of God (S)]:
+  - Level: 4 -> 5
+  - [NEW] Dodge is decreased by 100.
 
 ---
 
@@ -133,7 +176,7 @@ Everything you need to know about the customization of coinshop items is listed 
   - Movement speed is increased by 1.
   - There is a 5% chance that damage from ranged attacks is reduced by 100%.
 - **Karate Hairstyle**
-  - All attacks are increased by 4%.
+  - Damage dealt is increased by 4%.
   - There is a 3% chance of causing [Karate Block].
 - **[Karate Block]**
   - Positive Effect (1 Level)
@@ -153,6 +196,13 @@ Everything you need to know about the customization of coinshop items is listed 
 - **Illusionist's Top Hat**
   - Damage dealt is increased by 4%.
   - There is a 3% chance of causing [Trickery].
+### ``Dracula's Costume``
+- **Dracula's Costume**
+  - Movement speed is increased by 1.
+  - Increases champion experience received by 10%.
+- **Dracula's Hat**
+  - Increases champion experience received by 5%.
+  - The effectiveness of recovery items is increased by 20%.
 
 ---
 
@@ -203,7 +253,7 @@ Everything you need to know about the customization of coinshop items is listed 
   - **Speed Booster Speed:** +3, 5s
 
 ### ``'Blazing Blades' In-line Skates``
-  - **Speed:** 21
+  - **``Speed:** 21
   - **Bonus Speed:** +3 in Act5
   - **Speed Booster Effect:** Removes all negative effects under level 4.
   - **Speed Booster Speed:** +3, 5s
@@ -225,3 +275,61 @@ Everything you need to know about the customization of coinshop items is listed 
   - **Bonus Speed:** +3 in Act5
   - **Speed Booster Effect:** There is a certain chance for the Shadow Prowler buff to take effect when the Speed Booster ends.
   - **Speed Booster Speed:** +3, 5s
+
+### ``Nossi the Dragon``
+  - **``Speed:** 21
+  - **Bonus Speed:** +3 in Act6
+  - **Speed Booster Effect:** Removes all negative effects under level 4.
+  - **Speed Booster Speed:** +3, 5s
+
+### ``Horned Sweeper``
+  - **Speed:** 21
+  - **Bonus Speed:** +3 in Act6
+  - **Speed Booster Effect:** Teleports you 5 fields forwards.
+  - **Speed Booster Speed:** +3, 5s
+
+### ``Magic Bone Drake``
+  - **Speed:** 21
+  - **Bonus Speed:** +3 in Act6
+  - **Speed Booster Effect:** Teleports you to a random point on the map.
+  - **Speed Booster Speed:** +3, 2s
+
+### ``Magic Donkey Pinata``
+  - **Speed:** 21
+  - **Bonus Speed:** +3 in Act6
+  - **Speed Booster Effect:** There is a certain chance for the Shadow Prowler buff to take effect when the Speed Booster ends.
+  - **Speed Booster Speed:** +3, 5s
+
+### ``Magic Sleigh``
+  - **Speed:** 21
+  - **Bonus Speed:** +3 in Act4
+  - **Speed Booster Speed:** +3, 5s
+
+### ``Magic Sleigh with Red-nosed Reindeer``
+  - **Speed:** 21
+  - **Bonus Speed:** +3 in Act4
+  - **Speed Booster Effect:** Provides a certain chance to trigger the Magic of the Red Nose buff when the speed booster effect ends.
+  - **Speed Booster Speed:** +3, 5s
+  - [Magic of the Red Nose]:
+    - Duration: 30s
+    - Every 2 seconds: Restores (Player Levelx3) HP.
+
+---
+
+## **Weapon Skin**
+
+### ``Christmas``
+- **Christmas Tree**
+  - Damage dealt in PvP is increased by 5%.
+- **Candy Bow
+  - Damage dealt in PvP is increased by 5%.
+- **Christmas Bell**
+  - Damage dealt in PvP is increased by 5%.
+
+### ``Steampunk``
+- **Steampunk Chronoblade**
+  - Damage dealt in PvE is increased by 5%.
+- **Steampunk Clockwork Bow**
+  - Damage dealt in PvE is increased by 5%.
+- **Steampunk Geared Wand**
+  - Damage dealt in PvE is increased by 5%.

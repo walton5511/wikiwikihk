@@ -50,7 +50,37 @@ module.exports = {
             { type: 'doc', id: 'guides/sp-guides/sp5-to-sp8', label: 'SP5 to SP8' },
           ]
         },
-        { type: 'doc', id: 'guides/fast-level-up', label: 'Level Up guide' },
+        {
+          type: 'category',
+          label: 'Leveling',
+          items: [
+            { type: 'doc', id: 'guides/leveling/fast-level-up', label: 'Level Up guide' },
+            { type: 'doc', id: 'guides/leveling/champion-leveling-guide', label: 'Champion Leveling guide' }
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Raids',
+          items: [
+            { type: 'doc', id: 'guides/raids/erenia-and-zenas', label: 'Erenia & Zenas Raid guide' },
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Crafting',
+          items: [
+            { type: 'doc', id: 'guides/crafting/act-6-fairies-craft', label: 'Act 6 Fairies Craft guide' },
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Quests',
+          items: [
+            { type: 'doc', id: 'guides/quests/act-6-questline', label: 'Act 6 Questline guide' },
+          ]
+        },
+        { type: 'doc', id: 'guides/act-6-passives', label: 'Act 6 Passives guide' },
+        { type: 'doc', id: 'guides/hero-equipment', label: 'Hero Equipment guide' },
         { type: 'doc', id: 'guides/eq-progression', label: 'Equipment Progression guide' },
       ]
     },

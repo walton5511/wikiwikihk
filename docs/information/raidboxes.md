@@ -61,3 +61,9 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 
 ## Laurena
 !["Laurena Box"](https://i.imgur.com/wjod7u9.png)
+
+## Erenia
+![](https://i.imgur.com/3fkxLUj.png) ![](https://i.imgur.com/SA1TdL3.png)
+
+## Zenas
+![](https://i.imgur.com/6slXQ8T.png) ![](https://i.imgur.com/SA1TdL3.png)

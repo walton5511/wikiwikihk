@@ -31,5 +31,6 @@ If you get killed you will be frozen for a set amount time. Your teammates can u
 
 
 ## Rewards
-Upon completion, you will get rewarded 3 coins for winning or 1 coin for loosing. you can trade them in at Titus for some juicy rewards as seen below!   
-![](https://i.imgur.com/e0gBQcE.png)
+Upon completion, you will get rewarded 3 coins for winning or 1 coin for loosing. you can trade them in at Titus for some juicy rewards as seen below!
+
+![](https://i.imgur.com/dggu0UU.png)  ![](https://i.imgur.com/jpYfCf1.png) 

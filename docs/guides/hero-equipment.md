@@ -10,7 +10,7 @@ hide_title: true
 
 ### Raidboxes
 
-![](https://i.imgur.com/ub4ab5B.png)![](https://i.imgur.com/vQ5AnEG.png)
+![](https://i.imgur.com/cl9jEjS.png)![](https://i.imgur.com/jEcNjZN.png)
 
 
 ### Crafting

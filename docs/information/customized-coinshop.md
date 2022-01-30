@@ -44,6 +44,14 @@ Everything you need to know about the customization of coinshop items is listed 
   - Duration: 2s
   - Movement impossible.
   - No attack possible.
+### ``Fluffy Bally``
+- **[Fluffy Bally's Blessing]:**
+  - Damage dealt is increased by 5%.
+  - Damage received is decreased by 5%.
+  - Damage received in PvP is reduced by 10%.
+- **[Handicapped]:**
+  - Duration: 10s
+  - Reduces attack power by a factor of 1.
 
 ---
 

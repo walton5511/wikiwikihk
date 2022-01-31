@@ -11,22 +11,22 @@ There are many new different NPCs in Olympus, which bring a new array of items t
 ## New Shops
 
 #### Helen, Loyalty Shop
-![](https://i.imgur.com/bDEwb8h.png)  
+![](https://i.imgur.com/3PvO7Sf.png)  
 Our first new NPC vendor is Helen, which trades different Mall items for loyalty coins, which you get rewarded with by doing daily activities.
 
 
 #### Hatem, Travelling Merchant
-![](https://i.imgur.com/HnoMqmv.png)  
+![](https://i.imgur.com/fQjUqjH.png)  
 This NPC should spark some memories in some players, as you can see you are able to buy upgrade materials and different Mall items at a fixed price here.
 
 
 #### Nemo (Mysterious Monk), Raids and Trophies
-![](https://i.imgur.com/xTGtMGz.png)  
+![](https://i.imgur.com/AKeoKM9.png)  
 Nemo as the Trophy NPC shouldn't be a stranger to some people,here you can buy everything Raid and Trophy related.
 
 
 #### Titus Trip, Rainbow Shop
-![](https://i.imgur.com/EWzLGhu.png)  
+![](https://i.imgur.com/dggu0UU.png) ![](https://i.imgur.com/rztquMO.png) <br/>
 With the RBB now rewarding Rainbow Coins, the vendor responsible for them is Titus, who sells another set of special items as you can see.
 
 

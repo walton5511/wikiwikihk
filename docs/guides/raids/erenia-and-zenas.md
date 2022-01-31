@@ -130,20 +130,20 @@ Letting her die will grant Zenas a buff:
 
 Its finally time to encounter Zenas:
 
-![](https://i.imgur.com/AXyR1oh.png)
+![](https://i.imgur.com/p2ujihN.png)
 
 ____
 
 ## Raidbox and Reward
 
-![](https://i.imgur.com/BIvfCXG.png) ![](https://i.imgur.com/ps9oBBR.png)
+![](https://i.imgur.com/Yru4U98.png) ![](https://i.imgur.com/ePeWAxw.png)
 
 ***The following items have a selling price to NPCs:***
 
 - ![](https://i.imgur.com/4pFCQ3q.png) ![](https://i.imgur.com/P5z3gSa.png) ![](https://i.imgur.com/LSndDdV.png) 15.000.000 Gold each
 - ![](https://i.imgur.com/CxS7wvi.png) 5.000.000 Gold
-- ![](https://i.imgur.com/xY7s1mm.png) 250.000 Gold
-- ![](https://i.imgur.com/9fdvIB3.png) 50.000 Gold
+- ![](https://i.imgur.com/xY7s1mm.png) 625.000 Gold
+- ![](https://i.imgur.com/9fdvIB3.png) 125.000 Gold
 
 ***Items that you might not know yet:***
 

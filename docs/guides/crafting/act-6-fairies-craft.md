@@ -50,11 +50,11 @@ To craft the fairies, you will have to talk to **Graham** in the middle of Nosvi
 
 Once you talk to her, a window will pop up in which you'll find the fairy crafting and other things, but let's focus on the fairies.
 
-![](https://imagizer.imageshack.com/img923/316/72ZnwC.png)
+![](https://i.imgur.com/ANgXehM.png)
 
 In order to craft the fairies you will need 6 different items of which some will vary depending on the element and the type of fairy (Zenas/Erenia).
 
-![](https://imagizer.imageshack.com/img923/9057/JI86tv.png)
+![](https://i.imgur.com/lij2u84.png)
 
 - **Divine Fairy**: Depending on the element, you need a divine fairy of that element, be it ![](https://nosapki.nostale.club/images/Ikona/988.png) (<font color='cyan'>Water</font>), ![](https://nosapki.nostale.club/images/Ikona/987.png) (<font color='red'>Fire</font>), ![](https://nosapki.nostale.club/images/Ikona/989.png) (<font color='gold'>Light)</font>or ![](https://nosapki.nostale.club/images/Ikona/993.png) (<font color='indigo'>Shadow</font>).
 
@@ -72,6 +72,6 @@ In order to craft the fairies you will need 6 different items of which some will
 
 	- Essences are obtainable by opening Act 4 Raid Boxes.
 
-- **Crystal of Balance** x200![](https://nosapki.nostale.club/images/Ikona/2755.png): You can craft them from Element of Balance and Essence of Balance, which can be made into Crystal of Balance by **Priest of Transformation**.
+- **Crystal of Balance** x150![](https://nosapki.nostale.club/images/Ikona/2755.png): You can craft them from Element of Balance and Essence of Balance, which can be made into Crystal of Balance by **Priest of Transformation**.
 
 	 Element of Balance and Essence of Balance are obtainable on Erenia and Zenas raidboxes,  as well as a drop once the boss dies.

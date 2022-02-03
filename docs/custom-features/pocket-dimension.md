@@ -36,7 +36,7 @@ Pocket dimensions are available in many maps, and they are as follows
 
 <br></br>
 
-### **Act1 5.2**
+### **Act 5.2**
 
 #### Eastern Path
 
@@ -45,3 +45,23 @@ Pocket dimensions are available in many maps, and they are as follows
 #### Katol's Street
 
 ![Katol's Street](/img/custom-features/pocket-dimensions/katol's-street.png)
+
+
+
+<br></br>
+
+### **Act 6.1**
+
+#### Hell's Ruin 1
+
+![](https://i.imgur.com/IMMZGiC.png)
+
+#### Hell's Ruins 2
+![](https://i.imgur.com/LYrpqFt.png)
+
+#### Heaven's Ruins 1
+![](https://i.imgur.com/AX4vXpH.png)
+
+#### Heaven's Ruins 2
+![](https://i.imgur.com/2WQxJHv.png)
+

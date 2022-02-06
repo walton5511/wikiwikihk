@@ -211,6 +211,13 @@ Everything you need to know about the customization of coinshop items is listed 
 - **Dracula's Hat**
   - Increases champion experience received by 5%.
   - The effectiveness of recovery items is increased by 20%.
+### ``Nutcracker's Costume``
+- **Nutcracker Uniform**:
+  - Movement speed is increased by 1.
+  - There is a 5% chance that damage from melee attacks is reduced by 100%.
+- **Nutcracker Shako**:
+  - Damage dealt is increased by 4%.
+  - There is a 3% chance of causing [Heavy Glue].
 
 ---
 

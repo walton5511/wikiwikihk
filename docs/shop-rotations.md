@@ -13,7 +13,7 @@ hide_title: true
 
 Every week, Olympus Shop will update some of its random boxes.  
 These *Rotational Random Boxes* stay on shop for a certain amount of time before getting replaced by another Random Box of the same type.  
-There are currently four types of random boxes, and they rotate on different time intervals.
+There are currently five types of random boxes, and they rotate on different time intervals.
 
 | Box Type                | Update Interval |
 |:----------------------- |:--------------- |

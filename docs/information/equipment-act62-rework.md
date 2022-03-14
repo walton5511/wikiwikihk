@@ -12,7 +12,7 @@ hide_title: true
   - Damage: 546~713 -> 650~800
   - Hitrate: 465 -> 530
   - Critical chance/damage: 16%/190% -> 19%/200%
-  - <BCard>Reduces the enemy's elemental resistances by 20 -> 23.</BCard>
+  - Reduces the enemy's elemental resistances by 20 -> 23.
   - [REMOVE] There is a 4% chance of causing [Azrael, Angel of Death].
   - [UNCHANGED] All elemental energies are increased by 160.
   - [UNCHANGED] Increases damage dealt with a probability of 30% by 50%.

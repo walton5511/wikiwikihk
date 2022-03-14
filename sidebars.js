@@ -102,10 +102,10 @@ module.exports = {
         { type: 'doc', id: 'information/mounts', label: 'Mounts' },
         { type: 'doc', id: 'information/titles', label: 'Titles' },
         { type: 'doc', id: 'information/shells', label: 'Shell Options' },
-        { type: 'doc', id: 'information/equipment-act62-rework', label: 'Act6.2 Equipment Rework' },
         { type: 'doc', id: 'information/items-sale-price', label: 'Items sale price' },
         { type: 'doc', id: 'information/customized-coinshop', label: 'Customized Coinshop Items' },
         { type: 'doc', id: 'information/wings-rework', label: 'SP Wings Effects' },
+        { type: 'doc', id: 'information/equipment-act62-rework', label: 'Act6.2 Equipment Rework' },
       ]
     },
     {

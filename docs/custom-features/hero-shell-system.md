@@ -41,12 +41,12 @@ You have 1 hour to defeat Caligor, otherwise the event will end and no one will 
 - **Caligor's Glowing Treasure**
 
 <p align="center">
-<img src="https://imageshack.com/i/pn03AvoXp"/></p>
+<img src="https://imageshack.com/i/po0rlZEDp"/></p>
 
 - **Caligor's Dimming Treasure**
 
-    <p align="center">
-    <img src="https://imageshack.com/i/po0rlZEDp"/></p>
+<p align="center">
+<img src="https://imageshack.com/i/pn03AvoXp"/></p>
 
 ## Heroic Shells
 Heroic Shells are an alternative to betting. Caligor raidbox will drop shells with the same rarity as the box, and on top of that, these shells can be recycled to get r8 shell of any type. The shells have the same options to the shell options you get via betting. The shells can only be applied to Heroic Equipment, of any level.

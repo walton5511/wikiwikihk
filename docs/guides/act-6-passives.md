@@ -5,7 +5,6 @@ title: Act 6 Passives guide
 hide_title: true
 ---
 
-
 # Passive Books
 
 ## PvP Books

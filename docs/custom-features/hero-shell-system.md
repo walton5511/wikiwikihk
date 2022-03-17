@@ -9,7 +9,7 @@ hide_title: true
 <img src="https://imageshack.com/i/pnQ9zpLUp"/></p>
 
 ## How to access?
-To participate in the Caligor event, you have to wait for it to start, according to the schedule. The entrance is located in Unknown Land, which can be accessed through Bitoren Tundra.
+To participate in the Caligor event, you have to wait for it to start, according to the schedule. The entrances are located in both Citadels, and in Unknown Land -which can be accessed through Bitoren Tundra-.
 
 <p align="center">
 <img src="https://imageshack.com/i/pmScKOUmp"/></p>

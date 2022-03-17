@@ -9,48 +9,48 @@ hide_title: true
 
 ## Archer
 - Azrael's Wings:
-  - Damage: 546~713 -> 650~800
-  - Hitrate: 465 -> 530
-  - Critical chance/damage: 16%/190% -> 19%/200%
+  - Damage: 546~713 -> 628~800
+  - [UNCHANGED] Hitrate: 465
+  - Critical chance/damage: 16%/190% -> 18%/210%
   - Reduces the enemy's elemental resistances by 20 -> 23.
   - [REMOVE] There is a 4% chance of causing [Azrael, Angel of Death].
   - [UNCHANGED] All elemental energies are increased by 160.
   - [UNCHANGED] Increases damage dealt with a probability of 30% by 50%.
 
 - Broken Krem's Left Blade:
-  - Damage: 531~602 -> 607~707
-  - Hitrate: 479 -> 480
-  - Critical chance/damage: 18%/350% -> 20%/350%
+  - [UNCHANGED] Damage: 531~602
+  - Hitrate: 479 -> 538
+  - Critical chance/damage: 18%/350% -> 20%/370%
   - Reduces the enemy's elemental resistances by 10 -> 15.
   - [REMOVE] There is a 7% chance of causing [Krem's Ego (Secondary Weapon)].
-  - [NEW] Hit rate of all attacks is increased by 100.
+  - [NEW] Hit rate of all attacks is increased by 120.
   - [UNCHANGED] Increases damage dealt with a probability of 6% by 70%.
 
 - Leather Armour of Silver Soul Glacernon:
-  - Melee defence: 410 -> 634
-  - Ranged defence: 475 -> 685
-  - Magic defence: 477 -> 593
-  - Dodge: 556 -> 590
+  - Melee defence: 410 -> 516
+  - Ranged defence: 475 -> 579
+  - Magic defence: 477 -> 577
+  - Dodge: 556 -> 574
   - Damage from critical hits is reduced by 50% -> 55%.
-  - Maximum HP is increased by 5500 -> 9000.
+  - Maximum HP is increased by 5500 -> 6000.
   - [REMOVE] There is a 2% chance of causing [Glacernon's Echo].
   - [NEW] Dodge is increased by 150.
   - [UNCHANGED] Probability to receive critical hits is decreased by 10%.
 
 ## Mage
 - Seli-Lusha's Branch of Light:
-  - Damage: 618~726 -> 678~781
-  - Concentration: 75 -> 80
+  - Damage: 618~726 -> 707~820
+  - [UNCHANGED] Concentration: 75
   - Reduces the enemy's elemental resistances by 21 -> 24.
   - [REMOVE] There is a 10% chance of causing [Seli-Lusha's Essence].
-  - [NEW] Maximum MP is increased by 8000.
+  - [NEW] Maximum MP is increased by 8500.
   - [UNCHANGED] All elemental energies are increased by 220.
   - [UNCHANGED] Increases damage dealt with a probability of 25% by 55%.
 
 - Abyssal Lorten's Spell Gun:
-  - Damage: 588~679 -> 597~729
-  - Hitrate: 458 -> 480
-  - Critical chance/damage: 15%/200% -> 17%/210%
+  - Damage: 588~679 -> 674~765
+  - Hitrate: 458 -> 515
+  - Critical chance/damage: 15%/200% -> 17%/220%
   - Reduces the enemy's elemental resistances by 10 -> 15.
   - Increases damage dealt with a probability of 25% by 35% -> 55%.
   - [REMOVE] There is a 5% chance of causing [Lorten's Dusk].
@@ -58,11 +58,11 @@ hide_title: true
   - [NEW] Maximum MP is increased by 2500.
 
 - Mukraju's Robe:
-  - Melee defence: 395 -> 613
-  - Ranged defence: 461 -> 641
-  - Magic defence: 574 -> 735
-  - Dodge: 494 -> 504
-  - Damage from critical hits is reduced by 40% -> 60%
+  - Melee defence: 395 -> 442
+  - Ranged defence: 461 -> 538
+  - Magic defence: 574 -> 677
+  - [UNCHANGED] Dodge: 494
+  - Damage from critical hits is reduced by 40% -> 45%
   - Maximum HP is increased by 8000 -> 8500.
   - [REMOVE] There is a 2% chance of causing [Mukraju's Wisdom].
   - [NEW] All elemental resistances are increased by 10.
@@ -70,9 +70,9 @@ hide_title: true
 
 ## Swordsman
 - Broken Krem's Right Blade:
-  - Damage: 628~715 -> 707~814
-  - Hitrate: 485 -> 570
-  - Critical chance/damage: 14%/200% -> 16%/210%
+  - Damage: 628~715 -> 718~810
+  - Hitrate: 485 -> 509
+  - Critical chance/damage: 14%/200% -> 14%/220%
   - Reduces the enemy's elemental resistances by 20 -> 24.
   - [REMOVE] There is a 5% chance of causing [Krem's Ego].
   - [UNCHANGED] All elemental energies are increased by 185.
@@ -90,12 +90,12 @@ hide_title: true
   - [UNCHANGED] All defence powers are increased by 220.
 
 - Brave Shares' Heavy Armour:
-  - Melee defence: 609 -> 757
-  - Ranged defence: 524 -> 727
-  - Magic defence: 406 -> 673
-  - Dodge: 462 -> 553
-  - Damage from critical hits is reduced by 65% -> 80%.
-  - Maximum HP is increased by 8000 -> 11000.
+  - Melee defence: 609 -> 710
+  - Ranged defence: 524 -> 598
+  - Magic defence: 406 -> 455
+  - Dodge: 462 -> 471
+  - Damage from critical hits is reduced by 65% -> 70%.
+  - Maximum HP is increased by 8000 -> 8500.
   - [REMOVE] There is a 2% chance of causing [Shares' Battle Cry].
   - [NEW] Probability to receive critical hits is decreased by 10%.
   - [UNCHANGED] All elemental resistances are increased by 10.
@@ -105,7 +105,7 @@ hide_title: true
   - Melee defence: 12 -> 100
   - Ranged defence: 12 -> 100
   - Magic defence: 12 -> 100
-  - Dodge: 5 -> 100
+  - Dodge: 5 -> 0
   - Resistances: 13/13/13/13 -> 12/12/12/12
   - [UNCHANGED] Movement speed is increased by 2.
 
@@ -151,93 +151,13 @@ hide_title: true
   - [UNCHANGED] Damage dealt in PvP is increased by 3%.
   - [UNCHANGED] Damage received in PvP is decreased by 3%.
 
-# Changelog
-
-- Kertos Leather Chest Armour:
-  - Dodge is increased by 100 -> 125.
-- Sealed Heavenly Leather Armour:
-  - Dodge is increased by 100 -> 150.
-- Sealed Heavenly Leather Armour:
-  - Dodge is increased by 100 -> 150.
-
-# SP Changes
-
-## Destroyer
-- [Visual Impairment]:
-  - Hit rate of all attacks is decreased by 150 -> 100.
-- [Overtrained Body]:
-  - [REMOVE] Non-elemental damage received is decreased by 15%.
-  - [REMOVE] Defense level is increased by 2.
-
-## Demon Hunter
-- [Vengeful Spirit]:
-  - Hit rate of all attacks is decreased by (Player Levelx4 -> x3).
-
-## Holy Mage
-- Healing:
-  - Cool time: 30s -> 60s
-- Heaven Song:
-  - Attack range: 6 -> 4
-  - Cool time: 20s -> 30s
-- Mana Shield:
-  - Cool time: 30s -> 60s
-
-## Blue Mage
-- Freezing Blast:
-  - Casting time: 0.8s -> 0.4s
-- Ice Chain:
-  - Cool time: 45s -> 20s
-  - There is a 70% -> 30% chance of causing [Freeze].
-- Frozen Shield:
-  - [NEW] There is a 100% chance of causing [Forgotten Knowledge].  // only in Fernon raid
-- Glacier:
-  - Cool time: 40s -> 20s
-  - [NEW] Summons 2x [Snowball Minion].
-- Blizzard:
-  - Cool time: 90s -> 40s
-  - There is a 80% -> 60% chance of causing [Deadly Blackout].
-- [NEW] Forgotten Knowledge:
-  - 5Lv. Positive Magic Effect
-  - Duration: 180s
-  - Reduces enemy's water resistance by 20.
-  - Increses damage dealt with a probability of 10% by 10%.
-  - Resists forced movement with a probability of 50%.
-- Snowball Minion:
-  - The damage causes HP to decrease by 25%.
-  - There is a 2% chance of causing [Cold].
-  - Undebuffable, decays in 40 seconds.
-
-## Volcano
-- [Magma Plating]:
-  - [REMOVE] Defense against 7000 critical damage (up to 3 times).
-  - [NEW] Defense against 7000 critical damage.  // now working
-
-## Crusader
-- [Shining Effect]:
-  - Every 4 -> 6 seconds: 6% HP is recovered.
-- Growth Shield:
-  - Cool time: 30s -> 60s
-
-## Gladiator
-- [Enourmously Shaky Status]:
-  - Buff level: 3 -> 5
-- [Shaky Status]:
-  - Buff level: 2 -> 4
-- [Engorgement]:
-  - [REMOVE] Hit rate of all attacks is decreased by (Player Levelx2).
-- [Victory Cry]:
-  - [NEW] Hit rate of melee attacks is decreased by (Player Levelx2).
-- Double Blow:
-  - There is a 10% -> 20% chance of causing [Knockdown].
-
-## Battle Monk
-- [Spiritual Strength]:
-  - Hit rate of all attacks is decreased by (Player Levelx4 -> x3).
-
-## Renegade
-- [Ignition]:
-  - Hit rate of all attacks is decreased by (Player Levelx2 -> x1).
-
-## Pyjama
-- Pillow Fight:
-  - [NEW] There is a 20% chance of causing [Sleep].
+- Fernon Fairy:
+  - Level: 50~80 -> 90
+  - [REMOVE] Increases damage against players of the Demon faction by 12%.
+  - [REMOVE] Increases damage against players of the Angel faction by 12%.
+  - [REMOVE] X* element is increased by 5.
+  - [REMOVE] X* resistance is increased by 5.
+  - Damage dealt in PvP is increased by 3% -> 7%.
+  - [NEW] Damage received in PvP is decreased by 7%.
+  - Reduces the enemy's X* resistance by 5.
+***Same as fairy's element.**

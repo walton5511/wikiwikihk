@@ -55,33 +55,6 @@ Everything you need to know about the customization of coinshop items is listed 
 
 ---
 
-## **Wings' Custom Buffs**
-
-### ``Archangel Wings``
-  - Movement speed is increased by 1.
-  - Reduces the enemy's light resistance by 5.
-### ``Archdaemon Wings``
-  - Movement speed is increased by 1.
-  - Reduces the enemy's shadow resistance by 5.
-### ``Blazing Fire Wings``
-  - Movement speed is increased by 1.
-  - Reduces the enemy's fire resistance by 5.
-### ``Frosty Ice Wings``
-  - Movement speed is increased by 1.
-  - Reduces the enemy's water resistance by 5.
-### ``Golden Wings``
-  - Movement speed is increased by 1.
-  - Resists forced movement with a probability of 50%.
-  - All defences are incresed by 10%.
-### ``Fairy Wings``
-  - Movement speed is increased by 1.
-  - The equipped fairy's element increases by 15.
-### ``Crystal Wings``
-  - Movement speed is increased by 1.
-  - Up to level 4 there is a 15% chance of never getting a back effect.
-
----
-
 ## **Partner Specialist Changelog**
 
 ### ``Barni``
@@ -160,6 +133,19 @@ Everything you need to know about the customization of coinshop items is listed 
 - [Name of God (S)]:
   - Level: 4 -> 5
   - [NEW] Dodge is decreased by 100.
+### ``Harlequin``
+- Replaced "Mystifying" skill with "Purified Flames".
+- [Purified Flames]: // F to S
+  - Duration: 20
+  - There is a 1/3/5/7/9/11/15% chance that damage from magic attacks is increased by 5/5/10/10/15/15/20%.
+  - Level: 1/1/2/2/3/3/5
+  - Fire resistance is decreased by 2/4/6/8/10/12/15.
+- Purified Flames:
+  - Target : Select One -> Around Enemy in 4 cell
+- [Harlequin's Spell (S)]:
+  - Level: 4 -> 5
+  - Duration: 20s -> 10s
+
 
 ---
 
@@ -218,6 +204,13 @@ Everything you need to know about the customization of coinshop items is listed 
 - **Nutcracker Shako**:
   - Damage dealt is increased by 4%.
   - There is a 3% chance of causing [Heavy Glue].
+### ``Desert Costume``
+- **Desert Robe/Belly Dancer Costume**:
+  - Movement speed is increased by 1.
+  - There is a 5% chance that damage from all attacks is reduced by 80%.
+- **Desert Turban/Floral Crown**:
+  - Fire resistance is increased by 10.
+  - Your movement speed is increased by 2 while you are hidden.
 
 ---
 
@@ -334,17 +327,33 @@ Everything you need to know about the customization of coinshop items is listed 
 ## **Weapon Skin**
 
 ### ``Christmas``
-- **Christmas Tree**
+- **Christmas Tree**:
   - Damage dealt in PvP is increased by 5%.
-- **Candy Bow
+- **Candy Bow**:
   - Damage dealt in PvP is increased by 5%.
-- **Christmas Bell**
+- **Christmas Bell**:
   - Damage dealt in PvP is increased by 5%.
 
 ### ``Steampunk``
-- **Steampunk Chronoblade**
+- **Steampunk Chronoblade**:
   - Damage dealt in PvE is increased by 5%.
-- **Steampunk Clockwork Bow**
+- **Steampunk Clockwork Bow**:
   - Damage dealt in PvE is increased by 5%.
-- **Steampunk Geared Wand**
+- **Steampunk Geared Wand**:
   - Damage dealt in PvE is increased by 5%.
+
+### ``Cake``
+- **Cake Knife**:
+  - Provides a 5% chance to reset the cooldown of the attack skill used.
+- **Cake Bow**:
+  - Provides a 5% chance to reset the cooldown of the attack skill used.
+- **Firecracker Staff**:
+  - Provides a 5% chance to reset the cooldown of the attack skill used.
+
+### ``Sports``
+- **Baseball Bat**:
+  - When attacking, there is a 5% chance of summoning the Onyx Dragon's Shadow to carry out an additional attack.
+- **Recurve Bow**:
+  - When attacking, there is a 5% chance of summoning the Onyx Dragon's Shadow to carry out an additional attack.
+- **Tennis Racquet**:
+  - When attacking, there is a 5% chance of summoning the Onyx Dragon's Shadow to carry out an additional attack.

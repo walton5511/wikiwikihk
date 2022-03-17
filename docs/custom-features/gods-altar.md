@@ -35,7 +35,7 @@ God's Altar can be found near the trees accross Hatem and Helen.
 
 !["Common Prizes"](https://i.imgur.com/EGZc2SB.jpg)
 
-Common prizes are easy to get, though not all of them are equally common.
+Common prizes are easy to get, though not all of them are equally likely to get.
 
 - Ice Flower Oil 3x
 - Angel's Feathers 10x
@@ -43,32 +43,27 @@ Common prizes are easy to get, though not all of them are equally common.
 - Gourmet Pet Food 1x
 - Wings of Friendship 5x
 - Speaker 5x
-- Draco's Claw 1x
-- Glacerus' Mane 1x
+- Draco's Claw 5x
+- Glacerus' Mane 5x
 - Random Tarot Card 1x
 - Experience Potion 1x
 - Ancelloan's Blessing 1x
 - Special Pet Food 1x
 - Tarot Card Game 1x
 - Magic Speed Booster (1 Day) 1x
-- Partner Skill Ticket (All) 1x
+- Partner Skill Ticket (Single) 1x
 
 ``P.S.: These rewards can be changed later on, based on their prices and demand.``
 
-### Legendary Prizes
+### Rare Prizes
 
-With a little bit of luck, you can get a Legendary Prize.
+With a little bit of luck, you can get a Rare Prize.
 These prizes will be picked among items that were once in shop rotation.
 These prizes will be rotated every now and then.
 
-When you get a Legendary Prize, it will be announced so that everyone can know how lucky you are.
+When you get a Rare Prize, it will be announced so that everyone can know how lucky you are.
 
-#### Current Legendary Prizes
+### Legendary Prize
 
-- Ninja Bushtail
-- Oto-Fox Costume Set
-
-### Epic Prize
-
-If luck is truly on your side, you will get the exclusive Epic Prize that you can only get from God's Altar.
-Epic Prizes will rotate too, but you'll have to figure out what it is by yourself.
+If luck is truly on your side, you will get the exclusive Legendary Prize that you can only get from God's Altar.
+Legendary Prizes will rotate too, but you'll have to figure out what it is by yourself.

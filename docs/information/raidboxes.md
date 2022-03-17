@@ -67,3 +67,11 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 
 ### Zenas
 ![](https://i.imgur.com/ePeWAxw.png) ![](https://i.imgur.com/SA1TdL3.png)
+
+### Caligor
+
+![](https://imageshack.com/i/po0rlZEDp) ![](https://imageshack.com/i/pn03AvoXp)
+
+### Fernon
+
+![](https://imgur.com/aPdZ5mH.png)

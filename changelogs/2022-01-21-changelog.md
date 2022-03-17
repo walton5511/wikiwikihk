@@ -33,7 +33,7 @@ hide_table_of_contents: false
 - Replaced Mystic Heaven's "Mysticaron"s with "Lazekiel", and "Mystic Knight"s with "Sentinel".
 - Removed "Holy Weapon" buff from Lazekiel's skill.
 - Readjusted Mystic Heaven mobs' base stats, mainly with nerfs to their defense.
-- Reworked passive skill books' levels and their obtaining methods: see [Passive Book Guide](/guides/act-6-passives)
+- Reworked passive skill books' levels and their obtaining methods: see [Passive Book Guide](/guides/features/act-6-passives)
 - All A6.1 accessories (Zenas' and Erenia's Ring, Necklace, Bracelet) now have 3 slots of Cellon (Level 9).
 - All A6 fairies have 80% attribute upon crafting, and they do not level up.
 - Phenomenal equipment will only roll PvP and Perfect shells.

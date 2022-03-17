@@ -1,7 +1,7 @@
 ---
 id: erenia-and-zenas
 slug: erenia-and-zenas
-title: Erenia & Zenas Raid guide
+title: Act6.1 - Erenia/Zenas Guide
 hide_title: true
 ---
 

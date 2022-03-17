@@ -14,7 +14,7 @@ hide_table_of_contents: false
 
 - Implemented followings features:
   - [Caligor](/custom-features/hero-shell-system)
-  - [Arena of Talents](/guides/arena-of-talent)
+  - [Arena of Talents](/guides/features/arena-of-talent)
   - [Warp System](/custom-features/warp-system)
   - [SP Upgrades +16~20](/guides/crafting/sp-upgrade)
   - Act6.2

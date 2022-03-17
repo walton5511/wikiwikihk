@@ -1,7 +1,7 @@
 ---
 id: act-6-passives
 slug: act-6-passives
-title: Act 6 Passives guide
+title: Act6 - Passives Guide
 hide_title: true
 ---
 

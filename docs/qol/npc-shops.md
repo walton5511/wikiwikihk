@@ -11,7 +11,7 @@ There are many new different NPCs in Olympus, which bring a new array of items t
 ## New Shops
 
 #### Helen, Loyalty Shop
-![](https://i.imgur.com/3PvO7Sf.png)  
+![](https://i.imgur.com/zDzBNcr.png)  
 Our first new NPC vendor is Helen, which trades different Mall items for loyalty coins, which you get rewarded with by doing daily activities.
 
 
@@ -30,20 +30,20 @@ Nemo as the Trophy NPC shouldn't be a stranger to some people,here you can buy e
 With the RBB now rewarding Rainbow Coins, the vendor responsible for them is Titus, who sells another set of special items as you can see.
 
 
-#### Remy, Snacks/Food and Potions
+#### Eva Energy, Snacks/Food and Potions
 ![](https://i.imgur.com/t5vR9lM.png)  
-One of the newest NosVille Residents is Remy, the Little Chef. With Remy's help you can craft snacks, food and potions en-mass.
+One of the newest NosVille Residents is Eva Energy. With the "Exchange" option you can craft snacks, food and potions en-mass.
 
 
 ## Changed Shops
 
 #### Soraya Style, Accessories
-![](https://i.imgur.com/0DFxmeQ.png)  
-As you can see Soraya now sells accesssories up to the Kednoss' Set (Levels 84,85,86).
+![](https://i.imgur.com/yirqOFv.png)  
+As you can see here you can buy your Radal's Rings at Soraya for your main quest.
 
 
 #### Malcom Mix, Potions and Refiners
-![](https://i.imgur.com/6dvJKVX.png)  
+![](https://i.imgur.com/NU9X1sF.png)  
 Malcom now sells the new Mass Refinersand materials to craft potions.
 
 

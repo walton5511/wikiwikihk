@@ -81,7 +81,7 @@ hide_title: true
 - Luminiel's Shining Crossbow:
   - Damage: 553~669 -> 585~750
   - Hitrate: 462 -> 520
-  - Critical chance/damage: 16%/190% -> 18%/210%
+  - Critical chance/damage: 16%/190% -> 18%/220%
   - [NEW] Reduces the enemy's elemental resistances by 15.
   - [NEW] Increases damage with a probability of 10% by 40%.
   - [REMOVE] There is a 5% chance of causing [Rumial's Dawn].

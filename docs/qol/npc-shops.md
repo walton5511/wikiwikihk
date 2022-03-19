@@ -32,7 +32,7 @@ With the RBB now rewarding Rainbow Coins, the vendor responsible for them is Tit
 
 #### Eva Energy, Snacks/Food and Potions
 ![](https://i.imgur.com/t5vR9lM.png)  
-One of the newest NosVille Residents is Eva Energy. With the "Exchange" option you can craft snacks, food and potions en-mass.
+One of the most beloved NosVille Residents, Eva Energy, can help you craft snacks, food and potions en masse with new "Exchange" option.
 
 
 ## Changed Shops

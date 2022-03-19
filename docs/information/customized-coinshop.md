@@ -211,6 +211,13 @@ Everything you need to know about the customization of coinshop items is listed 
 - **Desert Turban/Floral Crown**:
   - Fire resistance is increased by 10.
   - Your movement speed is increased by 2 while you are hidden.
+### ``Groovy Beach``
+- **Groovy Beach Costume**:
+  - Movement speed is increased by 1.
+  - There is a 3% chance of causing [Groovy Beach Vibes].
+- **Groovy Beach Hat**:
+  - All elemental resistances are increased by 10.
+  - Damage dealt is increased by 5%.
 
 ---
 

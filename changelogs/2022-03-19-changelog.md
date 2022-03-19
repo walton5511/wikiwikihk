@@ -30,9 +30,51 @@ hide_table_of_contents: false
 - Increased hero experience rate by 40%.
 - Increased max hero level from 30 to 50.
 - Added Unknown Land portal to Bitoren Tundra.
-- Rotated God's Altar rare rewards: Dracula's Costume Set, Crystal Wings, Sports Weapon Skins (Super Rare)
+- Rotated Shop and God's Altar rare rewards: Dracula's Costume Set, Crystal Wings, Sports Weapon Skins (Super Rare)
 - [DISABLED] Added a new option to Teoman Topp for converting Act6.1 equipment to Act6.2 equipment for a fee. Shell options will be carried over but rarity and upgrade will be reset to r0+0.
 - Added r5+7 90 equipment set in Advancement Reward (90Lv.).
+
+# Shop Rotations
+
+## Pets
+- [REMOVE] Fluffy Bally Random Box
+- [NEW] Rudi Rowdy Random Box
+
+## Wings
+- [REMOVE] Zephyr Wings Random Box
+- [NEW] Onyx Wings Random Box
+*You can check the new wings effect in [Wings Rework](/information/wings-rework).
+
+## PSP
+- [REMOVE] Harlequin PSP Random Box
+- [NEW] Magic Student Yuna PSP Random Box
+  - [Retina Damage (S)]:
+    - Level: 4 -> 5
+  - [Claw Wound (S)]:
+    - Level: 4 -> 5
+
+# Altar Rotation
+
+## Weapon Skins
+- [REMOVE] 10th Anniversary Cake Knife Skin
+- [REMOVE] 10th Anniversary Cake Skin
+- [REMOVE] 10th Anniversary Firecracker Skin
+- [NEW] Baseball Bat Skin
+- [NEW] Recurve Bow Skin
+- [NEW] Tenis Racquet Skin
+*You can check the new weapon skins' effect in [Customized Coin Shop](/information/customized-coinshop).
+
+## Emotes
+- [REMOVE] pepega
+- [REMOVE] pepoclown
+- [NEW] PogYou
+- [NEW] doubt
+
+## Other Legendary Loots
+- [REMOVE] Magic Jaguar Box
+- [REMOVE] Indian Bushi
+- [NEW] Dracula Costume Set
+- [NEW] Crystal Wings
 
 # Balance
 
@@ -129,10 +171,6 @@ hide_table_of_contents: false
   - Buff level: 3 -> 5
 - [Shaky Status]:
   - Buff level: 2 -> 4
-- [Engorgement]:
-  - [REMOVE] Hit rate of all attacks is decreased by (Player Levelx2).
-- [Victory Cry]:
-  - [NEW] Hit rate of melee attacks is decreased by (Player Levelx2).
 - Double Blow:
   - There is a 10% -> 20% chance of causing [Knockdown].
 
@@ -141,6 +179,7 @@ hide_table_of_contents: false
 - Noble Gesture won't be castable when target is enemy.
 - [Spiritual Strength]:
   - Hit rate of all attacks is increased by (Player Levelx4 -> x3).
+- [REMOVE] Reflects up to (Player Levelx4) received damage but does not block attack.
 
 ## Renegade
 - [Ignition]:

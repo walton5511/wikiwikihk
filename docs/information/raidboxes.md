@@ -74,4 +74,4 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 
 ### Fernon
 
-![](https://imgur.com/aPdZ5mH.png)
+![](https://i.imgur.com/vdxZ2Ke.png)

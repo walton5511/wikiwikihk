@@ -47,9 +47,14 @@ You can sell the following items to NPCs at the following prices:
 | 100k   | ![](https://nosapki.nostale.club/images/Ikona/2742.png)  Holy Blood                                                                                                                                                                                            |
 | 100k   | ![](https://nosapki.nostale.club/images/Ikona/2738.png)  Bacoom Horn                                                                                                                                                                                           |
 | 100k   | ![](https://nosapki.nostale.club/images/Ikona/2734.png)  Mark of the Zealot                                                                                                                                                                                    |
+| 100k   | ![](https://nosapki.nostale.club/images/Ikona/2877.png)  Lingering Malice |
+| 100k   |![](https://nosapki.nostale.club/images/Ikona/2859.png)  Fernon's Energy |
 | 2.5kk  | ![](https://nosapki.nostale.club/images/Ikona/413.png) Damned Gloves                                                                                                                                                                                           |
 | 2.5kk  | ![](https://nosapki.nostale.club/images/Ikona/415.png)  Sacred Boots                                                                                                                                                                                           |
 | 5kk    | ![](https://nosapki.nostale.club/images/Ikona/2851.png)  Eternal Gem                                                                                                                                                                                           |
+| 7.5kk  | ![](https://nosapki.nostale.club/images/Ikona/2816.png) ![](https://nosapki.nostale.club/images/Ikona/2815.png) ![](https://nosapki.nostale.club/images/Ikona/2821.png) C45/48 Equip    |
+| 15kk   | ![](https://nosapki.nostale.club/images/Ikona/2769.png) ![](https://nosapki.nostale.club/images/Ikona/2780.png)![](https://nosapki.nostale.club/images/Ikona/2778.png) C25/28 Equip    |
+| 20kk   | ![](https://nosapki.nostale.club/images/Ikona/2347.png)  Shell Fragment |
 
 
 

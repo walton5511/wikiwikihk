@@ -13,45 +13,85 @@ Everything you need to know about the customization of coinshop items is listed 
 
 ---
 
-## **Pets' Buffs**
+## **NosMates**
 
 ### ``Viking Bushi``
-- **[Odin's Blessing]:**
-  - Damage dealt is increased by 5%.
-  - Every 60 seconds: MP is increased by (Player Level\*20).
-### ``Ninja Bushi``
-- **[Ninja's Blessing]:**
-  - Damage dealt is increased by 5%.
-  - Shadow resistance is increased by 10.
-### ``Super Santa Bushi``
-- **[Blessing of Christmas]:**
-  - Damage dealt is increased by 5%.
-  - Increases fame received by 5%.
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/KhrvnaT.png)|![](https://i.imgur.com/Afpep7o.png)|![](https://i.imgur.com/hp3cb5b.png)|![](https://i.imgur.com/2D0oWBX.png)|
+### ``Rudolph Bushi``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/jU8UnFa.png)|![](https://i.imgur.com/MZA3yHd.png)|![](https://i.imgur.com/WJxOEvQ.png)|![](https://i.imgur.com/iV21jUY.png)|
 ### ``Indian Bushi``
-- **[Indian's Blessing]:**
-  - Damage dealt is increased by 5%.
-  - Fire resistance is increased by 10.
-  - Damage received from critical hits is decreased by 10%.
-- **[Indian Blood Tie]:**
-  - Duration: 5s
-  - There is a 100% probability to remove bad effects of level 4 or lower.
-  - Every 2 seconds: 10% HP is recovered.
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/0Q3mz62.png)|![](https://i.imgur.com/wEcVxRm.png)|![](https://i.imgur.com/Cw0Dtv1.png)|![](https://i.imgur.com/ga7UqAS.png)|
 ### ``Fibi Frosty``
-- **[Owl Blessing]:**
-  - Damage dealt is increased by  10%.
-  - Water resistance is increased by 10.
-- **[Slight Freeze]:**
-  - Duration: 2s
-  - Movement impossible.
-  - No attack possible.
+| Pet | Stats | Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/cigxqgN.png)|![](https://i.imgur.com/JcvaDbh.png)|![](https://i.imgur.com/tUfNENt.png)|![](https://i.imgur.com/al95MWe.png)|
 ### ``Fluffy Bally``
-- **[Fluffy Bally's Blessing]:**
-  - Damage dealt is increased by 5%.
-  - Damage received is decreased by 5%.
-  - Damage received in PvP is reduced by 10%.
-- **[Handicapped]:**
-  - Duration: 10s
-  - Reduces attack power by a factor of 1.
+| Pet | Stats | Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/sB38SCW.png)|![](https://i.imgur.com/Gsb1Lh7.png)|![](https://i.imgur.com/kdP9YEM.png)|![](https://i.imgur.com/kcmci32.png)|
+### ``Leo the Coward``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/eZQ26Zc.png)|![](https://i.imgur.com/PxJGBG3.png)|![](https://i.imgur.com/P6OSWgr.png)|![](https://i.imgur.com/RVE9hpH.png)|
+### ``Rudi Rowdy``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/UxQ6a0T.png)|![](https://i.imgur.com/zxK2yOz.png)|![](https://i.imgur.com/WJxOEvQ.png)|![](https://i.imgur.com/iV21jUY.png)|
+### ``Ninja Bushi``
+| Pet | Stats | Player buff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/hD7QQXl.png)|![](https://i.imgur.com/hRLTRsT.png)|![](https://i.imgur.com/mhlHo9U.png)|
+### ``Aqua Bushtail``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/6aUKySw.png)|![](https://i.imgur.com/GHoj9vW.png)|![](https://i.imgur.com/LYtVxLG.png)|
+### ``Boxer Bushi``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/FRhVpNJ.png)|![](https://i.imgur.com/kwpEdMt.png)|![](https://i.imgur.com/y4h86nm.png)|
+### ``Bull Bushtail``
+| Pet | Stats | Pet buff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/IjL4i7s.png)|![](https://i.imgur.com/UL7zBPx.png)|![](https://i.imgur.com/YQhdutv.png)|
+### ``Centurio Bushi``
+| Pet | Stats | Pet buff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/rDsbt1p.png)|![](https://i.imgur.com/ZfqQcN8.png)|![](https://i.imgur.com/4bGRwk9.png)|
+### ``Darko``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/AbVDaWz.png)|![](https://i.imgur.com/U2SVzF4.png)|![](https://i.imgur.com/A4XEHKJ.png)|
+### ``Exterminator Bushi``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/xRcC2lr.png)|![](https://i.imgur.com/wsoQgNO.png)|![](https://i.imgur.com/OsXSWls.png)|
+### ``Gladiator Bushtail``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/B8xJB0X.png)|![](https://i.imgur.com/pqmVBp6.png)|![](https://i.imgur.com/F8Fo2Fy.png)|
+### ``Rusty Robby``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/Z9zTezD.png)|![](https://i.imgur.com/ML2IvZF.png)|![](https://i.imgur.com/syfIb41.png)|
+### ``Shogun Bushi``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/FVexjeD.png)|![](https://i.imgur.com/rmdhZhP.png)|![](https://i.imgur.com/ocmhulk.png)|
+### ``Sick Bushtail``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/0xad6Po.png)|![](https://i.imgur.com/KE5Ldz0.png)|![](https://i.imgur.com/kklRda6.png)|
+### ``Special Ops Bushi``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/IzWjdFx.png)|![](https://i.imgur.com/f8xniYW.png)|![](https://i.imgur.com/ZBmTl12.png)|
+
 
 ---
 
@@ -331,36 +371,27 @@ Everything you need to know about the customization of coinshop items is listed 
 
 ---
 
-## **Weapon Skin**
+## **Weapon Skins**
 
 ### ``Christmas``
-- **Christmas Tree**:
-  - Damage dealt in PvP is increased by 5%.
-- **Candy Bow**:
-  - Damage dealt in PvP is increased by 5%.
-- **Christmas Bell**:
-  - Damage dealt in PvP is increased by 5%.
+| Swordsman | Archer | Mage |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/d3eYeMV.png)|![](https://i.imgur.com/8Gz07wR.png)|![](https://i.imgur.com/P5zC4Qj.png)|
+
 
 ### ``Steampunk``
-- **Steampunk Chronoblade**:
-  - Damage dealt in PvE is increased by 5%.
-- **Steampunk Clockwork Bow**:
-  - Damage dealt in PvE is increased by 5%.
-- **Steampunk Geared Wand**:
-  - Damage dealt in PvE is increased by 5%.
+| Swordsman | Archer | Mage |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/d0AIhRC.png)|![](https://i.imgur.com/xE4IQUW.png)|![](https://i.imgur.com/1IrqBgC.png)|
+
 
 ### ``Cake``
-- **Cake Knife**:
-  - Provides a 5% chance to reset the cooldown of the attack skill used.
-- **Cake Bow**:
-  - Provides a 5% chance to reset the cooldown of the attack skill used.
-- **Firecracker Staff**:
-  - Provides a 5% chance to reset the cooldown of the attack skill used.
+| Swordsman | Archer | Mage |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/PPl9Lnv.png)|![](https://i.imgur.com/x6J0OzU.png)|![](https://i.imgur.com/7ZobdEl.png)|
+
 
 ### ``Sports``
-- **Baseball Bat**:
-  - When attacking, there is a 5% chance of summoning the Onyx Dragon's Shadow to carry out an additional attack.
-- **Recurve Bow**:
-  - When attacking, there is a 5% chance of summoning the Onyx Dragon's Shadow to carry out an additional attack.
-- **Tennis Racquet**:
-  - When attacking, there is a 5% chance of summoning the Onyx Dragon's Shadow to carry out an additional attack.
+| Swordsman | Archer | Mage |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/HK6MvEN.png)|![](https://i.imgur.com/WVB2gbW.png)|![](https://i.imgur.com/tYfuWXo.png)|

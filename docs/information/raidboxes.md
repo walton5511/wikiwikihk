@@ -5,8 +5,8 @@ title: Raid Boxes
 hide_title: true
 ---
 
-# Raid Boxes
-Raid boxes names have all been changed <br/> to their perspective raid instead of just "Raid Box" for easier search-ability in bazaar.  
+## Raid Boxes
+Raid boxes names have all been changed to their perspective raid instead of just "Raid Box" for easier search-ability in bazaar.  
 In addition to that, each of them have new exciting and worthwhile rewards.  
 You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille.
 
@@ -30,19 +30,19 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/juCJlve.png)
 
 ### Lord Hatus
-![](https://i.imgur.com/L3ceRcH.png) ![](https://i.imgur.com/qo5r6nh.png)
+![](https://i.imgur.com/EAf3CQ9.png) 
 
 ### Lord Morcos
-![](https://i.imgur.com/xI9hZ4L.png) ![](https://i.imgur.com/qo5r6nh.png)
+![](https://i.imgur.com/cyIpe7o.png) 
 
 ### Lady Calvinas
-![](https://i.imgur.com/LBRK2jf.png) ![](https://i.imgur.com/qo5r6nh.png)
+![](https://i.imgur.com/QfUPEY0.png) 
 
 ### Baron Berios
-![](https://i.imgur.com/NJ7SXPP.png) ![](https://i.imgur.com/qo5r6nh.png)
+![](https://i.imgur.com/A6yb5ER.png?1) 
 
 ### Ibrahim
-![](https://i.imgur.com/sTJzvLd.png) ![](https://i.imgur.com/wwqSBlr.png)
+![](https://i.imgur.com/sTJzvLd.png) 
 
 ### Lord Draco
 ![](https://i.imgur.com/GNY3GLB.png)
@@ -51,10 +51,10 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/IzuqyJy.png)
 
 ### Kertos
-![](https://i.imgur.com/FsS5HEZ.png) ![](https://i.imgur.com/qlIrUWO.png)
+![](https://i.imgur.com/FsS5HEZ.png) 
 
 ### Valakus
-![](https://i.imgur.com/Ril0S7y.png) ![](https://i.imgur.com/qlIrUWO.png)
+![](https://i.imgur.com/Ril0S7y.png) 
 
 ### Grenigas
 ![](https://i.imgur.com/QK7s9x8.png)
@@ -63,15 +63,45 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/bA7RJnm.png)
 
 ### Erenia
-![](https://i.imgur.com/Yru4U98.png) ![](https://i.imgur.com/SA1TdL3.png)
+![](https://i.imgur.com/Yru4U98.png) 
 
 ### Zenas
-![](https://i.imgur.com/ePeWAxw.png) ![](https://i.imgur.com/SA1TdL3.png)
-
-### Caligor
-
-![](https://imageshack.com/i/po0rlZEDp) ![](https://imageshack.com/i/pn03AvoXp)
+![](https://i.imgur.com/ePeWAxw.png) 
 
 ### Fernon
+![](https://i.imgur.com/6eXHgbD.png)
 
-![](https://i.imgur.com/vdxZ2Ke.png)
+### Caligor
+![](https://i.imgur.com/vLxmDxT.png) ![](https://i.imgur.com/J8Yunpa.png)
+
+
+
+
+## Other Boxes
+
+### Glacernoon Mount Box
+![](https://i.imgur.com/qo5r6nh.png)
+
+### Burning Sword Mount Box
+![](https://i.imgur.com/qlIrUWO.png)
+
+### Archipelago Mount Box
+![](https://i.imgur.com/SA1TdL3.png)
+
+### Mysterious Relict
+![](https://i.imgur.com/wwqSBlr.png)
+
+### Rainbow Random Box
+![](https://i.imgur.com/v2StFZe.png)
+
+### Hellord Military Sipplies
+![](https://i.imgur.com/aim5Qrw.png)
+
+### Mystic Haeven Military Sipplies
+![](https://i.imgur.com/lUBOlUK.png?1)
+
+### Rune Chest
+![](https://i.imgur.com/uYVvlRJ.png)
+
+### Mysterious Box of Completion
+![](https://i.imgur.com/0bb24l0.png)

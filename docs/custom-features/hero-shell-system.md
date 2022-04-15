@@ -9,7 +9,7 @@ hide_title: true
 <img src="https://imageshack.com/i/pnQ9zpLUp"/></p>
 
 ## How to access?
-To participate in the Caligor event, you have to wait for it to start, according to the schedule. The entrances are located in both Citadels, and in Unknown Land -which can be accessed through Bitoren Tundra-.
+To participate in the Caligor event, you have to wait for it to start, according to the schedule. The entrances are located in Unknown Land which can be accessed through Bitoren Tundra.
 
 <p align="center">
 <img src="https://imageshack.com/i/pmScKOUmp"/></p>
@@ -17,9 +17,7 @@ To participate in the Caligor event, you have to wait for it to start, according
 Caligor event requires a minimum level of 99(+1), and the maximum number of participants is 400. Upon joining the map where Caligor is, your faction is randomized.
 
 ## Schedules
-From Monday to Friday, Caligor starts at **16:00** and **20:00**. (Server Time)
-
-On Saturday and Sunday, it starts at **10:00**, **12:00**, **16:00**, and **18:00**. (Server Time)
+Caligor starts every day at **12:00** and **18:00**. (Server Time)
 
 You can also see how much time has left until next Caligor on Discord's #status channel.
  
@@ -34,8 +32,9 @@ In addition to this you will find the Mysterious Traveller at the top of the map
 
 ## Raidbox and Reward
 
-Upon defeating Caligor, all participants will receive a raid box.
-The Faction that dealt the most damage will receive a **Caligor's Glowing Treasure**, while the other side will receive a **Caligor's Dimming Treasure**.
+Upon defeating Caligor, all participants with enough contribution points will receive a raid box.
+You can get contribution points by dealing damage either to enemies or boss itself.
+The Faction that dealt the most damage will receive a **Caligor's Glowing Treasure** and **1x Shell Fragment**, while the other side will receive a **Caligor's Dimming Treasure**.
 You have 1 hour to defeat Caligor, otherwise the event will end and no one will receive a reward.
 
 - **Caligor's Glowing Treasure**

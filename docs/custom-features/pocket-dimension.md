@@ -47,7 +47,6 @@ Pocket dimensions are available in many maps, and they are as follows
 ![Katol's Street](/img/custom-features/pocket-dimensions/katol's-street.png)
 
 
-
 <br></br>
 
 ### **Act 6.1**
@@ -65,3 +64,13 @@ Pocket dimensions are available in many maps, and they are as follows
 #### Heaven's Ruins 2
 ![](https://i.imgur.com/2WQxJHv.png)
 
+
+<br></br>
+
+### **Act 6.2***
+
+### Ancelloan's Will 5
+![](https://i.imgur.com/BqxAA2K.png)
+
+### Ancelloan's Will 2
+![](https://i.imgur.com/gHMZDr6.png)

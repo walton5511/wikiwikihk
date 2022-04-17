@@ -29,7 +29,7 @@ hide_table_of_contents: false
 - Reworked [mounts](/information/mounts).
 - Reworked drops of all maps. (see Drops on [homepage](/))
 - Reworked [equipment](/release-reworks/eq_rework).
-- Reworked [Rainbow Battle](/custom-features/rbb).
+- Reworked Rainbow Battle.
 - Reworked [foods and snacks](/release-reworks/food_rework).
 - Reworked [gambling](/qol/upgrades#shells-on-betting).
 - Reworked [shells](/information/shells).

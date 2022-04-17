@@ -1,7 +1,7 @@
 ---
 id: pocket-dimensions
 slug: pocket-dimensions
-title: Pocket Dimensions
+title: Pocket Dimensions 🌌
 ---
 
 # Pocket Dimensions

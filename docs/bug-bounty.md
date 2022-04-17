@@ -1,7 +1,7 @@
 ---
 id: bug-bounty
 slug: bug-bounty
-title: Bug Reports Bounty
+title: Bug Reports 🚧
 hide_title: true
 ---
 

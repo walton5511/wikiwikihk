@@ -1,7 +1,7 @@
 ---
 id: hero-shell-system
 slug: hero-shell-system
-title: Caligor & Heroic Shell
+title: Caligor & Heroic Shell 〽
 hide_title: true
 ---
 # Caligor and Heroic Shells

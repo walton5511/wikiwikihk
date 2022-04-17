@@ -52,9 +52,10 @@ Usually, it is adviced to use SPs opposite to the mobs' element, but there are s
     <p align="center">
     <img src="https://imageshack.com/i/pmjzxj6up"/></p>
 
-## Tips 
+:::tip 
 - You can optimize your damage by having Damage to Monster Entities, Damage to Low-Level Entities, and Increased Overall Attack shell options, since most of the mobs in act 6.2 belong to the "Low-level monster" race ![enter image description here](https://imageshack.com/i/pnvoo5jop).
 - Amon is still the most useful PSP for farming as there are mobs that hit in range.
 - It is recommended to have the Act6.1 hats or the Laurena's Hat, Beast's Golden Horn.
 - Rudi Rowdy's buff is the most efficient DPS buff among other pet buffs.
 - The quests are very similar to Official, so you can be guided by external sites, such as NosApki, in case you get lost during their course.
+:::

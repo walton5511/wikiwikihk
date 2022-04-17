@@ -1,7 +1,7 @@
 ﻿---
 id: wings-rework
 slug: wings-rework
-title: SP Wings Effects
+title: Wings Effects
 hide_title: true
 ---
 # Specialists Wings reworks

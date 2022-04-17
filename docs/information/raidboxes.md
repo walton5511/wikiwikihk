@@ -1,7 +1,7 @@
 ---
 id: raidboxes
 slug: raidboxes
-title: Raid Boxes
+title: Raid Boxes 📦
 hide_title: true
 ---
 

@@ -16,34 +16,58 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   projectName: 'wiki', // Usually your repo name.
   themeConfig:
     ({
+      autoCollapseSidebarCategories: true,
       navbar: {
-        title: 'Olympus Wiki',
+        title: 'Olympus',
         logo: {
           alt: 'Olympus Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'home',
-            position: 'left',
-            label: 'Home',
+            to: 'rules',
+            label: 'Wiki 🔱',
+            position: 'left'
           },
           {
             to: 'changelogs',
-            label: 'Changelogs',
+            label: 'Changelogs 🔁',
             position: 'left'
           },
           {
             to: 'shop',
-            label: 'Shop rotations',
+            label: 'Shop rotations 🔀',
             position: 'left'
-          }
+          },
+          {
+            label: "Community 👨‍👨‍👧‍👦",
+            position: "left",
+            items: [
+              {
+                label: "Website",
+                href: 'https://dashboard.olympusgg.com',
+              },
+              {
+                label: "Discord",
+                href: 'https://discord.gg/olympusgg',
+              },
+              {
+                label: "ElitePvPers",
+                href: 'https://www.elitepvpers.com/forum/nostale-pserver-advertising/4966630-international-olympus-ascend-opening-20-11-2021-a.html',
+              }
+            ],
+          },
         ],
       },
       footer: {
         style: 'dark',
         links: [],
+        logo: {
+          alt: 'Olympus Logo',
+          src: 'img/logo.svg',
+          width: 17,
+          height: 17,
+        },
         copyright: `Copyright © ${new Date().getFullYear()} Olympus.`,
       },
       prism: {

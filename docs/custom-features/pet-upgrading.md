@@ -1,7 +1,7 @@
 ---
 id: pet-upgrading
 slug: pet-upgrading
-title: Pet Upgrading
+title: Pet Upgrading 🦠
 hide_title: true
 ---
 

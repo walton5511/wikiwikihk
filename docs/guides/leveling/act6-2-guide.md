@@ -1,4 +1,10 @@
-﻿# Champion Leveling Guide (Act 6.2)
+﻿---
+id: champion2-leveling-guide
+slug: champion2-leveling-guide
+hide_title: true
+---
+
+# Champion Leveling Guide (Act 6.2)
 
 To be able to continue with the Act6.2 quests, you will first need to have finished the Act6.1 questline.
 Using Ancelloan's Blessing is recommended even if you don't get your quests' EXP reward doubled, since you will kill some mobs while you're at it.
@@ -53,7 +59,7 @@ Usually, it is adviced to use SPs opposite to the mobs' element, but there are s
     <img src="https://imageshack.com/i/pmjzxj6up"/></p>
 
 :::tip 
-- You can optimize your damage by having Damage to Monster Entities, Damage to Low-Level Entities, and Increased Overall Attack shell options, since most of the mobs in act 6.2 belong to the "Low-level monster" race ![enter image description here](https://imageshack.com/i/pnvoo5jop).
+- You can optimize your damage by having Damage to Monster Entities, Damage to Low-Level Entities, and Increased Overall Attack shell options, since most of the mobs in act 6.2 belong to the "Low-level monster" race ![enter image description here](https://imageshack.com/i/pnvoo5jop)
 - Amon is still the most useful PSP for farming as there are mobs that hit in range.
 - It is recommended to have the Act6.1 hats or the Laurena's Hat, Beast's Golden Horn.
 - Rudi Rowdy's buff is the most efficient DPS buff among other pet buffs.

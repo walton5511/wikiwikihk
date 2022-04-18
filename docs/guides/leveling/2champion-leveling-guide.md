@@ -1,7 +1,6 @@
 ---
 id: champion-leveling-guide
 slug: champion-leveling-guide
-title: Champion Leveling guide
 hide_title: true
 ---
 
@@ -105,9 +104,10 @@ Recommended maps for farming are:
 ![Route1](https://i.imgur.com/Cp2DuN5.png) ![Route2](https://i.imgur.com/1MmKniu.png)
 
 
-# Tips
+:::tip
 - Laurena's Witch Hat is what you can use best to your advantage, on both sides.
 - Beast's golden horn can be useful if you get stun locked since it reflects and blocks all attacks, same as with Zenas' Divine Ring 
 - "Chance of negative effects reduced" is needed if what you want is farm as fast and efficiently as possible, at least on Hellord.
 - Make sure you have "reduce critical damage" on accessories.
 - Amon PSP can be very useful since its 3rd skill got changed and can now provoke (extremely useful for seer). For everything else Aegir could be the best option.
+:::

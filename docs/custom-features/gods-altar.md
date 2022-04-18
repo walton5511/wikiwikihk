@@ -1,8 +1,9 @@
 ---
 id: gods-altar
 slug: gods-altar
-title: God's Altar 🔮
+title: God's Altar 
 hide_title: true
+className: 'custom-icon'
 ---
 
 # God's Altar

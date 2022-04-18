@@ -1,7 +1,7 @@
 ﻿---
 id: warp-system
 slug: warp-system
-title: Warp System 📍
+title: Warp System 
 hide_title: true
 ---
 

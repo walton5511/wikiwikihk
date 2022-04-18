@@ -47,3 +47,586 @@ imagen3{
   position: center;
   line-height:0;
 }
+
+.wings-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("10352.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.boxes-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("box.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.title-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("titles.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.equi-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("equipment.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.wskin-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("wskins.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.costume-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("costume.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.pets-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("pets.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.partner-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("partner.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.vehi-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("vehic.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.pasiv-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("passive.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.fairy-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("fairy.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
+.sp-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("sps.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.list-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("list.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.custom-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("gear.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.guide-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("guide.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.bug-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("bugrep.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.rules-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("gamerules.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.info-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("info.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.drop-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("net.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.equpgrade-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("equpgrade.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.spupgrade-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("spupgrade.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.cella-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("cella.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.shell-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("shell.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.gold-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("gold.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.warp-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("warp.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.trophy-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("trophy.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.petup-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("petup.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.loyal-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("loyalty.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.cali-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("caligor.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.npcbuff-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("npcbuff.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.godaltar-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("godaltar.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.pocket-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("pocket.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.spguide-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("spguide.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.questl-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("quest.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.raids-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("raids.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.leveling-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("leveling.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.swordman-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("swordman.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.archer-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("acher.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.mage-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("mage.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.achie-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("achievement.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.idrop-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("drop.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.imap-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("map.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.fexpe-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("fastexpe.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.clevel-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("clevel.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.clevel-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("clevel.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.ere-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("zenas.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.fernon-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("fernon.PNG") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.sp1-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("sp1.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.sp2-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("sp2.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.sp3-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("sp3.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.sp4-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("sp4.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.sp5-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("sp5.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.q6-1-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("questline.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.dquest-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("daily.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}

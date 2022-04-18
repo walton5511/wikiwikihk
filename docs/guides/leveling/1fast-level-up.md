@@ -11,13 +11,13 @@ hide_title: true
 
 The easiest, fastest and most efficient way to reach level 83 is always through finishing the full Act 1 questline.
 
-### Tips:
-
+:::tip
 - At level 36, you should definitely do the SP1 quest as it will make the rest of the way a lot easier. (Don't upgrade it yet)
 - If a quest disappears or isn't completed even though you did it, try to relog. In most cases this will fix it.
 - Do not buy the NPC-Buffs from the Wise Druid, since you simply don't need it.
 - After finishing all quests you will have a lot of gold (roughly 9kk) - keep in mind that you will need most of it for all the lvl 45 resistances and the raw gold tax for SP3 and SP4 quests.
 - Try to always have your pet and partner with you so you don't need to manually level them later on.
+:::
 
 ### Equip Choices:
 

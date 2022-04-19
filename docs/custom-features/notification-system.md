@@ -16,7 +16,7 @@ hide_title: true
 There are two ways to get into **Notification System**. Either click <img src="https://media.discordapp.net/attachments/959421753703161876/960850682259320852/idle.png"/> icon on the top-right next to your map or press K on your keyboard and double-click the same bell icon at the bottom of Motion section.
 
 <p align="center">
-<img src="https://i.imgur.com/O7yOXvv.png" style="padding-bottom:20px" />
+<img src="https://i.imgur.com/O7yOXvv.png"/>
 <br />
 <img src="https://i.imgur.com/fuLfIGy.png" /></p>
 

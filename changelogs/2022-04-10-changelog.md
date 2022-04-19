@@ -11,7 +11,7 @@ hide_table_of_contents: false
 ---
 
 # New Features
-- Added a [Notification system](/custom-features/notification-system). A notification will appear for ingame events such as Caligor, Fernon, item sale on bazaar, and more.
+- Added a Notification system. A notification will appear for ingame events such as Caligor, Fernon, item sale on bazaar, and more.
 - C25 -> C45 Equipment Conversion.
 - Added a "Safe Upgrading" option.
 - Added a new Instant Battle (c25 - c50) - Hard mode.

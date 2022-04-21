@@ -67,10 +67,10 @@ Pocket dimensions are available in many maps, and they are as follows
 
 <br></br>
 
-### **Act 6.2***
+### **Act 6.2**
 
-### Ancelloan's Will 5
+#### Ancelloan's Will 5
 ![](https://i.imgur.com/BqxAA2K.png)
 
-### Ancelloan's Will 2
+#### Ancelloan's Will 2
 ![](https://i.imgur.com/gHMZDr6.png)

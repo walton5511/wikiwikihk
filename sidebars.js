@@ -69,6 +69,7 @@ module.exports = {
         { type: 'doc', id: 'custom-features/gods-altar', label: 'Gods Altar', className:'godaltar-icon' },
         { type: 'doc', id: 'custom-features/hero-shell-system', label: 'Caligor & Hero Shells', className:'cali-icon' },
         { type: 'doc', id: 'custom-features/loyalty-system', label: 'Loyalty System', className:'loyal-icon' },
+        { type: 'doc', id: 'custom-features/notification-system', label: 'Notification System', className:'bell-icon' },
         { type: 'doc', id: 'custom-features/npc-buffers', label: 'NPC Buffer', className:'npcbuff-icon' },
         { type: 'doc', id: 'custom-features/pet-upgrading', label: 'Pet Upgrading', className:'petup-icon' },
         { type: 'doc', id: 'custom-features/pocket-dimensions', label: 'Pocket Dimension', className:'pocket-icon' },

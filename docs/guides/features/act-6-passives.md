@@ -29,7 +29,7 @@ hide_title: true
 | Journal of the Forgotten Hero S (1) | 25 | Achievement: Demons I | Increases agility by 80.|
 | Journal of the Forgotten Hero S (2) | 48 | Brainwashed Crusader | Increases agility by 100.|
 | Journal of the Forgotten Hero J (1) | 25 | Achievement: Suspicious Person | Increases intelligence by 80.|
-| Journal of the Forgotten Hero J (2) | 48 | Crazed Crusader | Increases intelligence by 80.|
+| Journal of the Forgotten Hero J (2) | 48 | Crazed Crusader | Increases intelligence by 100.|
 | Journal of the Forgotten Hero M (1) | 30 | Achievement: Heaven Daily Quests & Mysterious Travaller | Increases maximum HP by 4000.|
 | Journal of the Forgotten Hero M (2) | 48 | Brainwashed Crusader | Increases maximum HP by 6000.|
 | Journal of the Unknown Hero (1) | 30 | Achievement: Hell Daily Quests & Mysterious Travaller | Increases maximum MP by 4000.|

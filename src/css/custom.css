@@ -58,6 +58,16 @@ imagen3{
   background-size: 18px;
 }
 
+.bell-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("bell.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+}
+
 .boxes-icon{
   margin-left: 5px;
   height: 30px;

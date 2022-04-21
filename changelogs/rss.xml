@@ -4,9 +4,35 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/changelogs</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sat, 19 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog - 17/04/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-04-17-changelog</link>
+            <guid>2022-04-17-changelog</guid>
+            <pubDate>Sun, 17 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[17/04/2021 - 2200 ST)]]></description>
+            <content:encoded><![CDATA[<blockquote><p>17/04/2021 - 22:00 (20:00 ST)
+Server Version: 1.186.0
+Client Version: 1.73.0</p></blockquote><h1>Changes</h1><ul><li>Restricted cross-map warps to avoid abuses (you now have a cooldown)</li><li>Saved the timer for Pocket Dimensions on disconnect (people started abusing it due to the changes in aggro limit, it was not really abuseable before)</li></ul><h1>Bug Fixes</h1><ul><li>Added checks on blacklist for notes due to recent abuses</li><li>Fixed IC monsters being out of map in certain tricky scenario</li></ul><h1>Miscellaneous</h1><ul><li>Fixed #act4-dungeons spam</li><li>Improved the look and functionality of the Wiki <a href="https://wiki.olympusgg.com/" target="_blank" rel="noopener noreferrer">https://wiki.olympusgg.com/</a> (Special thanks to AguitaDeCoCo)</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>qol</category>
+            <category>fixes</category>
+        </item>
+        <item>
+            <title><![CDATA[Latest changelogs recap - 10/04/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-04-10-changelog</link>
+            <guid>2022-04-10-changelog</guid>
+            <pubDate>Sun, 10 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Added a Notification System. A notification will appear for ingame events such as Caligor, Fernon, item sale on bazaar, and more.]]></description>
+            <content:encoded><![CDATA[<ul><li>Added a Notification System. A notification will appear for ingame events such as Caligor, Fernon, item sale on bazaar, and more.</li><li>C25 -&gt; C45 Equipment Conversion.</li><li>Added a "Safe Upgrading" option.</li><li>Added a new Instant Battle (c25 - c50) - Hard mode.</li></ul><h1>QoL</h1><ul><li>Exp penalty for being in a group is removed.</li><li>Stack size has been increased from 999 to 9999.</li><li>Added UI buttons for Warp and Notifications.</li><li>Partners can now wear hero resistances.</li><li>Increased chances of getting r7/8 through betting.</li><li>Disabled aggro limit in pocket dimensions.</li><li>Increased the sale price of some minor trophies.</li><li>Added new daily &amp; weekly achievements, also increased the rewards for some of the existing ones.</li></ul><h1>Fernon</h1><ul><li>Schedule: Wednesdays, Saturdays, Sundays @ 12:30 &amp; 18:30 ST.</li><li>Changed the sword mechanic back to pulling to allow for faster raids.</li><li>Added <a href="/custom-features/npc-buffers">NPC Buffer</a> in front of Fernon entrance.</li><li>Fernon rewards have been increased.</li></ul><h1>Caligor</h1><ul><li>Schedule: Every day @ 12:00 &amp; 18:00 ST.</li><li>Now requires contribution points to receive rewards.</li><li>The winning team will receive a shell fragment as an extra reward.</li><li>Added Kills / Deaths counter in Caligor.</li></ul><h1>Other Raids</h1><ul><li>Reduced the HP of Zenas &amp; Erenia and other changes to make them faster. Increased the chances of getting the rare rewards.</li><li>A4 dungeons have got increased chance to drop divine fairies, and shell fragments were added to the box.</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>recap</category>
+            <category>act6</category>
+            <category>balance</category>
+            <category>qol</category>
+        </item>
         <item>
             <title><![CDATA[Act 6.2 Changelog - 19/03/2022]]></title>
             <link>https://wiki.olympusgg.com/changelogs/2022-03-19-changelog</link>

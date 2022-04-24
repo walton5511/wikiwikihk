@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[34757],{69463:function(e){e.exports=JSON.parse('{"permalink":"/shop/tags/rotation/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":19,"previousPage":"/shop/tags/rotation","nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

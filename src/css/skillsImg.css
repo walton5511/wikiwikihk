@@ -1,0 +1,52 @@
+.imgbase{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 32px;
+    height: 32px;
+    box-shadow: 2px 2px 2px #000;
+  }
+  /*RANGER IMAGES SKILLS*/
+  .archeryImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5833.png");
+    margin-bottom: 20px;
+  }
+  .headshotImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5835.png");
+  }
+  .flashbangImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5837.png");
+  }
+  .rangeboostImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5839.png");
+  }
+  .coverlinefireImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5841.png");
+  }
+  .hackeyeImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5834.png");
+    margin-bottom: 20px;
+  }
+  .windwalkerImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5836.png");
+  }
+  .triplearrowImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5838.png");
+  }
+  .screwboltImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5840.png");
+  }
+  .rapidImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5842.png");
+  }
+  .lastImg{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5843.png");
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -19px;
+  }
+  /*assassin IMAGES SKILLS*/
+  .assaAA{
+    background-image: url("https://nosapki.nostale.club/images/Ikona/5844.png");
+    margin-bottom: 20px;
+  }

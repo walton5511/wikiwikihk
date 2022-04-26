@@ -5,11 +5,13 @@ title: Raid Boxes 📦
 hide_title: true
 ---
 
-## Raid Boxes
+## **Raid Boxes**
 Raid boxes names have all been changed to their perspective raid instead of just "Raid Box" for easier search-ability in bazaar.  
 In addition to that, each of them have new exciting and worthwhile rewards.  
 You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille.
 
+### Chicken King
+![](https://i.imgur.com/WXIYru1.png)
 
 ### Namaju
 ![](https://i.imgur.com/VGqHwz3.png)
@@ -75,11 +77,18 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/vLxmDxT.png) ![](https://i.imgur.com/J8Yunpa.png)
 
 
+## **Event Boxes**
+
+### Chicken Queen
+![](https://i.imgur.com/RQACXnu.png)
+
+### Mad March Hare
+![](https://i.imgur.com/0yiXZy1.png)
 
 
-## Other Boxes
+## **Other Boxes**
 
-### Glacernoon Mount Box
+### Glacernon Mount Box
 ![](https://i.imgur.com/qo5r6nh.png)
 
 ### Burning Sword Mount Box
@@ -94,10 +103,10 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Rainbow Random Box
 ![](https://i.imgur.com/v2StFZe.png)
 
-### Hellord Military Sipplies
+### Hellord Military Supplies
 ![](https://i.imgur.com/aim5Qrw.png)
 
-### Mystic Haeven Military Sipplies
+### Mystic Haeven Military Supplies
 ![](https://i.imgur.com/lUBOlUK.png?1)
 
 ### Rune Chest

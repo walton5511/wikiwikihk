@@ -10,9 +10,10 @@ hide_table_of_contents: false
 
 ---
 
-> 17/04/2021 - 22:00 (20:00 ST)
-> Server Version: 1.186.0
-> Client Version: 1.73.0
+> 17/04/2021 - 22:00 (20:00 ST)   
+> Server Version: 1.186.0   
+> Client Version: 1.73.0    
+
 
 # Changes
 - Restricted cross-map warps to avoid abuses (you now have a cooldown)

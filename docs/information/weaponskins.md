@@ -28,3 +28,9 @@ hide_title: true
 | Swordsman | Archer | Mage |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/HK6MvEN.png)|![](https://i.imgur.com/WVB2gbW.png)|![](https://i.imgur.com/tYfuWXo.png)|
+
+
+### ``Geisha``
+| Swordsman | Archer | Mage |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/E1wcikT.png)|![](https://i.imgur.com/FVn702O.png)|![](https://i.imgur.com/avuaMJ5.png)|

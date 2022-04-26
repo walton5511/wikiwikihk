@@ -30,7 +30,7 @@ hide_title: true
 ### ``Orkani``
 - **[Marked (S)]:**
   - Level 3 -> 5
-### ``Laurena PSP``
+### ``Laurena``
 - Thorn Bush:
   - Cool time: 15s -> 35s
   - There is a 30% -> 100% chance of causing [Thorn Bush].
@@ -94,4 +94,21 @@ hide_title: true
 - [Harlequin's Spell (S)]:
   - Level: 4 -> 5
   - Duration: 20s -> 10s
+### ``Yuna``
+- [Retina Damage (S)]:
+  - Level: 4 -> 5
+- [Claw Wound (S)]:
+  - Level: 4 -> 5
+### ``Mad March Hare``
+- [Clouded Mind (S)]:
+  - Level: 3 -> 5
+  - Duration: 5s -> 10s
+  - [REMOVE] The attack fails if you miss the target. (Excluding magic attacks.)
+  - [NEW] Melee and ranged attacks always miss.
+- [Steely Resolve (S)]:
+  - Duration: 30s -> 15s
+  - [REMOVE] All elemental resistance is increased by 5.
+  - [NEW] Damage dealt is increased by 15%.
+- [Nausea (S)]:
+  - Level: 2 -> 5
 

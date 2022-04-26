@@ -59,7 +59,7 @@ hide_title: true
 - **Nutcracker Shako**:
   - Damage dealt is increased by 4%.
   - There is a 3% chance of causing [Heavy Glue].
-### ``Desert Costume``
+### ``Desert Costume/Belly Dancer``
 - **Desert Robe/Belly Dancer Costume**:
   - Movement speed is increased by 1.
   - There is a 5% chance that damage from all attacks is reduced by 80%.
@@ -73,3 +73,19 @@ hide_title: true
 - **Groovy Beach Hat**:
   - All elemental resistances are increased by 10.
   - Damage dealt is increased by 5%.
+### ``Football Costume``
+- **Football Jersey**:
+  - Movement speed is increased by 1.
+  - There is a 4% chance of causing [Rush].
+- **Football Cap**:
+  - Damage dealt is increased by 5%.
+  - There is a 4% chance of causing [Short Blackout].
+### ``Easter Bunny Party Costume``
+- **Easter Bunny Party Costume**:
+  - Damage received is decreased by 5%.
+  - Maximum HP is increased by 500.
+  - Increases fame received by 10%.
+- **Easter Bunny Party Hat**:
+  - Damage dealt is increased by 5%.
+  - Maximum MP is increased by 500.
+  - Damage dealt in PvP is increased by 5%.

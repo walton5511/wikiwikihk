@@ -60,11 +60,21 @@ Common prizes are easy to get, though not all of them are equally likely to get.
 
 With a little bit of luck, you can get a Rare Prize.
 These prizes will be picked among items that were once in shop rotation.
-These prizes will be rotated every now and then.
+These prizes will be rotated every month now and then.
 
 When you get a Rare Prize, it will be announced so that everyone can know how lucky you are.
 
-### Legendary Prize
+**Last rotation update**: 24.04.2022
+
+- Leo the Coward
+- Colorful Jeep Box
+
+### Legendary Prizes
 
 If luck is truly on your side, you will get the exclusive Legendary Prize that you can only get from God's Altar.
-Legendary Prizes will rotate too, but you'll have to figure out what it is by yourself.
+
+**Last rotation update**: 24.04.2022
+
+- Imp Cudgel Skin
+- Wildflower Bow Skin
+- Uchiwa Skin

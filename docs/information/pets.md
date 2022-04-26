@@ -4,20 +4,13 @@ slug: pets
 title: Pets
 hide_title: true
 ---
-## **NosMates**
 
-### ``Viking Bushi``
-| Pet | Stats | Pet buff | Player buff |
-| -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/7jDzy4L.png)|![](https://i.imgur.com/Afpep7o.png)|![](https://i.imgur.com/hp3cb5b.png)|![](https://i.imgur.com/2D0oWBX.png)|
-### ``Rudolph Bushi``
-| Pet | Stats | Pet buff | Player buff |
-| -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/gOvsdLV.png)|![](https://i.imgur.com/MZA3yHd.png)|![](https://i.imgur.com/WJxOEvQ.png)|![](https://i.imgur.com/iV21jUY.png)|
-### ``Indian Bushi``
-| Pet | Stats | Pet buff | Player buff |
-| -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/aqZSA2p.png)|![](https://i.imgur.com/wEcVxRm.png)|![](https://i.imgur.com/Cw0Dtv1.png)|![](https://i.imgur.com/ga7UqAS.png)|
+## **Common**
+
+### ``Darko``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/wAvWZzB.png)|![](https://i.imgur.com/U2SVzF4.png)|![](https://i.imgur.com/A4XEHKJ.png)|
 ### ``Fibi Frosty``
 | Pet | Stats | Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
@@ -26,6 +19,10 @@ hide_title: true
 | Pet | Stats | Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/Q0frVMT.png)|![](https://i.imgur.com/Gsb1Lh7.png)|![](https://i.imgur.com/kdP9YEM.png)|![](https://i.imgur.com/kcmci32.png)|
+### ``Inferno``
+| Pet | Stats | Player buff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/9w00GI3.png)|![](https://i.imgur.com/MZsB58M.png)|![](https://i.imgur.com/JDhepp3.png)|
 ### ``Leo the Coward``
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
@@ -34,6 +31,17 @@ hide_title: true
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/ObrRs4l.png)|![](https://i.imgur.com/o9fuN62.png)|![](https://i.imgur.com/alpXOem.png)|![](https://i.imgur.com/N6c9oIq.png)|
+### ``Rusty Robby``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/GMc8v1s.png)|![](https://i.imgur.com/ML2IvZF.png)|![](https://i.imgur.com/syfIb41.png)|
+### ``Spooky Imp``
+| Pet | Stats | Pet debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/oGZf73s.png)|![](https://i.imgur.com/z9Mu3g8.png)|![](https://i.imgur.com/fuhvOAO.png)|![](https://i.imgur.com/LvxjL6E.png)|
+
+## **Bushtails**
+
 ### ``Ninja Bushi``
 | Pet | Stats | Player buff |
 | -------- | -------- | -------- |
@@ -54,10 +62,6 @@ hide_title: true
 | Pet | Stats | Pet buff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/opwKLrM.png)|![](https://i.imgur.com/ZfqQcN8.png)|![](https://i.imgur.com/4bGRwk9.png)|
-### ``Darko``
-| Pet | Stats | Debuff |
-| -------- | -------- | -------- |
-|![](https://i.imgur.com/wAvWZzB.png)|![](https://i.imgur.com/U2SVzF4.png)|![](https://i.imgur.com/A4XEHKJ.png)|
 ### ``Exterminator Bushi``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
@@ -66,10 +70,14 @@ hide_title: true
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/4HkZJa3.png)|![](https://i.imgur.com/pqmVBp6.png)|![](https://i.imgur.com/F8Fo2Fy.png)|
-### ``Rusty Robby``
-| Pet | Stats | Debuff |
-| -------- | -------- | -------- |
-|![](https://i.imgur.com/GMc8v1s.png)|![](https://i.imgur.com/ML2IvZF.png)|![](https://i.imgur.com/syfIb41.png)|
+### ``Indian Bushi``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/aqZSA2p.png)|![](https://i.imgur.com/wEcVxRm.png)|![](https://i.imgur.com/Cw0Dtv1.png)|![](https://i.imgur.com/ga7UqAS.png)|
+### ``Rudolph Bushi``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/gOvsdLV.png)|![](https://i.imgur.com/MZA3yHd.png)|![](https://i.imgur.com/WJxOEvQ.png)|![](https://i.imgur.com/iV21jUY.png)|
 ### ``Shogun Bushi``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
@@ -82,4 +90,8 @@ hide_title: true
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/qiQknIZ.png)|![](https://i.imgur.com/f8xniYW.png)|![](https://i.imgur.com/ZBmTl12.png)|
+### ``Viking Bushi``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/7jDzy4L.png)|![](https://i.imgur.com/Afpep7o.png)|![](https://i.imgur.com/hp3cb5b.png)|![](https://i.imgur.com/2D0oWBX.png)|
 

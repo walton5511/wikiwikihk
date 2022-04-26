@@ -4,18 +4,33 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/changelogs</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sun, 17 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog - 24/04/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-04-24-changelog</link>
+            <guid>2022-04-24-changelog</guid>
+            <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[24/04/2021 - 2000 ST)]]></description>
+            <content:encoded><![CDATA[<blockquote><p>24/04/2021 - 20:00 (18:00 ST)<br>
+<!-- -->Server Version: 1.196.0<br>
+<!-- -->Client Version: 1.81.0   </p></blockquote><h1>Easter Event</h1><ul><li>Mad March Raid</li><li>Chicken Queen Raid</li><li>Check announcement</li></ul><h1>Features</h1><ul><li>Added Chicken King as a fun raid</li></ul><h1>QoL</h1><ul><li>New Perfection Window (Do mass perfection on one click)</li><li>New Betting Window (Do automatic betting until you get the rarity you wanted)</li><li>Added Auto loot in solo Rifts</li><li>Added milliseconds to raid completion time</li></ul><h1>Bug fixes</h1><ul><li>Caligor Death issue that would lead you to get a "Your client will be closed" issue</li><li>NosMate visibility could be bugged on map changes</li><li>Hero IC could not be finished under certain scenario</li><li>Hero IC was too laggy on the client side, it has been improved</li><li>Fixed divine potions being consumed in act 4 even though they shouldn't be useable</li><li>Fixed Warp couldn't be used instantly on Raid paths</li><li>Fixed an issue with friend chat where you would see your name before every message</li><li>Fixed an issue with auto betting &amp; auto perfection</li><li>Fixed an exploit with mysterious eggs</li><li>Fixed easter costume icon</li><li>Percentage damage raids</li><li>Eva shop</li><li>Bank not opening</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>changes</category>
+            <category>qol</category>
+            <category>fixes</category>
+            <category>easter event</category>
+        </item>
         <item>
             <title><![CDATA[Changelog - 17/04/2022]]></title>
             <link>https://wiki.olympusgg.com/changelogs/2022-04-17-changelog</link>
             <guid>2022-04-17-changelog</guid>
             <pubDate>Sun, 17 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[17/04/2021 - 2200 ST)]]></description>
-            <content:encoded><![CDATA[<blockquote><p>17/04/2021 - 22:00 (20:00 ST)
-Server Version: 1.186.0
-Client Version: 1.73.0</p></blockquote><h1>Changes</h1><ul><li>Restricted cross-map warps to avoid abuses (you now have a cooldown)</li><li>Saved the timer for Pocket Dimensions on disconnect (people started abusing it due to the changes in aggro limit, it was not really abuseable before)</li></ul><h1>Bug Fixes</h1><ul><li>Added checks on blacklist for notes due to recent abuses</li><li>Fixed IC monsters being out of map in certain tricky scenario</li></ul><h1>Miscellaneous</h1><ul><li>Fixed #act4-dungeons spam</li><li>Improved the look and functionality of the Wiki <a href="https://wiki.olympusgg.com/" target="_blank" rel="noopener noreferrer">https://wiki.olympusgg.com/</a> (Special thanks to AguitaDeCoCo)</li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<blockquote><p>17/04/2021 - 22:00 (20:00 ST)<br>
+<!-- -->Server Version: 1.186.0<br>
+<!-- -->Client Version: 1.73.0    </p></blockquote><h1>Changes</h1><ul><li>Restricted cross-map warps to avoid abuses (you now have a cooldown)</li><li>Saved the timer for Pocket Dimensions on disconnect (people started abusing it due to the changes in aggro limit, it was not really abuseable before)</li></ul><h1>Bug Fixes</h1><ul><li>Added checks on blacklist for notes due to recent abuses</li><li>Fixed IC monsters being out of map in certain tricky scenario</li></ul><h1>Miscellaneous</h1><ul><li>Fixed #act4-dungeons spam</li><li>Improved the look and functionality of the Wiki <a href="https://wiki.olympusgg.com/" target="_blank" rel="noopener noreferrer">https://wiki.olympusgg.com/</a> (Special thanks to AguitaDeCoCo)</li></ul>]]></content:encoded>
             <category>changelog</category>
             <category>qol</category>
             <category>fixes</category>

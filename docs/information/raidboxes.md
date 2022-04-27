@@ -11,7 +11,7 @@ In addition to that, each of them have new exciting and worthwhile rewards.
 You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille.
 
 ### Chicken King
-![](https://i.imgur.com/WXIYru1.png)
+![](https://i.imgur.com/VIagOzM.png)
 
 ### Namaju
 ![](https://i.imgur.com/VGqHwz3.png)

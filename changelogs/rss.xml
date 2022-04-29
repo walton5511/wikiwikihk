@@ -4,9 +4,23 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/changelogs</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sun, 24 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog - 30/04/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-04-30-changelog</link>
+            <guid>2022-04-30-changelog</guid>
+            <pubDate>Sat, 30 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[30/04/2022 - 0000 ST)]]></description>
+            <content:encoded><![CDATA[<blockquote><p>30/04/2022 - 00:00 (22:00 ST)<br>
+<!-- -->Server Version: 1.202.0<br>
+<!-- -->Client Version: 1.84.0    </p></blockquote><h1>Changes</h1><ul><li>Made Fernon portal permanently visible to avoid confusion.</li><li>Fernon Raid Seal can now be used even when Fernon raid is closed so teams can prepare in advance. </li><li>Changed required level for Event Achievements from 80 to 95 due to mass abuse.</li><li>Readjusted Laurena's Accessories to have damage modifiers instead of PvP bonuses.</li><li>Changed Yuna the Magic Student's buff Heart Pound to heal in flat amounts instead of percentage:<ul><li>Every 4 seconds: 2/3/4/5/6/7/10% -&gt; (3/5/8/10/12/15/25 x Partner Level) HP is recovered.</li></ul></li></ul><h1>Bug fixes</h1><ul><li>Fixed pet buffs being removed when removing a PSP.</li><li>Fixed Mysterious Eggs being able to get buffs that would increase their maximum HP.</li><li>Fixed gold shells and gold increasing effects not working with autoloot in solo rifts. </li><li>Fixed pets &amp; partners being able to attack a target while it's jumping (Lord Draco, Chicken King, etc.)</li><li>Fixed pets &amp; partners being able to attack their own factions' guardians.</li><li>Fixed summoned monsters like Onyx causing instant death in Ice Breaker.</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>changes</category>
+            <category>fixes</category>
+            <category>easter event</category>
+        </item>
         <item>
             <title><![CDATA[Changelog - 24/04/2022]]></title>
             <link>https://wiki.olympusgg.com/changelogs/2022-04-24-changelog</link>
@@ -15,7 +29,7 @@
             <description><![CDATA[24/04/2021 - 2000 ST)]]></description>
             <content:encoded><![CDATA[<blockquote><p>24/04/2021 - 20:00 (18:00 ST)<br>
 <!-- -->Server Version: 1.196.0<br>
-<!-- -->Client Version: 1.81.0   </p></blockquote><h1>Easter Event</h1><ul><li>Mad March Raid</li><li>Chicken Queen Raid</li><li>Check announcement</li></ul><h1>Features</h1><ul><li>Added Chicken King as a fun raid</li></ul><h1>QoL</h1><ul><li>New Perfection Window (Do mass perfection on one click)</li><li>New Betting Window (Do automatic betting until you get the rarity you wanted)</li><li>Added Auto loot in solo Rifts</li><li>Added milliseconds to raid completion time</li></ul><h1>Bug fixes</h1><ul><li>Caligor Death issue that would lead you to get a "Your client will be closed" issue</li><li>NosMate visibility could be bugged on map changes</li><li>Hero IC could not be finished under certain scenario</li><li>Hero IC was too laggy on the client side, it has been improved</li><li>Fixed divine potions being consumed in act 4 even though they shouldn't be useable</li><li>Fixed Warp couldn't be used instantly on Raid paths</li><li>Fixed an issue with friend chat where you would see your name before every message</li><li>Fixed an issue with auto betting &amp; auto perfection</li><li>Fixed an exploit with mysterious eggs</li><li>Fixed easter costume icon</li><li>Percentage damage raids</li><li>Eva shop</li><li>Bank not opening</li></ul>]]></content:encoded>
+<!-- -->Client Version: 1.81.0   </p></blockquote><h1>Easter Event (check #announcements on Discord)</h1><ul><li>Mad March Raid</li><li>Chicken Queen Raid</li></ul><h1>Features</h1><ul><li>Added Chicken King as a fun raid</li></ul><h1>QoL</h1><ul><li>New Perfection Window (Do mass perfection on one click)</li><li>New Betting Window (Do automatic betting until you get the rarity you wanted)</li><li>Added Auto loot in solo Rifts</li><li>Added milliseconds to raid completion time</li></ul><h1>Bug fixes</h1><ul><li>Caligor Death issue that would lead you to get a "Your client will be closed" issue</li><li>NosMate visibility could be bugged on map changes</li><li>Hero IC could not be finished under certain scenario</li><li>Hero IC was too laggy on the client side, it has been improved</li><li>Fixed divine potions being consumed in act 4 even though they shouldn't be useable</li><li>Fixed Warp couldn't be used instantly on Raid paths</li><li>Fixed an issue with friend chat where you would see your name before every message</li><li>Fixed an issue with auto betting &amp; auto perfection</li><li>Fixed an exploit with mysterious eggs</li><li>Fixed easter costume icon</li><li>Percentage damage raids</li><li>Eva shop</li><li>Bank not opening</li></ul>]]></content:encoded>
             <category>changelog</category>
             <category>changes</category>
             <category>qol</category>

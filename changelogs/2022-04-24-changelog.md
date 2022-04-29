@@ -14,10 +14,9 @@ hide_table_of_contents: false
 > Server Version: 1.196.0   
 > Client Version: 1.81.0   
 
-# Easter Event
+# Easter Event (check #announcements on Discord)
 - Mad March Raid
 - Chicken Queen Raid
-- Check announcement
 
 # Features
 - Added Chicken King as a fun raid

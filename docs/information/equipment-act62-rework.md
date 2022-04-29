@@ -160,4 +160,22 @@ hide_title: true
   - Damage dealt in PvP is increased by 3% -> 7%.
   - [NEW] Damage received in PvP is decreased by 7%.
   - Reduces the enemy's X* resistance by 5.
-***Same as fairy's element.**
+**Same as fairy's element.**
+
+- Laurena's Ring:
+  - [REMOVE] Increases PvP attack power by 2%.
+  - [REMOVE] Reduces damage received in PvP by 2%.
+  - [NEW] Damage dealt is increased by 2%.
+  - [NEW] Damage received is decreased by 2%.
+
+- Laurena's Necklace:
+  - [REMOVE] Increases PvP attack power by 3%.
+  - [REMOVE] Reduces damage received in PvP by 3%.
+  - [NEW] Damage dealt is increased by 3%.
+  - [NEW] Damage received is decreased by 3%.
+
+- Laurena's Bracelet:
+  - [REMOVE] Increases PvP attack power by 2%.
+  - [REMOVE] Reduces damage received in PvP by 2%.
+  - [NEW] Damage dealt is increased by 2%.
+  - [NEW] Damage received is decreased by 2%.

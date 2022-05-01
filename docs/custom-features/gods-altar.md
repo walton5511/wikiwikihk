@@ -34,7 +34,7 @@ God's Altar can be found near the trees accross Hatem and Helen.
 
 ### Common Prizes
 
-!["Common Prizes"](https://i.imgur.com/EGZc2SB.jpg)
+!["Common Prizes"](https://i.imgur.com/93exjes.png)
 
 Common prizes are easy to get, though not all of them are equally likely to get.
 

@@ -1,11 +1,11 @@
 ---
 id: items-sale-price
 slug: items-sale-price
-title: Items Sale Price
+title: Item Sale Prices
 hide_title: true
 ---
 
-# Items Sale Price
+# Item Sale Prices
 
 You can sell the following items to NPCs at the following prices:
 
@@ -58,9 +58,9 @@ You can sell the following items to NPCs at the following prices:
 
 
 
-## Exchange Items for Gold
+## Exchange Claws/Manes 
 
-You can exchange your ![](https://nosapki.nostale.club/images/Ikona/2605.png) Draco's Claws and ![](https://nosapki.nostale.club/images/Ikona/2606.png) Glacerus' Mane not only for perfection stones, you also can exchange them for other valuable items.
+You can exchange your ![](https://nosapki.nostale.club/images/Ikona/2605.png) Draco's Claws and ![](https://nosapki.nostale.club/images/Ikona/2606.png) Glacerus' Manes not only for perfection stones, you also can exchange them for other valuable items.
 If you exchange these items for Dragon Blood and sell them at the npc these items have a minimum value of 300k each.
 
 ![](https://i.imgur.com/4k4nt2F.png) ![](https://i.imgur.com/xfBG0FI.png)

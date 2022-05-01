@@ -52,6 +52,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 href: 'https://discord.gg/olympusgg',
               },
               {
+                label: "Support",
+                href: 'https://discord.gg/U3pMwCg59Q',
+              },
+              {
                 label: "ElitePvPers",
                 href: 'https://www.elitepvpers.com/forum/nostale-pserver-advertising/4966630-international-olympus-ascend-opening-20-11-2021-a.html',
               }

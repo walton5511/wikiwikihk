@@ -3,9 +3,13 @@ id: home
 title: Welcome to Olympus ⚡
 slug: /
 hide_table_of_contents: true
-
+hide_title: true
 ---
+
 <p align="center">
+
+<h1>Welcome to Olympus ⚡</h1> 
+
 <div>
     <imagen>
         <img src="https://imageshack.com/i/poeP1gD4g"  />

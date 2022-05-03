@@ -1,11 +1,11 @@
 ---
-id: champion-leveling-guide
-slug: champion-leveling-guide
+id: hero1-30
+slug: hero1-30
 hide_title: true
 ---
 
 
-# Champion Leveling guide
+# Champion Leveling guide 1-30 (Act 6.1)
 
 The first thing you should be doing is completing Act 6.1 questline. It boosts you from Champion Lv. 1 up to around Champion Lv. 10-11. Using Ancelloan's Blessing is recommended, even if you don't get your quest's EXP reward doubled, since you will kill a lot of mobs while you're at it. 
 Check Act 6.1 questline guide for more information.

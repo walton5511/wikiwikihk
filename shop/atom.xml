@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/shop</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-04-24T00:00:00.000Z</updated>
+    <updated>2022-05-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/shop"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rotations - Week 19]]></title>
+        <id>2022-05-09-rotations-week-19</id>
+        <link href="https://wiki.olympusgg.com/shop/2022-05-09-rotations-week-19"/>
+        <updated>2022-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pets]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Rudi Rowdy Random Box <img src="https://nosapki.nostale.club/images/Ikona/2572.png"></li><li><strong>[NEW]</strong> Fibi Frosty Random Box <img src="https://nosapki.nostale.club/images/Ikona/2564.png"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="partner-sp">Partner SP<a class="hash-link" href="#partner-sp" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Mad March Hare Random Box <img src="https://nosapki.nostale.club/images/Ikona/4122.png"></li><li><strong>[NEW]</strong> Overseer Amon PSP Random Box <img src="https://nosapki.nostale.club/images/Ikona/2710.png"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Onyx Random Box <img src="https://nosapki.nostale.club/images/Ikona/2731.png"></li><li><strong>[REMOVE]</strong> Mega Titan Random Box <img src="https://nosapki.nostale.club/images/Ikona/2998.png"></li><li><strong>[NEW]</strong> Zephyr Wings Random Box <img src="https://nosapki.nostale.club/images/Ikona/4074.png"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="costume">Costume<a class="hash-link" href="#costume" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Easter Bunny Party Random Box <img src="https://nosapki.nostale.club/images/Ikona/4115.png"></li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="shop" term="shop"/>
+        <category label="rotation" term="rotation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rotations - Week 18]]></title>
         <id>2022-04-24-rotations-week-18</id>

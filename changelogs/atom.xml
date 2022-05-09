@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-05-01T00:00:00.000Z</updated>
+    <updated>2022-05-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 09/05/2022]]></title>
+        <id>2022-05-09-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-05-09-changelog"/>
+        <updated>2022-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[09/05/2022 - 2100 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>09/05/2022 - 21:00 (19:00 ST)<br>
+<!-- -->Server Version: 1.215.0<br>
+<!-- -->Client Version: 1.92.0   </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ul><li>Act 4 Ship Duration: 5mn -&gt; 2mn</li><li>Easter Event has ended, the following items have been deleted<ul><li>Mad March Hare Raid Seal</li><li>Chicken Queen Seal (Event)</li><li>Red Easter Egg (Event)</li><li>Magic Egg (Event)</li><li>Chocolate Rabbit (Event)</li><li>Chicken Queen's Feather (Event)</li><li>Easter Cake Slide (Event)</li><li>Rotten Egg (Event)</li><li>Cleansed Egg (Event)</li><li>Mad March Hare Raid Box</li><li>Chicken Queen Raid Box</li></ul></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="balance">Balance<a class="hash-link" href="#balance" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_mojV" id="-swordsman"><img src="https://nosapki.nostale.club/images/Ikona/32040.png" width="35px"> Swordsman<a class="hash-link" href="#-swordsman" title="Direct link to heading">​</a></h3><ul><li><h4 class="anchor anchorWithStickyNavbar_mojV" id="-gladiator"><img src="https://nosapki.nostale.club/images/Ikona/2544.png" width="25px"> Gladiator<a class="hash-link" href="#-gladiator" title="Direct link to heading">​</a></h4><ul><li><strong><img src="https://nosapki.nostale.club/images/Ikona/10252.png" width="15px"> <!-- -->[Engorgement]</strong>: <ul><li><span style="color:#ff862c">Hit rate is increased by (Player Level x2 -&gt; 1)</span></li><li><strong><img src="https://nosapki.nostale.club/images/Ikona/10251.png" width="15px"> <!-- -->[Shaky Status]</strong>:<ul><li><span style="color:#ff862c">Dodging of melee attacks is decreased by 200 -&gt; 300</span></li></ul></li></ul></li></ul></li><li><h4 class="anchor anchorWithStickyNavbar_mojV" id="-death-reaper"><img src="https://nosapki.nostale.club/images/Ikona/2654.png" width="25px"> Death Reaper:<a class="hash-link" href="#-death-reaper" title="Direct link to heading">​</a></h4><ul><li><strong><img src="https://nosapki.nostale.club/images/Ikona/6105.png" width="15px"> <!-- -->[Infinite Armour]</strong>:<ul><li><font color="#f5c478">Cooldown: 60s -&gt; 90s</font></li></ul></li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_mojV" id="-archer"><img src="https://nosapki.nostale.club/images/Ikona/32100.png" width="35px"> Archer<a class="hash-link" href="#-archer" title="Direct link to heading">​</a></h3><ul><li><h4 class="anchor anchorWithStickyNavbar_mojV" id="-assassin"><img src="https://nosapki.nostale.club/images/Ikona/904.png" width="25px"> Assassin:<a class="hash-link" href="#-assassin" title="Direct link to heading">​</a></h4><ul><li><strong><img src="https://nosapki.nostale.club/images/Ikona/5849.png" width="15px"> <!-- -->[Tumble]</strong>:<ul><li><font color="#f5c478">Cooldown: 7s -&gt; 9s</font></li></ul></li><li><strong><img src="https://nosapki.nostale.club/images/Ikona/5851.png" width="15px"> <!-- -->[Shadow]</strong>:<ul><li>[Removed]<!-- --> <span style="color:#ff862c">Chance of inflicting critical hits is increased by 10%</span></li><li><font color="#f5c478">Cooldown 25s -&gt; 35s</font></li></ul></li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_mojV" id="-mage"><img src="https://nosapki.nostale.club/images/Ikona/32120.png" width="35px"> Mage<a class="hash-link" href="#-mage" title="Direct link to heading">​</a></h3><ul><li><h4 class="anchor anchorWithStickyNavbar_mojV" id="-seer"><img src="https://nosapki.nostale.club/images/Ikona/2656.png" width="25px"> Seer:<a class="hash-link" href="#-seer" title="Direct link to heading">​</a></h4><ul><li><strong><img src="https://nosapki.nostale.club/images/Ikona/6126.png" width="15px"> <!-- -->[Blink]</strong>: <ul><li><strong><img src="https://nosapki.nostale.club/images/Ikona/10371.png" width="15px"> <!-- -->[Armour of Darkness]</strong>:       <ul><li><span style="color:#ff862c">Non-elemental damage is decreased by 15% -&gt; 25%</span></li></ul></li></ul></li></ul></li><li><h4 class="anchor anchorWithStickyNavbar_mojV" id="dark-gunner"><img src="https://nosapki.nostale.club/images/Ikona/914.png" width="25px">Dark Gunner:<a class="hash-link" href="#dark-gunner" title="Direct link to heading">​</a></h4><ul><li><strong><img src="https://nosapki.nostale.club/images/Ikona/5949.png" width="15px"> <!-- -->[Dark Force]</strong>:<ul><li><span style="color:#ff862c">Probability to receive Critical Hits is decreased by 5% -&gt; 10%</span></li></ul></li><li><strong><img src="https://nosapki.nostale.club/images/Ikona/5947.png" width="15px"> <!-- -->[Ghost Guard]</strong>:   <ul><li><span style="color:#ff862c">Chance of inflicting critical hits is increased by 15% -&gt; 20%</span></li></ul></li></ul></li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="qol" term="qol"/>
+        <category label="fixes" term="fixes"/>
+        <category label="easter event" term="easter event"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 01/05/2022]]></title>
         <id>2022-05-01-changelog</id>
@@ -46,8 +64,8 @@ Client Version: 1.86.0  </p></blockquote><h1>Fixes</h1><ul><li>Fixed a bug with 
         <id>2022-04-24-changelog</id>
         <link href="https://wiki.olympusgg.com/changelogs/2022-04-24-changelog"/>
         <updated>2022-04-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[24/04/2021 - 2000 ST)]]></summary>
-        <content type="html"><![CDATA[<blockquote><p>24/04/2021 - 20:00 (18:00 ST)<br>
+        <summary type="html"><![CDATA[24/04/2022 - 2000 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>24/04/2022 - 20:00 (18:00 ST)<br>
 <!-- -->Server Version: 1.196.0<br>
 <!-- -->Client Version: 1.81.0   </p></blockquote><h1>Easter Event (check #announcements on Discord)</h1><ul><li>Mad March Raid</li><li>Chicken Queen Raid</li></ul><h1>Features</h1><ul><li>Added Chicken King as a fun raid</li></ul><h1>QoL</h1><ul><li>New Perfection Window (Do mass perfection on one click)</li><li>New Betting Window (Do automatic betting until you get the rarity you wanted)</li><li>Added Auto loot in solo Rifts</li><li>Added milliseconds to raid completion time</li></ul><h1>Bug fixes</h1><ul><li>Caligor Death issue that would lead you to get a "Your client will be closed" issue</li><li>NosMate visibility could be bugged on map changes</li><li>Hero IC could not be finished under certain scenario</li><li>Hero IC was too laggy on the client side, it has been improved</li><li>Fixed divine potions being consumed in act 4 even though they shouldn't be useable</li><li>Fixed Warp couldn't be used instantly on Raid paths</li><li>Fixed an issue with friend chat where you would see your name before every message</li><li>Fixed an issue with auto betting &amp; auto perfection</li><li>Fixed an exploit with mysterious eggs</li><li>Fixed easter costume icon</li><li>Percentage damage raids</li><li>Eva shop</li><li>Bank not opening</li></ul>]]></content>
         <author>
@@ -64,8 +82,8 @@ Client Version: 1.86.0  </p></blockquote><h1>Fixes</h1><ul><li>Fixed a bug with 
         <id>2022-04-17-changelog</id>
         <link href="https://wiki.olympusgg.com/changelogs/2022-04-17-changelog"/>
         <updated>2022-04-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[17/04/2021 - 2200 ST)]]></summary>
-        <content type="html"><![CDATA[<blockquote><p>17/04/2021 - 22:00 (20:00 ST)<br>
+        <summary type="html"><![CDATA[17/04/2022 - 2200 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>17/04/2022 - 22:00 (20:00 ST)<br>
 <!-- -->Server Version: 1.186.0<br>
 <!-- -->Client Version: 1.73.0    </p></blockquote><h1>Changes</h1><ul><li>Restricted cross-map warps to avoid abuses (you now have a cooldown)</li><li>Saved the timer for Pocket Dimensions on disconnect (people started abusing it due to the changes in aggro limit, it was not really abuseable before)</li></ul><h1>Bug Fixes</h1><ul><li>Added checks on blacklist for notes due to recent abuses</li><li>Fixed IC monsters being out of map in certain tricky scenario</li></ul><h1>Miscellaneous</h1><ul><li>Fixed #act4-dungeons spam</li><li>Improved the look and functionality of the Wiki <a href="https://wiki.olympusgg.com/" target="_blank" rel="noopener noreferrer">https://wiki.olympusgg.com/</a> (Special thanks to AguitaDeCoCo)</li></ul>]]></content>
         <author>

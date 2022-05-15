@@ -67,20 +67,20 @@ When the blades are pulled, they will apply a buff to the whole team, a debuff t
 - Within the Raid, it is recommended to focus mostly on the Broken Krem's Right Blade ![](https://imageshack.com/i/pmPBCuD7p), because the Debuff applied on the Fernon is quite useful to do as much damage as possible during the time it lasts.
 - Use the Twilight Gem III Trophy ![](https://imageshack.com/i/pnGxom6Kp) , as resistances reduction is one of the best stats for raiding/PvE (all other major Trophies of each class in tier III are viable for this raid as well).
 - Useful partner would be:
-	- Freya's Specialist Partner Card ![](https://nosapki.nostale.club/images/Ikona/2575.png)
-	- Barni's Specialist Partner Card ![](https://nosapki.nostale.club/images/Ikona/2574.png)
-	- Amora's Specialist Partner Card ![](https://nosapki.nostale.club/images/Ikona/4103.png)
-	- Laurena's Specialist Partner Card ![](https://nosapki.nostale.club/images/Ikona/2709.png)
-	- Foxy's Specialist Partner Card ![](https://nosapki.nostale.club/images/Ikona/2672.png)
+	- Freya's Specialist Partner Card ![](https://cdn.olympusgg.com/images/2575.png)
+	- Barni's Specialist Partner Card ![](https://cdn.olympusgg.com/images/2574.png)
+	- Amora's Specialist Partner Card ![](https://cdn.olympusgg.com/images/4103.png)
+	- Laurena's Specialist Partner Card ![](https://cdn.olympusgg.com/images/2709.png)
+	- Foxy's Specialist Partner Card ![](https://cdn.olympusgg.com/images/2672.png)
 
 -   Useful pets would be: 
-	- Sick Bushtail ![](https://nosapki.nostale.club/images/Ikona/8158.png)
-	- Fibi Frosty ![](https://nosapki.nostale.club/images/Ikona/8670.png)
+	- Sick Bushtail ![](https://cdn.olympusgg.com/images/8158.png)
+	- Fibi Frosty ![](https://cdn.olympusgg.com/images/8670.png)
 ## Ideal Raid Group
 Since the Fernon's element is fire, it would be ideal to go with a group with water element SP's (with the exception of debuffers/buffers). The Raid group consists of 8 members, and the recommended SP's are as following:
-- **Scout Specialist Card** ![](https://nosapki.nostale.club/images/Ikona/2589.png). Due to its great DPS, the Scout becomes one of the best SP's for this Raid, with the ability to quickly clean the swords with fast hits, and the great damage it can generate to the Fernon with this. It is recommended to have a minimum of four Scouts in your team.
-- **Berserker Specialist Card** ![](https://nosapki.nostale.club/images/Ikona/910.png). Due to the great utility it generates within the raid thanks to all the debuffs it can cause, such as  ![](https://nosapki.nostale.club/images/Ikona/10163.png) and ![](https://imageshack.com/i/pmNDo9Tfp). Ideally you should only have one, as you can alternate between Incapacitated and Break Armour to have the Fernon with as little defence as possible.
-- **Blue Magician Specialist Card**   ![](https://nosapki.nostale.club/images/Ikona/913.png). *What do you know!* With the recent changes this SP has received, it has become one of the best for this raid, competing almost on a par with the Scout. It is advisable to have 2 or 3 per group in case there is a lack of Scouts. This is due to the following: 
+- **Scout Specialist Card** ![](https://cdn.olympusgg.com/images/2589.png). Due to its great DPS, the Scout becomes one of the best SP's for this Raid, with the ability to quickly clean the swords with fast hits, and the great damage it can generate to the Fernon with this. It is recommended to have a minimum of four Scouts in your team.
+- **Berserker Specialist Card** ![](https://cdn.olympusgg.com/images/910.png). Due to the great utility it generates within the raid thanks to all the debuffs it can cause, such as  ![](https://cdn.olympusgg.com/images/10163.png) and ![](https://imageshack.com/i/pmNDo9Tfp). Ideally you should only have one, as you can alternate between Incapacitated and Break Armour to have the Fernon with as little defence as possible.
+- **Blue Magician Specialist Card**   ![](https://cdn.olympusgg.com/images/913.png). *What do you know!* With the recent changes this SP has received, it has become one of the best for this raid, competing almost on a par with the Scout. It is advisable to have 2 or 3 per group in case there is a lack of Scouts. This is due to the following: 
 	-   Glacier ![ ](https://imageshack.com/i/poS8VhZ0p) :
 	    -   [NEW]  Summons 2x  [Snowball Minion]. Snowball minions are magic mobs that never miss, so they are quite useful to help kill the blades.
 	        <p align="center">

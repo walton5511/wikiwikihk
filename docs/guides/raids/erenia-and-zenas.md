@@ -68,18 +68,18 @@ ____
 
 ### Erenia (0/15):
 > Erenias Team will have multiple supports to debuff the Raidboss.
-- ![](https://nosapki.nostale.club/images/Ikona/911.png) [Support]
-- ![](https://nosapki.nostale.club/images/Ikona/914.png) [Support]
-- ![](https://nosapki.nostale.club/images/Ikona/910.png) [Support]
-- ![](https://nosapki.nostale.club/images/Ikona/906.png) [Support]
-- ![](https://nosapki.nostale.club/images/Ikona/909.png) [Support/Dps]
-- ![](https://nosapki.nostale.club/images/Ikona/912.png)  ![](https://nosapki.nostale.club/images/Ikona/2706.png) ![](https://nosapki.nostale.club/images/Ikona/2708.png) ![](https://nosapki.nostale.club/images/Ikona/2707.png)  [Dps]
+- ![](https://cdn.olympusgg.com/images/911.png) [Support]
+- ![](https://cdn.olympusgg.com/images/914.png) [Support]
+- ![](https://cdn.olympusgg.com/images/910.png) [Support]
+- ![](https://cdn.olympusgg.com/images/906.png) [Support]
+- ![](https://cdn.olympusgg.com/images/909.png) [Support/Dps]
+- ![](https://cdn.olympusgg.com/images/912.png)  ![](https://cdn.olympusgg.com/images/2706.png) ![](https://cdn.olympusgg.com/images/2708.png) ![](https://cdn.olympusgg.com/images/2707.png)  [Dps]
 
 
 ### Zenas (0/20):
 > Zenas Team will have no debuffers and focus purely on DPS.
-- ![](https://nosapki.nostale.club/images/Ikona/906.png) [Support]
--  ![](https://nosapki.nostale.club/images/Ikona/910.png) ![](https://nosapki.nostale.club/images/Ikona/2654.png) ![](https://nosapki.nostale.club/images/Ikona/904.png) ![](https://nosapki.nostale.club/images/Ikona/2655.png) ![](https://nosapki.nostale.club/images/Ikona/914.png) ![](https://nosapki.nostale.club/images/Ikona/2656.png) [DPS]
+- ![](https://cdn.olympusgg.com/images/906.png) [Support]
+-  ![](https://cdn.olympusgg.com/images/910.png) ![](https://cdn.olympusgg.com/images/2654.png) ![](https://cdn.olympusgg.com/images/904.png) ![](https://cdn.olympusgg.com/images/2655.png) ![](https://cdn.olympusgg.com/images/914.png) ![](https://cdn.olympusgg.com/images/2656.png) [DPS]
 
 ____
 

@@ -23,9 +23,9 @@ module.exports = {
           label: 'Leveling',
           className:'leveling-icon',
           items: [
-            { type: 'doc', id: 'guides/leveling/fast-level-up', label: 'First Steps', className:'fexpe-icon' },
-            { type: 'doc', id: 'guides/leveling/champion-leveling-guide', label: 'C-Leveling (Act 6.1)', className:'clevel-icon' },
-            { type: 'doc', id: 'guides/leveling/champion2-leveling-guide', label: 'C-Leveling (Act 6.2)', className:'clevel-icon' },
+            { type: 'doc', id: 'guides/leveling/combat1-99', label: 'Combat Lv. 1-99', className:'fexpe-icon' },
+            { type: 'doc', id: 'guides/leveling/hero1-30', label: 'Hero Lv. 1-30', className:'clevel-icon' },
+            { type: 'doc', id: 'guides/leveling/hero30-50', label: 'Hero Lv. 30-50', className:'clevel-icon' },
           ]
         },
         {
@@ -75,6 +75,7 @@ module.exports = {
         { type: 'doc', id: 'custom-features/pocket-dimensions', label: 'Pocket Dimension', className:'pocket-icon' },
         { type: 'doc', id: 'custom-features/trophy-system', label: 'Trophy System', className:'trophy-icon' },
         { type: 'doc', id: 'custom-features/warp-system', label: 'Warp System', className:'warp-icon' },
+        { type: 'doc', id: 'custom-features/emotes', label: 'Custom Emotes', className:'poggers-icon' },
 
       ]
     },
@@ -116,6 +117,7 @@ module.exports = {
         { type: 'doc', id: 'qol/mass-crafting', label: 'Mass Crafting', className:'cella-icon' },
         { type: 'doc', id: 'information/shells', label: 'Shell Options', className: 'shell-icon' },
         { type: 'doc', id: 'information/items-sale-price', label: 'Item Sale Prices', className:'gold-icon' },
+        { type: 'doc', id: 'qol/npc-shops', label: 'NPC Shops', className:'npcshop-icon' },
       ]
     },
     {

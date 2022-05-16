@@ -99,6 +99,8 @@ hide_title: true
   - Level: 4 -> 5
 - [Claw Wound (S)]:
   - Level: 4 -> 5
+- [Heart Pound]:
+  - Every 4 seconds: 2/3/4/5/6/7/10% -> (3/5/8/10/12/15/25 x Partner Level) HP is recovered.
 ### ``Mad March Hare``
 - [Clouded Mind (S)]:
   - Level: 3 -> 5

@@ -1,11 +1,11 @@
 ---
-id: fast-level-up
-slug: fast-level-up
-title: Fast EXP Guide
+id: combat1-99
+slug: combat1-99
+title: Combat Levels 1-99 EXP Guide
 hide_title: true
 ---
 
-# EXP - Guide (1-99)
+# Combat Level Guide 1-99
 
 ## Level 1-83
 

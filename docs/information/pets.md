@@ -35,7 +35,7 @@ hide_title: true
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/GMc8v1s.png)|![](https://i.imgur.com/ML2IvZF.png)|![](https://i.imgur.com/syfIb41.png)|
-### ``Spooky Imp``
+### ``Pix``
 | Pet | Stats | Pet debuff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/oGZf73s.png)|![](https://i.imgur.com/z9Mu3g8.png)|![](https://i.imgur.com/fuhvOAO.png)|![](https://i.imgur.com/LvxjL6E.png)|

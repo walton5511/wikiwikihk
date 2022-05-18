@@ -89,3 +89,10 @@ hide_title: true
   - Damage dealt is increased by 5%.
   - Maximum MP is increased by 500.
   - Damage dealt in PvP is increased by 5%.
+### ``Concierge Uniform``
+- **Concierge Uniform:**
+  - Movement speed is increased by 1
+  - Your HP increases by 200 whenever you dodge
+- **Concierge Hat:**
+  - Damage dealt is increased by 5%
+  - There is a 3% chance of causing [Shock].

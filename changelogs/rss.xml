@@ -4,9 +4,24 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/changelogs</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Mon, 09 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog - 16/05/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-05-16-changelog</link>
+            <guid>2022-05-16-changelog</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[16/05/2022 - 2115 ST)]]></description>
+            <content:encoded><![CDATA[<blockquote><p>16/05/2022 - 21:15 (19:15 ST)<br>
+<!-- -->Server Version: 1.222.0<br>
+<!-- -->Client Version: 1.95.0   </p></blockquote><h1>Bug fixes</h1><ul><li>Onyx Shadow were sometimes not correctly removed from minimap</li><li>Fixed right click on costumes on bazaar</li><li>Fixed a bug for family level 16/17</li><li>Fixed Act4 Demon ship timing were not correct</li></ul><h1>Changes</h1><ul><li>Added remaining time to warp cooldown message</li><li>Added Fairy essences as potential rewards in mysterious box of completion</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>changes</category>
+            <category>qol</category>
+            <category>fixes</category>
+            <category>easter event</category>
+        </item>
         <item>
             <title><![CDATA[Changelog - 09/05/2022]]></title>
             <link>https://wiki.olympusgg.com/changelogs/2022-05-09-changelog</link>

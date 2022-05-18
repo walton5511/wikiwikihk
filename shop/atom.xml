@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/shop</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-05-09T00:00:00.000Z</updated>
+    <updated>2022-05-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/shop"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rotations - Week 20]]></title>
+        <id>2022-05-16-rotations-week-20</id>
+        <link href="https://wiki.olympusgg.com/shop/2022-05-16-rotations-week-20"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pets]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Inferno Random Box <img src="https://cdn.olympusgg.com/images/2596.png"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="mounts">Mounts<a class="hash-link" href="#mounts" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Speedy Alpaca Random Box <img src="https://cdn.olympusgg.com/images/4159.png"></li><li><strong>[NEW]</strong> Nossi the Dragon Random Box <img src="https://cdn.olympusgg.com/images/770.png"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Zephyr Wings Random Box <img src="https://cdn.olympusgg.com/images/4074.png"></li><li><strong>[NEW]</strong> Golden Wings Random Box <img src="https://cdn.olympusgg.com/images/2730.png"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="costumes">Costumes<a class="hash-link" href="#costumes" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Groovy Beach Costume Set Random Box <img src="https://cdn.olympusgg.com/images/2885.png"></li><li><strong>[NEW]</strong> Concierge Costume Set Random Box <img src="https://cdn.olympusgg.com/images/2896.png"></li><li><strong>Concierge Hat:</strong><ul><li>Damage dealt is increased by 5%</li><li>There is a 3% chance of causing <!-- -->[Shock]</li></ul></li><li><strong>Concierge Uniform:</strong><ul><li>Movement speed is increased by 1</li><li>Your HP increases by 200 whenever you dodge</li></ul></li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="shop" term="shop"/>
+        <category label="rotation" term="rotation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rotations - Week 19]]></title>
         <id>2022-05-09-rotations-week-19</id>

@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-05-09T00:00:00.000Z</updated>
+    <updated>2022-05-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 16/05/2022]]></title>
+        <id>2022-05-16-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-05-16-changelog"/>
+        <updated>2022-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[16/05/2022 - 2115 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>16/05/2022 - 21:15 (19:15 ST)<br>
+<!-- -->Server Version: 1.222.0<br>
+<!-- -->Client Version: 1.95.0   </p></blockquote><h1>Bug fixes</h1><ul><li>Onyx Shadow were sometimes not correctly removed from minimap</li><li>Fixed right click on costumes on bazaar</li><li>Fixed a bug for family level 16/17</li><li>Fixed Act4 Demon ship timing were not correct</li></ul><h1>Changes</h1><ul><li>Added remaining time to warp cooldown message</li><li>Added Fairy essences as potential rewards in mysterious box of completion</li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="qol" term="qol"/>
+        <category label="fixes" term="fixes"/>
+        <category label="easter event" term="easter event"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 09/05/2022]]></title>
         <id>2022-05-09-changelog</id>

@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-05-16T00:00:00.000Z</updated>
+    <updated>2022-05-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 22/05/2022]]></title>
+        <id>2022-05-22-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-05-22-changelog"/>
+        <updated>2022-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[22/05/2022 - 2200 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>22/05/2022 - 22:00 (20:00 ST)<br>
+<!-- -->Server Version: 1.226.0<br>
+<!-- -->Client Version: 1.97.0        </p></blockquote><h1>Fixes</h1><ul><li>Fixed family warehouse</li><li>Fixed a bug where you could bet items that were not armors or weapons</li><li>Fixed a bug in arena of talents where your buffs would be removed everytime you enter the fighting area</li><li>Fixed a bug where you wouldn't be able to use the act 6.2 ship if you had the family bonus supposed to reduce ship cost</li></ul><h1>Changes</h1><ul><li>Divine potions are now usable in angel &amp; demon citadels</li><li>Added new speedbooster recipes at Hatem</li></ul><h1>Features</h1><ul><li>Added Event Management Window (first version, will be improved in the future based on feedback)</li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="features" term="features"/>
+        <category label="fixes" term="fixes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 16/05/2022]]></title>
         <id>2022-05-16-changelog</id>

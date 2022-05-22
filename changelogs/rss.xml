@@ -4,9 +4,23 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/changelogs</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Mon, 16 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog - 22/05/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-05-22-changelog</link>
+            <guid>2022-05-22-changelog</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[22/05/2022 - 2200 ST)]]></description>
+            <content:encoded><![CDATA[<blockquote><p>22/05/2022 - 22:00 (20:00 ST)<br>
+<!-- -->Server Version: 1.226.0<br>
+<!-- -->Client Version: 1.97.0        </p></blockquote><h1>Fixes</h1><ul><li>Fixed family warehouse</li><li>Fixed a bug where you could bet items that were not armors or weapons</li><li>Fixed a bug in arena of talents where your buffs would be removed everytime you enter the fighting area</li><li>Fixed a bug where you wouldn't be able to use the act 6.2 ship if you had the family bonus supposed to reduce ship cost</li></ul><h1>Changes</h1><ul><li>Divine potions are now usable in angel &amp; demon citadels</li><li>Added new speedbooster recipes at Hatem</li></ul><h1>Features</h1><ul><li>Added Event Management Window (first version, will be improved in the future based on feedback)</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>changes</category>
+            <category>features</category>
+            <category>fixes</category>
+        </item>
         <item>
             <title><![CDATA[Changelog - 16/05/2022]]></title>
             <link>https://wiki.olympusgg.com/changelogs/2022-05-16-changelog</link>

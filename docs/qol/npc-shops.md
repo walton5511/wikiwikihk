@@ -22,7 +22,7 @@ This NPC should spark some memories in some players, as you can see you are able
 
 #### Nemo (Mysterious Monk), Raids and Trophies
 ![](https://i.imgur.com/AKeoKM9.png)  
-Nemo as the Trophy NPC shouldn't be a stranger to some people,here you can buy everything Raid and Trophy related.
+Nemo as the Trophy NPC shouldn't be a stranger to some people, here you can buy everything Raid and Trophy related.
 
 
 #### Titus Trip, Rainbow Shop
@@ -35,6 +35,11 @@ With the RBB now rewarding Rainbow Coins, the vendor responsible for them is Tit
 One of the most beloved NosVille Residents, Eva Energy, can help you craft snacks, food and potions en masse with new "Exchange" option.
 
 
+#### Hermes, Perfection Trader
+![](https://i.imgur.com/UwZu4a4.png)    
+Hermes the Archangel allows you to easily exchange your Glacerus' Manes, Draco's Claws and Mystic Gemstones into perfection stones.
+
+
 ## Changed Shops
 
 #### Soraya Style, Accessories
@@ -42,18 +47,20 @@ One of the most beloved NosVille Residents, Eva Energy, can help you craft snack
 As you can see here you can buy your Radal's Rings at Soraya for your main quest.
 
 
-#### Malcom Mix, Potions and Refiners
+#### Malcolm Mix, Potions and Refiners
 ![](https://i.imgur.com/NU9X1sF.png)  
-Malcom now sells the new Mass Refinersand materials to craft potions.
+Malcolm now sells the new Mass Refinersand materials to craft potions.
 
 
 #### Teoman Topp, Equipment and Hats
 ![](https://i.imgur.com/osvPq6B.png) ![](https://i.imgur.com/WAGA1vN.png)  
-The vendor with the biggest inventory upgrade is as you can see Teomann. He now sells Armor and Weapons from lv 15 to 85 at r5+7 for every class and also the Lv45 7% shining res sets. Here you can also buy the upgraded Hats as you can see above.
+The vendor with the biggest inventory upgrade is as you can see Teoman. He now sells Armor and Weapons from lv 15 to 85 at r5+7 for every class and also the Lv45 7% shining res sets. Here you can also buy the upgraded Hats as you can see above.
+
 
 #### Mimi Mentor, Decoration
 ![](https://i.imgur.com/bhMIdgg.png)  
 Our favourite Cat Girl no longer sells the Farmhouse and Cottage anymore, those are now craftable at Slugg with different materials
+
 
 #### Graham Recipes
 Graham offers you a wide range of different Recipes, from Raid Seals to different helmets.

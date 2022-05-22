@@ -113,4 +113,4 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/uYVvlRJ.png)
 
 ### Mysterious Box of Completion
-![](https://i.imgur.com/0bb24l0.png)
+![](https://i.imgur.com/5AQ6jpq.png)

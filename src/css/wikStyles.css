@@ -1,0 +1,219 @@
+/*buttons*/
+.style-title {
+  color: #f5c478;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: -20px;
+}
+
+.button{
+  background-repeat: no-repeat;
+  height: 36px;
+  width: 36px;
+  background-size: 36px 36px;
+  background-position: center;
+  border: 1px solid #999;
+  box-shadow: 0 0 0 1px rgb(20 20 20);
+  background: rgba(20, 20, 20, 1);
+  box-sizing: content-box;
+  padding: 0px;
+  border-radius: 0px;
+  display: table-cell;
+  vertical-align: middle;
+  border-spacing: 2px;
+  margin: 2px;
+}
+
+.button2 {
+  height: 15px;
+  width: 15px;
+  background-position: center;
+  cursor: pointer;
+  border: #000;
+  border-radius: 0px;
+  padding: 0px;
+}
+
+.imgEfeStyle {
+  height: 15px;
+  background-position: center;
+  border-radius: 0px;
+  padding: 0px;
+  border: #000;
+}
+
+.modal {
+  color: #FFE9A9;
+  width: 300px;
+  max-height: 700px;
+  z-index: 999;
+  color: #fff;
+  background-color: rgba(30, 30, 30, 0.9);
+  position: fixed;
+  margin-bottom: -215px;
+  margin-left: 100px;
+  left: 40%;
+  bottom: 50%;
+  border-radius: 5px;
+  border: 1px solid rgb(140, 140, 140);
+  box-shadow: inset 0 0 0 1px #000, 0 0 1px 1px #000;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  line-height: 16px;
+  font-size: 14px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  white-space: pre;
+  padding-top: 50px;
+  padding-bottom: -40;
+}
+
+.close {
+  position: absolute;
+  background-repeat: no-repeat;
+  background-position: center;
+  background: url("./buttonexit.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 15px;
+  height: 15px;
+  width: 15px;
+  top: 2px;
+  padding: 0%;
+  border-radius: 0px;
+  right: 2px;
+  border: none;
+  cursor: pointer;
+}
+
+.tableInfo {
+  height: 540px;
+  width: 140px;
+  margin-top: -800px;
+  margin-left: 800px;
+}
+
+.tableSkills {
+  border-collapse: separate;
+  border: 1px solid #666;
+  border-color: grey;
+  background-color: rgba(20, 20, 20, 1);
+  border-radius: 5px;
+  height: 340px;
+  width: 140px;
+  text-align: center;
+  display: table;
+  margin-bottom: 100px;
+  border-radius: 5px;
+  margin-left: -100px;
+}
+
+.nivelador {
+  height: 490px;
+  width: 540px;
+  display: table-cell;
+  float: right;
+  margin-top: -50px;
+}
+
+.tableLeft {
+  display: table;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: -330px;
+  margin-bottom: 415px;
+  margin-left: -200px;
+  border-collapse: separate;
+  border: 1px solid #666;
+  border-color: grey;
+  background-color: rgba(20, 20, 20, 1);
+  border-radius: 5px;
+}
+
+.tableLeft tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+  border-collapse: collapse;
+  border-radius: 2px;
+}
+
+.tableLeft td {
+  display: table-cell;
+  vertical-align: top;
+  width: 50%;
+  border-collapse: collapse;
+  text-indent: initial;
+  border-spacing: 2px;
+  float: top;
+  border: none;
+  background-color: rgba(20, 20, 20, 1);
+  border-radius: 2px;
+
+}
+
+.parra {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 5px;
+
+}
+
+.parrapeq {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin: 0px;
+}
+
+.nivelImg {
+  height: 100px;
+  width: 540px;
+  display: table-cell;
+  float: right;
+  margin-top: -200px;
+}
+
+.imgSPS {
+  position: absolute;
+  margin-top: -800px;
+  margin-bottom: 500px;
+  margin-left: -120px;
+}
+
+.imgSPS img:first-child {
+  margin-right: -110px;
+}
+
+.cardName {
+  display: inline-block;
+  background: linear-gradient(rgb(70, 70, 70), rgb(45, 45, 45) 15%, rgb(45, 45, 45) 50%, rgb(0, 0, 0) 50%, rgb(0, 0, 0));
+  border-radius: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  box-shadow: inset 0 0 0 1px #000, 0 0 1px 1px #000;
+  border: 1px solid rgb(140, 140, 140);
+  width: 100%;
+  margin-left: -1px;
+  height: 30px;
+  color: #FFF;
+  text-align: center;
+  text-shadow: -1px 0 #222, 0 1px #222, 1px 0 #222, 0 -1px #222, -1px -1px #222, -1px 1px #222, 1px -1px #222, 1px 1px #222;
+  /* font-family: Tahoma; */
+  font-size: 14px;
+  box-sizing: border-box;
+  margin-bottom: 400px;
+}
+.imgbase{
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  }
+

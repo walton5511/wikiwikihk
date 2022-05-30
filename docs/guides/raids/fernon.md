@@ -7,7 +7,7 @@ hide_title: true
 
 # Incomplete Fernon Raid - Guide
 <p align="center">
-<img src="https://nosapki.nostale.club/images/moby/2518.png"/></p>
+<img src="https://cdn.olympusgg.com/images/monsters/2518.png"/></p>
 
 ## How can I get the seals?
 We have removed the Akashic Record item as a method of entry to the Incomplete Fernon Raid, instead we have added a seal for the raid ![](https://imageshack.com/i/pnEthVI8p). There are three ways to obtain them:

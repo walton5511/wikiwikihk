@@ -133,10 +133,10 @@ function App() {
                                             </div>
                                             <p className='inforPara2'>Resistances</p>
                                             <div className='resis' >
-                                                <p><img className='resis' src='https://nosapki.com/images/nt-images/element_1.png' /> {pop1.fireRes}%</p>
-                                                <p><img className='resis' src='https://nosapki.com/images/nt-images/element_2.png' /> {pop1.waterRes}%</p>
-                                                <p><img className='resis' src='https://nosapki.com/images/nt-images/element_3.png' /> {pop1.lightRes}%</p>
-                                                <p><img className='resis' src='https://nosapki.com/images/nt-images/element_4.png' /> {pop1.shadowRes}%</p>
+                                                <p><img className='resis' src='https://cdn.olympusgg.com/images/element_1.png' /> {pop1.fireRes}%</p>
+                                                <p><img className='resis' src='https://cdn.olympusgg.com/images/element_2.png' /> {pop1.waterRes}%</p>
+                                                <p><img className='resis' src='https://cdn.olympusgg.com/images/element_3.png' /> {pop1.lightRes}%</p>
+                                                <p><img className='resis' src='https://cdn.olympusgg.com/images/element_4.png' /> {pop1.shadowRes}%</p>
                                             </div>
                                         </div>
                                         {

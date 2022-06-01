@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default ({iconId}) => (
-        <img src={'https://nosapki.com/images/mini-maps/' + iconId + '.png'} />
+        <img src={'https://cdn.olympusgg.com/images/minimaps/' + iconId + '.png'} />
   );

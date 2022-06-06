@@ -4,9 +4,19 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Mon, 16 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shop rotation - Week 21]]></title>
+            <link>https://wiki.olympusgg.com/shop/2022-06-06-rotations-week-21</link>
+            <guid>2022-06-06-rotations-week-21</guid>
+            <pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Costumes]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="costumes">Costumes<a class="hash-link" href="#costumes" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Concierge Costume Random Box <img src="https://cdn.olympusgg.com/images/2896.png" width="25px"></li><li><strong>[NEW]</strong> Karate Costume Random Box <img src="https://cdn.olympusgg.com/images/4057.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Fibi Frosty Random Box <img src="https://cdn.olympusgg.com/images/2564.png" width="25px"></li><li><strong>[NEW]</strong> Ninja Bushi Random Box <img src="https://cdn.olympusgg.com/images/2649.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="psps">PSPs<a class="hash-link" href="#psps" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Overseer Amon PSP Random Box <img src="https://cdn.olympusgg.com/images/2710.png" width="25px"></li><li><strong>[NEW]</strong> Foxy PSP Random Box <img src="https://cdn.olympusgg.com/images/2672.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="mount">Mount<a class="hash-link" href="#mount" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Nossi the Dragon Random Box <img src="https://cdn.olympusgg.com/images/770.png" width="25px"></li><li><strong>[NEW]</strong> Magic Bone Drake Random Box <img src="https://cdn.olympusgg.com/images/2944.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><strong>[REMOVE]</strong> Golden Wings Random Box <img src="https://cdn.olympusgg.com/images/2730.png" width="25px"></li><li><strong>[NEW]</strong> Crystal Wings Random Box <img src="https://cdn.olympusgg.com/images/4431.png" width="25px"></li></ul>]]></content:encoded>
+            <category>shop</category>
+            <category>rotation</category>
+        </item>
         <item>
             <title><![CDATA[Rotations - Week 20]]></title>
             <link>https://wiki.olympusgg.com/shop/2022-05-16-rotations-week-20</link>

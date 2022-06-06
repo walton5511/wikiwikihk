@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-05-22T00:00:00.000Z</updated>
+    <updated>2022-06-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 06/06/2022]]></title>
+        <id>2022-06-06-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-06-06-changelog"/>
+        <updated>2022-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[06/06/2022 - 1830 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>06/06/2022 - 18:30 (16:30 ST)<br>
+<!-- -->Server Version: 1.307.0<br>
+<!-- -->Client Version: 1.104.0       </p></blockquote><h1>Fixes</h1><ul><li>Fixed r8 shell research in bazaar</li><li>Fixed return points in act4 with infinite amulet</li><li>Fixed a bug where your character would sometimes get stuck after a respawn</li><li>Fixed Chicken King family mission</li></ul><h1>Changes</h1><ul><li>It's now impossible to remove your specialist card inside of talent arena</li><li>Reduced the amount of monsters inside 81Lv. TimeSpace</li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="features" term="features"/>
+        <category label="fixes" term="fixes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 22/05/2022]]></title>
         <id>2022-05-22-changelog</id>

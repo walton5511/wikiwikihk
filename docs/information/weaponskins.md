@@ -34,3 +34,9 @@ hide_title: true
 | Swordsman | Archer | Mage |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/E1wcikT.png)|![](https://i.imgur.com/FVn702O.png)|![](https://i.imgur.com/avuaMJ5.png)|
+
+
+### ``Fish``
+| Swordsman | Archer | Mage |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/zZUccIP.png)|![](https://i.imgur.com/qgqeyiv.png)|![](https://i.imgur.com/4iwTcDF.png)|

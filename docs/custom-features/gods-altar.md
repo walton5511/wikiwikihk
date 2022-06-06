@@ -5,6 +5,7 @@ title: God's Altar
 hide_title: true
 className: 'custom-icon'
 ---
+import ItemIcon from "../../src/components/itemicon";
 
 # God's Altar
 
@@ -53,8 +54,12 @@ Common prizes are easy to get, though not all of them are equally likely to get.
 - Tarot Card Game 1x
 - Magic Speed Booster (1 Day) 1x
 - Partner Skill Ticket (Single) 1x
+- Peepo Yes Emote Unlocker 1x
+- Peepo No Emote Unlocker 1x
 
 ``P.S.: These rewards can be changed later on, based on their prices and demand.``
+
+**Last rotation update**: 06.06.2022
 
 ### Rare Prizes
 
@@ -64,17 +69,22 @@ These prizes will be rotated every month now and then.
 
 When you get a Rare Prize, it will be announced so that everyone can know how lucky you are.
 
-**Last rotation update**: 24.04.2022
+**Last rotation update**: 06.06.2022
 
-- Leo the Coward
-- Colorful Jeep Box
+- Golden Wings <ItemIcon iconId="2730" width="25px" />
+- Darko the Hell Pup <ItemIcon iconId="2560" width="25px" />
 
 ### Legendary Prizes
 
-If luck is truly on your side, you will get the exclusive Legendary Prize that you can only get from God's Altar.
+In this rotation, all weapon skins released so far (except Christmas skins) are in the Altar.
+If you're lucky enough to roll legendary loot, you'll get one of listed below.
 
-**Last rotation update**: 24.04.2022
+**Last rotation update**: 06.06.2022
 
-- Imp Cudgel Skin
-- Wildflower Bow Skin
-- Uchiwa Skin
+- Steampunk Weapons Random Chest
+- Celebration Weapons Random Chest
+- Sports Weapons Random Chest
+- Geisha Weapons Random Chest
+- Fish Weapons Random Chest
+
+These chests will contain a weapon skin from one of three classes randomly.

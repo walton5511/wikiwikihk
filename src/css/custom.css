@@ -547,6 +547,75 @@ imagen3{
   display: inline-block;
 }
 
+.lesser-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("cuby.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+
+.namaju-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("namaju.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.ibrahim-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("ibrahim.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.burning-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("kertos.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+
+}
+
+.elementals-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("glacerus.png") no-repeat;
+  background-position: 5% 50%; 
+  background-size: 20px;
+  display: inline-block;
+}
+
+.laurena-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("laurena.png") no-repeat;
+  background-position: 5% 50%; 
+  background-size: 20px;
+  display: inline-block;
+}
+
+
 .ere-icon{
   margin-left: 5px;
   height: 30px;

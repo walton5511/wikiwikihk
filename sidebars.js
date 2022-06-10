@@ -33,6 +33,12 @@ module.exports = {
           label: 'Raids',
           className:'raids-icon',
           items: [
+            { type: 'doc', id: 'guides/raids/lesser-raids', label: 'Lesser', className: 'lesser-icon'},
+            { type: 'doc', id: 'guides/raids/namaju', label: 'Namaju', className:'namaju-icon'},
+            { type: 'doc', id: 'guides/raids/ibrahim', label: 'Ibrahim', className:'ibrahim-icon'},
+            { type: 'doc', id: 'guides/raids/burning-sword-raids', label: 'Burning Sword', className:'burning-icon'},
+            { type: 'doc', id: 'guides/raids/elementals-raids', label: 'Elementals', className:'elementals-icon'},
+            { type: 'doc', id: 'guides/raids/laurena', label: 'Witch Laurena', className:'laurena-icon'},
             { type: 'doc', id: 'guides/raids/erenia-and-zenas', label: 'Erenia & Zenas', className:'ere-icon' },
             { type: 'doc', id: 'guides/raids/fernon', label: 'Incomplete Fernon', className:'fernon-icon' },
           ]

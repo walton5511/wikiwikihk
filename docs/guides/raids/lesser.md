@@ -11,7 +11,7 @@ hide_title: true
 
 ## How can I get the seals?
 
-- Nosville with the npc myterious monk.
+- Nosville with the NPC Mysterious Monk.
 
 <p align="center">
 <img src="https://imagizer.imageshack.com/img923/2641/9i9PT0.png" border="0"/></p>
@@ -20,10 +20,10 @@ hide_title: true
 
 **Since these are easy raids, it is recommended:**
 
-- **Cuby:** Use a fire sp. ![](https://imageshack.com/i/poLTmmwap)
-- **Ginseng:** Use a shadow sp. ![](https://imageshack.com/i/pocXMIuqp)
-- **Dark Castra:** Use a Light sp. ![](https://imageshack.com/i/pnCx0uNap)
-- **Giant Black Spider:** Use a Light sp. ![](https://imageshack.com/i/pnCx0uNap)
+- **Mother Cuby:** Use a Fire SP. ![](https://imageshack.com/i/poLTmmwap)
+- **Ginseng:** Use a Shadow SP. ![](https://imageshack.com/i/pocXMIuqp)
+- **Dark Castra:** Use a Light SP. ![](https://imageshack.com/i/pnCx0uNap)
+- **Giant Black Spider:** Use a Light SP. ![](https://imageshack.com/i/pnCx0uNap)
 - **Massive Slade:** As for the damage to the boss, any SP is valid since the boss has no element. ![](https://imageshack.com/i/poLTmmwap)  ![](https://imageshack.com/i/plsAXQJEp)  ![](https://imageshack.com/i/pnCx0uNap)  ![](https://imageshack.com/i/pocXMIuqp)
 
 
@@ -89,7 +89,7 @@ hide_title: true
 
 ## Bonus
 
-- Complete these raid 2 times (daily) and 10 times (weekly) will reward you with 3 trophy upgrade amulets ![](https://imagizer.imageshack.com/img924/1434/Tmlnxh.png)
+- Complete these raid 2 times (daily) and 10 times (weekly) will reward you with 3 Trophy Upgrade Amulets ![](https://imagizer.imageshack.com/img924/1434/Tmlnxh.png)
 <p align="center">
 <img src="https://imagizer.imageshack.com/img924/628/b8Ice9.png" border="0"/>
 <img src="https://imagizer.imageshack.com/img924/3415/S3O1Mu.png" border="0"/></p>

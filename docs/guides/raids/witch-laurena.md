@@ -11,7 +11,7 @@ hide_title: true
 
 ## How can I get the seals?
 
-- Port Alveus Square with the npc Lilith
+- Port Alveus Square with the NPC Lilith
 
 <p align="center">
 <img src="https://imageshack.com/i/porFwir9p" border="0"/></p>
@@ -20,7 +20,7 @@ hide_title: true
 
 ## Recommendations for the Raids
 
-- Use a Light sp with 100 element. ![](https://imageshack.com/i/pnCx0uNap)
+- Use a Light SP with 100 element. ![](https://imageshack.com/i/pnCx0uNap)
 
 ## Raid Mechanics
 
@@ -45,6 +45,6 @@ hide_title: true
 
 ## Bonus
 
-- Complete these raid 5 times (daily) and 25 times (weekly) will reward you with x20 Mystic Gemstone ![](https://imagizer.imageshack.com/img923/5552/oqmshF.png) and 5M ![](https://imageshack.com/i/pmxtsJJ0p)
+- Complete these raid 5 times (daily) and 25 times (weekly) will reward you with x20 Mystic Gemstone ![](https://imageshack.com/i/pmkKWpxDp) and 5M ![](https://imageshack.com/i/pmxtsJJ0p)
 <p align="center">
 <img src="https://imagizer.imageshack.com/img924/2180/8Fa1al.png" border="0"/></p>

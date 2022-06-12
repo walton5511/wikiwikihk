@@ -11,7 +11,7 @@ hide_title: true
 
 ## How can I get the seals?
 
-- Nosville with the npc myterious monk.
+- Nosville with the NPC Mysterious Monk.
 
 <p align="center">
 <img src="https://imagizer.imageshack.com/img923/2641/9i9PT0.png" border="0"/></p>

@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-06-06T00:00:00.000Z</updated>
+    <updated>2022-06-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 19/06/2022]]></title>
+        <id>2022-06-19-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-06-19-changelog"/>
+        <updated>2022-06-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[19/06/2022 - 15h45 (13h45 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>19/06/2022 - 15h45 (13h45 ST)<br>
+<!-- -->Server Version: 1.317.0<br>
+<!-- -->Client Version: 1.112.0</p></blockquote><h1>QoL</h1><ul><li>The "FPS Unlock" option will now be saved when logging out</li><li>The drop chance will now be displayed next to the drop names for the map drops</li><li>Map drops will now be ordered by drop chance</li><li>Ancelloan Blessings are now stackable</li><li>Fairy Boosters are now stackable</li><li>Fairy Exp potions are now stackable</li><li>Soulstone blessings are now stackable</li><li>Guardian Angel's blessings are now stackable</li><li>Partner skills will now also be reset at the end of a raid</li></ul><h1>Fixes</h1><ul><li>The achievement "Elemental Enlightment (Daily)" can now be completed in rifts with auto-loot enabled</li><li>Fixed an exception causing an error message to show up when using Home System in act 4 </li><li>Pets &amp; partners will now keep NPC buffer buffs when relogging</li><li>When equipping a PSP, partners will not lose their NPC Buffer buffs anymore</li></ul><h1>Changes</h1><ul><li>Used amulets cannot be put in bazaar anymore</li><li>Talent Arena will now happen on channel 1</li></ul><h1>Features</h1><ul><li>Introducing the first version of the raid DPS meter</li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="features" term="features"/>
+        <category label="fixes" term="fixes"/>
+        <category label="dmg" term="dmg"/>
+        <category label="meter" term="meter"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 06/06/2022]]></title>
         <id>2022-06-06-changelog</id>

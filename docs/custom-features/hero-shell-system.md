@@ -60,8 +60,8 @@ He can craft Perfect or PvP shells, both weapon and armor. To make a heroic shel
 <p align="center">
 <img src="https://imageshack.com/i/pnXbOwZap"/></p>
 
-- Using shells on equipment works the same way as official. You can add the shell on an equipment that already has shell options, in which case, you will fail with 50% chance and lose your shell. 
-- To prevent this, you should get Magic Eraser from Malcolm Mix and delete your previous shell. After a shell is carved onto an equipment, it will be bound to the character that bounded the shell. After that, any other character that wants to wear the equipment, they will need to bind it to themselves via Perfumes, which are also sold by Malcolm Mix.
+- You can put new shell into an equipment that already has shell inside, options will be replaced.
+- In order to remove shell from equipment, you can also buy Magic Eraser from Malcolm Mix and use it on equipment. After a shell is carved onto an equipment, it will be bound to the character that bounded the shell. After that, any other character that wants to wear the equipment, they will need to bind it to themselves via Perfumes, which are also sold by Malcolm Mix.
 
 <p align="center">
 <img src="https://imgur.com/QGe1LUi.jpeg"/></p>

@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-06-19T00:00:00.000Z</updated>
+    <updated>2022-06-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 26/06/2022]]></title>
+        <id>2022-06-26-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-06-26-changelog"/>
+        <updated>2022-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[26/06/2022 - 15:00 ST]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>26/06/2022 - 15:00 ST<br>
+<!-- -->Server Version: 1.321.0<br>
+<!-- -->Client Version: 1.116.0   </p></blockquote><h1>Fixes</h1><ul><li>Fixed a bug where dying in Caligor would sometimes count as multiple deaths</li><li>Fixed wrong descriptions of achievements "Burning Sword (Daily)" and "Burning Sword (Weekly)"</li><li>Fixed a bug where your characters would sometimes not be able to move on certain maps</li><li>Fixed a bug where your character would sometimes get stuck after dying</li></ul><h1>Event</h1><ul><li>Elemental Event has ended</li><li>A +50% exp event has started and will end with the release of act 7</li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="fixes" term="fixes"/>
+        <category label="event" term="event"/>
+        <category label="caligor" term="caligor"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 22/06/2022]]></title>
+        <id>2022-06-22-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-06-22-changelog"/>
+        <updated>2022-06-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[22/06/2022 - 19h00 (17h00 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>22/06/2022 - 19h00 (17h00 ST)<br>
+<!-- -->Server Version: 1.319.0<br>
+<!-- -->Client Version: 1.114.0 </p></blockquote><h1>Changes</h1><ul><li>Made Zenas not absorb her summons too fast</li><li>Made Seer's Shadow Clones untargettable</li></ul><h1>Fixes</h1><ul><li>Fixed character icons in damage meter when transformed by a raid boss</li><li>Fixed Onyx Shadow not working with self-targeted AoE skills</li><li>Fixed buffs (from NPC buffer) being removed from partners upon removing PSP</li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="fixes" term="fixes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 19/06/2022]]></title>
         <id>2022-06-19-changelog</id>

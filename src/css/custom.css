@@ -7,7 +7,9 @@
 /* You can override the default Infima variables here. */
 
 @import 'wikStyles.css';
-@import 'partners.css'; 
+@import 'partners.css';
+@import 'tattoos.css';
+@import 'runes.css';
 
 
 :root {
@@ -32,28 +34,29 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-imagen{
+imagen {
   margin: 0;
   display: inline-block;
   position: center;
-  line-height:0;
+  line-height: 0;
 }
 
-imagen2{
+imagen2 {
   padding: 0;
   margin: 0;
   display: inline-block;
   position: center;
-  line-height:0;
+  line-height: 0;
 }
-imagen3{
+
+imagen3 {
   margin: 0;
   display: inline-block;
   position: center;
-  line-height:0;
+  line-height: 0;
 }
 
-.wings-icon{
+.wings-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -63,7 +66,7 @@ imagen3{
   background-size: 18px;
 }
 
-.bell-icon{
+.bell-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -73,7 +76,7 @@ imagen3{
   background-size: 18px;
 }
 
-.boxes-icon{
+.boxes-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -83,7 +86,7 @@ imagen3{
   background-size: 18px;
 }
 
-.title-icon{
+.title-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -93,7 +96,7 @@ imagen3{
   background-size: 18px;
 }
 
-.equi-icon{
+.equi-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -103,7 +106,7 @@ imagen3{
   background-size: 18px;
 }
 
-.wskin-icon{
+.wskin-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -113,7 +116,7 @@ imagen3{
   background-size: 18px;
 }
 
-.costume-icon{
+.costume-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -123,7 +126,7 @@ imagen3{
   background-size: 18px;
 }
 
-.pets-icon{
+.pets-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -133,7 +136,7 @@ imagen3{
   background-size: 18px;
 }
 
-.partner-icon{
+.partner-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -143,7 +146,7 @@ imagen3{
   background-size: 18px;
 }
 
-.vehi-icon{
+.vehi-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -153,7 +156,7 @@ imagen3{
   background-size: 18px;
 }
 
-.pasiv-icon{
+.pasiv-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -163,7 +166,7 @@ imagen3{
   background-size: 18px;
 }
 
-.fairy-icon{
+.fairy-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -173,7 +176,7 @@ imagen3{
   background-size: 18px;
 }
 
-.sp-icon{
+.sp-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -184,7 +187,7 @@ imagen3{
   display: inline-block;
 }
 
-.list-icon{
+.list-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -195,7 +198,7 @@ imagen3{
   display: inline-block;
 }
 
-.custom-icon{
+.custom-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -206,7 +209,7 @@ imagen3{
   display: inline-block;
 }
 
-.guide-icon{
+.guide-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -217,7 +220,7 @@ imagen3{
   display: inline-block;
 }
 
-.bug-icon{
+.bug-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -228,7 +231,7 @@ imagen3{
   display: inline-block;
 }
 
-.rules-icon{
+.rules-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -239,7 +242,7 @@ imagen3{
   display: inline-block;
 }
 
-.info-icon{
+.info-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -250,7 +253,7 @@ imagen3{
   display: inline-block;
 }
 
-.drop-icon{
+.drop-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -261,7 +264,7 @@ imagen3{
   display: inline-block;
 }
 
-.equpgrade-icon{
+.equpgrade-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -272,7 +275,7 @@ imagen3{
   display: inline-block;
 }
 
-.spupgrade-icon{
+.spupgrade-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -283,7 +286,7 @@ imagen3{
   display: inline-block;
 }
 
-.cella-icon{
+.cella-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -294,7 +297,7 @@ imagen3{
   display: inline-block;
 }
 
-.shell-icon{
+.shell-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -305,7 +308,7 @@ imagen3{
   display: inline-block;
 }
 
-.gold-icon{
+.gold-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -316,7 +319,7 @@ imagen3{
   display: inline-block;
 }
 
-.warp-icon{
+.warp-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -327,7 +330,7 @@ imagen3{
   display: inline-block;
 }
 
-.trophy-icon{
+.trophy-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -338,7 +341,7 @@ imagen3{
   display: inline-block;
 }
 
-.petup-icon{
+.petup-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -349,7 +352,7 @@ imagen3{
   display: inline-block;
 }
 
-.loyal-icon{
+.loyal-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -360,7 +363,7 @@ imagen3{
   display: inline-block;
 }
 
-.cali-icon{
+.cali-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -371,7 +374,7 @@ imagen3{
   display: inline-block;
 }
 
-.npcbuff-icon{
+.npcbuff-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -382,7 +385,7 @@ imagen3{
   display: inline-block;
 }
 
-.godaltar-icon{
+.godaltar-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -393,7 +396,7 @@ imagen3{
   display: inline-block;
 }
 
-.pocket-icon{
+.pocket-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -404,7 +407,7 @@ imagen3{
   display: inline-block;
 }
 
-.spguide-icon{
+.spguide-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -415,7 +418,7 @@ imagen3{
   display: inline-block;
 }
 
-.questl-icon{
+.questl-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -426,7 +429,7 @@ imagen3{
   display: inline-block;
 }
 
-.raids-icon{
+.raids-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -437,7 +440,7 @@ imagen3{
   display: inline-block;
 }
 
-.leveling-icon{
+.leveling-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -448,7 +451,7 @@ imagen3{
   display: inline-block;
 }
 
-.swordman-icon{
+.swordman-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -459,7 +462,7 @@ imagen3{
   display: inline-block;
 }
 
-.archer-icon{
+.archer-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -470,7 +473,7 @@ imagen3{
   display: inline-block;
 }
 
-.mage-icon{
+.mage-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -481,7 +484,7 @@ imagen3{
   display: inline-block;
 }
 
-.achie-icon{
+.achie-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -492,7 +495,7 @@ imagen3{
   display: inline-block;
 }
 
-.idrop-icon{
+.idrop-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -503,7 +506,7 @@ imagen3{
   display: inline-block;
 }
 
-.imap-icon{
+.imap-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -514,7 +517,7 @@ imagen3{
   display: inline-block;
 }
 
-.fexpe-icon{
+.fexpe-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -525,7 +528,7 @@ imagen3{
   display: inline-block;
 }
 
-.clevel-icon{
+.clevel-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -536,7 +539,7 @@ imagen3{
   display: inline-block;
 }
 
-.clevel-icon{
+.clevel-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -547,7 +550,7 @@ imagen3{
   display: inline-block;
 }
 
-.lesser-icon{
+.lesser-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -559,7 +562,7 @@ imagen3{
 }
 
 
-.namaju-icon{
+.namaju-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -570,7 +573,7 @@ imagen3{
   display: inline-block;
 }
 
-.ibrahim-icon{
+.ibrahim-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -581,7 +584,7 @@ imagen3{
   display: inline-block;
 }
 
-.burning-icon{
+.burning-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -593,30 +596,30 @@ imagen3{
 
 }
 
-.elementals-icon{
+.elementals-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
   padding-left: 24px;
   background: url("glacerus.png") no-repeat;
-  background-position: 5% 50%; 
+  background-position: 5% 50%;
   background-size: 20px;
   display: inline-block;
 }
 
-.laurena-icon{
+.laurena-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
   padding-left: 24px;
   background: url("laurena.png") no-repeat;
-  background-position: 5% 50%; 
+  background-position: 5% 50%;
   background-size: 20px;
   display: inline-block;
 }
 
 
-.ere-icon{
+.ere-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -627,7 +630,7 @@ imagen3{
   display: inline-block;
 }
 
-.fernon-icon{
+.fernon-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -638,7 +641,7 @@ imagen3{
   display: inline-block;
 }
 
-.sp1-icon{
+.sp1-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -649,7 +652,7 @@ imagen3{
   display: inline-block;
 }
 
-.sp2-icon{
+.sp2-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -660,7 +663,7 @@ imagen3{
   display: inline-block;
 }
 
-.sp3-icon{
+.sp3-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -671,7 +674,7 @@ imagen3{
   display: inline-block;
 }
 
-.sp4-icon{
+.sp4-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -682,7 +685,7 @@ imagen3{
   display: inline-block;
 }
 
-.sp5-icon{
+.sp5-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -693,7 +696,7 @@ imagen3{
   display: inline-block;
 }
 
-.q6-1-icon{
+.q6-1-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -704,7 +707,7 @@ imagen3{
   display: inline-block;
 }
 
-.dquest-icon{
+.dquest-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -715,7 +718,7 @@ imagen3{
   display: inline-block;
 }
 
-.npcshop-icon{
+.npcshop-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -726,7 +729,7 @@ imagen3{
   display: inline-block;
 }
 
-.poggers-icon{
+.poggers-icon {
   margin-left: 5px;
   height: 30px;
   width: 100%;
@@ -734,5 +737,119 @@ imagen3{
   background: url("poggers.png") no-repeat;
   background-position: 5% 50%;
   background-size: 20px;
+  display: inline-block;
+}
+
+.carno-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("carno.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.belial-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("belial.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.kirollas-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("kirollas.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.tattoos-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("tatoo-up.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.runes-icon {
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("rune.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 20px;
+  display: inline-block;
+}
+
+.act7-icon{
+    margin-left: 5px;
+    height: 30px;
+    width: 100%;
+    padding-left: 24px;
+    background: url("act7.png") no-repeat;
+    background-position: 5% 50%;
+    background-size: 18px;
+    display: inline-block;
+}
+
+.act7-icon > .menu__list-item-collapsible > a {
+  color: orange;
+}
+
+.a7craft-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("eqcraft.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.a7achievements-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("a7achievements.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.mainquest-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("mainquest.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}
+
+.dailyquest-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("dailyquest.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
   display: inline-block;
 }

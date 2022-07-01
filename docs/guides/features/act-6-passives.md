@@ -1,7 +1,7 @@
 ---
 id: act-6-passives
 slug: act-6-passives
-title: Act6 - Passives Guide
+title: Passives Guide
 hide_title: true
 ---
 
@@ -24,20 +24,25 @@ hide_title: true
 
 | Name | Level | Obtaining Method | Effect |
 | --- | --- | --- | --- |
-| Journal of the Forgotten Hero D (1) | 25 | Achievement: Angels I | Increases physical strength by 80.|
-| Journal of the Forgotten Hero D (2) | 48 | Crazed Crusader | Increases physical strength by 100.|
-| Journal of the Forgotten Hero S (1) | 25 | Achievement: Demons I | Increases agility by 80.|
-| Journal of the Forgotten Hero S (2) | 48 | Brainwashed Crusader | Increases agility by 100.|
-| Journal of the Forgotten Hero J (1) | 25 | Achievement: Suspicious Person | Increases intelligence by 80.|
-| Journal of the Forgotten Hero J (2) | 48 | Crazed Crusader | Increases intelligence by 100.|
-| Journal of the Forgotten Hero M (1) | 30 | Achievement: Heaven Daily Quests & Mysterious Travaller | Increases maximum HP by 4000.|
-| Journal of the Forgotten Hero M (2) | 48 | Brainwashed Crusader | Increases maximum HP by 6000.|
-| Journal of the Unknown Hero (1) | 30 | Achievement: Hell Daily Quests & Mysterious Travaller | Increases maximum MP by 4000.|
-| Journal of the Unknown Hero (2) | 48 | Crazed Crusader | Increases maximum MP by 6000.|
-| Defensive Strategy of Lord Cuarry's Knights (1) | 28 | Achievement: Angels III | Increases overall defence power by 30.|
-| Defensive Strategy of Lord Cuarry's Knights (2) | 38 | Brainwashed Crusader | Increases overall defence power by 50.|
-| Attack Strategy of Lord Cuarry's Knights (1) | 28 | Achievement: Demons III | Increases overall attack power by 30.|
-| Attack Strategy of Lord Cuarry's Knights (2) | 28 | Crazed Crusader | Increases overall attack power by 50.|
+| Journal of the Forgotten Hero D (1) | 25 | Achievement: Angels I | Increases physical strength by 80. |
+| Journal of the Forgotten Hero D (2) | 48 | Crazed Crusader | Increases physical strength by 100. |
+| Lion Loa Tome | 60 | Celestial Spire Monsters | Increases physical strength by 120. |
+| Journal of the Forgotten Hero S (1) | 25 | Achievement: Demons I | Increases agility by 80. |
+| Journal of the Forgotten Hero S (2) | 48 | Brainwashed Crusader | Increases agility by 100. |
+| Eagle Loa Tome | 60 | Celestial Spire Monsters | Increases agility by 120. |
+| Journal of the Forgotten Hero J (1) | 25 | Achievement: Suspicious Person | Increases intelligence by 80. |
+| Journal of the Forgotten Hero J (2) | 48 | Crazed Crusader | Increases intelligence by 100. |
+| Snake Loa Tome | 60 | Celestial Spire Monsters | Increases intelligence by 120. |
+| Journal of the Forgotten Hero M (1) | 30 | Achievement: Heaven Daily Quests & Mysterious Travaller | Increases maximum HP by 4000. |
+| Journal of the Forgotten Hero M (2) | 48 | Brainwashed Crusader | Increases maximum HP by 6000. |
+| Bear Loa Tome | 60 | Celestial Spire Monsters | Increases maximum HP by 7000. |
+| Journal of the Unknown Hero (1) | 30 | Achievement: Hell Daily Quests & Mysterious Travaller | Increases maximum MP by 4000. |
+| Journal of the Unknown Hero (2) | 48 | Crazed Crusader | Increases maximum MP by 6000. |
+| Spirit King Tome | 60 | Celestial Spire Monsters | Increases maximum MP by 7000. |
+| Defensive Strategy of Lord Cuarry's Knights (1) | 28 | Achievement: Angels III | Increases overall defence power by 30. |
+| Defensive Strategy of Lord Cuarry's Knights (2) | 38 | Brainwashed Crusader | Increases overall defence power by 50. |
+| Attack Strategy of Lord Cuarry's Knights (1) | 28 | Achievement: Demons III | Increases overall attack power by 30. |
+| Attack Strategy of Lord Cuarry's Knights (2) | 28 | Crazed Crusader | Increases overall attack power by 50. |
 
 ## Other Books
 

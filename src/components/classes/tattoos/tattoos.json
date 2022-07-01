@@ -1,0 +1,2909 @@
+[
+    {
+        "pattern": [
+            {
+                "title": "Lion Loa",
+                "image": "/img/tattos/5792.png",
+                "tatu1": [
+                    {
+                        "title": "Elemental Blessing",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120.0 seconds",
+                        "image": "/img/tattos/6445.png",
+                        "desc": "All elements are increased.",
+                        "bcard1": "The equipped fairy's attribute level\nincreases by",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "4.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "6.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "8.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "10.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "12.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "16.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "20.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "26.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "32.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "40.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu2": [
+                    {
+                        "title": "Attack Stance",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6446.png",
+                        "desc": "Increases attack power at the\nexpense of denfence.",
+                        "bcard1": "Non-elemental damage received is \nincreased by",
+                        "bcard2": "Non-elemental damage is increased\n by",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2%.",
+                                "value2": "2%."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "3%.",
+                                "value2": "3%."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "4%.",
+                                "value2": "4%."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "5%.",
+                                "value2": "5%."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "6%.",
+                                "value2": "6%."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "8%.",
+                                "value2": "8%."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "10%.",
+                                "value2": "10%."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "13%.",
+                                "value2": "13%."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "16%.",
+                                "value2": "16%."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "20%.",
+                                "value2": "20%."
+                            }
+                        ]
+                    }
+                ],
+                "tatu3": [
+                    {
+                        "title": "Lion Claws",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6447.png",
+                        "desc": "Descripcion de Attack",
+                        "bcard1": "Non-elemental damage is increased\nby",
+                        "bcard2": "On attack, there is a",
+                        "bcard3": "chance\nof inflicting",
+                        "bcard4": "Fatal Bleeding on\nyour opponent.",
+                        "minibuff": [
+                            {
+                                "img": "/img/tattos/10140.png",
+                                "title": "Fatal Bleeding",
+                                "buff": "Disease Debuff\n(Level 4)",
+                                "duration": "Duration: 7.0 seconds",
+                                "desc": "Decreases HP and prevents critical\nhits.",
+                                "bcard": "Never inflicts critical hits.\nEvery 2 seconds:HP is reduced by\n495(Player Level*5)."
+                            }
+                        ],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2%.",
+                                "value2": "1%"
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "3%.",
+                                "value2": "1%"
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "3%.",
+                                "value2": "2%"
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "4%.",
+                                "value2": "2%"
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "4%.",
+                                "value2": "3%"
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "5%.",
+                                "value2": "3%"
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "6%.",
+                                "value2": "4%"
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "8%.",
+                                "value2": "4%"
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "10%.",
+                                "value2": "6%"
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "12%.",
+                                "value2": "8%"
+                            }
+                        ]
+                    }
+                ],
+                "tatu4": [
+                    {
+                        "title": "Strong Attack",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6448.png",
+                        "desc": "Increases the power of weapons.",
+                        "bcard1": "All attack are increased by",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "100.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "120.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "140.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "160.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "180.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "210.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "260.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "320.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "400.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "500.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu5": [
+                    {
+                        "title": "Sharp Claws",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6449.png",
+                        "desc": "Stronger attacks cause additional\ndamage.",
+                        "bcard1": "Increases damage dealt with a\nprobability of",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2% by 30%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "2% by 32%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "3% by 35%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "3% by 40%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "4% by 45%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "5% by 50%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "6% by 60%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "7% by 70%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "8% by 80%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "10% by 105%.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu6": [
+                    {
+                        "title": "Recuperative Healing",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6450.png",
+                        "desc": "Grants a chance of skill cooldowns\nbeing reset.",
+                        "bcard1": "Provides a",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "3% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "4% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "5% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "6% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "8% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "10% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "13% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "16% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "20% chance to reset\nthe cooldown of the attack skill\n used.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu7": [
+                    {
+                        "title": "Accurate Strike",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6451.png",
+                        "desc": "Penetrates opponents' armour.",
+                        "bcard1": "There's a",
+                        "bcard2": "Critical damage dealt is increased\nby",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "5% chance to ignore\n10% of the target's defence.",
+                                "value2": "5%."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "10% chance to ignore\n10% of the target's defence.",
+                                "value2": "6%."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "10% chance to ignore\n15% of the target's defence.",
+                                "value2": "7%."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "10% chance to ignore\n20% of the target's defence.",
+                                "value2": "8%."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "20% chance to ignore\n20% of the target's defence.",
+                                "value2": "9%."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "20% chance to ignore\n30% of the target's defence.",
+                                "value2": "10%."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "30% chance to ignore\n30% of the target's defence.",
+                                "value2": "13%."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "30% chance to ignore\n40% of the target's defence.",
+                                "value2": "16%."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "40% chance to ignore\n40% of the target's defence.",
+                                "value2": "20%."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "50% chance to ignore\n50% of the target's defence.",
+                                "value2": "25%."
+                            }
+                        ]
+                    }
+                ],
+                "tatu8": [
+                    {
+                        "title": "Lion Strike",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6452.png",
+                        "desc": "Those who understand how to live\nin harmony with nature can\nembrace the power of the lion loa.",
+                        "bcard1": "When attacking, there is a",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "3%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "4%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "5%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "6%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "8%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "10%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "13%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "16%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "20%\nchance of 50% additional damage\nbeing added by the lion loa.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "pattern": [
+            {
+                "title": "Eagle Loa",
+                "image": "/img/tattos/5793.png",
+                "tatu1": [
+                    {
+                        "title": "Swift as the Wind",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120.0 seconds",
+                        "image": "/img/tattos/6453.png",
+                        "desc": "Increases movement speed and\nthe dodge stat.",
+                        "bcard1": "Movement speed is increased by",
+                        "bcard2": "All dodges are increased by",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "1.",
+                                "value2": "20."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "1.",
+                                "value2": "40."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "1.",
+                                "value2": "60."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "1.",
+                                "value2": "80."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "1.",
+                                "value2": "100."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "2.",
+                                "value2": "120."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "2.",
+                                "value2": "140."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "2.",
+                                "value2": "160."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "2.",
+                                "value2": "180."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "3.",
+                                "value2": "200."
+                            }
+                        ]
+                    }
+                ],
+                "tatu2": [
+                    {
+                        "title": "Piercing Gaze",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6454.png",
+                        "desc": "Identifies the enemy's weak points.",
+                        "bcard1": "Chance of inflicting critical hits is\nincreased by",
+                        "bcard2": "The damage from critical hits is\nincreased by",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "1%.",
+                                "value2": "5%."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "1%.",
+                                "value2": "6%."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "1%.",
+                                "value2": "7%."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "2%.",
+                                "value2": "8%."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "2%.",
+                                "value2": "9%."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "3%.",
+                                "value2": "10%."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "3%.",
+                                "value2": "13%."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "4%.",
+                                "value2": "16%."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "4%.",
+                                "value2": "20%."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "5%.",
+                                "value2": "25%."
+                            }
+                        ]
+                    }
+                ],
+                "tatu3": [
+                    {
+                        "title": "Flying High",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6455.png",
+                        "desc": "You skilfully conceal your weak\npoints.",
+                        "bcard1": "Probability to receive critical hits is\ndecreased by",
+                        "bcard2": "When you're defending, the\ndamage from critical hits is reduced\nby",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "1%.",
+                                "value2": "5%"
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "1%.",
+                                "value2": "6%"
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "1%.",
+                                "value2": "7%"
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "2%.",
+                                "value2": "8%"
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "2%.",
+                                "value2": "9%"
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "3%.",
+                                "value2": "10%"
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "3%.",
+                                "value2": "13%"
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "4%.",
+                                "value2": "16%"
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "4%.",
+                                "value2": "20%"
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "5%.",
+                                "value2": "25%"
+                            }
+                        ]
+                    }
+                ],
+                "tatu4": [
+                    {
+                        "title": "Eagle Eye",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6456.png",
+                        "desc": "Increases the accuracy of your\nattacks.",
+                        "bcard1": "Hit chance is increased",
+                        "bcard2": "Chance of inflicting critical hits is\nincreased by",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "\nby 2%.",
+                                "value2": "1%."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "\nby 3%.",
+                                "value2": "2%."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "\nby 4%.",
+                                "value2": "3%."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "\nby 6%.",
+                                "value2": "4%."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "\nby 8%.",
+                                "value2": "5%."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "\nby 10%.",
+                                "value2": "6%."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "to 80% if\nit's less.",
+                                "value2": "7%."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "to 82% if\nit's less.",
+                                "value2": "8%."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "to 86% if\nit's less.",
+                                "value2": "9%."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "to 90% if\nit's less.",
+                                "value2": "10%."
+                            }
+                        ]
+                    }
+                ],
+                "tatu5": [
+                    {
+                        "title": "Eye for an Eye",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6457.png",
+                        "desc": "Reflects damage back at the\nenemy.",
+                        "bcard1": "When you receive a critical hit,\nthere is a",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "5% chance of 10%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "5% chance of 15%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "5% chance of 20%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "10% chance of 30%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "10% chance of 40%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "15% chance of 50%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "15% chance of 60%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "20% chance of 70%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "20% chance of 80%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "25% chance of 100%\nbeing reflected to the opponent.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu6": [
+                    {
+                        "title": "Survival Instinct",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 8.0 seconds",
+                        "image": "/img/tattos/6458.png",
+                        "desc": "When in danger, your dexterity\nincreases.",
+                        "bcard1": "You have a (percent of HP missing\n",
+                        "bcard2": "Your HP increases by",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "*10/100)% probability of dodging\nattacks.",
+                                "value2": "4% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "*15/100)% probability of dodging\nattacks.",
+                                "value2": "4% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "*20/100)% probability of dodging\nattacks.",
+                                "value2": "4% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "*27/100)% probability of dodging\nattacks.",
+                                "value2": "6% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "*33/100)% probability of dodging\nattacks.",
+                                "value2": "6% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "*40/100)% probability of dodging\nattacks.",
+                                "value2": "6% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "*48/100)% probability of dodging\nattacks.",
+                                "value2": "8% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "*55/100)% probability of dodging\nattacks.",
+                                "value2": "8% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "*65/100)% probability of dodging\nattacks.",
+                                "value2": "8% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "*80/100)% probability of dodging\nattacks.",
+                                "value2": "10% of\nmissing HP when you dodge\nattacks."
+                            }
+                        ]
+                    }
+                ],
+                "tatu7": [
+                    {
+                        "title": "Growing Experience",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6459.png",
+                        "desc": "As your experience grows, it is\neasier for you to identify enemies'\nweak points.",
+                        "bcard1": "The final critical hit damage is\nincreased by",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "1% per critical hit\n(max. 5 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "1% per critical hit\n(max. 6 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "1% per critical hit\n(max. 8 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "1% per critical hit\n(max. 10 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "1% per critical hit\n(max. 12 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "1% per critical hit\n(max. 14 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "2% per critical hit\n(max. 9 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "2% per critical hit\n(max. 11 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "2% per critical hit\n(max. 14 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "2% per critical hit\n(max. 18 hits).",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu8": [
+                    {
+                        "title": "Eagle Claws",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6460.png",
+                        "desc": "Those who understand how to live\nin harmony with nature can\nembrace the power of the eagle\nloa.",
+                        "bcard1": "When attacking, there is a",
+                        "bcard2": "chance of",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "3%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "4%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "5%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "6%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "8%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "10%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "13%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "16%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "20%",
+                                "value2": " 50% additional damage\nbeing added by the eagle loa."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "pattern": [
+            {
+                "title": "Bear Loa",
+                "image": "/img/tattos/5790.png",
+                "tatu1": [
+                    {
+                        "title": "Spiky Leather",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120.0 seconds",
+                        "image": "/img/tattos/6437.png",
+                        "desc": "Makes your skin more resistant and\ncauses spikes to grow out of your\npelt.",
+                        "bcard1": "Damage received is decreased by\n",
+                        "bcard2": "When you're defending, there is a\n100% chance of",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2%",
+                                "value2": "2% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "3%",
+                                "value2": "3% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "4%",
+                                "value2": "4% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "5%",
+                                "value2": "5% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "6%",
+                                "value2": "6% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "8%",
+                                "value2": "8% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "10%",
+                                "value2": "10% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "13%",
+                                "value2": "13% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "16%",
+                                "value2": "16% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "20%",
+                                "value2": "20% of the\ndamage being reflected at the\nopponent."
+                            }
+                        ]
+                    }
+                ],
+                "tatu2": [
+                    {
+                        "title": "Cower",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6438.png",
+                        "desc": "Increases defence power at the\nexpense of attack power.",
+                        "bcard1": "Non-elemental damage is reduced\nby",
+                        "bcard2": "Non-elemental damage received is\ndecreased",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "10%.",
+                                "value2": "5%."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "11%.",
+                                "value2": "6%."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "12%.",
+                                "value2": "7%."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "13%.",
+                                "value2": "8%."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "14%.",
+                                "value2": "9%."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "15%.",
+                                "value2": "10%."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "16%.",
+                                "value2": "13%."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "18%.",
+                                "value2": "16%."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "20%.",
+                                "value2": "20%."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "25%.",
+                                "value2": "25%."
+                            }
+                        ]
+                    }
+                ],
+                "tatu3": [
+                    {
+                        "title": "Malleable Pelt",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6439.png",
+                        "desc": "The armour adapts to the damage\ntype.",
+                        "bcard1": "Damage from incoming critical hits\nis reduced by",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "1% per critical hit\n(max. 2 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "2% per critical hit\n(max. 2 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "2% per critical hit\n(max. 3 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "3% per critical hit\n(max. 3 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "4% per critical hit\n(max. 3 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "4% per critical hit\n(max. 4 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "5% per critical hit\n(max. 4 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "5% per critical hit\n(max. 5 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "6% per critical hit\n(max. 5 hits).",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "7% per critical hit\n(max. 5 hits).",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu4": [
+                    {
+                        "title": "Bear Stamina",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6440.png",
+                        "desc": "The blessing of the bear loa grants\nyou more stamina.",
+                        "bcard1": "Increases maximum HP by",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "sideEff": "\nSide effect: after 0.1 seconds\n",
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "5%\nIncreases maximum MP by 2%.",
+                                "value2": "5% HP is recovered.\n 2% MP is recovered."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "6%\nIncreases maximum MP by 3%.",
+                                "value2": "6% HP is recovered.\n 3% MP is recovered."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "7%\nIncreases maximum MP by 3%.",
+                                "value2": "7% HP is recovered.\n 3% MP is recovered."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "8%\nIncreases maximum MP by 4%.",
+                                "value2": "8% HP is recovered.\n 4% MP is recovered."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "9%\nIncreases maximum MP by 4%.",
+                                "value2": "9% HP is recovered.\n 4% MP is recovered."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "10%\nIncreases maximum MP by 5%.",
+                                "value2": "10% HP is recovered.\n 5% MP is recovered."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "13%\nIncreases maximum MP by 7%.",
+                                "value2": "13% HP is recovered.\n 7% MP is recovered."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "16%\nIncreases maximum MP by 8%.",
+                                "value2": "16% HP is recovered.\n 8% MP is recovered."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "20%\nIncreases maximum MP by 10%.",
+                                "value2": "20% HP is recovered.\n 10% MP is recovered."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "25%\nIncreases maximum MP by 13%.",
+                                "value2": "25% HP is recovered.\n 13% MP is recovered."
+                            }
+                        ]
+                    }
+                ],
+                "tatu5": [
+                    {
+                        "title": "Thick-Skinned",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 20",
+                        "image": "/img/tattos/6441.png",
+                        "desc": "Increases resistance and armour.",
+                        "bcard1": "Absorb",
+                        "bcard2": "All elemental resistances are\nincreased by",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "3% of your max HP as\ndamage.",
+                                "value2": "5."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "4% of your max HP as\ndamage.",
+                                "value2": "7."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "5% of your max HP as\ndamage.",
+                                "value2": "10."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "6% of your max HP as\ndamage.",
+                                "value2": "15."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "7% of your max HP as\ndamage.",
+                                "value2": "20."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "8% of your max HP as\ndamage.",
+                                "value2": "25."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "10% of your max HP as\ndamage.",
+                                "value2": "30."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "13% of your max HP as\ndamage.",
+                                "value2": "35."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "17% of your max HP as\ndamage.",
+                                "value2": "40."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "20% of your max HP as\ndamage.",
+                                "value2": "50."
+                            }
+                        ]
+                    }
+                ],
+                "tatu6": [
+                    {
+                        "title": "Blessed Pelt",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6442.png",
+                        "desc": "The holy peltof the bear loa\nprotects you from negative effects.",
+                        "bcard1": "Up to level",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2 there is a 5% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "2 there is a 7% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "2 there is a 10% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "3 there is a 8% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "3 there is a 10% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "3 there is a 12% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "4 there is a 10% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "4 there is a 12% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "5 there is a 10% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "5 there is a 15% chance\nof never getting a bad effect.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu7": [
+                    {
+                        "title": "Lightning Defence",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration:",
+                        "image": "/img/tattos/6443.png",
+                        "desc": "Boosts your armour in a flash.",
+                        "bcard1": "All elemental resistances are\nincreased by",
+                        "bcard2": "Never receives critical hits.",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "time": "3.0 seconds",
+                                "mas": "+0",
+                                "value1": "5.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "time": "3.5 seconds",
+                                "mas": "+1",
+                                "value1": "7.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "time": "4.0 seconds",
+                                "mas": "+2",
+                                "value1": "10.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "time": "5.0 seconds",
+                                "mas": "+3",
+                                "value1": "13.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "time": "6.0 seconds",
+                                "mas": "+4",
+                                "value1": "16.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "time": "7.0 seconds",
+                                "mas": "+5",
+                                "value1": "20.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "time": "8.0 seconds",
+                                "mas": "+6",
+                                "value1": "24.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "time": "9.0 seconds",
+                                "mas": "+7",
+                                "value1": "28.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "time": "10.0 seconds",
+                                "mas": "+8",
+                                "value1": "32.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "time": "12.0 seconds",
+                                "mas": "+9",
+                                "value1": "40.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu8": [
+                    {
+                        "title": "Bear Strike",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6444.png",
+                        "desc": "Those who understand how to live\nin harmony with nature can\nembrace the power of the bear loa.",
+                        "bcard1": "When attacking, there is a",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "3%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "4%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "5%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "6%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "8%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "10%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "13%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "16%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "20%\n chance of 50% additional damage\nbeing added by the bear loa.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "pattern": [
+            {
+                "title": "Snake Loa",
+                "image": "/img/tattos/5791.png",
+                "tatu1": [
+                    {
+                        "title": "Snake Venom",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120.0 seconds",
+                        "image": "/img/tattos/6461.png",
+                        "desc": "An attack fortified with poison.",
+                        "bcard1": [],
+                        "bcard2": "On attack, there is a",
+                        "bcard3": "chance\nof inflicting",
+                        "bcard4": "Neurotoxin",
+                        "minibuff": [
+                            {
+                                "img": "/img/tattos/6461.png",
+                                "title": "Neurotoxin",
+                                "buff": "Debuff\n",
+                                "duration": "Duration: 12.0 seconds",
+                                "desc": "The venom of the snake loa is\nparticularly potent.",
+                                "bcard": "Hit rate of all attacks is decreased\nby 200.\nAll dodges are decreased by 200.\nNon-elemental damage is reduced\nby 20%."
+                            }
+                        ],
+                        "cero": [
+                            {
+                                "level": "on your\nopponent.",
+                                "mas": "+0",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "3%"
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "level": "on your\nopponent.",
+                                "mas": "+1",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "4%"
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "level": "on your\nopponent.",
+                                "mas": "+2",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "5%"
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "level": "on your\nopponent.",
+                                "mas": "+3",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "6%"
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "level": "on your\nopponent.",
+                                "mas": "+4",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "7%"
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "level": "on your\nopponent.",
+                                "mas": "+5",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "8%"
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "level": "on your\nopponent.",
+                                "mas": "+6",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "9%"
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "level": "(Level 2)\non your opponent.",
+                                "minilev": "(Level 2)",
+                                "debuff": "(Level 5)",
+                                "side": "Side effect: after 0.1 seconds",
+                                "bcard": "\nNon-elemental damage received is\nincreased by 2%.",
+                                "mas": "+7",
+                                "value1": [],
+                                "value2": "10%"
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "level": "(Level 3)\non your opponent.",
+                                "minilev": "(Level 3)",
+                                "debuff": "(Level 6)",
+                                "side": "Side effect: after 0.1 seconds",
+                                "bcard": "\nNon-elemental damage received is\nincreased by 3%.",
+                                "mas": "+8",
+                                "value1": [],
+                                "value2": "12%"
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "level": "(Level 5)\non your opponent.",
+                                "minilev": "(Level 4)",
+                                "debuff": "(Level 7)",
+                                "side": "Side effect: after 0.1 seconds",
+                                "bcard": "\nNon-elemental damage received is\nincreased by 5%.",
+                                "mas": "+9",
+                                "value1": [],
+                                "value2": "15%"
+                            }
+                        ]
+                    }
+                ],
+                "tatu2": [
+                    {
+                        "title": "Arcane Wisdom",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6462.png",
+                        "desc": "Your attack power is strengthened\nby your magic defence.",
+                        "bcard1": "Overall attack power is increased\nby",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "5% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "6% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "7% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "8% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "9% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "10% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "13% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "16% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "20% of magic defence.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "25% of magic defence.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu3": [
+                    {
+                        "title": "First Strike",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6463.png",
+                        "desc": "If you take an damage, it is\ndeducted from your MP instead of\nyour HP.",
+                        "bcard1": [],
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "Heal 5% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 2%.\n2% MP is recovered."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "Heal 6% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 3%.\n3% MP is recovered."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "Heal 7% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 3%.\n3% MP is recovered."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "Heal 8% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 4%.\n4% MP is recovered."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "Heal 9% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 4%.\n4% MP is recovered."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "Heal 10% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 5%.\n5% MP is recovered."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "Heal 13% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 7%.\n7% MP is recovered."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "Heal 16% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 8%.\n8% MP is recovered."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "Heal 20% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 10%.\n10% MP is recovered."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "Heal 25% of inflicted damage by\nreducing MP.",
+                                "value2": "Increases maximum MP by 13%.\n13% MP is recovered."
+                            }
+                        ]
+                    }
+                ],
+                "tatu4": [
+                    {
+                        "title": "Curse",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6464.png",
+                        "desc": "You are out for revenge and curse\nyour opponent.",
+                        "bcard1": [],
+                        "bcard2": "On attack, there is a",
+                        "bcard3": "chance\nof inflicting",
+                        "bcard4": "Snake Loa's Curse\n",
+                        "minibuff": [
+                            {
+                                "img": "/img/tattos/6464.png",
+                                "title": "Snake Loa's Curse",
+                                "buff": "Debuff\n",
+                                "duration": "Duration: 20.0 seconds",
+                                "desc": "Damage is increased by the Snake\nLoa's Curse.",
+                                "bcard": "Non-elemental damage received is\nincreased by 30%.\nMovement speed is decreased by 2."
+                            }
+                        ],
+                        "cero": [
+                            {
+                                "level": "on your opponent.",
+                                "mas": "+0",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "3%"
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "level": "on your opponent.",
+                                "mas": "+1",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "4%"
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "level": "on your opponent.",
+                                "mas": "+2",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "5%"
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "level": "on your opponent.",
+                                "mas": "+3",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "6%"
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "level": "on your opponent.",
+                                "mas": "+4",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "7%"
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "level": "on your opponent.",
+                                "mas": "+5",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "8%"
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "level": "on your opponent.\nRestores HP equal to 3% of the\ndamage inflicted(max. 1500 per\nattack).",
+                                "mas": "+6",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "9%"
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "level": "on your opponent.\nRestores HP equal to 4% of the\ndamage inflicted(max. 1500 per\nattack).",
+                                "mas": "+7",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "10%"
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "level": "on your opponent.\nRestores HP equal to 5% of the\ndamage inflicted(max. 1500 per\nattack).",
+                                "mas": "+8",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "12%"
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "level": "on your opponent.\nRestores HP equal to 6% of the\ndamage inflicted(max. 1500 per\nattack).",
+                                "mas": "+9",
+                                "debuff": "(Level 3)",
+                                "value1": [],
+                                "value2": "15%"
+                            }
+                        ]
+                    }
+                ],
+                "tatu5": [
+                    {
+                        "title": "Elemental Shield",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6465.png",
+                        "desc": "Elemental damage taken is\nreduced.",
+                        "bcard1": "With a 100% probability all\nelemental damage is reduced by\n",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "5%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "7%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "10%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "16%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "22%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "28%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "34%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "42%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "50%.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "60%.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu6": [
+                    {
+                        "title": "Magic Armour",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 20",
+                        "image": "/img/tattos/6466.png",
+                        "desc": "Damage is reduced by a wondrous\nmagic.",
+                        "bcard1": "Magic armour prevents",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "4000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "6000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "8000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "10000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "12000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "16000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "20000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "26000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "32000\ndamage.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "40000\ndamage.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ],
+                "tatu7": [
+                    {
+                        "title": "Curse Power",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6467.png",
+                        "desc": "Your elements are increased when\nyou are affected by negative\neffects.",
+                        "bcard1": "The damage from the equipped\nfairy is increased by",
+                        "bcard2": "The equipped fairy's attribute level\nincreases by",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "5 per debuff.",
+                                "value2": "1."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "6 per debuff.",
+                                "value2": "2."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "7 per debuff.",
+                                "value2": "3."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "8 per debuff.",
+                                "value2": "4."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "9 per debuff.",
+                                "value2": "5."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "12 per debuff.",
+                                "value2": "6."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "15 per debuff.",
+                                "value2": "7."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "19 per debuff.",
+                                "value2": "8."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "25 per debuff.",
+                                "value2": "9."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "30 per debuff.",
+                                "value2": "10."
+                            }
+                        ]
+                    }
+                ],
+                "tatu8": [
+                    {
+                        "title": "Snakebite",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120",
+                        "image": "/img/tattos/6468.png",
+                        "desc": "Those who understand how to live\nin harmony with nature can\nembrace the power of the snake\nloa.",
+                        "bcard1": "When attacking, there is a",
+                        "bcard2": [],
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "2%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "3%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "4%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "5%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "6%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "8%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "10%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "13%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "16%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "20%\nchance of 50% additional damage\nbeing added by the snake loa.",
+                                "value2": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "pattern": [
+            {
+                "title": "Corrupt Shadow",
+                "image": "/img/tattos/9764.png",
+                "tatu1": [
+                    {
+                        "title": "Paimon's Shadow Energy",
+                        "buff": "Buff\n(Level 5)",
+                        "duration": "Duration: 120.0 seconds",
+                        "image": "/img/tattos/6470.png",
+                        "desc": "The power of Paimon's shadow\npenetrates you and conjures an\nelite Shadow Knight.",
+                        "bcard1": "Critical damage received is\ndecreased by",
+                        "bcard2": "Summons 1 x ",
+                        "bcard3": [],
+                        "bcard4": [],
+                        "minibuff": [],
+                        "cero": [
+                            {
+                                "mas": "+0",
+                                "value1": "10%.",
+                                "value2": "Elite Shadow Knight."
+                            }
+                        ],
+                        "mas1": [
+                            {
+                                "mas": "+1",
+                                "value1": "12%.",
+                                "value2": "Elite Shadow Knight."
+                            }
+                        ],
+                        "mas2": [
+                            {
+                                "mas": "+2",
+                                "value1": "14%.",
+                                "value2": "Elite Shadow Knight."
+                            }
+                        ],
+                        "mas3": [
+                            {
+                                "mas": "+3",
+                                "value1": "16%.",
+                                "value2": "Elite Shadow Knight."
+                            }
+                        ],
+                        "mas4": [
+                            {
+                                "mas": "+4",
+                                "value1": "20%.",
+                                "value2": "Elite Shadow Knight."
+                            }
+                        ],
+                        "mas5": [
+                            {
+                                "mas": "+5",
+                                "value1": "25%.",
+                                "value2": "Improved Elite\nShadow Knight."
+                            }
+                        ],
+                        "mas6": [
+                            {
+                                "mas": "+6",
+                                "value1": "30%.",
+                                "value2": "Improved Elite\nShadow Knight."
+                            }
+                        ],
+                        "mas7": [
+                            {
+                                "mas": "+7",
+                                "value1": "35%.",
+                                "value2": "Improved Elite\nShadow Knight."
+                            }
+                        ],
+                        "mas8": [
+                            {
+                                "mas": "+8",
+                                "value1": "40%.",
+                                "value2": "Improved Elite\nShadow Knight."
+                            }
+                        ],
+                        "mas9": [
+                            {
+                                "mas": "+9",
+                                "value1": "50%.",
+                                "value2": "Elite Shadow Knight\nCommander."
+                            }
+                        ]
+                    }
+                ],
+                "tatu2":[],
+                "tatu3":[],
+                "tatu4":[],
+                "tatu5":[],
+                "tatu6":[],
+                "tatu7":[],
+                "tatu8":[],
+                "tatu9":[]
+            }
+        ]
+    }
+]

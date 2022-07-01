@@ -1,0 +1,208 @@
+.greyTableR {
+    margin: 0px 1px 1px 1px;
+    border: 1px solid rgb(80, 80, 80);
+    background-color: rgb(80, 80, 80);
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    padding: 4px;
+    text-align: center;
+    height: 93px;
+    width: 245px;
+    position: left;
+    z-index: 1;
+}
+
+.blackTableR {
+    border-radius: 5px;
+    height: 88px;
+    width: 240px;
+    border-collapse: separate;
+    border: 1px solid #666;
+    border-color: grey;
+    background-color: rgba(20, 20, 20, 1);
+    border-radius: 5px;
+    margin-left: -3px;
+    margin-top: -2px;
+}
+
+.buttonR {
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 36px;
+    width: 36px;
+    background-size: 36px 36px;
+    background-position: center;
+    box-sizing: content-box;
+    padding: 0px;
+    border-radius: 0px;
+    border-spacing: 2px;
+    margin: 5px;
+}
+
+.titleDivR {
+    background: linear-gradient(rgb(70, 70, 70), rgb(45, 45, 45) 15%, rgb(45, 45, 45) 50%, rgb(0, 0, 0) 50%, rgb(0, 0, 0));
+    border-radius: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+    box-shadow: inset 0 0 0 1px #000, 0 0 1px 1px #000;
+    border: 1px solid rgb(140, 140, 140);
+    width: 245px;
+    position: left;
+    color: #FFF;
+    text-align: center;
+    text-shadow: var(--nt-txt-shadow);
+    font-family: Tahoma;
+    font-size: 14px;
+    padding: 4px 0px;
+    height: 35px;
+}
+
+.greyTableT {
+    margin: 0px 1px 1px 1px;
+    border: 1px solid rgb(80, 80, 80);
+    background-color: rgb(80, 80, 80);
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    padding: 4px;
+    text-align: center;
+    height: 105px;
+    width: 205px;
+    margin-left: 300px;
+    z-index: 1;
+}
+
+.buttonT {
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 36px;
+    width: 36px;
+    background-size: 36px 36px;
+    background-position: center;
+    border: 1px solid #999;
+    box-shadow: 0 0 0 1px rgb(20 20 20);
+    background: rgba(20, 20, 20, 1);
+    box-sizing: content-box;
+    padding: 0px;
+    border-radius: 0px;
+    border-spacing: 2px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.titleDivT {
+    background: linear-gradient(rgb(70, 70, 70), rgb(45, 45, 45) 15%, rgb(45, 45, 45) 50%, rgb(0, 0, 0) 50%, rgb(0, 0, 0));
+    border-radius: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+    box-shadow: inset 0 0 0 1px #000, 0 0 1px 1px #000;
+    border: 1px solid rgb(140, 140, 140);
+    width: 205px;
+    margin-left: 300px;
+    margin-top: -95px;
+    color: #FFF;
+    text-align: center;
+    text-shadow: var(--nt-txt-shadow);
+    font-family: Tahoma;
+    font-size: 14px;
+    padding: 4px 0px;
+    height: 35px;
+}
+
+.blackTableT {
+    border-radius: 5px;
+    height: 100px;
+    width: 200px;
+    border-collapse: separate;
+    border: 1px solid #666;
+    border-color: grey;
+    background-color: rgba(20, 20, 20, 1);
+    border-radius: 5px;
+    margin-left: -3px;
+    margin-top: -2px;
+}
+
+.modalGenR {
+    color: #FFE9A9;
+    width: 330px;
+    height: 320px;
+    z-index: 999;
+    color: #fff;
+    background-color: rgba(6, 6, 6, 0.9);
+    position: relative;
+    bottom: 200.2%;
+    border-radius: 5px;
+    border: 1px solid rgb(140, 140, 140);
+    box-shadow: inset 0 0 0 1px #000, 0 0 1px 1px #000;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 16px;
+    font-size: 14px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: pre;
+    padding-top: 50px;
+    padding-bottom: -40;
+    z-index: 1;
+    margin-top: 30px;
+}
+.propagation{
+    height: 500px;
+    width: 500px;
+    color: #fff;
+}
+.sumContR {
+    margin-left: 0px;
+    margin-top: -100px;
+}
+
+.miniSumR {
+    display: inline-block;
+    box-shadow: 0 0 0px 1px #000;
+    border: 1px solid #999;
+    border-radius: 2px;
+    transition: .2s;
+    background-color: rgb(80, 80, 80);
+    padding: 0px;
+    cursor: pointer;
+    margin: 1.5px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: pre;
+}
+.style-titleR {
+    color: #f5c478;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+  }
+  .imgbaseR{
+    position: absolute;
+    top: 35px;
+    left: 10px;
+    min-width: 40px;
+    }
+.inSum {
+    text-decoration: none;
+    color: #FFF;
+    padding: 4px 9px;
+    font-size: 16px;
+}
+
+.nivbotTab {
+    margin-top: 50px;
+}
+
+.imgbase {
+    position: absolute;
+    top: 15px;
+    left: 10px;
+}

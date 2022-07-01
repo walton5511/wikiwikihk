@@ -154,6 +154,38 @@ module.exports = {
           ]
         },
       ]
+    },
+    {
+      type: 'category',
+      className: 'act7-icon',
+      label: 'Act7 Exclusive',
+      items: [
+        {
+          type: 'category',
+          label: 'Raids',
+          className: 'raids-icon',
+          items: [
+            { type: 'doc', id: 'guides/raids/carno-raids', label: 'Beast King Carno', className: 'carno-icon' },
+            { type: 'doc', id: 'guides/raids/kirollas-raids', label: 'Spirit King Kirollas', className: 'kirollas-icon' },
+            { type: 'doc', id: 'guides/raids/belial-raids', label: 'Demon God Belial', className: 'belial-icon' },
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Quests',
+          className: 'questl-icon',
+          items: [
+            { type: 'doc', id: 'guides/quests/act-7.1-questline', label: 'Act7 Questline', className:'mainquest-icon' },
+            { type: 'doc', id: 'guides/quests/act-7.1-daily-quests', label: 'Act7 Daily Quests', className:'dailyquest-icon' },
+          ]
+        },
+        { type: 'doc', id: 'guides/leveling/hero50-60', label: 'Act7 Leveling Guide', className: 'clevel-icon' },
+        { type: 'doc', id: 'guides/act7-equipment', label: 'Act7 Equipment Crafting', className: 'a7craft-icon' },
+        { type: 'doc', id: 'release-reworks/equipment-act71-rework', label: 'Act7 Equipment Rework', className: 'equi-icon' },
+        { type: 'doc', id: 'guides/features/act7-achievements', label: 'Act7 Achievements', className: 'a7achievements-icon' },
+        { type: 'doc', id: 'information/runes', label: 'Runes ', className: 'runes-icon' },
+        { type: 'doc', id: 'information/tattoos', label: 'Tattoos', className: 'tattoos-icon' },
+      ]
     }
   ]
 

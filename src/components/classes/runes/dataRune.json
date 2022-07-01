@@ -1,0 +1,807 @@
+[
+    {
+        "effect": [
+            {
+                "title": "Reflection Power",
+                "image": "/img/rune/refle1.png",
+                "lvl1": [
+                    {
+                        "title": "Reflection Power (Level 1)",
+                        "image": "/img/rune/refle1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 2.0 seconds",
+                        "desc":"You reflect damage with\nReflection Power.",
+                        "bcard":"When you're defending, there is a\n100% chance of 20% of the\ndamage being reflected at the\nopponent.",
+                        "minibuff":[]
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Reflection Power (Level 2)",
+                        "image": "/img/rune/refle1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 2.0 seconds",
+                        "minibuff":[],
+                        "desc":"You reflect damage with\nReflection Power.",
+                        "bcard":"When you're defending, there is a\n100% chance of 30% of the\ndamage being reflected at the\nopponent."
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Reflection Power (Level 3)",
+                        "image": "/img/rune/refle1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 2.0 seconds",
+                        "minibuff":[],
+                        "desc":"You reflect damage with\nReflection Power.",
+                        "bcard":"When you're defending, there is a\n100% chance of 50% of the\ndamage being reflected at the\nopponent."
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Reflection Power (Level 4)",
+                        "image": "/img/rune/refle1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 2.0 seconds",
+                        "minibuff":[],
+                        "desc":"You reflect damage with\nReflection Power.",
+                        "bcard":"When you're defending, there is a\n100% chance of 70% of the\ndamage being reflected at the\nopponent."
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Reflection Power (Level 5)",
+                        "image": "/img/rune/refle2.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 4.0 seconds",
+                        "minibuff":[],
+                        "desc":"You reflect damage with\nReflection Power.",
+                        "bcard":"When you're defending, there is a\n100% chance of 100% of the\ndamage being reflected at the\nopponent."
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Reflection Power (Level 6)",
+                        "image": "/img/rune/refle2.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 6.0 seconds",
+                        "minibuff":[],
+                        "desc":"You reflect damage with\nReflection Power.",
+                        "bcard":"When you're defending, there is a\n100% chance of 100% of the\ndamage being reflected at the\nopponent."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Apocalypse Power",
+                "image": "/img/rune/apo1.png",
+                "lvl1": [
+                    {
+                        "title": "Apocalypse Power (Level 1)",
+                        "image": "/img/rune/apo1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "time":"Duration: 10.0 seconds",
+                        "minibuff":[],
+                        "desc":"You burn with Apocalypse Power.",
+                        "bcard":"Fire resistance is decreased by 5.\nEvery 2 seconds:HP is reduced by\n198(Player Level*2)."
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Apocalypse Power (Level 2)",
+                        "image": "/img/rune/apo1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "time":"Duration: 10.0 seconds",
+                        "minibuff":[],
+                        "desc":"You burn with Apocalypse Power.",
+                        "bcard":"Fire resistance is decreased by 7.\nEvery 2 seconds:HP is reduced by\n396(Player Level*4)."
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Apocalypse Power (Level 3)",
+                        "image": "/img/rune/apo1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "time":"Duration: 10.0 seconds",
+                        "minibuff":[],
+                        "desc":"You burn with Apocalypse Power.",
+                        "bcard":"Fire resistance is decreased by 10.\nEvery 2 seconds:HP is reduced by\n594(Player Level*6)."
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Apocalypse Power (Level 4)",
+                        "image": "/img/rune/apo1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "time":"Duration: 10.0 seconds",
+                        "minibuff":[],
+                        "desc":"You burn with Apocalypse Power.",
+                        "bcard":"Fire resistance is decreased by 15.\nEvery 2 seconds:HP is reduced by\n792(Player Level*8)."
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Apocalypse Power (Level 5)",
+                        "image": "/img/rune/apo2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "time":"Duration: 10.0 seconds",
+                        "minibuff":[],
+                        "desc":"You burn with Apocalypse Power.",
+                        "bcard":"Fire resistance is decreased by 25.\nEvery 2 seconds:HP is reduced by\n1188(Player Level*12)."
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Apocalypse Power (Level 5)",
+                        "image": "/img/rune/apo2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "time":"Duration: 10.0 seconds",
+                        "minibuff":[],
+                        "desc":"You burn with Apocalypse Power.",
+                        "bcard":"Fire resistance is decreased by 30.\nEvery 2 seconds:HP is reduced by\n1485(Player Level*15)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Wolf Power",
+                "image": "/img/rune/wolf1.png",
+                "lvl1": [
+                    {
+                        "title": "Wolf Power (Level 1)",
+                        "image": "/img/rune/wolf1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"The elements are weakened by\nWolf Power.",
+                        "bcard":"Non-elemental damage is reduced\nby 4%.\nDefence power is reduced by 4%."
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Wolf Power (Level 2)",
+                        "image": "/img/rune/wolf1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"The elements are weakened by\nWolf Power.",
+                        "bcard":"Non-elemental damage is reduced\nby 7%.\nDefence power is reduced by 7%."
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Wolf Power (Level 3)",
+                        "image": "/img/rune/wolf1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"The elements are weakened by\nWolf Power.",
+                        "bcard":"Non-elemental damage is reduced\nby 10%.\nDefence power is reduced by 10%."
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Wolf Power (Level 4)",
+                        "image": "/img/rune/wolf1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"The elements are weakened by\nWolf Power.",
+                        "bcard":"Non-elemental damage is reduced\nby 13%.\nDefence power is reduced by 13%."
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Wolf Power (Level 5)",
+                        "image": "/img/rune/wolf2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 15.0 seconds",
+                        "desc":"The elements are weakened by\nWolf Power.",
+                        "bcard":"Non-elemental damage is reduced\nby 20%.\nDefence power is reduced by 20%."
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Wolf Power (Level 6)",
+                        "image": "/img/rune/wolf2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 15.0 seconds",
+                        "desc":"The elements are weakened by\nWolf Power.",
+                        "bcard":"Non-elemental damage is reduced\nby 30%.\nDefence power is reduced by 30%."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Explosion Power",
+                "image": "/img/rune/explo1.png",
+                "lvl1": [
+                    {
+                        "title": "Explosion Power (Level 1)",
+                        "image": "/img/rune/explo1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Fire resistance is reduced by\nExplosion Power.",
+                        "bcard":"Fire resistance is decreased by 5.\nThe chance of receiving a critical\nhit is increased by 10%."
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Explosion Power (Level 2)",
+                        "image": "/img/rune/explo1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Fire resistance is reduced by\nExplosion Power.",
+                        "bcard":"Fire resistance is decreased by 7.\nThe chance of receiving a critical\nhit is increased by 10%."
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Explosion Power (Level 3)",
+                        "image": "/img/rune/explo1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "time":"Duration: 10.0 seconds",
+                        "minibuff":[],
+                        "desc":"Fire resistance is reduced by\nExplosion Power.",
+                        "bcard":"Fire resistance is decreased by 10.\nThe chance of receiving a critical\nhit is increased by 10%."
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Explosion Power (Level 4)",
+                        "image": "/img/rune/explo1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Fire resistance is reduced by\nExplosion Power.",
+                        "bcard":"Fire resistance is decreased by 15.\nThe chance of receiving a critical\nhit is increased by 10%."
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Explosion Power (Level 5)",
+                        "image": "/img/rune/explo2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Fire resistance is reduced by\nExplosion Power.",
+                        "bcard":"Fire resistance is decreased by 25.\nThe chance of receiving a critical\nhit is increased by 20%."
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Explosion Power (Level 6)",
+                        "image": "/img/rune/explo2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 12.0 seconds",
+                        "desc":"Fire resistance is reduced by\nExplosion Power.",
+                        "bcard":"Fire resistance is decreased by 30.\nThe chance of receiving a critical\nhit is increased by 25%."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Kickback Power",
+                "image": "/img/rune/kick1.png",
+                "lvl1": [
+                    {
+                        "title": "Kickback Power (Level 1)",
+                        "image": "/img/rune/kick1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 2.0 seconds",
+                        "desc":"Strengthens your attacks with\nKickback Power.",
+                        "bcard":"Movement impossible\nNo attack possible"
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Kickback Power (Level 2)",
+                        "image": "/img/rune/kick1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 2.0 seconds",
+                        "desc":"Strengthens your attacks with\nKickback Power.",
+                        "bcard":"Movement impossible\nNo attack possible"
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Kickback Power (Level 3)",
+                        "image": "/img/rune/kick1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 3.0 seconds",
+                        "desc":"Strengthens your attacks with\nKickback Power.",
+                        "bcard":"Movement impossible\nNo attack possible"
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Kickback Power (Level 4)",
+                        "image": "/img/rune/kick1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 4.0 seconds",
+                        "desc":"Strengthens your attacks with\nKickback Power.",
+                        "bcard":"Movement impossible\nNo attack possible"
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Kickback Power (Level 5)",
+                        "image": "/img/rune/kick2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 5.0 seconds",
+                        "desc":"Strengthens your attacks with\nKickback Power.",
+                        "bcard":"Movement impossible\nNo attack possible\nNo defence possible"
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Kickback Power (Level 6)",
+                        "image": "/img/rune/kick2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 6.0 seconds",
+                        "desc":"Strengthens your attacks with\nKickback Power.",
+                        "bcard":"Movement impossible\nNo attack possible\nNo defence possible"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Agility Power",
+                "image": "/img/rune/agi1.png",
+                "lvl1": [
+                    {
+                        "title": "Agility Power (Level 1)",
+                        "image": "/img/rune/agi1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 8.0 seconds",
+                        "desc":"You are more agile and move\nfaster thanks to Agility Power.",
+                        "bcard":"Movement speed is increased by 1.\nReduces cooldown on skills by 5%.\nAll dodges are increased by 50."
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Agility Power (Level 2)",
+                        "image": "/img/rune/agi1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 8.0 seconds",
+                        "desc":"You are more agile and move\nfaster thanks to Agility Power.",
+                        "bcard":"Movement speed is increased by 1.\nReduces cooldown on skills by 7%.\nAll dodges are increased by 50."
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Agility Power (Level 3)",
+                        "image": "/img/rune/agi1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 8.0 seconds",
+                        "desc":"You are more agile and move\nfaster thanks to Agility Power.",
+                        "bcard":"Movement speed is increased by 1.\nReduces cooldown on skills by 10%.\nAll dodges are increased by 50."
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Agility Power (Level 4)",
+                        "image": "/img/rune/agi1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 8.0 seconds",
+                        "desc":"You are more agile and move\nfaster thanks to Agility Power.",
+                        "bcard":"Movement speed is increased by 1.\nReduces cooldown on skills by 15%.\nAll dodges are increased by 50."
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Agility Power (Level 5)",
+                        "image": "/img/rune/agi2.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"You are more agile and move\nfaster thanks to Agility Power.",
+                        "bcard":"Movement speed is increased by 2.\nReduces cooldown on skills by 20%.\nAll dodges are increased by 100."
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Agility Power (Level 6)",
+                        "image": "/img/rune/agi2.png",
+                        "minibuff":[],
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 12.0 seconds",
+                        "desc":"You are more agile and move\nfaster thanks to Agility Power.",
+                        "bcard":"Movement speed is increased by 3.\nReduces cooldown on skills by 30%.\nAll dodges are increased by 200."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Lightning Power",
+                "image": "/img/rune/thun1.jpg",
+                "lvl1": [
+                    {
+                        "title": "Lightning Power (Level 1)",
+                        "image": "/img/rune/thun1.jpg",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 3.0 seconds",
+                        "desc":"Lightning Power reduces the light\nelement with electric shocks.",
+                        "bcard":"Light resistance is decreased by 5.\nNo attack possible\nEvery 2 seconds:HP is reduced by\n1485(Player Level*15)."
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Lightning Power (Level 2)",
+                        "image": "/img/rune/thun1.jpg",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 3.0 seconds",
+                        "desc":"Lightning Power reduces the light\nelement with electric shocks.",
+                        "bcard":"Light resistance is decreased by 7.\nNo attack possible\nEvery 2 seconds:HP is reduced by\n1485(Player Level*15)."
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Lightning Power (Level 3)",
+                        "image": "/img/rune/thun1.jpg",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 3.0 seconds",
+                        "desc":"Lightning Power reduces the light\nelement with electric shocks.",
+                        "bcard":"Light resistance is decreased by 10.\nNo attack possible\nEvery 2 seconds:HP is reduced by\n1485(Player Level*15)."
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Lightning Power (Level 4)",
+                        "image": "/img/rune/thun1.jpg",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 4.0 seconds",
+                        "desc":"Lightning Power reduces the light\nelement with electric shocks.",
+                        "bcard":"Light resistance is decreased by 15.\nNo attack possible\nEvery 2 seconds:HP is reduced by\n1485(Player Level*15)."
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Lightning Power (Level 5)",
+                        "image": "/img/rune/thun2.jpg",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 5.0 seconds",
+                        "desc":"Lightning Power reduces the light\nelement with electric shocks.",
+                        "bcard":"Light resistance is decreased by 25.\nNo attack possible\nEvery 2 seconds:HP is reduced by\n1980(Player Level*20)."
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Lightning Power (Level 5)",
+                        "image": "/img/rune/thun2.jpg",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 7.0 seconds",
+                        "desc":"Lightning Power reduces the light\nelement with electric shocks.\nYou're unable to attack for a\nperiod of time.",
+                        "bcard":"Light resistance is decreased by 30.\nNo attack possible\nEvery 2 seconds:HP is reduced by\n2475(Player Level*25)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Curse Power",
+                "image": "/img/rune/curse1.png",
+                "lvl1": [
+                    {
+                        "title": "Curse Power (Level 1)",
+                        "image": "/img/rune/curse1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 7.0 seconds",
+                        "desc":"Curse Power makes you sluggish.",
+                        "bcard":"Shadow resistance is decreased by\n5.\nMovement speed is decreased by 1.\nThere is a 100% chance that\ndamage received from all attacks is\nincreased by 5%."
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Curse Power (Level 2)",
+                        "image": "/img/rune/curse1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 7.0 seconds",
+                        "desc":"Curse Power makes you sluggish.",
+                        "bcard":"Shadow resistance is decreased by\n7.\nMovement speed is decreased by 1.\nThere is a 100% chance that\ndamage received from all attacks is\nincreased by 5%."
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Curse Power (Level 3)",
+                        "image": "/img/rune/curse1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 7.0 seconds",
+                        "desc":"Curse Power makes you sluggish.",
+                        "bcard":"Shadow resistance is decreased by\n9.\nMovement speed is decreased by 1.\nThere is a 100% chance that\ndamage received from all attacks is\nincreased by 5%."
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Curse Power (Level 4)",
+                        "image": "/img/rune/curse1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 7.0 seconds",
+                        "desc":"Curse Power makes you sluggish.",
+                        "bcard":"Shadow resistance is decreased by\n12.\nMovement speed is decreased by 1.\nThere is a 100% chance that\ndamage received from all attacks is\nincreased by 5%."
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Curse Power (Level 5)",
+                        "image": "/img/rune/curse2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Curse Power makes you sluggish.",
+                        "bcard":"Shadow resistance is decreased by\n15.\nMovement speed is decreased by 2.\nThere is a 100% chance that\ndamage received from all attacks is\nincreased by 10%."
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Curse Power (Level 6)",
+                        "image": "/img/rune/curse2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "time":"Duration: 12.0 seconds",
+                        "desc":"Curse Power makes you sluggish.",
+                        "bcard":"Shadow resistance is decreased by\n20.\nMovement speed is decreased by 3.\nThere is a 100% chance that\ndamage received from all attacks is\nincreased by 10%."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Bear Power",
+                "image": "/img/rune/bear1.png",
+                "lvl1": [
+                    {
+                        "title": "Bear Power (Level 1)",
+                        "image": "/img/rune/bear1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Defence is reduced by Bear Power.",
+                        "bcard":"Defence level is decreased by 1.\nDefence power is reduced by 3%."
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Bear Power (Level 2)",
+                        "image": "/img/rune/bear1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Defence is reduced by Bear Power.",
+                        "bcard":"Defence level is decreased by 1.\nDefence power is reduced by 5%."
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Bear Power (Level 3)",
+                        "image": "/img/rune/bear1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Defence is reduced by Bear Power.",
+                        "bcard":"Defence level is decreased by 1.\nDefence power is reduced by 7%."
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Bear Power (Level 4)",
+                        "image": "/img/rune/bear1.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Defence is reduced by Bear Power.",
+                        "bcard":"Defence level is decreased by 1.\nDefence power is reduced by 10%."
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Bear Power (Level 5)",
+                        "image": "/img/rune/bear2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Defence is reduced by Bear Power.",
+                        "bcard":"Defence level is decreased by 2.\nDefence power is reduced by 15%."
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Bear Power (Level 6)",
+                        "image": "/img/rune/bear2.png",
+                        "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Defence power and defence level\nare reduced by Bear Power.",
+                        "bcard":"Defence level is decreased by 3.\nDefence power is reduced by 20%."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "effect": [
+            {
+                "title": "Frost Power",
+                "image": "/img/rune/frost1.png",
+                "lvl1": [
+                    {
+                        "title": "Frost Power (Level 1)",
+                        "image": "/img/rune/frost1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 4.0 seconds",
+                        "desc":"Deals Frost Power damage to\nopponents around you.",
+                        "bcard":"All opponents within 3 space(s)\nare dealt 297(Player Level*3)\ndamage every second.\nAll opponents within 3 space(s)\nare cursed with",
+                        "bcard2":"Gentle Cold\nBreeze every second.",
+                        "minibuff": [
+                            {
+                                "img": "/img/rune/frost1.png",
+                                "title": "Gentle Cold Breeze",
+                                "buff": "Debuff\n(Level 2)",
+                                "duration": "Duration: 2.0 seconds",
+                                "desc": "The Frost Power makes you freeze.",
+                                "bcard": "Movement speed is decreased by 1.\nHit rate of all attacks is decreased\nby 100.\nWater resistance is decreased by\n15."
+                            }
+                        ]
+
+                    }
+                ],
+                "lvl2": [
+                    {
+                        "title": "Frost Power (Level 2)",
+                        "image": "/img/rune/frost1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 5.0 seconds",
+                        "desc":"Deals Frost Power damage to\nopponents around you.",
+                        "bcard":"All opponents within 3 space(s)\nare dealt 297(Player Level*3)\ndamage every second.\nAll opponents within 3 space(s)\nare cursed with",
+                        "bcard2":"Gentle Cold\nBreeze every second.",
+                        "minibuff": [
+                            {
+                                "img": "/img/rune/frost1.png",
+                                "title": "Gentle Cold Breeze",
+                                "buff": "Debuff\n(Level 2)",
+                                "duration": "Duration: 2.0 seconds",
+                                "desc": "The Frost Power makes you freeze.",
+                                "bcard": "Movement speed is decreased by 1.\nHit rate of all attacks is decreased\nby 100.\nWater resistance is decreased by\n15."
+                            }
+                        ]
+
+                    }
+                ],
+                "lvl3": [
+                    {
+                        "title": "Frost Power (Level 3)",
+                        "image": "/img/rune/frost1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 6.0 seconds",
+                        "desc":"Deals Frost Power damage to\nopponents around you.",
+                        "bcard":"All opponents within 3 space(s)\nare dealt 297(Player Level*3)\ndamage every second.\nAll opponents within 3 space(s)\nare cursed with",
+                        "bcard2":"Gentle Cold\nBreeze every second.",
+                        "minibuff": [
+                            {
+                                "img": "/img/rune/frost1.png",
+                                "title": "Gentle Cold Breeze",
+                                "buff": "Debuff\n(Level 2)",
+                                "duration": "Duration: 2.0 seconds",
+                                "desc": "The Frost Power makes you freeze.",
+                                "bcard": "Movement speed is decreased by 1.\nHit rate of all attacks is decreased\nby 100.\nWater resistance is decreased by\n15."
+                            }
+                        ]
+
+                    }
+                ],
+                "lvl4": [
+                    {
+                        "title": "Frost Power (Level 4)",
+                        "image": "/img/rune/frost1.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 7.0 seconds",
+                        "desc":"Deals Frost Power damage to\nopponents around you.",
+                        "bcard":"All opponents within 3 space(s)\nare dealt 297(Player Level*3)\ndamage every second.\nAll opponents within 3 space(s)\nare cursed with",
+                        "bcard2":"Gentle Cold\nBreeze every second.",
+                        "minibuff": [
+                            {
+                                "img": "/img/rune/frost1.png",
+                                "title": "Gentle Cold Breeze",
+                                "buff": "Debuff\n(Level 2)",
+                                "duration": "Duration: 2.0 seconds",
+                                "desc": "The Frost Power makes you freeze.",
+                                "bcard": "Movement speed is decreased by 1.\nHit rate of all attacks is decreased\nby 100.\nWater resistance is decreased by\n15."
+                            }
+                        ]
+
+                    }
+                ],
+                "lvl5": [
+                    {
+                        "title": "Frost Power (Level 5)",
+                        "image": "/img/rune/frost2.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 9.0 seconds",
+                        "desc":"Deals Frost Power damage to\nopponents around you.",
+                        "bcard":"All opponents within 3 space(s)\nare dealt 495(Player Level*5)\ndamage every second.\nAll opponents within 3 space(s)\nare cursed with",
+                        "bcard2":"Strong Cold\nBreeze every second.",
+                        "minibuff": [
+                            {
+                                "img": "/img/rune/frost2.png",
+                                "title": "Strong Cold Breeze",
+                                "buff": "Debuff\n(Level 3)",
+                                "duration": "Duration: 3.0 seconds",
+                                "desc": "The Frost Power makes you freeze.",
+                                "bcard": "Movement speed is decreased by 2.\nHit rate of all attacks is decreased\nby 200.\nWater resistance is decreased by\n25."
+                            }
+                        ]
+
+                    }
+                ],
+                "lvl6": [
+                    {
+                        "title": "Frost Power (Level 6)",
+                        "image": "/img/rune/frost2.png",
+                        "bufflvl":"Buff\n(Level 3)\n",
+                        "time":"Duration: 10.0 seconds",
+                        "desc":"Deals Frost Power damage to\nopponents around you.",
+                        "bcard":"All opponents within 4 space(s)\nare dealt 792(Player Level*8)\ndamage every second.\nAll opponents within 4 space(s)\nare cursed with",
+                        "bcard2":"Snowstorm\nevery second.",
+                        "minibuff": [
+                            {
+                                "img": "/img/rune/frost2.png",
+                                "title": "Snowstorm",
+                                "buff": "Debuff\n(Level 4)",
+                                "duration": "Duration: 4.0 seconds",
+                                "desc": "The Frost Power makes you freeze.",
+                                "bcard": "Movement speed is decreased by 3.\nHit rate of all attacks is decreased\nby 300.\nWater resistance is decreased by\n30."
+                            }
+                        ]
+
+                    }
+                ]
+            }
+        ]
+    }
+]

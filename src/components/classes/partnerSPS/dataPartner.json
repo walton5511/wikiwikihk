@@ -10977,5 +10977,745 @@
                 ]
             }
         ]
+    },
+    {
+        "change": [
+            {
+                "cardName": "Bone Warrior Ragnar's Specialist Partner Card",
+                "minieffi": [],
+                "buttonImg": "https://cdn.olympusgg.com/images/2943.png",
+                "icon": "https://cdn.olympusgg.com/images/27537.png",
+                "psp": "https://cdn.olympusgg.com/images/monsters/2537.png",
+                "partner1": "https://cdn.olympusgg.com/images/8311.png",
+                "partner2": "https://cdn.olympusgg.com/images/8120.png",
+                "partner3": "https://cdn.olympusgg.com/images/10522.png",
+                "partner4": "https://cdn.olympusgg.com/images/10523.png",
+                "fireRes": 9,
+                "waterRes": 5,
+                "lightRes": 1,
+                "shadowRes": 17,
+                "s1": [
+                    {
+                        "title": "Shadowfall +7",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 190",
+                        "ranget": "Attack Range: 2 cell\nTarget: Around Enemy in 5 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "325(Skill level *130).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Shadowfall",
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6278.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6279.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Shadowfall",
+                                "buff": "Debuff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Non-elemental damage received is\ndecreased by 10%.\nWith a 100% probability all\nelemental damage is increased by\n10%.",
+                                "eleminc": "Causes an explosion using shadow\nmagic.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6279.png",
+                                "word": "(S)",
+                                "effiLvL": 5,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 10,
+                                "miniBcard2": 20,
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a1": [
+                    {
+                        "title": "Shadowfall +6",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 190",
+                        "ranget": "Attack Range: 2 cell\nTarget: Around Enemy in 5 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "195(Skill level *130).",
+                        "chance": "There is a 60% chance of causing",
+                        "bcard2": "Shadowfall",
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6278.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Shadowfall",
+                                "buff": "Debuff",
+                                "duration": "Duration: 5 seconds",
+                                "dmginc": "Non-elemental damage received is\ndecreased by 7%.\nWith a 100% probability all\nelemental damage is increased by\n7%.",
+                                "eleminc": "Causes an explosion using shadow\nmagic.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                                "word": "(A)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 10,
+                                "miniBcard2": 20,
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b1": [
+                    {
+                        "title": "Shadowfall +5",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 190",
+                        "ranget": "Attack Range: 2 cell\nTarget: Around Enemy in 5 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "156(Skill level *130).",
+                        "chance": "There is a 60% chance of causing",
+                        "bcard2": "Shadowfall",
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6278.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Shadowfall",
+                                "buff": "Debuff",
+                                "duration": "Duration: 5 seconds",
+                                "dmginc": "Non-elemental damage received is\ndecreased by 7%.\nWith a 100% probability all\nelemental damage is increased by\n7%.",
+                                "eleminc": "Causes an explosion using shadow\nmagic.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                                "word": "(B)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 10,
+                                "miniBcard2": 20,
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c1": [
+                    {
+                        "title": "Shadowfall +4",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 190",
+                        "ranget": "Attack Range: 2 cell\nTarget: Around Enemy in 5 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "130(Skill level *130).",
+                        "chance": "There is a 60% chance of causing",
+                        "bcard2": "Shadowfall",
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6278.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Shadowfall",
+                                "buff": "Debuff",
+                                "duration": "Duration: 4 seconds",
+                                "dmginc": "Non-elemental damage received is\ndecreased by 6%.\nWith a 100% probability all\nelemental damage is increased by\n6%.",
+                                "eleminc": "Causes an explosion using shadow\nmagic.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 10,
+                                "miniBcard2": 20,
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d1": [
+                    {
+                        "title": "Shadowfall +3",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 190",
+                        "ranget": "Attack Range: 2 cell\nTarget: Around Enemy in 5 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "104(Skill level *130).",
+                        "chance": "There is a 60% chance of causing",
+                        "bcard2": "Shadowfall",
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6278.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Shadowfall",
+                                "buff": "Debuff",
+                                "duration": "Duration: 4 seconds",
+                                "dmginc": "Non-elemental damage received is\ndecreased by 5%.\nWith a 100% probability all\nelemental damage is increased by\n5%.",
+                                "eleminc": "Causes an explosion using shadow\nmagic.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                                "word": "(D)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 10,
+                                "miniBcard2": 20,
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e1": [
+                    {
+                        "title": "Shadowfall +2",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 190",
+                        "ranget": "Attack Range: 2 cell\nTarget: Around Enemy in 5 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "65(Skill level *130).",
+                        "chance": "There is a 60% chance of causing",
+                        "bcard2": "Shadowfall",
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6278.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Shadowfall",
+                                "buff": "Debuff",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "Non-elemental damage received is\ndecreased by 4%.\nWith a 100% probability all\nelemental damage is increased by\n4%.",
+                                "eleminc": "Causes an explosion using shadow\nmagic.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                                "word": "(E)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 10,
+                                "miniBcard2": 20,
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f1": [
+                    {
+                        "title": "Shadowfall +1",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 190",
+                        "ranget": "Attack Range: 2 cell\nTarget: Around Enemy in 5 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "39(Skill level *130).",
+                        "chance": "There is a 60% chance of causing",
+                        "bcard2": "Shadowfall",
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6278.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Shadowfall",
+                                "buff": "Debuff",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "Non-elemental damage received is\ndecreased by 3%.\nWith a 100% probability all\nelemental damage is increased by\n3%.",
+                                "eleminc": "Causes an explosion using shadow\nmagic.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6278.png",
+                                "word": "(F)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 10,
+                                "miniBcard2": 20,
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "s": [
+                    {
+                        "title": "Spectral Strike +7",
+                        "times": "Casting time : 0.4 sec.\nCool time : 8 seconds\nConsumption MP: 90",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNumL": "400(Skill level *160).",
+                        "attackNumL1": "275(Skill level *110).",
+                        "chance": "There is a 10% chance of causing",
+                        "bcard2": "Spectral Strike",
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6276.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6277.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Spectral Strike",
+                                "buff": "Debuff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Every 2 seconds:HP is reduced by\n1287(Player Level*13).\nNo HP consumption",
+                                "descEf": "You learn to use spectral powers.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6277.png",
+                                "word": "(S)",
+                                "effiLvL": 5,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a": [
+                    {
+                        "title": "Spectral Strike +6",
+                        "times": "Casting time : 0.4 sec.\nCool time : 8 seconds\nConsumption MP: 90",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNumL": "240(Skill level *160).",
+                        "attackNumL1": "165(Skill level *110).",
+                        "chance": "There is a 10% chance of causing",
+                        "bcard2": "Spectral Strike",
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6276.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Spectral Strike",
+                                "buff": "Debuff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Every 2 seconds:HP is reduced by\n1188(Player Level*12).",
+                                "descEf": "You learn to use spectral powers.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                                "word": "(A)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b": [
+                    {
+                        "title": "Spectral Strike +5",
+                        "times": "Casting time : 0.4 sec.\nCool time : 8 seconds\nConsumption MP: 90",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNumL": "192(Skill level *160).",
+                        "attackNumL1": "132(Skill level *110).",
+                        "chance": "There is a 10% chance of causing",
+                        "bcard2": "Spectral Strike",
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6276.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Spectral Strike",
+                                "buff": "Debuff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Every 2 seconds:HP is reduced by\n1089(Player Level*11).",
+                                "descEf": "You learn to use spectral powers.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                                "word": "(B)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c": [
+                    {
+                        "title": "Spectral Strike +4",
+                        "times": "Casting time : 0.4 sec.\nCool time : 8 seconds\nConsumption MP: 90",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNumL": "160(Skill level *160).",
+                        "attackNumL1": "110(Skill level *110).",
+                        "chance": "There is a 10% chance of causing",
+                        "bcard2": "Spectral Strike",
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6276.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Spectral Strike",
+                                "buff": "Debuff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Every 2 seconds:HP is reduced by\n990(Player Level*10).",
+                                "descEf": "You learn to use spectral powers.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d": [
+                    {
+                        "title": "Spectral Strike +3",
+                        "times": "Casting time : 0.4 sec.\nCool time : 8 seconds\nConsumption MP: 90",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNumL": "128(Skill level *160).",
+                        "attackNumL1": "88(Skill level *110).",
+                        "chance": "There is a 10% chance of causing",
+                        "bcard2": "Spectral Strike",
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6276.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Spectral Strike",
+                                "buff": "Debuff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Every 2 seconds:HP is reduced by\n891(Player Level*9).",
+                                "descEf": "You learn to use spectral powers.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                                "word": "(D)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e": [
+                    {
+                        "title": "Spectral Strike +2",
+                        "times": "Casting time : 0.4 sec.\nCool time : 8 seconds\nConsumption MP: 90",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNumL": "80(Skill level *160).",
+                        "attackNumL1": "55(Skill level *110).",
+                        "chance": "There is a 10% chance of causing",
+                        "bcard2": "Spectral Strike",
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6276.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Spectral Strike",
+                                "buff": "Debuff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Every 2 seconds:HP is reduced by\n792(Player Level*8).",
+                                "descEf": "You learn to use spectral powers.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                                "word": "(E)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f": [
+                    {
+                        "title": "Spectral Strike +1",
+                        "times": "Casting time : 0.4 sec.\nCool time : 8 seconds\nConsumption MP: 90",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNumL": "48(Skill level *160).",
+                        "attackNumL1": "33(Skill level *110).",
+                        "chance": "There is a 10% chance of causing",
+                        "bcard2": "Spectral Strike",
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6276.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Spectral Strike",
+                                "buff": "Debuff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Every 2 seconds:HP is reduced by\n693(Player Level*7).",
+                                "descEf": "You learn to use spectral powers.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6276.png",
+                                "word": "(F)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "s2": [
+                    {
+                        "title": "Viking Pride +7",
+                        "times": "Casting time : 0.4 sec.\nCool time : 30 seconds\nConsumption MP: 225",
+                        "ranget": "Attack Range: Itself\nTarget: Around Friends in 3 cell",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Viking Pride",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(S).",
+                        "word2": [],
+                        "img": "https://cdn.olympusgg.com/images/6280.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6281.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Viking Pride",
+                                "buff": "Buff",
+                                "duration": "Duration: 12 seconds",
+                                "dmginc": "All elemental resistances are\nincreased by 10.\nEvery 2 seconds: Restores\n891(Player Level*9)HP.",
+                                "dmginc2": [],
+                                "eleminc": "Increases the Viking's pride.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6281.png",
+                                "word": "(S)",
+                                "effiLvL": 4,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 15,
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a2": [
+                    {
+                        "title": "Viking Pride +6",
+                        "times": "Casting time : 0.4 sec.\nCool time : 30 seconds\nConsumption MP: 225",
+                        "ranget": "Attack Range: Itself\nTarget: Around Friends in 3 cell",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Viking Pride",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(A).",
+                        "word2": [],
+                        "img": "https://cdn.olympusgg.com/images/6280.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6280.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Viking Pride",
+                                "buff": "Buff",
+                                "duration": "Duration: 12 seconds",
+                                "dmginc": "All elemental resistances are\nincreased by 9.",
+                                "dmginc2": [],
+                                "eleminc": "Increases the Viking's pride.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6280.png",
+                                "word": "(A)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 15,
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b2": [
+                    {
+                        "title": "Viking Pride +5",
+                        "times": "Casting time : 0.4 sec.\nCool time : 30 seconds\nConsumption MP: 225",
+                        "ranget": "Attack Range: Itself\nTarget: Around Friends in 3 cell",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Viking Pride",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(B).",
+                        "word2": [],
+                        "img": "https://cdn.olympusgg.com/images/6280.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6280.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Viking Pride",
+                                "buff": "Buff",
+                                "duration": "Duration: 12 seconds",
+                                "dmginc": "All elemental resistances are\nincreased by 8.",
+                                "dmginc2": [],
+                                "eleminc": "Increases the Viking's pride.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6280.png",
+                                "word": "(B)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 15,
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c2": [
+                    {
+                        "title": "Viking Pride +4",
+                        "times": "Casting time : 0.4 sec.\nCool time : 30 seconds\nConsumption MP: 225",
+                        "ranget": "Attack Range: Itself\nTarget: Around Friends in 3 cell",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Viking Pride",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(C).",
+                        "word2": [],
+                        "img": "https://cdn.olympusgg.com/images/6280.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6280.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Viking Pride",
+                                "buff": "Buff",
+                                "duration": "Duration: 12 seconds",
+                                "dmginc": "All elemental resistances are\nincreased by 7.",
+                                "dmginc2": [],
+                                "eleminc": "Increases the Viking's pride.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6280.png",
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 15,
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d2": [
+                    {
+                        "title": "Viking Pride +3",
+                        "times": "Casting time : 0.4 sec.\nCool time : 30 seconds\nConsumption MP: 225",
+                        "ranget": "Attack Range: Itself\nTarget: Around Friends in 3 cell",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Viking Pride",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(D).",
+                        "word2": [],
+                        "img": "https://cdn.olympusgg.com/images/6280.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6280.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Viking Pride",
+                                "buff": "Buff",
+                                "duration": "Duration: 12 seconds",
+                                "dmginc": "All elemental resistances are\nincreased by 6.",
+                                "dmginc2": [],
+                                "eleminc": "Increases the Viking's pride.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6280.png",
+                                "word": "(D)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 15,
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e2": [
+                    {
+                        "title": "Viking Pride +2",
+                        "times": "Casting time : 0.4 sec.\nCool time : 30 seconds\nConsumption MP: 225",
+                        "ranget": "Attack Range: Itself\nTarget: Around Friends in 3 cell",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Viking Pride",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(E).",
+                        "word2": [],
+                        "img": "https://cdn.olympusgg.com/images/6280.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6280.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Viking Pride",
+                                "buff": "Buff",
+                                "duration": "Duration: 12 seconds",
+                                "dmginc": "All elemental resistances are\nincreased by 5.",
+                                "dmginc2": [],
+                                "eleminc": "Increases the Viking's pride.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6280.png",
+                                "word": "(E)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 15,
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f2": [
+                    {
+                        "title": "Viking Pride +1",
+                        "times": "Casting time : 0.4 sec.\nCool time : 30 seconds\nConsumption MP: 225",
+                        "ranget": "Attack Range: Itself\nTarget: Around Friends in 3 cell",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Viking Pride",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(F).",
+                        "word2": [],
+                        "img": "https://cdn.olympusgg.com/images/6280.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6280.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Viking Pride",
+                                "buff": "Buff",
+                                "duration": "Duration: 12 seconds",
+                                "dmginc": "All elemental resistances are\nincreased by 4.",
+                                "dmginc2": [],
+                                "eleminc": "Increases the Viking's pride.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6280.png",
+                                "word": "(F)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": 15,
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ]
+            }
+        ]
     }
 ]

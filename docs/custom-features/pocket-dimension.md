@@ -2,6 +2,7 @@
 id: pocket-dimensions
 slug: pocket-dimensions
 title: Pocket Dimensions 
+hide_title: true
 ---
 
 # Pocket Dimensions
@@ -20,57 +21,81 @@ These restrictions are subject to change.
 ## Locations
 Pocket dimensions are available in many maps, and they are as follows
 
-### **Act 5.1**
+## **Act 5.1**
 
-#### Robber Courtyard
+### Robber Courtyard
 
-![Robber Courtyard](/img/custom-features/pocket-dimensions/robber-courtyard.png)
+![](https://i.imgur.com/YlE5dmY.png)
 
-#### Aster Courtyard
+### Aster Courtyard
 
-![Aster Courtyard](/img/custom-features/pocket-dimensions/aster-courtyard.png)
+![](https://i.imgur.com/SKPeVUU.png)
 
-#### Rashid Courtyard
+### Rashid Courtyard
 
-![Rashid Courtyard](/img/custom-features/pocket-dimensions/rashid-courtyard.png)
-
-<br></br>
-
-### **Act 5.2**
-
-#### Eastern Path
-
-![Eastern Path](/img/custom-features/pocket-dimensions/eastern-path.png)
-
-#### Katol's Street
-
-![Katol's Street](/img/custom-features/pocket-dimensions/katol's-street.png)
+![](https://i.imgur.com/yVjEpjN.png)
 
 
 <br></br>
 
-### **Act 6.1**
+## **Act 5.2**
 
-#### Hell's Ruin 1
+### Eastern Path
 
-![](https://i.imgur.com/IMMZGiC.png)
+![](https://i.imgur.com/CAWrpcT.png)
 
-#### Hell's Ruins 2
-![](https://i.imgur.com/LYrpqFt.png)
+### Katol's Street
 
-#### Heaven's Ruins 1
-![](https://i.imgur.com/AX4vXpH.png)
-
-#### Heaven's Ruins 2
-![](https://i.imgur.com/2WQxJHv.png)
+![](https://i.imgur.com/ZrxZq5l.png)
 
 
 <br></br>
 
-### **Act 6.2**
+## **Act 6.1**
 
-#### Ancelloan's Will 5
-![](https://i.imgur.com/BqxAA2K.png)
+### Hell's Ruins 1
 
-#### Ancelloan's Will 2
-![](https://i.imgur.com/gHMZDr6.png)
+![](https://i.imgur.com/s95plcd.png)
+
+### Hell's Ruins 2
+![](https://i.imgur.com/X5s1tIX.png)
+
+### Heaven's Ruins 1
+![](https://i.imgur.com/KssEri1.png)
+
+### Heaven's Ruins 2
+![](https://i.imgur.com/QF31MtA.png)
+
+
+<br></br>
+
+## **Act 6.2**
+
+### Ancelloan's Will 5
+![](https://i.imgur.com/IJcF6M9.png)
+
+### Ancelloan's Will 2
+![](https://i.imgur.com/xs9BCuJ.png)
+
+
+<br></br>
+
+## **Act 7.1**
+
+### Forest Cliff
+![](https://i.imgur.com/YnapVGt.png)
+
+### Spirit Forest 
+![](https://i.imgur.com/4vRp14S.png)
+
+### Beast's Lair
+![](https://i.imgur.com/L1aNGSB.png)
+
+### Polluted Path
+![](https://i.imgur.com/M9bDGi4.png)
+
+### Celestial Spire 5 (Multimap Rift)
+![](https://i.imgur.com/sEZQfQY.png)
+
+> The Multimap Rift includes Celeastial Spire floors 1-5 
+

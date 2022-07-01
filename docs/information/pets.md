@@ -27,6 +27,10 @@ hide_title: true
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/EeRMcMd.png)|![](https://i.imgur.com/PxJGBG3.png)|![](https://i.imgur.com/P6OSWgr.png)|![](https://i.imgur.com/RVE9hpH.png)|
+### ``Otter``
+| Pet | Stats | Pet skill | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/2pDOoPO.png)|![](https://i.imgur.com/Xdzdza2.png)|![](https://i.imgur.com/lALlR2i.png)|![](https://i.imgur.com/bj51yaE.png)|
 ### ``Rudi Rowdy``
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |

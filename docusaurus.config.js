@@ -74,6 +74,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         copyright: `Copyright © ${new Date().getFullYear()} Olympus.`,
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

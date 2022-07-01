@@ -582,6 +582,7 @@
                         "title": "Curse Power (Level 6)",
                         "image": "/img/rune/curse2.png",
                         "bufflvl":"Debuff\n(Level 3)\n",
+                        "minibuff":[],
                         "time":"Duration: 12.0 seconds",
                         "desc":"Curse Power makes you sluggish.",
                         "bcard":"Shadow resistance is decreased by\n20.\nMovement speed is decreased by 3.\nThere is a 100% chance that\ndamage received from all attacks is\nincreased by 10%."

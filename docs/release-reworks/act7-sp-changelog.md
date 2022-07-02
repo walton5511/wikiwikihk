@@ -165,8 +165,6 @@ import BCard from "../../src/components/bcard";
 
 ## Dark Gunner <ItemIcon iconId="914" width="30px"/>
 
-- Spell Revolver:
-  - <BCard>Chance of inflicting critical hits is increased by 5 -> 10%.</BCard>
 - Magic Blitz:
   - <font color="orange">[NEW]</font> <BCard>There is a 20% chance of causing [Magic Shot Wound].</BCard>
 - Curse Blitz:
@@ -176,13 +174,8 @@ import BCard from "../../src/components/bcard";
 - Evil Potion
   - Casting time: 1s -> 0.6s
   - Attack Range: 6 -> 10
-  - Cool time: 90s -> 60s
-  - Side effects: <BCard>After 10 seconds, there is a 100% chance that buffs below Lv. 4 will be removed.</BCard>
 - Requiem:
   - Casting time: 0.8s -> 0.6s
-- [Ghost Guard]:
-  - <BCard>Non-elemental damage received is decreased by 20 -> 30%.</BCard>
-  - <BCard>Chance of inflicting critical hits is increased by 20 -> 30%.</BCard>
 - [Hand of Death]:
   - <font color="#fd4949">[REMOVE]</font> <BCard>Non-elemental magic damage received is increased by 50%.</BCard>
   - <font color="orange">[NEW]</font> <BCard>Non-elemental damage received is increased by 15%.</BCard>

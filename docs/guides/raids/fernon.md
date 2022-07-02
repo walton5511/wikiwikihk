@@ -74,12 +74,11 @@ When the blades are pulled, they will apply a buff to the whole team, a debuff t
 	- Foxy's Specialist Partner Card ![](https://cdn.olympusgg.com/images/2672.png)
 
 -   Useful pets would be: 
-	- Sick Bushtail ![](https://cdn.olympusgg.com/images/8158.png)
 	- Fibi Frosty ![](https://cdn.olympusgg.com/images/8670.png)
 ## Ideal Raid Group
 Since the Fernon's element is fire, it would be ideal to go with a group with water element SP's (with the exception of debuffers/buffers). The Raid group consists of 8 members, and the recommended SP's are as following:
 - **Scout Specialist Card** ![](https://cdn.olympusgg.com/images/2589.png). Due to its great DPS, the Scout becomes one of the best SP's for this Raid, with the ability to quickly clean the swords with fast hits, and the great damage it can generate to the Fernon with this. It is recommended to have a minimum of four Scouts in your team.
-- **Berserker Specialist Card** ![](https://cdn.olympusgg.com/images/910.png). Due to the great utility it generates within the raid thanks to all the debuffs it can cause, such as  ![](https://cdn.olympusgg.com/images/10163.png) and ![](https://imageshack.com/i/pmNDo9Tfp). Ideally you should only have one, as you can alternate between Incapacitated and Break Armour to have the Fernon with as little defence as possible.
+- **Ninja Specialist Card** ![](https://cdn.olympusgg.com/images/902.png). The best possible DPS pick if it comes to Swordsman.
 - **Blue Magician Specialist Card**   ![](https://cdn.olympusgg.com/images/913.png). *What do you know!* With the recent changes this SP has received, it has become one of the best for this raid, competing almost on a par with the Scout. It is advisable to have 2 or 3 per group in case there is a lack of Scouts. This is due to the following: 
 	-   Glacier ![ ](https://imageshack.com/i/poS8VhZ0p) :
 	    -   [NEW]  Summons 2x  [Snowball Minion]. Snowball minions are magic mobs that never miss, so they are quite useful to help kill the blades.

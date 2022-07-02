@@ -45,7 +45,6 @@ This Raid is very easy to perform, the only thing that stands out to take into a
 	- Foxy's Specialist Partner Card ![](https://cdn.olympusgg.com/images/2672.png)
     - Mad March Hare Specialist Partner Card ![](https://cdn.olympusgg.com/images/4122.png)
 -   Useful pets would be: 
-	- Sick Bushtail ![](https://cdn.olympusgg.com/images/8158.png)
 	- Fibi Frosty ![](https://cdn.olympusgg.com/images/8670.png)
     - Pix <a align="center"><img width= "70px" src="https://cdn.olympusgg.com/images/monsters/653.png"/></a>
 
@@ -56,5 +55,3 @@ Since the Kirolla's element is fire, it would be ideal to go with a group with w
 - ![](https://cdn.olympusgg.com/images/902.png) **Ninja Specialist Card**. It is one of the swordsman sps with the highest DPS, matching and sometimes surpassing the damage of the Scouts.
 
 - ![](https://cdn.olympusgg.com/images/2590.png) / ![](https://cdn.olympusgg.com/images/913.png) **Tide Lord Specialist Card** / **Blue Magician Specialist Card**. Both SPs are an excellent choice for mages, with great DPS and good elemental damage.
-
-- ![](https://cdn.olympusgg.com/images/910.png) **Berserker Specialist Card** . Due to the great utility it generates within the raid thanks to the debuff it can cause, such as ![](https://imageshack.com/i/pmNDo9Tfp). Ideally, the Berserker should always be accompanied by a Sick Bushtail.

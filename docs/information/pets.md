@@ -30,7 +30,7 @@ hide_title: true
 ### ``Otter``
 | Pet | Stats | Pet skill | Player buff |
 | -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/2pDOoPO.png)|![](https://i.imgur.com/Xdzdza2.png)|![](https://i.imgur.com/lALlR2i.png)|![](https://i.imgur.com/bj51yaE.png)|
+|![](https://i.imgur.com/2pDOoPO.png)|![](https://i.imgur.com/Xdzdza2.png)|![](https://i.imgur.com/lALlR2i.png)|![](https://i.imgur.com/j9yoCw4.png)|
 ### ``Rudi Rowdy``
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
@@ -42,7 +42,7 @@ hide_title: true
 ### ``Pix``
 | Pet | Stats | Pet debuff | Player buff |
 | -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/oGZf73s.png)|![](https://i.imgur.com/z9Mu3g8.png)|![](https://i.imgur.com/fuhvOAO.png)|![](https://i.imgur.com/LvxjL6E.png)|
+|![](https://i.imgur.com/oGZf73s.png)|![](https://i.imgur.com/z9Mu3g8.png)|![](https://i.imgur.com/fuhvOAO.png)|![](https://i.imgur.com/VAyYiWj.png)|
 
 ## **Bushtails**
 

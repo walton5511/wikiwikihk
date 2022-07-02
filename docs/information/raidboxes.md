@@ -83,7 +83,10 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/dQ6mlVw.png)
 
 ### Belial
-![](https://im5.ezgif.com/tmp/ezgif-5-582197e9a1.gif)
+![](https://i.imgur.com/e41pRTZ.gif)
+
+### Greedy Fafnir
+![](https://i.imgur.com/ipoFS9h.png)
 
 
 ## **Event Boxes**

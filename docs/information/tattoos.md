@@ -5,6 +5,7 @@ title: Tattoos - List & Guide
 hide_title: true
 ---
 
+import ItemIcon from '../../src/components/itemicon'
 import Tattoos from '../../src/components/classes/tattoos/tattoos'
 
 # Tattoos - Guide
@@ -84,6 +85,176 @@ The materials required for the manufacture of each Pattern are shown below.
         <img src="/img/tattos/2483.png"/>x200 Paimon's Shadow Sliver<br/>
         <img src="/img/tattos/2416.png"/>x200 Moritius Obsidian<br/>
         <img src="/img/tattos/2408.png"/>x200 Occult Bone Powder<br/></th>
+    </tr>
+</table>
+
+## Upgrading Tattoos
+
+<table className="tablaLetra">
+    <tr>
+        <th>Upgrade</th>
+        <th>Success</th>
+        <th>Major Failure</th>
+        <th>Fail</th>
+        <th>Gold</th>
+        <th><ItemIcon iconId="4243" width="25px"/> Loa Runic Powder</th>
+        <th><ItemIcon iconId="4247" width="25px"/> Moritius Obsidian</th>
+        <th><ItemIcon iconId="4240" width="25px"/> Occult Bone Powder</th>
+        <th><ItemIcon iconId="4251" width="25px"/> Spirit Forest Branch</th>
+        <th><ItemIcon iconId="4230" width="25px"/> Golem Core</th>
+        <th><ItemIcon iconId="4242" width="25px"/> Jade</th>
+        <th><ItemIcon iconId="4269" width="25px"/> Fernon's Magic Crystal</th>
+        <th><ItemIcon iconId="4244" width="25px"/> Spirit King Fragment</th>
+    </tr>
+    <tr>
+        <th>+0</th>
+        <th>100%</th>
+        <th>0%</th>
+        <th>0%</th>
+        <th>20k</th>
+        <th>15</th>
+        <th>20</th>
+        <th>20</th>
+        <th>15</th>
+        <th>10</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>  
+    </tr>
+    <tr>
+        <th>+1</th>
+        <th>80%</th>
+        <th>0%</th>
+        <th>20%</th>
+        <th>30k</th>
+        <th>17</th>
+        <th>7</th>
+        <th>6</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>    
+    </tr>
+    <tr>
+        <th>+2</th>
+        <th>60%</th>
+        <th>10%</th>
+        <th>30%</th>
+        <th>67k</th>
+        <th>19</th>
+        <th>10</th>
+        <th>7</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>     
+    </tr>
+    <tr>
+        <th>+3</th>
+        <th>50%</th>
+        <th>15%</th>
+        <th>35%</th>
+        <th>140k</th>
+        <th>21</th>
+        <th>13</th>
+        <th>8</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>
+        <th>-</th>     
+    </tr>
+    <tr>
+        <th>+4</th>
+        <th>35%</th>
+        <th>25%</th>
+        <th>40%</th>
+        <th>230k</th>
+        <th>25</th>
+        <th>16</th>
+        <th>9</th>
+        <th>-</th>
+        <th>-</th>
+        <th>15</th>
+        <th>-</th>
+        <th>-</th>
+    </tr>
+    <tr>
+        <th>+5</th>
+        <th>20%</th>
+        <th>30%</th>
+        <th>50%</th>
+        <th>380k</th>
+        <th>30</th>
+        <th>20</th>
+        <th>10</th>
+        <th>-</th>
+        <th>-</th>
+        <th>20</th>
+        <th>-</th>
+        <th>-</th>       
+    </tr>
+    <tr>
+        <th>+6</th>
+        <th>10%</th>
+        <th>35%</th>
+        <th>55%</th>
+        <th>540k</th>
+        <th>35</th>
+        <th>25</th>
+        <th>12</th>
+        <th>-</th>
+        <th>-</th>
+        <th>25</th>
+        <th>3</th>
+        <th>-</th>    
+    </tr>
+    <tr>
+        <th>+7</th>
+        <th>5%</th>
+        <th>50%</th>
+        <th>45%</th>
+        <th>770k</th>
+        <th>60</th>
+        <th>30</th>
+        <th>20</th>
+        <th>-</th>
+        <th>-</th>
+        <th>20</th>
+        <th>4</th>
+        <th>-</th>
+    </tr>
+    <tr>
+        <th>+8</th>
+        <th>2%</th>
+        <th>70%</th>
+        <th>28%</th>
+        <th>960k</th>
+        <th>80</th>
+        <th>40</th>
+        <th>30</th>
+        <th>-</th>
+        <th>-</th>
+        <th>25</th>
+        <th>-</th>
+        <th>3</th> 
+    </tr>
+    <tr>
+        <th>+9</th>
+        <th>1%</th>
+        <th>90%</th>
+        <th>9%</th>
+        <th>1.2kk</th>
+        <th>100</th>
+        <th>80</th>
+        <th>40</th>
+        <th>-</th>
+        <th>-</th>
+        <th>40</th>
+        <th>-</th>
+        <th>4</th>
     </tr>
 </table>
 

@@ -81,6 +81,8 @@ You can choose to display a different title name, while having the effect of ano
   - <BCard>Water element is increased by 100.</BCard>
 - Lightbringer (Berios):
   - <BCard>Light element is increased by 100.</BCard>
+- Treasure Hunter (Fafnir):
+  - <BCard>Increase gold earned by 3%.</BCard>
 
 ## Level Titles
 
@@ -119,4 +121,8 @@ You can choose to display a different title name, while having the effect of ano
   - <BCard>MP recovery is increased by 150.</BCard>
 - Mad Hatter (Mad March Hare raid - Easter event):
   - <BCard>Maximum MP is increased by 1000.</BCard>
-
+- Duellist (Arena Shop):
+  - <BCard>Attack power is increased by 10% during an attack in the team arena.</BCard>
+  - <BCard>Damage taken in the team arena is reduced by 10%</BCard>
+- Saviour of the Orcs (A7 main quest):
+  - <BCard>Increases the damage against Orc by 10%.</BCard>

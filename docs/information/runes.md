@@ -178,12 +178,12 @@ The odds of successful, unsuccessful or ruined when carving runes are as follows
         <th>Fail</th>
         <th>Level 3</th>
         <th>Gold</th>
-        <th><img width= "25px" src="/img/tattos/2416.png"/> Morizius Obsidian</th>
+        <th><img width= "25px" src="/img/tattos/2416.png"/> Moritius Obsidian</th>
         <th><img width= "25px" src="/img/tattos/2411.png"/> Loa Runic Powder</th>
         <th><img width= "25px" src="/img/rune/2430.png"/> Black Titanium Bar</th>
         <th><img width= "25px" src="/img/rune/2475.png"/> Magic Divine Crystal</th>
         <th><img width= "25px" src="/img/rune/2413.png"/> Beast King Horn Fragment</th>
-        <th><img width= "25px" src="/img/rune/2462.png"/> Belial's Runestone</th>
+        <th><img width= "25px" src="/img/rune/2462.png"/> Carno's Runestone</th>
         <th><img width= "25px" src="/img/rune/2483.png"/> Paimon's Shadow Sliver</th>
         <th><img width= "25px" src="/img/rune/2484.png"/> Corrupted Celestial Spire Fragment</th>
         <th><img width= "25px" src="/img/rune/2482.png"/> Paimon Soul Sliver</th>

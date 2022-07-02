@@ -853,3 +853,14 @@ imagen3 {
   background-size: 18px;
   display: inline-block;
 }
+
+.act7sps-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("act7sps.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 18px;
+  display: inline-block;
+}

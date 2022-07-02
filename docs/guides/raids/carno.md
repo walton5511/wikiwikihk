@@ -48,7 +48,6 @@ During this time Carno receives a buff which makes him invulnerable to any type 
 	- Mad March Hare Specialist Partner Card ![](https://cdn.olympusgg.com/images/4122.png)
 	- Foxy's Specialist Partner Card ![](https://cdn.olympusgg.com/images/2672.png)
 -   Useful pets would be: 
-	- Sick Bushtail ![](https://cdn.olympusgg.com/images/8158.png)
 	- Fibi Frosty ![](https://cdn.olympusgg.com/images/8670.png)
     - Pix <a align="center"><img width= "70px" src="https://cdn.olympusgg.com/images/monsters/653.png"/></a>
 
@@ -57,8 +56,6 @@ During this time Carno receives a buff which makes him invulnerable to any type 
 Since the Carno is shadow element, almost any SP that is of the element of light will work in this raid, the most recommended ones are the following:
 
 - ![](https://cdn.olympusgg.com/images/2707.png)  **Avenging Angel Specialist Card** : Because this one uses the dagger it can reach very high critical damage values, being much better than the WK or Sunchaser.
-
-- ![](https://cdn.olympusgg.com/images/910.png) **Berserker Specialist Card** . Due to the great utility it generates within the raid thanks to the debuff it can cause, such as ![](https://imageshack.com/i/pmNDo9Tfp). Ideally, the Berserker should always be accompanied by a Sick Bushtail.
 
 - ![](https://cdn.olympusgg.com/images/2706.png) **Renegade Specialist Card** . A lot of damage per second thanks to how fast he can cast his basic attacks.
 

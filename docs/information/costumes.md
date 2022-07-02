@@ -91,8 +91,15 @@ hide_title: true
   - Damage dealt in PvP is increased by 5%.
 ### ``Concierge Uniform``
 - **Concierge Uniform:**
-  - Movement speed is increased by 1
+  - Movement speed is increased by 1.
   - Your HP increases by 200 whenever you dodge
 - **Concierge Hat:**
   - Damage dealt is increased by 5%
   - There is a 3% chance of causing [Shock].
+### ``Viking Costume``
+- **Viking Armour:**
+  - Movement speed is increased by 1.
+  - There is a 3% chance of causing [Odin's Blessing].
+- **Viking Helmet:**
+  - Damage dealt is increased by 4%.
+  - Damage dealt in PvE is increased by 4%.

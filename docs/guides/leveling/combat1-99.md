@@ -7,9 +7,9 @@ hide_title: true
 
 # Combat Level Guide 1-99
 
-## Level 1-83
+## Level 1-85
 
-The easiest, fastest and most efficient way to reach level 83 is always through finishing the full Act 1 questline.
+The easiest, fastest and most efficient way to reach level 85 is always through finishing the full Act 1 questline.
 
 :::tip
 - At level 36, you should definitely do the SP1 quest as it will make the rest of the way a lot easier. (Don't upgrade it yet)
@@ -44,18 +44,12 @@ _Notes:_
 - **Main**: Red Sage Wand (45lv) &#8594; Soul Wand (63lv) &#8594; Desert Robbers' Walking Stick (83lv) &#8594; Seraphine Wand (85lv)
 - **Secondary**: Ray Spell Gun (67lv)
 
-## Optional: Level 83-85
-
-_Note: not recommended for mages_
-
-You can quickly rush to level 85 in the Land of Death before tackling Act 5.1. It will enable you to use the level 85 armour. This will take roughly 30 minutes with Ancelloan's Blessing.
-
 ### Quick LoD Info:
 
 - It alternates between channels 2&4 and 3&5 every 2 hours.
 - 30 minutes after opening, exp-gain increases significantly and the Fire Devil spawns.
 
-## Level 83/85-90
+## Level 85-90
 
 This is where the path for the different classes start to split.
 
@@ -102,6 +96,8 @@ Feel free to use these as they are unchanged on this server.
 From here on out you will need to start optimizing your equipment and start farming in Act 5.2, as well as completing the Act 5.2 main questline.
 
 ### Act 5.2 Main Questline
+
+In order to start 5.2 questline, you need to either finish or skip Act4 quests.
 
 This one is fairly easy and I recommend you always complete it as far as you can until you need to wait until someone is hosting a Kertos/Valakus/Grenigas raid in order to progress further. This will give you a decent amount of EXP (enough to get you to at least from level 90 to 93).
 

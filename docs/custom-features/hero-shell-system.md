@@ -25,7 +25,7 @@ You can also see how much time has left until next Caligor on Discord's #status 
 
 The mobs of Unknown Land, on top of casual Act4 items, can also drop Perfection Stones, Coolant, Rainbow Pearl, Fernon Raid Seals and Lingering Malice (which we can sell in the NPC for the price of 100.000G).
 
-In addition to this you will find the Mysterious Traveller at the top of the map, which can drop the passive skill books that gives 4000HP and 4000MP.
+In addition to this you might find the Mysterious Traveller at the top of the map, which can drop the passive skill books that gives 4000HP and 4000MP. This mini-boss is being respawned in 1 hour after defeating him.
 
 <p align="center">
 <img src="https://imageshack.com/i/pmxAhqTEp"/></p>

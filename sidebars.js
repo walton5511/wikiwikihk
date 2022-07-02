@@ -183,6 +183,7 @@ module.exports = {
         { type: 'doc', id: 'guides/act7-equipment', label: 'Act7 Equipment Crafting', className: 'a7craft-icon' },
         { type: 'doc', id: 'release-reworks/equipment-act71-rework', label: 'Act7 Equipment Rework', className: 'equi-icon' },
         { type: 'doc', id: 'guides/features/act7-achievements', label: 'Act7 Achievements', className: 'a7achievements-icon' },
+        { type: 'doc', id: 'release-reworks/act7-sp-changelog', label: 'Act7 SP Balance', className: 'act7sps-icon' },
         { type: 'doc', id: 'information/runes', label: 'Runes ', className: 'runes-icon' },
         { type: 'doc', id: 'information/tattoos', label: 'Tattoos', className: 'tattoos-icon' },
       ]

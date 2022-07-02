@@ -16,11 +16,13 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 
 |               Picture                |    Name     |
 |:------------------------------------:|:-----------:|
-| ![](https://i.imgur.com/8LwB99l.png) |    KEKW     |
 | ![](https://i.imgur.com/f5lHpv6.png) | Peepo Clown |
 | ![](https://i.imgur.com/CUPykm9.png) |    Doubt    |
 | ![](https://i.imgur.com/A3H5PxR.png) |   Pog You   |
 | ![](https://i.imgur.com/X43IuWT.png) |   Pepega    |
+| ![](https://i.imgur.com/IByfYAQ.png) |   Peepo Yes |
+| ![](https://i.imgur.com/K22XDsj.png) |   Peepo No  |
+
 
 
 ### **Emotes from NPCs**
@@ -37,7 +39,10 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 | ![](https://i.imgur.com/sxiiQc9.png) | Sanic Fernon |
 | ![](https://i.imgur.com/kZ1sisq.png) |    Fernon    |
 | ![](https://i.imgur.com/Yia50Hc.png) |  Pepe Knife  |
-
+| ![](https://i.imgur.com/8se0F18.png) |  Elemental Collector |
+| ![](https://i.imgur.com/hmkIU8E.png) |  Peepo  |
+| ![](https://i.imgur.com/Xt5EdDe.png) |  Peepo Love |
+| ![](https://i.imgur.com/s4QlEyq.png) |  Pepa  |
 
 ### **Emotes from PvP Events**
 
@@ -45,4 +50,3 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 |:------------------------------------:|:-----------:|
 | ![](https://i.imgur.com/HdOKAEj.png) | Peepo Fight |
 | ![](https://i.imgur.com/1cNAS4p.png) |  KeK Loser  |
-

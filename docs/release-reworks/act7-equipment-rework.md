@@ -46,8 +46,8 @@ import BCard from "../../src/components/bcard";
   - Hitrate: 520
   - Critical chance/damage: 20%/220%
  <BCard> - Increases soft damage with a probability of 15% by 50%. </BCard><br/>
- <BCard> - All defence powers are increased by 260. </BCard><br/>
- <BCard> - [REMOVE] All attacks are increased by 260. </BCard><br/>
+ <BCard> - All attacks are increased by 260. </BCard><br/>
+ <BCard> - [REMOVE] All defence powers are increased by 260. </BCard><br/>
  <BCard> - [REMOVE] All element energies are increased by 22. </BCard><br/>
  <BCard> - [CHANGED] Reduces the enemy's elemental resistances by 24 -> 17. </BCard><br/>
  <BCard> - There is a 5% chance of causing [Curse of the Horn]. </BCard><br/>
@@ -200,19 +200,19 @@ import BCard from "../../src/components/bcard";
  <BCard> - [REMOVE] Increases PvP attack power by 4%. </BCard><br/>
  <BCard> - [REMOVE] Reduces damage received in PvP by 2%. </BCard><br/>
  <BCard> - [NEW] Damage dealt is increased by 4%. </BCard><br/>
- <BCard> - [NEW] Damage received is increased by 2%. </BCard><br/>
+ <BCard> - [NEW] Damage received is decreased by 2%. </BCard><br/>
  <BCard> - Magic defence is increased by 40. </BCard><br/>
 
 - **Orc Hero Ring**
  <BCard> - [REMOVE] Increases PvP attack power by 3%. </BCard><br/>
  <BCard> - [REMOVE] Reduces damage received in PvP by 1%. </BCard><br/>
  <BCard> - [NEW] Damage dealt is increased by 3%. </BCard><br/>
- <BCard> - [NEW] Damage received is increased by 1%. </BCard><br/>
+ <BCard> - [NEW] Damage received is decreased by 1%. </BCard><br/>
  <BCard> - Ranged defence is increased by 40. </BCard><br/>
 
 - **Spirit King's Bracelet**
  <BCard> - [REMOVE] Increases PvP attack power by 3%. </BCard><br/>
  <BCard> - [REMOVE] Reduces damage received in PvP by 1%. </BCard><br/>
  <BCard> - [NEW] Damage dealt is increased by 3%. </BCard><br/>
- <BCard> - [NEW] Damage received is increased by 1%. </BCard><br/>
+ <BCard> - [NEW] Damage received is decreased by 1%. </BCard><br/>
  <BCard> - Melee defence is increased by 40. </BCard><br/>

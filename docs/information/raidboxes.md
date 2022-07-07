@@ -11,7 +11,7 @@ In addition to that, each of them have new exciting and worthwhile rewards.
 You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille.
 
 ### Chicken King
-![](https://i.imgur.com/VIagOzM.png)
+![](https://i.imgur.com/ug9dEi9.png)
 
 ### Namaju
 ![](https://i.imgur.com/VGqHwz3.png)
@@ -41,7 +41,7 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/QfUPEY0.png) 
 
 ### Baron Berios
-![](https://i.imgur.com/A6yb5ER.png?1) 
+![](https://i.imgur.com/v32VFkr.png) 
 
 ### Ibrahim
 ![](https://i.imgur.com/sTJzvLd.png) 
@@ -77,16 +77,16 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/vLxmDxT.png) ![](https://i.imgur.com/J8Yunpa.png)
 
 ### Carno
-![](https://i.imgur.com/pKBL5Ub.png)
+![](https://i.imgur.com/FOApB0b.png)
 
 ### Kirollas
-![](https://i.imgur.com/dQ6mlVw.png)
+![](https://i.imgur.com/Z1udmxv.png)
 
 ### Belial
 ![](https://i.imgur.com/e41pRTZ.gif)
 
 ### Greedy Fafnir
-![](https://i.imgur.com/ipoFS9h.png)
+![](https://i.imgur.com/bIClKOk.png)
 
 
 ## **Event Boxes**
@@ -109,6 +109,9 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Archipelago Mount Box
 ![](https://i.imgur.com/SA1TdL3.png)
 
+### Moritius Mount Box
+![](https://i.imgur.com/Itw9m8J.png)
+
 ### Mysterious Relict
 ![](https://i.imgur.com/wwqSBlr.png)
 
@@ -119,10 +122,10 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/aim5Qrw.png)
 
 ### Mystic Haeven Military Supplies
-![](https://i.imgur.com/lUBOlUK.png?1)
+![](https://i.imgur.com/d5b9LO7.png)
 
 ### Rune Chest
 ![](https://i.imgur.com/uYVvlRJ.png)
 
 ### Mysterious Box of Completion
-![](https://i.imgur.com/5AQ6jpq.png)
+![](https://i.imgur.com/dCAXDZb.png)

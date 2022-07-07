@@ -65,7 +65,7 @@ hide_title: true
 |:-:|:-: |:-:| 
 | **Churisgo** <br/> <br/> <img src="https://i.imgur.com/BSEatY7.png"/> <img src="https://cdn.olympusgg.com/images/monsters/3077.png"/> | Succesfully complete the raid <br/> [Incomplete Fernon] | Magical Fernon Powder <br/> (Quest Item) <img src="https://cdn.olympusgg.com/images/4266.png"/>  |
 | | Talk to [Asgothi] when you have 1x <br/> [Magical Fernon Powder] | Rough Magic Crystal <br/> (Quest Item) <img src="https://cdn.olympusgg.com/images/4268.png"/>  |
-| | Talk to [Churisgo] when you have 1x <br/> [Rough Magic Crystal] | Fernon's Magic Crystal <img src="https://cdn.olympusgg.com/images/4269.png"/> <br/> Black Titanium Bar <img src="https://cdn.olympusgg.com/images/4286.png"/>|
+| | Talk to [Churisgo] when you have 1x <br/> [Rough Magic Crystal] | 4x Black Titanium Bar <img src="https://cdn.olympusgg.com/images/4286.png"/> <br/>  1x Fernon's Magic Crystal <img src="https://cdn.olympusgg.com/images/4269.png"/> |
 <br/> 
 
 ---
@@ -80,7 +80,7 @@ hide_title: true
 |:-: |:-: |:-:|
 | **Martas** <br/> <br/> <img src="https://i.imgur.com/9opOj5Y.png"/> <img src="https://cdn.olympusgg.com/images/monsters/3076.png"/> |  Succesfully complete the raids <br/> 1x [Goddess Zenas] <br/> 1x [Goddess Erenia]  | Magic Goddess Powder <br/> (Quest Item) <img src="https://cdn.olympusgg.com/images/4267.png"/>  |
 |  | Talk to [Felice Alchemist] when you have 1x <br/> [Magic Goddess Powder] | Rough Magic Crystal <br/> (Quest Item) <img src="https://cdn.olympusgg.com/images/4268.png"/>  |
-|  | Talk to [Martas] when you have 1x <br/> [Rough Magic Crystal] | 4x Black Titanium Bar <img src="https://cdn.olympusgg.com/images/4286.png"/> <br/>  1x Fernon's Magic Crystal <img src="https://cdn.olympusgg.com/images/4269.png"/> |
+|  | Talk to [Martas] when you have 1x <br/> [Rough Magic Crystal] | 4x Black Titanium Bar <img src="https://cdn.olympusgg.com/images/4286.png"/> <br/>  1x Magic Divine Crystal <img src="https://cdn.olympusgg.com/images/4270.png"/> |
 <br/>
 
 ---

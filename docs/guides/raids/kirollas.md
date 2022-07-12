@@ -20,7 +20,7 @@ As with the Carno Raid there are also two ways to get seals here:
 <p align="center">
 <img width= "180px" src="https://imageshack.com/i/pnWEkjhwp"/></p>
 
-- Farming: The mobs on the Spirit Forest Edge map will with a small probability drop seals on us.
+- Farming: The mobs on the Spirit Forest map will with a small probability drop seals on us.
 
 ## Raid Mechanics
 

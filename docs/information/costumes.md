@@ -103,3 +103,15 @@ hide_title: true
 - **Viking Helmet:**
   - Damage dealt is increased by 4%.
   - Damage dealt in PvE is increased by 4%.
+### ``Wonderland Costume``
+- **Wonderland Costume:**
+  - Movement speed is increased by 2.
+  - Maximum HP is increased by 2500.
+- **Wonderland Headwear:**
+  - Damage dealt is increased by 5%.
+  - There is a 3% chance of causing *[Madness]*.
+- *[Madness]:*
+  - 4Lv. Buff
+  - Duration: 5s
+  - Provides a 10% chance to reset the cooldown of the attack skill used.
+  - Every 2 seconds: Restores (Player Level x 10) MP.

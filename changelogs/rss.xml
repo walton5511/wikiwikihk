@@ -4,9 +4,23 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/changelogs</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sat, 02 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog - 11/07/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-07-11-changelog</link>
+            <guid>2022-07-11-changelog</guid>
+            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[11/07/2022 - 845 ST)]]></description>
+            <content:encoded><![CDATA[<blockquote><p>11/07/2022 - 8:45 (6:45 ST)<br>
+<!-- -->Server Version: 1.341.0<br>
+<!-- -->Client Version: 1.1128.0  </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ul><li>Renamed Owlbear Steak to Glazed Steak, changed its healing 5k-&gt;10k HP and 2k-&gt;10k MP.</li><li>Added 90Lv. and 92Lv. r5+7 equipment to Teoman's Shop.</li><li>Added new recipe for Alchemist's Beverage to Ituros' Supermarket.</li><li>Replaced Prota near Act4 dungeon entrance.</li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="balances">Balances<a class="hash-link" href="#balances" title="Direct link to heading">​</a></h2><ul><li>Reduced gold drops from Belial and Carno from ~150k per drop to ~95k per drop.</li><li>Changed the amount of Carno Runestone in Beast King Carno's raidbox from 1x to 2x.</li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="fixes">Fixes<a class="hash-link" href="#fixes" title="Direct link to heading">​</a></h2><ul><li>Fixed Bone Warrior Ragnar's Shadowfall debuff chance and non-elemental damage increasing effect.</li><li>Fixed Bone Warrior Ragnar's Spectral Strike (S) "No HP consumption" effect.</li><li>Fixed Piercing Gaze increasing damage for all hits instead of just critical hits.</li><li>Fixed Athena's Aegis III anti-effect.</li><li>Fixed Helm of Darkness and Athena's Aegis major trophies not being upgradable.</li><li>Fixed Spirit Splinter with Mark of Death not causing critical.</li><li>Fixed Elemental Leech critical effect.</li><li>Fixed Fafnir's Fried Dinner did not have cooldown on Act4.</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>changes</category>
+            <category>balances</category>
+            <category>fixes</category>
+        </item>
         <item>
             <title><![CDATA[Act7 Release Changelog - 02/07/2022]]></title>
             <link>https://wiki.olympusgg.com/changelogs/2022-07-02-changelog</link>

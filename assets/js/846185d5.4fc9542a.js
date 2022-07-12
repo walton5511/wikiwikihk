@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[91101],{62197:function(e){e.exports=JSON.parse('{"permalink":"/changelogs/tags/fixes/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":12,"previousPage":"/changelogs/tags/fixes","nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

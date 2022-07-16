@@ -65,13 +65,17 @@ Common prizes are easy to get, though not all of them are equally likely to get.
 
 With a little bit of luck, you can get a Rare Prize.
 These prizes will be picked among items that were once in shop rotation.
-These prizes will be rotated every month now and then.
 
 When you get a Rare Prize, it will be announced so that everyone can know how lucky you are.
 
 **Last rotation update**: 16.07.2022
 
-- Crystal Wings <ItemIcon iconId="4431" width="25px" />
+- Fabled Costume Random Chest <ItemIcon iconId="1399" width="25px" /> *(it contains one of costume sets below)*
+
+    - Illusionist Costume Set   
+    - Nutcracker Costume Set    
+    - Karate Costume Set    
+  
 - Nossi the Dragon <ItemIcon iconId="770" width="25px" />
 
 ### Legendary Prizes

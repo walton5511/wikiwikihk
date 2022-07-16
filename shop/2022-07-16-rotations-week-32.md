@@ -27,7 +27,13 @@ import ItemIcon from "../src/components/itemicon";
 ## God's Altar
 - <font color="#fd4949">[REMOVE]</font> Golden Wings <ItemIcon iconId="2730" width="25px" />
 - <font color="#fd4949">[REMOVE]</font> Darko the Hell Pup <ItemIcon iconId="2560" width="25px" />
-- <font color="orange">[NEW]</font> Crystal Wings <ItemIcon iconId="4431" width="25px" />
+- <font color="orange">[NEW]</font> Fabled Costume Random Chest <ItemIcon iconId="1399" width="25px" /> 
+ <br/> (it contains one of costume sets below)
+
+    - Illusionist Costume Set   
+    - Nutcracker Costume Set    
+    - Karate Costume Set    
+  
 - <font color="orange">[NEW]</font> Nossi the Dragon <ItemIcon iconId="770" width="25px" />
 <br /> <br/>
 - <font color="#fd4949">[REMOVE]</font> Peepo Yes Emote Unlocker

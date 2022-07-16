@@ -54,12 +54,12 @@ Common prizes are easy to get, though not all of them are equally likely to get.
 - Tarot Card Game 1x
 - Magic Speed Booster (1 Day) 1x
 - Partner Skill Ticket (Single) 1x
-- Peepo Yes Emote Unlocker 1x
-- Peepo No Emote Unlocker 1x
+- Peepo What Emote Unlocker 1x
+- Hap Emote Unlocker 1x
 
 ``P.S.: These rewards can be changed later on, based on their prices and demand.``
 
-**Last rotation update**: 06.06.2022
+**Last rotation update**: 16.07.2022
 
 ### Rare Prizes
 
@@ -69,17 +69,17 @@ These prizes will be rotated every month now and then.
 
 When you get a Rare Prize, it will be announced so that everyone can know how lucky you are.
 
-**Last rotation update**: 06.06.2022
+**Last rotation update**: 16.07.2022
 
-- Golden Wings <ItemIcon iconId="2730" width="25px" />
-- Darko the Hell Pup <ItemIcon iconId="2560" width="25px" />
+- Crystal Wings <ItemIcon iconId="4431" width="25px" />
+- Nossi the Dragon <ItemIcon iconId="770" width="25px" />
 
 ### Legendary Prizes
 
 In this rotation, all weapon skins released so far (except Christmas skins) are in the Altar.
 If you're lucky enough to roll legendary loot, you'll get one of listed below.
 
-**Last rotation update**: 06.06.2022
+**Last rotation update**: 16.07.2022
 
 - Steampunk Weapons Random Chest
 - Celebration Weapons Random Chest

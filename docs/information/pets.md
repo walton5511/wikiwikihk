@@ -7,6 +7,10 @@ hide_title: true
 
 ## **Common**
 
+### ``Baby Raptor Blue``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/2766.png)|![](https://i.imgur.com/S9D5OLE.png)|![](https://i.imgur.com/tUvsRgD.png)|![](https://i.imgur.com/3Dv7039.png)|
 ### ``Darko``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |

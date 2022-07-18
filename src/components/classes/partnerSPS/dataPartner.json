@@ -11717,5 +11717,766 @@
                 ]
             }
         ]
+    },
+    {
+        "change": [
+            {
+                "cardName": "Sheriff Chloe's Specialist Partner Card",
+                "buttonImg": "https://cdn.olympusgg.com/images/4059.png",
+                "icon": "https://cdn.olympusgg.com/images/27708.png",
+                "psp": "https://imageshack.com/i/po9DQGzlp",
+                "partner1": "https://cdn.olympusgg.com/images/8312.png",
+                "partner2": "https://cdn.olympusgg.com/images/8822.png",
+                "partner3": "https://cdn.olympusgg.com/images/10531.png",
+                "partner4": "https://cdn.olympusgg.com/images/10717.png",
+                "minieffi": [],
+                "fireRes": 1,
+                "waterRes": 10,
+                "lightRes": 10,
+                "shadowRes": 1  ,
+                "s": [
+                    {
+                        "title": "Big Bang +7",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 110",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "200(Skill level *80).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Targeting",
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6217.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6218.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Targeting",
+                                "buff": "Debuff",
+                                "descEf": "Target acquired, danger imminent!",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of ranged attacks is\ndecreased by 200.",                               
+                                "eleminc": "There is a 100% chance that\n damage received from ranged\nattacks is increased by 20%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6218.png",
+                                "word": "(S)",
+                                "effiLvL": 5,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a": [
+                    {
+                        "title": "Big Bang +6",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 110",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "120(Skill level *80).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Targeting",
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6217.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Targeting",
+                                "buff": "Debuff",
+                                "descEf": "Target acquired, danger imminent!",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of ranged attacks is\ndecreased by 150.",                               
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                                "word": "(A)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b": [
+                    {
+                        "title": "Big Bang +5",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 110",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "96(Skill level *80).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Targeting",
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6217.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Targeting",
+                                "buff": "Debuff",
+                                "descEf": "Target acquired, danger imminent!",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of ranged attacks is\ndecreased by 120.",                               
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                                "word": "(B)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c": [
+                    {
+                        "title": "Big Bang +4",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 110",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "80(Skill level *80).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Targeting",
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6217.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Targeting",
+                                "buff": "Debuff",
+                                "descEf": "Target acquired, danger imminent!",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of ranged attacks is\ndecreased by 100.",                               
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d": [
+                    {
+                        "title": "Big Bang +3",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 110",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "64(Skill level *80).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Targeting",
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6217.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Targeting",
+                                "buff": "Debuff",
+                                "descEf": "Target acquired, danger imminent!",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of ranged attacks is\ndecreased by 80.",                               
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                                "word": "(D)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e": [
+                    {
+                        "title": "Big Bang +2",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 110",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "40(Skill level *80).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Targeting",
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6217.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Targeting",
+                                "buff": "Debuff",
+                                "descEf": "Target acquired, danger imminent!",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of ranged attacks is\ndecreased by 60.",                               
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                                "word": "(E)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f": [
+                    {
+                        "title": "Big Bang +1",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 110",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "24(Skill level *80).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Targeting",
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6217.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Targeting",
+                                "buff": "Debuff",
+                                "descEf": "Target acquired, danger imminent!",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of ranged attacks is\ndecreased by 40.",                               
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/6217.png",
+                                "word": "(F)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "s1": [
+                    {
+                        "title": "A shot into the heavens. +7",
+                        "times": "Casting time : 0.5 sec.\nCool time : 6 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: 15 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "625(Skill level *250).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Snare",
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6219.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6220.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Snare",
+                                "buff": "Debuff",
+                                "duration": "Duration: 5 seconds",
+                                "dmginc": "No attack possible\nMovement impossible\nRanged defence is decreased by\n297(Player Level*3).",
+                                "eleminc": "Freedom of movement is\ntemporarily restricted by the attack.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6220.png",
+                                "word": "(S)",
+                                "effiLvL": 5,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a1": [
+                    {
+                        "title": "A shot into the heavens. +6",
+                        "times": "Casting time : 0.5 sec.\nCool time : 6 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: 15 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "375(Skill level *250).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Snare",
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6219.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Snare",
+                                "buff": "Debuff",
+                                "duration": "Duration: 4 seconds",
+                                "dmginc": "No attack possible\nMovement impossible\nRanged defence is decreased by\n198(Player Level*2).",
+                                "eleminc": "Freedom of movement is\ntemporarily restricted by the attack.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                                "word": "(A)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b1": [
+                    {
+                        "title": "A shot into the heavens. +5",
+                        "times": "Casting time : 0.5 sec.\nCool time : 6 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: 15 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "300(Skill level *250).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Snare",
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6219.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Snare",
+                                "buff": "Debuff",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "No attack possible\nMovement impossible\nRanged defence is decreased by\n198(Player Level*2).",
+                                "eleminc": "Freedom of movement is\ntemporarily restricted by the attack.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                                "word": "(B)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c1": [
+                    {
+                        "title": "A shot into the heavens. +4",
+                        "times": "Casting time : 0.5 sec.\nCool time : 6 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: 15 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "250(Skill level *250).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Snare",
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6219.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Snare",
+                                "buff": "Debuff",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "No attack possible\nMovement impossible\nRanged defence is decreased by\n99(Player Level*1).",
+                                "eleminc": "Freedom of movement is\ntemporarily restricted by the attack.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d1": [
+                    {
+                        "title": "A shot into the heavens. +3",
+                        "times": "Casting time : 0.5 sec.\nCool time : 6 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: 15 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "200(Skill level *250).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Snare",
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6219.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Snare",
+                                "buff": "Debuff",
+                                "duration": "Duration: 2 seconds",
+                                "dmginc": "No attack possible\nMovement impossible\nRanged defence is decreased by\n99(Player Level*1).",
+                                "eleminc": "Freedom of movement is\ntemporarily restricted by the attack.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                                "word": "(D)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e1": [
+                    {
+                        "title": "A shot into the heavens. +2",
+                        "times": "Casting time : 0.5 sec.\nCool time : 6 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: 15 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "125(Skill level *250).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Snare",
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6219.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Snare",
+                                "buff": "Debuff",
+                                "duration": "Duration: 2 seconds",
+                                "dmginc": "No attack possible\nMovement impossible",
+                                "eleminc": "Freedom of movement is\ntemporarily restricted by the attack.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                                "word": "(E)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f1": [
+                    {
+                        "title": "A shot into the heavens. +1",
+                        "times": "Casting time : 0.5 sec.\nCool time : 6 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: 15 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n",
+                        "eleminc": "Water element is increased by\n",
+                        "attackNum": "75(Skill level *250).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Snare",
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6219.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Snare",
+                                "buff": "Debuff",
+                                "duration": "Duration: 1 seconds",
+                                "dmginc": "No attack possible\nMovement impossible",
+                                "eleminc": "Freedom of movement is\ntemporarily restricted by the attack.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6219.png",
+                                "word": "(F)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "s2": [
+                    {
+                        "title": "Supporting Fire +7",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n275(Skill level*110).\nWater element is increased by\n275(Player Level*110).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Supporting Fire",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6221.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6222.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Supporting Fire",
+                                "buff": "Buff",
+                                "duration": "Duration: 18 seconds",
+                                "dmginc": "Increases soft damage with a\nprobability of 100% by 20%.",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "Support from potent fire power.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6222.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(S)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": "There's a 40% chance to ignore\n 35% of the target's defence.",
+                                "extrabcard": "\nMovement speed is increased by 2.",
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a2": [
+                    {
+                        "title": "Supporting Fire +6",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n165(Skill level*110).\nWater element is increased by\n165(Player Level*110).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Supporting Fire",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6221.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6221.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Supporting Fire",
+                                "buff": "Buff",
+                                "duration": "Duration: 18 seconds",
+                                "dmginc": "Increases soft damage with a\nprobability of 100% by 15%.",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "Support from potent fire power.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6221.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(A)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": "There's a 30% chance to ignore\n 30% of the target's defence.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b2": [
+                    {
+                        "title": "Supporting Fire +5",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n132(Skill level*110).\nWater element is increased by\n132(Player Level*110).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Supporting Fire",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6221.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6221.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Supporting Fire",
+                                "buff": "Buff",
+                                "duration": "Duration: 18 seconds",
+                                "dmginc": "Increases soft damage with a\nprobability of 100% by 10%.",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "Support from potent fire power.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6221.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(B)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": "There's a 30% chance to ignore\n 25% of the target's defence.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c2": [
+                    {
+                        "title": "Supporting Fire +4",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n110(Skill level*110).\nWater element is increased by\n110(Player Level*110).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Supporting Fire",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6221.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6221.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Supporting Fire",
+                                "buff": "Buff",
+                                "duration": "Duration: 18 seconds",
+                                "dmginc": "Increases soft damage with a\nprobability of 100% by 7%.",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "Support from potent fire power.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6221.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": "There's a 30% chance to ignore\n 20% of the target's defence.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d2": [
+                    {
+                        "title": "Supporting Fire +3",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n88(Skill level*110).\nWater element is increased by\n88(Player Level*110).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Supporting Fire",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6221.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6221.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Supporting Fire",
+                                "buff": "Buff",
+                                "duration": "Duration: 18 seconds",
+                                "dmginc": "Increases soft damage with a\nprobability of 100% by 5%.",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "Support from potent fire power.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6221.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(D)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": "There's a 30% chance to ignore\n 15% of the target's defence.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e2": [
+                    {
+                        "title": "Supporting Fire +2",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n55(Skill level*110).\nWater element is increased by\n55(Player Level*110).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Supporting Fire",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6221.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6221.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Supporting Fire",
+                                "buff": "Buff",
+                                "duration": "Duration: 18 seconds",
+                                "dmginc": "Increases soft damage with a\nprobability of 100% by 4%.",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "Support from potent fire power.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6221.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(E)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": "There's a 30% chance to ignore\n 13% of the target's defence.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f2": [
+                    {
+                        "title": "Supporting Fire +1",
+                        "times": "Casting time : 0.5 sec.\nCool time : 25 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: 11 cell\nTarget: Select One",
+                        "dmginc": "Ranged attack is increased by\n33(Skill level*110).\nWater element is increased by\n33(Player Level*110).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Supporting Fire",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6221.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6221.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Supporting Fire",
+                                "buff": "Buff",
+                                "duration": "Duration: 18 seconds",
+                                "dmginc": "Increases soft damage with a\nprobability of 100% by 3%.",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "Support from potent fire power.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6221.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(F)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": "There's a 30% chance to ignore\n 10% of the target's defence.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ]
+            }
+        ]
     }
 ]

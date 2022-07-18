@@ -1,6 +1,6 @@
 ---
 title: Shop rotation - Week 32
-slug: 2022-07-16-rotations-week-32
+slug: 2022-07-18-rotations-week-32
 authors:
   - name: Jundi
     title: Wiki Manager

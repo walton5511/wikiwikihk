@@ -4,9 +4,19 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Mon, 11 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shop rotation - Week 32]]></title>
+            <link>https://wiki.olympusgg.com/shop/2022-07-18-rotations-week-32</link>
+            <guid>2022-07-18-rotations-week-32</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pets]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Otter Random Box <img src="https://cdn.olympusgg.com/images/4145.png" width="25px"></li><li><font color="orange">[NEW]</font> Baby Blue Raptor Random Box <img src="https://cdn.olympusgg.com/images/4547.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="mounts">Mounts<a class="hash-link" href="#mounts" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Magic Convertible Random Box <img src="https://cdn.olympusgg.com/images/1413.png" width="25px"></li><li><font color="orange">[NEW]</font> Peculiar UFO Random Box <img src="https://cdn.olympusgg.com/images/2594.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="psps">PSPs<a class="hash-link" href="#psps" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Magic Student Yuna Random Box <img src="https://cdn.olympusgg.com/images/4078.png" width="25px"></li><li><font color="orange">[NEW]</font> Sheriff Chloe Random Box <img src="https://cdn.olympusgg.com/images/4059.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="gods-altar">God's Altar<a class="hash-link" href="#gods-altar" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Golden Wings <img src="https://cdn.olympusgg.com/images/2730.png" width="25px"></li><li><font color="#fd4949">[REMOVE]</font> Darko the Hell Pup <img src="https://cdn.olympusgg.com/images/2560.png" width="25px"></li><li><font color="orange">[NEW]</font> Fabled Costume Random Chest <img src="https://cdn.olympusgg.com/images/1399.png" width="25px"><br> (it contains one of costume sets below)<ul><li>Illusionist Costume Set   </li><li>Nutcracker Costume Set    </li><li>Karate Costume Set    </li></ul></li><li><font color="orange">[NEW]</font> Nossi the Dragon <img src="https://cdn.olympusgg.com/images/770.png" width="25px"><br> <br></li><li><font color="#fd4949">[REMOVE]</font> Peepo Yes Emote Unlocker</li><li><font color="#fd4949">[REMOVE]</font> Peepo No Emote Unlocker</li><li><font color="orange">[NEW]</font> Peepo What Emote Unlocker</li><li><font color="orange">[NEW]</font> Hap Emote Unlocker</li></ul>]]></content:encoded>
+            <category>shop</category>
+            <category>rotation</category>
+        </item>
         <item>
             <title><![CDATA[Shop rotation - Week 31]]></title>
             <link>https://wiki.olympusgg.com/shop/2022-07-11-rotations-week-31</link>

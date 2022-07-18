@@ -59,7 +59,7 @@ Common prizes are easy to get, though not all of them are equally likely to get.
 
 ``P.S.: These rewards can be changed later on, based on their prices and demand.``
 
-**Last rotation update**: 16.07.2022
+**Last rotation update**: 18.07.2022
 
 ### Rare Prizes
 
@@ -68,7 +68,7 @@ These prizes will be picked among items that were once in shop rotation.
 
 When you get a Rare Prize, it will be announced so that everyone can know how lucky you are.
 
-**Last rotation update**: 16.07.2022
+**Last rotation update**: 18.07.2022
 
 - Fabled Costume Random Chest <ItemIcon iconId="1399" width="25px" /> *(it contains one of costume sets below)*
 
@@ -83,7 +83,7 @@ When you get a Rare Prize, it will be announced so that everyone can know how lu
 In this rotation, all weapon skins released so far (except Christmas skins) are in the Altar.
 If you're lucky enough to roll legendary loot, you'll get one of listed below.
 
-**Last rotation update**: 16.07.2022
+**Last rotation update**: 18.07.2022
 
 - Steampunk Weapons Random Chest
 - Celebration Weapons Random Chest

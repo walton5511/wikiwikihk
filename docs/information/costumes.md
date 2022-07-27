@@ -5,113 +5,149 @@ title: Costumes
 hide_title: true
 ---
 ## **Costumes**
+&nbsp;
 
 ### ``Oto-Fox Costume``
-- **Oto-Fox Costume**
-  - Movement speed is increased by 1.
-  - Maximum HP is increased by 500.
-- **Oto-Fox Costume Hat**
-  - There is a 3% chance of causing [Blackout].
-  - Light resistance is increased by 5.
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/pzN15ol.png) | ![](https://i.imgur.com/bIgXKGs.png) |
+
+| Costume  | Costume Hat | Blackout
+|:-:|:-:|:-:| 
+| ![](https://i.imgur.com/xFIL95Y.png) | ![](https://i.imgur.com/85o1sup.png) | ![](https://i.imgur.com/S8XsbEf.png)  |
+
 ### ``Winter Costume``
-- **Long Winter Coat**
-  - Movement speed is increased by 1.
-  - Damage received is decrased by 5%.
-- **Winter Hat**
-  - There is a 3% chance of causing [Freeze].
-  - Water resistance is increased by 5.
+| Costume Male | Costume Female | 
+|:-:|:-: |
+| ![](https://i.imgur.com/9sAQ2WN.png) | ![](https://i.imgur.com/Bqw10xZ.png) |
+
+| Costume  | Costume Hat | Freeze |    
+|:-:|:-: |:-:|
+ ![](https://i.imgur.com/u5fjOlF.png) | ![](https://i.imgur.com/thDRZ2G.png) | ![](https://i.imgur.com/N8DKxG9.png) |
+
 ### ``Karate Costume``
-- **Karate Gi**
-  - Movement speed is increased by 1.
-  - There is a 5% chance that damage from ranged attacks is reduced by 100%.
-- **Karate Hairstyle**
-  - Damage dealt is increased by 4%.
-  - There is a 3% chance of causing [Karate Block].
-- **[Karate Block]**
-  - Positive Effect (1 Level)
-  - Duration: 3s
-  - Reflects the maximum received damage from (Player Level*20).
+| Costume Male | Costume Female | 
+|:-:|:-: |
+| ![](https://i.imgur.com/PiZhiCl.png) | ![](https://i.imgur.com/zFRAsLw.png) |
+
+| Costume | Costume Hat | Karate Block |    
+|:-:|:-: |:-:|
+ ![](https://i.imgur.com/rWHYoZg.png) | ![](https://i.imgur.com/DGDSL7D.png) | ![](https://i.imgur.com/QfEHf21.png)|
+
 ### ``Santa Bushi Costume``
-- **Santa Bushi Costume**
-  - Movement speed is increased by 1.
-  - Increases fame received by 5%.
-- **Santa Bushi Hat**
-  - Shadow resistance is increased by 5.
-  - There is a 3% chance of causing [Shock].
+| Costume Male | Costume Female | 
+|:-:|:-: |
+| ![](https://i.imgur.com/HWqRq1L.png) | ![](https://i.imgur.com/wRhrIVS.png) |
+
+| Costume  | Costume Hat | Shock |    
+|:-:|:-: |:-:|
+ ![](https://i.imgur.com/O3PCFXF.png) | ![](https://i.imgur.com/no84YRk.png) | ![](https://i.imgur.com/Nre86aQ.png)|
+
 ### ``Illusionist's Costume``
-- **Illusionist's Costume**
-  - Movement speed is increased by 1.
-  - There is a 5% chance that damage from magic attacks is reduced by 100%.
-- **Illusionist's Top Hat**
-  - Damage dealt is increased by 4%.
-  - There is a 3% chance of causing [Trickery].
+| Costume Male | Costume Female | 
+|:-:|:-: |
+| ![](https://i.imgur.com/BRIPQEQ.png) | ![](https://i.imgur.com/9MtwHrV.png) |
+
+| Costume  | Costume Hat | Trickery |    
+|:-:|:-: |:-:|
+|![](https://i.imgur.com/2gGgGtS.png) | ![](https://i.imgur.com/nygkzc5.png) | ![](https://i.imgur.com/z61nb6j.png)|
+
 ### ``Dracula's Costume``
-- **Dracula's Costume**
-  - Movement speed is increased by 1.
-  - Increases champion experience received by 10%.
-- **Dracula's Hat**
-  - Increases champion experience received by 5%.
-  - The effectiveness of recovery items is increased by 20%.
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/0ZjycRX.png) | ![](https://i.imgur.com/ekCQLxI.png) |
+
+| Costume  | Costume Hat |    
+|:-:|:-:|
+| ![](https://i.imgur.com/MW3tRbc.png) | ![](https://i.imgur.com/2L5DX4h.png) |
+
 ### ``Nutcracker's Costume``
-- **Nutcracker Uniform**:
-  - Movement speed is increased by 1.
-  - There is a 5% chance that damage from melee attacks is reduced by 100%.
-- **Nutcracker Shako**:
-  - Damage dealt is increased by 4%.
-  - There is a 3% chance of causing [Heavy Glue].
-### ``Desert Costume/Belly Dancer``
-- **Desert Robe/Belly Dancer Costume**:
-  - Movement speed is increased by 1.
-  - There is a 5% chance that damage from all attacks is reduced by 80%.
-- **Desert Turban/Floral Crown**:
-  - Fire resistance is increased by 10.
-  - Your movement speed is increased by 2 while you are hidden.
+| Costume Male | Costume Female | 
+|:-:|:-: |
+| ![](https://i.imgur.com/GVPnvEC.png) | ![](https://i.imgur.com/Ff8O6Yy.png) |
+
+| Costume  | Costume Hat | Heavy Glue |    
+|:-:|:-: |:-:|
+| ![](https://i.imgur.com/TyB4Of2.png) | ![](https://i.imgur.com/eunP27d.png) | ![](https://i.imgur.com/cx0pxVA.png)|
+
+### ``Desert Costume``
+| Costume Male |
+|:-:|
+| ![](https://i.imgur.com/nY3nkEt.png) | 
+
+| Costume  | Costume Hat| 
+|:-:|:-: |
+| ![](https://i.imgur.com/98YQzIZ.png) | ![](https://i.imgur.com/M7Uftj8.png) |
+
+### ``Belly Dancer``
+| Costume Female | 
+|:-:|
+| ![](https://i.imgur.com/YA1yo5t.png) |
+
+| Costume  | Costume Hat |     
+|:-:|:-:|
+| ![](https://i.imgur.com/BkWGAvm.png) | ![](https://i.imgur.com/QJFk1Wf.png) |
+
 ### ``Groovy Beach``
-- **Groovy Beach Costume**:
-  - Movement speed is increased by 1.
-  - There is a 3% chance of causing [Groovy Beach Vibes].
-- **Groovy Beach Hat**:
-  - All elemental resistances are increased by 10.
-  - Damage dealt is increased by 5%.
+| Costume Male | Costume Female | 
+|:-:|:-: |
+| ![](https://i.imgur.com/tVsUeB6.png) | ![](https://i.imgur.com/hURW6lr.png) |
+
+| Costume  | Groovy Beach Vibes | Costume Hat |    
+|:-:|:-: |:-:|
+| ![](https://i.imgur.com/HqJ3b3L.png) | ![](https://i.imgur.com/cmhjcko.png) |  ![](https://i.imgur.com/DvQigTv.png)|
+
 ### ``Football Costume``
-- **Football Jersey**:
-  - Movement speed is increased by 1.
-  - There is a 4% chance of causing [Rush].
-- **Football Cap**:
-  - Damage dealt is increased by 5%.
-  - There is a 4% chance of causing [Short Blackout].
+| Costume Male | Costume Female | 
+|:-:|:-: |
+| ![](https://i.imgur.com/LPoIYVp.png) | ![](https://i.imgur.com/3VPdrD9.png) |
+
+| Costume | Rush | Costume Hat | Short Blackout |    
+|:-:|:-:|:-:|:-:|
+| ![](https://i.imgur.com/BYMIjab.png) | ![](https://i.imgur.com/eSY4kZj.png) | ![](https://i.imgur.com/XOxi15q.png) | ![](https://i.imgur.com/f6Xy0zt.png)|
+
 ### ``Easter Bunny Party Costume``
-- **Easter Bunny Party Costume**:
-  - Damage received is decreased by 5%.
-  - Maximum HP is increased by 500.
-  - Increases fame received by 10%.
-- **Easter Bunny Party Hat**:
-  - Damage dealt is increased by 5%.
-  - Maximum MP is increased by 500.
-  - Damage dealt in PvP is increased by 5%.
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/QB0c8dm.png) | ![](https://i.imgur.com/OAj8khI.png) |
+
+| Costume  | Costume Hat |    
+|:-:|:-:|
+| ![](https://i.imgur.com/TzqCDGv.png) | ![](https://i.imgur.com/eXMYsUS.png) |
+
 ### ``Concierge Uniform``
-- **Concierge Uniform:**
-  - Movement speed is increased by 1.
-  - Your HP increases by 200 whenever you dodge
-- **Concierge Hat:**
-  - Damage dealt is increased by 5%
-  - There is a 3% chance of causing [Shock].
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/vc8vmCE.png) | ![](https://i.imgur.com/CiRZn4K.png) |
+
+| Costume  | Costume Hat | Shock |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/Mr3gnAc.png) | ![](https://i.imgur.com/BYZeehR.png) | ![](https://i.imgur.com/CwV7aXJ.png)|
+
 ### ``Viking Costume``
-- **Viking Armour:**
-  - Movement speed is increased by 1.
-  - There is a 3% chance of causing [Odin's Blessing].
-- **Viking Helmet:**
-  - Damage dealt is increased by 4%.
-  - Damage dealt in PvE is increased by 4%.
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/Ay9w2E9.png) | ![](https://i.imgur.com/WGpAaOz.png) |
+
+| Costume  | Odin's Blessing | Costume Hat |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/qyX4ArH.png) | ![](https://i.imgur.com/6urKqvQ.png) |  ![](https://i.imgur.com/Andz0Vx.png)|
+
 ### ``Wonderland Costume``
-- **Wonderland Costume:**
-  - Movement speed is increased by 2.
-  - Maximum HP is increased by 2500.
-- **Wonderland Headwear:**
-  - Damage dealt is increased by 5%.
-  - There is a 3% chance of causing *[Madness]*.
-- *[Madness]:*
-  - 4Lv. Buff
-  - Duration: 5s
-  - Provides a 10% chance to reset the cooldown of the attack skill used.
-  - Every 2 seconds: Restores (Player Level x 10) MP.
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/yG9fEqS.png) | ![](https://i.imgur.com/SjAoYQr.png) |
+
+| Costume  | Costume Hat | Madness |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/9roNBgB.png) | ![](https://i.imgur.com/uexQnWQ.png) | ![](https://i.imgur.com/qLmFBFt.png)|
+
+
+### ``Wizard of Noz Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/ndB3Ctg.png) | ![](https://i.imgur.com/3s7sxY9.png) |
+
+| Costume  | Costume Hat | Noz's Blessing |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/wBvSwwK.png) | ![](https://i.imgur.com/OxX8agY.png) | ![](https://i.imgur.com/z4Ao0OU.png)|

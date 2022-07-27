@@ -86,6 +86,10 @@ hide_title: true
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/gOvsdLV.png)|![](https://i.imgur.com/MZA3yHd.png)|![](https://i.imgur.com/WJxOEvQ.png)|![](https://i.imgur.com/iV21jUY.png)|
+### ``Samurai Bushtail``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/762.png)|![](https://i.imgur.com/rt9W92Y.png)|![](https://i.imgur.com/o4UA4nI.png)|
 ### ``Shogun Bushi``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |

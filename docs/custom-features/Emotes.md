@@ -22,6 +22,8 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 | ![](https://i.imgur.com/X43IuWT.png) |   Pepega    |
 | ![](https://i.imgur.com/IByfYAQ.png) |   Peepo Yes |
 | ![](https://i.imgur.com/K22XDsj.png) |   Peepo No  |
+| ![](https://i.imgur.com/DT6QSUN.png) |   Peepo What |
+| ![](https://i.imgur.com/HwjH7hU.png) |   Hap Emote  |
 
 
 
@@ -43,6 +45,7 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 | ![](https://i.imgur.com/hmkIU8E.png) |  Peepo  |
 | ![](https://i.imgur.com/Xt5EdDe.png) |  Peepo Love |
 | ![](https://i.imgur.com/s4QlEyq.png) |  Pepa  |
+| ![](https://i.imgur.com/vuXhfoI.png) |  Worry Love  |
 
 ### **Emotes from PvP Events**
 

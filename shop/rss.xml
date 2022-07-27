@@ -4,9 +4,19 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Mon, 18 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shop rotation - Week 33]]></title>
+            <link>https://wiki.olympusgg.com/shop/2022-07-18-rotations-week-33</link>
+            <guid>2022-07-18-rotations-week-33</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pets]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Baby Blue Raptor Random Box <img src="https://cdn.olympusgg.com/images/4547.png" width="25px"></li><li><font color="orange">[NEW]</font> Ninja Bushtail Random Box <img src="https://cdn.olympusgg.com/images/2649.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Lightning Wings Random Box <img src="https://cdn.olympusgg.com/images/4152.png" width="25px"></li><li><font color="orange">[NEW]</font>  Blade Wings Random Box <img src="https://cdn.olympusgg.com/images/4324.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="costumes">Costumes<a class="hash-link" href="#costumes" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Wonderland Costume Random Box <img src="https://cdn.olympusgg.com/images/4477.png" width="25px"></li><li><font color="orange">[NEW]</font> Wizard of Noz Costume Box <img src="https://cdn.olympusgg.com/images/4291.png" width="25px"></li></ul>]]></content:encoded>
+            <category>shop</category>
+            <category>rotation</category>
+        </item>
         <item>
             <title><![CDATA[Shop rotation - Week 32]]></title>
             <link>https://wiki.olympusgg.com/shop/2022-07-18-rotations-week-32</link>

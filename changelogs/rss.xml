@@ -4,9 +4,23 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/changelogs</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Mon, 11 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog - 27/07/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-07-27-changelog</link>
+            <guid>2022-07-27-changelog</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[27/07/2022 - 1030ST)]]></description>
+            <content:encoded><![CDATA[<blockquote><p>27/07/2022 - 10:30 (8:30ST) <br>
+Server Version: 1.346.0 <br>
+Client Version: 1.131.0 <br></p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ul><li>Changed Scout's "Ambush" Attacks to reveal itself even while missing </li><li>Removed "NosMate Trainer" from Ituros' Shop</li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="fixes">Fixes<a class="hash-link" href="#fixes" title="Direct link to heading">​</a></h2><ul><li>Fixed a visual bug where all skills would be reset when a partner leveled up</li><li>Fixed a bug where signposts would not be removed when logging out</li></ul><p>Sorry for the lack of updates these last 2 weeks, but don't worry, the update coming this weekend should be much bigger</p>]]></content:encoded>
+            <category>changelog</category>
+            <category>changes</category>
+            <category>balances</category>
+            <category>fixes</category>
+        </item>
         <item>
             <title><![CDATA[Changelog - 11/07/2022]]></title>
             <link>https://wiki.olympusgg.com/changelogs/2022-07-11-changelog</link>

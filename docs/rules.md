@@ -13,8 +13,8 @@ hide_title: true
 :::
 ---
 :::important  2. Names
-- 2.1 Avoid all racist, insulting or provocative names, any troll pseudonyms may be changed or deleted. Extreme abuse of nicknames may result in a ban. 
-- 2.2 It is forbidden to copy or use a name similar to the staff members, it will result in a permanent ban on your account. 
+- 2.1 Avoid all racist, insulting or provocative names, any troll pseudonyms may be changed or deleted. Extreme abuse of nicknames may result in a punishment. 
+- 2.2 It is forbidden to copy or use a name similar to the staff members. 
 :::
 ---
 :::important  3.  Game Behavior
@@ -37,23 +37,25 @@ hide_title: true
 ---
 :::important  4.  Cheats And Bug Abusing
 
-- 4.1 Cheating software is forbidden and results in a permanent ban on your account. 
+- 4.1 Cheating software or any third-party software is forbidden.
 
-- 4.2 If you find a bug in the game, please report it to a GM as soon as possible, that will result in a possible reward.
+- 4.2 The use of in-game bots or macro is forbidden. 
 
-- 4.3 If you take advantage of a bug, you will be punished according to the severity of the bug. 
+- 4.3 If you find a bug in the game, please report it to a GM as soon as possible, that will result in a possible reward.
 
-- 4.4 The use of in-game bots or third-party software is totally forbidden and will result in a permanent ban on your account. 
+- 4.4 If you take advantage of a bug, you will be punished according to the severity of the bug. 
+
+
 :::
 ---
 :::important  5. Multi-Accounts
-- 5.1 You are allowed to have and use only **one** Olympus account. You are also allowed to connect with one single character at the same time, meaning you cannot use someone else's account to play multiple characters at the same time.
+- 5.1 You are allowed to have and use only **one** Olympus account. You are allowed to connect with one single character at the same time, meaning you cannot use someone else's account to play multiple characters at the same time.
 
 - 5.2 It is forbidden to sell or share your account with other players. 
 ::: 
 ---
 :::important  6. Communication With The Team
-- 6.1 It is forbidden to ask GM or the team for gold, items or experience, this can result in a warning. 
+- 6.1 It is forbidden to ask GM or the team for gold, items or experience. 
 
 - 6.2 Any instructions given by the team must be respected and followed. 
 
@@ -67,7 +69,7 @@ hide_title: true
 
 - 7.3 Asking a player for information such as login credentials is forbidden.  
 
-- 7.4 Revealing another player’s personal information is forbidden and will result in a permanent ban on your account. 
+- 7.4 Revealing another player’s personal information is forbidden. 
 :::
 ---
 :::important  8. Ticket System

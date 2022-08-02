@@ -864,3 +864,14 @@ imagen3 {
   background-size: 18px;
   display: inline-block;
 }
+
+.raidreport-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("5902.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 22px;
+  display: inline-block;
+}

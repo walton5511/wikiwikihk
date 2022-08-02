@@ -82,6 +82,7 @@ module.exports = {
         { type: 'doc', id: 'custom-features/trophy-system', label: 'Trophy System', className:'trophy-icon' },
         { type: 'doc', id: 'custom-features/warp-system', label: 'Warp System', className:'warp-icon' },
         { type: 'doc', id: 'custom-features/emotes', label: 'Custom Emotes', className:'poggers-icon' },
+        { type: 'doc', id: 'custom-features/raid-report', label: 'Raid Report Window', className:'raidreport-icon' },
 
       ]
     },

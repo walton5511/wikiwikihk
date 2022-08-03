@@ -42,3 +42,5 @@ At the moment, **Notification System** informs about:
 - your item being sold on NosBazaar
 - opening of Fernon raid entrance
 - Act4 raid beginning
+- Bidding System actions (overbid, auction ended)
+- Raid Report being generated

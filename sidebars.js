@@ -72,18 +72,19 @@ module.exports = {
       className: 'custom-icon',
       items: [
         { type: 'doc', id: 'custom-features/achievements', label: 'Achievements', className:'achie-icon' },
-        { type: 'doc', id: 'custom-features/gods-altar', label: 'Gods Altar', className:'godaltar-icon' },
+        { type: 'doc', id: 'custom-features/bid-system', label: 'Bidding System', className:'biddingsystem-icon' },
         { type: 'doc', id: 'custom-features/hero-shell-system', label: 'Caligor & Hero Shells', className:'cali-icon' },
+        { type: 'doc', id: 'custom-features/emotes', label: 'Custom Emotes', className:'poggers-icon' },
+        { type: 'doc', id: 'custom-features/gods-altar', label: 'Gods Altar', className:'godaltar-icon' },
         { type: 'doc', id: 'custom-features/loyalty-system', label: 'Loyalty System', className:'loyal-icon' },
         { type: 'doc', id: 'custom-features/notification-system', label: 'Notification System', className:'bell-icon' },
         { type: 'doc', id: 'custom-features/npc-buffers', label: 'NPC Buffer', className:'npcbuff-icon' },
         { type: 'doc', id: 'custom-features/pet-upgrading', label: 'Pet Upgrading', className:'petup-icon' },
         { type: 'doc', id: 'custom-features/pocket-dimensions', label: 'Pocket Dimension', className:'pocket-icon' },
+        { type: 'doc', id: 'custom-features/raid-report', label: 'Raid Report Window', className:'raidreport-icon' },
         { type: 'doc', id: 'custom-features/trophy-system', label: 'Trophy System', className:'trophy-icon' },
         { type: 'doc', id: 'custom-features/warp-system', label: 'Warp System', className:'warp-icon' },
-        { type: 'doc', id: 'custom-features/emotes', label: 'Custom Emotes', className:'poggers-icon' },
-        { type: 'doc', id: 'custom-features/raid-report', label: 'Raid Report Window', className:'raidreport-icon' },
-
+        { type: 'doc', id: 'custom-features/wings-swapper', label: 'Wings Swapper', className:'wingsswapper-icon'},
       ]
     },
     {

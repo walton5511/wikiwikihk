@@ -875,3 +875,25 @@ imagen3 {
   background-size: 22px;
   display: inline-block;
 }
+
+.wingsswapper-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("wingsswappericon.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 22px;
+  display: inline-block;
+}
+
+.biddingsystem-icon{
+  margin-left: 5px;
+  height: 30px;
+  width: 100%;
+  padding-left: 24px;
+  background: url("bidicon.png") no-repeat;
+  background-position: 5% 50%;
+  background-size: 22px;
+  display: inline-block;
+}

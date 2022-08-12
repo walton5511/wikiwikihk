@@ -48,23 +48,23 @@ Below is a list with all public warps and costs
 | Desert Eagle City | 70.000 Gold |
 | Cylloan | 0 Gold |
 | Olorun Village | 50.000 Gold |
-| Chicken Farm Path | 0 Gold |
-| Full Moon Roof | 50.000 Gold |
-| Jelly Entrance | 100.000 Gold |
-| Ginseng Entrance | 100.000 Gold |
-| Gate of Mourning | 150.000 Gold |
-| Spider Carvern Path | 150.000 Gold |
-| Masive Slade Entrance | 200.000 Gold |
-| Secret Path | 350.000 Gold |
-| Dragon Cavern Path | 400.000 Gold |
-| Water Grotto | 400.000 Gold |
-| Witch's House | 400.000 Gold |
-| Castle Aria Int | 400.000 Gold |
-| Kertos' Cave | 500.000 Gold |
-| Valakus' Cave | 500.000 Gold |
-| Grenigas Square | 500.000 Gold |
+| Raid Entrance - Chicken King | 0 Gold |
+| Raid Entrance - Namaju | 50.000 Gold |
+| Raid Entrance - Cuby | 100.000 Gold |
+| Raid Entrance - Ginseng | 100.000 Gold |
+| Raid Entrance - Castra | 150.000 Gold |
+| Raid Entrance - Spider | 150.000 Gold |
+| Raid Entrance - Slade | 200.000 Gold |
+| Raid Entrance - Ibrahim | 350.000 Gold |
+| Raid Entrance - Draco | 400.000 Gold |
+| Raid Entrance - Glacerus | 400.000 Gold |
+| Raid Entrance - Laurena | 400.000 Gold |
+| Raid Entrance - Fafnir | 400.000 Gold |
+| Raid Entrance - Kertos | 500.000 Gold |
+| Raid Entrance - Valakus | 500.000 Gold |
+| Raid Entrance - Grenigas | 500.000 Gold |
 | Hell's Gate 4 | 500.000 Gold |
-| Haeven's Gate 4 | 500.000 Gold |
-| Fernon Temple Path | 500.000 Gold |
+| Heaven's Gate 4 | 500.000 Gold |
+| Raid Entrance - Fernon | 500.000 Gold |
 
 

@@ -150,4 +150,23 @@ hide_title: true
 
 | Costume  | Costume Hat | Noz's Blessing |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/wBvSwwK.png) | ![](https://i.imgur.com/OxX8agY.png) | ![](https://i.imgur.com/z4Ao0OU.png)|
+| ![](https://i.imgur.com/wBvSwwK.png) | ![](https://i.imgur.com/p7o9DCG.png) | ![](https://i.imgur.com/z4Ao0OU.png)|
+
+### ``Puppet Master's Dress Costume``
+| Costume Female | 
+|:-:|
+| ![](https://i.imgur.com/8MKfksr.png) |
+
+| Costume  | Costume Hat | Puppet Curse |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/noUShjw.png) | ![](https://i.imgur.com/iKDqKWQ.png) | ![](https://i.imgur.com/mpGu7No.png)|
+
+
+### ``Puppet Master's Bear Costume``
+| Costume Male | 
+|:-:|
+| ![](https://i.imgur.com/xuLdkii.png) |
+
+| Costume  | Costume Hat | Puppet Curse  |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/1jd15T0.png) | ![](https://i.imgur.com/3e4Jt8X.png) | ![](https://i.imgur.com/mpGu7No.png)|

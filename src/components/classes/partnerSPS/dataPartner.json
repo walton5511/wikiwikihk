@@ -12478,5 +12478,1488 @@
                 ]
             }
         ]
+    },
+    {
+        "change": [
+            {
+                "cardName": "One-Winged Perti Specialist Partner Card",
+                "minieffi": [
+                    {
+                        "title": "One-Winged Perti's Aura\n(F)/(E)/(D)/(C)/(B)/(A)/(S)",
+                        "buff":"Buff\nLevel 10",
+                        "duration": "Duration : 300 seconds",
+                        "img": "https://cdn.olympusgg.com/images/10514.png",
+                        "dmginc": "Damage received is decreased by\n1%/ 2%/ 3%/ 4%/ 5%/ 6%/ 10%.",
+                        "eleminc": "Partner's following effect."
+                    }
+                ],
+                "buttonImg": "https://cdn.olympusgg.com/images/4142.png",
+                "icon": "https://cdn.olympusgg.com/images/27731.png",
+                "psp": "https://i.imgur.com/eVudchx.png",
+                "partner1": "https://cdn.olympusgg.com/images/8311.png",
+                "partner2": "https://cdn.olympusgg.com/images/8120.png",
+                "partner3": "https://cdn.olympusgg.com/images/10522.png",
+                "partner4": "https://cdn.olympusgg.com/images/10523.png",
+                "fireRes": 20,
+                "waterRes": 10,
+                "lightRes": 13,
+                "shadowRes": 10,
+                "s2": [
+                    {
+                        "title": "Flaming Armour +7",
+                        "times": "Casting time : 0.3 sec.\nCool time : 65 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Nosmate",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "attackNum": "Flaming Armour",
+                        "bcard2": [],
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6421.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/10513.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Flaming Armour",
+                                "buff": "Magic Buff",
+                                "duration": "Duration: 30 seconds",
+                                "dmginc": "With a 100% probability fire attack\n damage is reduced by 15%.\n The attacker has a 10% chance of\n receiving",
+                                "dmginc2": "Fatal Burn.",
+                                "cause": "Fatal Burn.",
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/10513.png",
+                                "miniImg": "https://cdn.olympusgg.com/images/10180.png",
+                                "word": "(S)",
+                                "effiLvL": 3,
+                                "miniBcard": 15,
+                                "miniBcard2": [],
+                                "effi": [
+                                    {
+                                        "title": "Fatal Burn",
+                                        "buff": "Disease Debuff\n Level 2",
+                                        "duration": "Duration: 30 seconds",
+                                        "dmginc": "Fire resistance is decreased by 25.\nEvery 2 secondds: HP is reduced by\n 297 (Player*3).",
+                                        "miniEffe": "https://cdn.olympusgg.com/images/10180.png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a2": [
+                    {
+                        "title": "Flaming Armour +6",
+                        "times": "Casting time : 0.3 sec.\nCool time : 65 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Nosmate",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "attackNum": "Flaming Armour",
+                        "bcard2": [],
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6421.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/10513.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Flaming Armour",
+                                "buff": "Magic Buff",
+                                "duration": "Duration: 30 seconds",
+                                "dmginc": "With a 100% probability fire attack\n damage is reduced by 10%.",
+                                "cause": "Fatal Burn.",
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/10513.png",
+                                "word": "(A)",
+                                "effiLvL": 3,
+                                "miniBcard": 15,
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b2": [
+                    {
+                        "title": "Flaming Armour +5",
+                        "times": "Casting time : 0.3 sec.\nCool time : 65 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Nosmate",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "attackNum": "Flaming Armour",
+                        "bcard2": [],
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6421.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/10513.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Flaming Armour",
+                                "buff": "Magic Buff",
+                                "duration": "Duration: 30 seconds",
+                                "dmginc": "With a 100% probability fire attack\n damage is reduced by 9%.",
+                                "cause": "Fatal Burn.",
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/10513.png",
+                                "word": "(B)",
+                                "effiLvL": 3,
+                                "miniBcard": 15,
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c2": [
+                    {
+                        "title": "Flaming Armour +4",
+                        "times": "Casting time : 0.3 sec.\nCool time : 65 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Nosmate",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "attackNum": "Flaming Armour",
+                        "bcard2": [],
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6421.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/10513.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Flaming Armour",
+                                "buff": "Magic Buff",
+                                "duration": "Duration: 30 seconds",
+                                "dmginc": "With a 100% probability fire attack\n damage is reduced by 8%.",
+                                "cause": "Fatal Burn.",
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/10513.png",
+                                "word": "(C)",
+                                "effiLvL": 3,
+                                "miniBcard": 15,
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d2": [
+                    {
+                        "title": "Flaming Armour +3",
+                        "times": "Casting time : 0.3 sec.\nCool time : 65 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Nosmate",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "attackNum": "Flaming Armour",
+                        "bcard2": [],
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6421.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/10513.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Flaming Armour",
+                                "buff": "Magic Buff",
+                                "duration": "Duration: 30 seconds",
+                                "dmginc": "With a 100% probability fire attack\n damage is reduced by 7%.",
+                                "cause": "Fatal Burn.",
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/10513.png",
+                                "word": "(D)",
+                                "effiLvL": 3,
+                                "miniBcard": 15,
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e2": [
+                    {
+                        "title": "Flaming Armour +2",
+                        "times": "Casting time : 0.3 sec.\nCool time : 65 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Nosmate",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "attackNum": "Flaming Armour",
+                        "bcard2": [],
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6421.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/10513.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Flaming Armour",
+                                "buff": "Magic Buff",
+                                "duration": "Duration: 30 seconds",
+                                "dmginc": "With a 100% probability fire attack\n damage is reduced by 6%.",
+                                "cause": "Fatal Burn.",
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/10513.png",
+                                "word": "(E)",
+                                "effiLvL": 3,
+                                "miniBcard": 15,
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f2": [
+                    {
+                        "title": "Flaming Armour +1",
+                        "times": "Casting time : 0.3 sec.\nCool time : 65 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Nosmate",
+                        "dmginc": "There is a 100% chance of causing\n",
+                        "attackNum": "Flaming Armour",
+                        "bcard2": [],
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6421.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/10513.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Flaming Armour",
+                                "buff": "Magic Buff",
+                                "duration": "Duration: 30 seconds",
+                                "dmginc": "With a 100% probability fire attack\n damage is reduced by 5%.",
+                                "cause": "Fatal Burn.",
+                                "eleminc": [],
+                                "miniEffe": "https://cdn.olympusgg.com/images/10513.png",
+                                "word": "(F)",
+                                "effiLvL": 3,
+                                "miniBcard": 15,
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "s": [
+                    {
+                        "title": "Flame Attack +7",
+                        "fairyY": "With the equipment of Fire Fairy,\nattribute spirit will be added.",
+                        "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Fire element is increased by\n",
+                        "attackNum": "375(Skill level *150).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Cursed Flame",
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6417.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Cursed Flame",
+                                "buff": "Debuff",
+                                "duration": "Duration: 5 seconds",
+                                "dmginc": "Movement impossible\n No attack possible",                               
+                                "eleminc": "Melee defence is decresed by\n 297(Player Level*3).",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                                "word": "(S)",
+                                "effiLvL": 5,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a": [
+                    {
+                        "title": "Flame Attack +6",
+                        "fairyY": "With the equipment of Fire Fairy,\nattribute spirit will be added.",
+                        "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Fire element is increased by\n",
+                        "attackNum": "225 (Skill level *150).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Cursed Flame",
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6417.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Cursed Flame",
+                                "buff": "Debuff",
+                                "duration": "Duration: 4 seconds",
+                                "dmginc": "Movement impossible\n No attack possible",                               
+                                "eleminc": "Melee defence is decresed by\n 198(Player Level*2).",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                                "word": "(A)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b": [
+                    {
+                        "title": "Flame Attack +5",
+                        "fairyY": "With the equipment of Fire Fairy,\nattribute spirit will be added.",
+                        "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Fire element is increased by\n",
+                        "attackNum": "180(Skill level *150).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Cursed Flame",
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6417.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Cursed Flame",
+                                "buff": "Debuff",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "Movement impossible\n No attack possible",                               
+                                "eleminc": "Melee defence is decresed by\n 198(Player Level*2).",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                                "word": "(B)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c": [
+                    {
+                        "title": "Flame Attack +4",
+                        "fairyY": "With the equipment of Fire Fairy,\nattribute spirit will be added.",
+                        "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Fire element is increased by\n",
+                        "attackNum": "150(Skill level *150).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Cursed Flame",
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6417.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Cursed Flame",
+                                "buff": "Debuff",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "Movement impossible\n No attack possible",                               
+                                "eleminc": "Melee defence is decresed by\n 99(Player Level*1).",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                                "word": "(C)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d": [
+                    {
+                        "title": "Flame Attack +3",
+                        "fairyY": "With the equipment of Fire Fairy,\nattribute spirit will be added.",
+                        "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Fire element is increased by\n",
+                        "attackNum": "120(Skill level *150).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Cursed Flame",
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6417.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Cursed Flame",
+                                "buff": "Debuff",
+                                "duration": "Duration: 2 seconds",
+                                "dmginc": "Movement impossible\n No attack possible",                               
+                                "eleminc": "Melee defence is decresed by\n 99(Player Level*1).",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                                "word": "(D)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e": [
+                    {
+                        "title": "Flame Attack +2",
+                        "fairyY": "With the equipment of Fire Fairy,\nattribute spirit will be added.",
+                        "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Fire element is increased by\n",
+                        "attackNum": "75(Skill level *150).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Cursed Flame",
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6417.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Cursed Flame",
+                                "buff": "Debuff",
+                                "duration": "Duration: 2 seconds",
+                                "dmginc": "Movement impossible\n No attack possible",                               
+                                "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                                "word": "(E)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f": [
+                    {
+                        "title": "Flame Attack +1",
+                        "fairyY": "With the equipment of Fire Fairy,\nattribute spirit will be added.",
+                        "times": "Casting time : 0.1 sec.\nCool time : 6 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Fire element is increased by\n",
+                        "attackNum": "45(Skill level *150).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Cursed Flame",
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6417.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Cursed Flame",
+                                "buff": "Debuff",
+                                "duration": "Duration: 1 seconds",
+                                "dmginc": "Movement impossible\n No attack possible",                               
+                                "miniEffe": "https://cdn.olympusgg.com/images/10509.png",
+                                "word": "(F)",
+                                "effiLvL": 3,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "s1": [
+                    {
+                        "title": "Fiery Breath +7",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 120",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n 250(Skill level *100).",
+                        "eleminc": "Fire element is increased by\n 500(Skill level *200).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Blazing Armour",
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6419.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Blazing Armour",
+                                "buff": "Debuff",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of melee attacks is\n decreased by 200.\n There is a 100% chance that\n damage received from melee\n attacks is increased by 20%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                                "word": "(S)",
+                                "effiLvL": 5,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a1": [
+                    {
+                        "title": "Fiery Breath +6",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 120",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n 150(Skill level *100).",
+                        "eleminc": "Fire element is increased by\n 300(Skill level *200).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Blazing Armour",
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6419.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Blazing Armour",
+                                "buff": "Debuff",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of melee attacks is\n decreased by 150.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                                "word": "(A)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b1": [
+                    {
+                        "title": "Fiery Breath +5",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 120",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n 120(Skill level *100).",
+                        "eleminc": "Fire element is increased by\n 240(Skill level *200).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Blazing Armour",
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6419.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Blazing Armour",
+                                "buff": "Debuff",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of melee attacks is\n decreased by 120.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                                "word": "(B)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c1": [
+                    {
+                        "title": "Fiery Breath +4",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 120",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n 100(Skill level *100).",
+                        "eleminc": "Fire element is increased by\n 200(Skill level *200).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Blazing Armour",
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6419.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Blazing Armour",
+                                "buff": "Debuff",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of melee attacks is\n decreased by 100.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d1": [
+                    {
+                        "title": "Fiery Breath +3",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 120",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n 80(Skill level *100).",
+                        "eleminc": "Fire element is increased by\n 160(Skill level *200).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Blazing Armour",
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6419.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Blazing Armour",
+                                "buff": "Debuff",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of melee attacks is\n decreased by 80.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                                "word": "(D)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e1": [
+                    {
+                        "title": "Fiery Breath +2",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 120",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n 50(Skill level *100).",
+                        "eleminc": "Fire element is increased by\n 100(Skill level *200).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Blazing Armour",
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6419.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Blazing Armour",
+                                "buff": "Debuff",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of melee attacks is\n decreased by 60.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                                "word": "(E)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f1": [
+                    {
+                        "title": "Fiery Breath +1",
+                        "times": "Casting time : 0.2 sec.\nCool time : 30 seconds\nConsumption MP: 120",
+                        "ranget": "Attack Range: 2 cell\nTarget: Select One",
+                        "dmginc": "Melee attack is increased by\n 30(Skill level *100).",
+                        "eleminc": "Fire element is increased by\n 60(Skill level *200).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Blazing Armour",
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6419.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Blazing Armour",
+                                "buff": "Debuff",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Dodging of melee attacks is\n decreased by 40.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/10511.png",
+                                "word": "(F)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "change": [
+            {
+                "cardName": "Palina Puppet Master's Specialist Partner Card",
+                "minieffi": [],
+                "buttonImg": "https://cdn.olympusgg.com/images/2803.png",
+                "icon": "https://cdn.olympusgg.com/images/27374.png",
+                "psp": "https://i.imgur.com/R4jR5sW.png",
+                "partner1": "https://cdn.olympusgg.com/images/8311.png",
+                "partner2": "https://cdn.olympusgg.com/images/8120.png",
+                "partner3": "https://cdn.olympusgg.com/images/10522.png",
+                "partner4": "https://cdn.olympusgg.com/images/10523.png",
+                "fireRes": 13,
+                "waterRes": 9,
+                "lightRes": 10,
+                "shadowRes": 15,
+                "s2": [
+                    {
+                        "title": "Giantism +7",
+                        "times": "Casting time : 0.6 sec.\nCool time : 25 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n 150(Skill level * 60). \n Shadow element is increased by\n 150(Player Level * 60).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Giantism",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6245.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6246.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Giantism",
+                                "buff": "Buff",
+                                "duration": "Duration: 18 seconds",
+                                "dmginc": "Causes damage with a chance of \n 100% in 3 surrounding fields. \n HP is increased by 100% of \n damage dealt. \n Defence level is increased by 2.\n \n",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "The giant teddy bear feeds on the \n soul of its owner.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6246.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(S)",
+                                "effiLvL": 8,
+                                "BcardBuffExtra": "Side effect: after 0.2 seconds \n Reduced to carrying out normal \n attacks by sheer anger.",
+                                "extrabcard": "\nMovement speed is increased by 2.",
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a2": [
+                    {
+                        "title": "Giantism +6",
+                        "times": "Casting time : 0.6 sec.\nCool time : 25 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n 90(Skill level * 60). \n Shadow element is increased by\n 90(Player Level * 60).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Giantism",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6245.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6246.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Giantism",
+                                "buff": "Buff",
+                                "duration": "Duration: 13 seconds",
+                                "dmginc": "Causes damage with a chance of \n 95% in 3 surrounding fields. \n HP is increased by 80% of \n damage dealt. \n Defence level is increased by 2.\n \n",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "The giant teddy bear feeds on the \n soul of its owner.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6246.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(A)",
+                                "effiLvL": 8,
+                                "BcardBuffExtra": "Side effect: after 0.2 seconds \n Reduced to carrying out normal \n attacks by sheer anger.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b2": [
+                    {
+                        "title": "Giantism +5",
+                        "times": "Casting time : 0.6 sec.\nCool time : 25 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n 72(Skill level * 60). \n Shadow element is increased by\n 72(Player Level * 60).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Giantism",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6245.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6246.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Giantism",
+                                "buff": "Buff",
+                                "duration": "Duration: 11 seconds",
+                                "dmginc": "Causes damage with a chance of \n 90% in 3 surrounding fields. \n HP is increased by 72% of \n damage dealt. \n Defence level is increased by 2.\n \n",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "The giant teddy bear feeds on the \n soul of its owner.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6246.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(B)",
+                                "effiLvL": 8,
+                                "BcardBuffExtra": "Side effect: after 0.2 seconds \n Reduced to carrying out normal \n attacks by sheer anger.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c2": [
+                    {
+                        "title": "Giantism +4",
+                        "times": "Casting time : 0.6 sec.\nCool time : 25 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n 60(Skill level * 60). \n Shadow element is increased by\n 60(Player Level * 60).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Giantism",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6245.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6246.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Giantism",
+                                "buff": "Buff",
+                                "duration": "Duration: 9 seconds",
+                                "dmginc": "Causes damage with a chance of \n 85% in 3 surrounding fields. \n HP is increased by 64% of \n damage dealt. \n Defence level is increased by 2.\n \n",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "The giant teddy bear feeds on the \n soul of its owner.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6246.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(C)",
+                                "effiLvL": 8,
+                                "BcardBuffExtra": "Side effect: after 0.2 seconds \n Reduced to carrying out normal \n attacks by sheer anger.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d2": [
+                    {
+                        "title": "Giantism +3",
+                        "times": "Casting time : 0.6 sec.\nCool time : 25 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n 48(Skill level * 60). \n Shadow element is increased by\n 48(Player Level * 60).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Giantism",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6245.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6246.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Giantism",
+                                "buff": "Buff",
+                                "duration": "Duration: 7 seconds",
+                                "dmginc": "Causes damage with a chance of \n 80% in 3 surrounding fields. \n HP is increased by 56% of \n damage dealt. \n Defence level is increased by 2.\n \n",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "The giant teddy bear feeds on the \n soul of its owner.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6246.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(D)",
+                                "effiLvL": 8,
+                                "BcardBuffExtra": "Side effect: after 0.2 seconds \n Reduced to carrying out normal \n attacks by sheer anger.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e2": [
+                    {
+                        "title": "Giantism +2",
+                        "times": "Casting time : 0.6 sec.\nCool time : 25 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n 30(Skill level * 60). \n Shadow element is increased by\n 30(Player Level * 60).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Giantism",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6245.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6246.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Giantism",
+                                "buff": "Buff",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Causes damage with a chance of \n 75% in 3 surrounding fields. \n HP is increased by 48% of \n damage dealt. \n Defence level is increased by 2.\n \n",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "The giant teddy bear feeds on the \n soul of its owner.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6246.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(E)",
+                                "effiLvL": 8,
+                                "BcardBuffExtra": "Side effect: after 0.2 seconds \n Reduced to carrying out normal \n attacks by sheer anger.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f2": [
+                    {
+                        "title": "Giantism +1",
+                        "times": "Casting time : 0.6 sec.\nCool time : 25 seconds\nConsumption MP: 200",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n 18(Skill level * 60). \n Shadow element is increased by\n 18(Player Level * 60).\nThere is a 100% chance of causing\n",
+                        "eleminc": [],
+                        "attackNum": "Giantism",
+                        "chance": [],
+                        "bcard2": [],
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6245.png",
+                        "miniEffe": [],
+                        "secminiEffe": "https://cdn.olympusgg.com/images/6246.png",
+                        "firsDebuff": [
+                            {
+                                "title": "Giantism",
+                                "buff": "Buff",
+                                "duration": "Duration: 5 seconds",
+                                "dmginc": "Causes damage with a chance of \n 70% in 3 surrounding fields. \n HP is increased by 40% of \n damage dealt. \n Defence level is increased by 2.\n \n",
+                                "dmginc2": [],
+                                "dmginc3": [],
+                                "eleminc": "The giant teddy bear feeds on the \n soul of its owner.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6246.png",
+                                "miniImg": [],
+                                "miniImg2": [],
+                                "word": "(F)",
+                                "effiLvL": 8,
+                                "BcardBuffExtra": "Side effect: after 0.2 seconds \n Reduced to carrying out normal \n attacks by sheer anger.",
+                                "extrabcard": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "s": [
+                    {
+                        "title": "Teddy Hit +7",
+                        "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 11 cell\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "225(Skill level *90).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Concussion",
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6241.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Concussion",
+                                "buff": "Debuff",
+                                "descEf": "Dizziness caused by the impact \n with the teddy bear.",
+                                "duration": "Duration: 10 seconds",
+                                "dmginc": "Move in a different direction \n against the player's will for 2 \n seconds.",                               
+                                "eleminc": "There is a 25% chance that \n damage received from melee \n attacks is increased by 25%. \n Cast time is increased by 50%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                                "word": "(S)",
+                                "effiLvL": 5,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a": [
+                    {
+                        "title": "Teddy Hit +6",
+                        "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 11 cell\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "135(Skill level *90).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Concussion",
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6241.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Concussion",
+                                "buff": "Debuff",
+                                "descEf": "Dizziness caused by the impact \n with the teddy bear.",
+                                "duration": "Duration: 7 seconds",
+                                "dmginc": "Move in a different direction \n against the player's will for 2 \n seconds.",                               
+                                "eleminc": "There is a 20% chance that \n damage received from melee \n attacks is increased by 25%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                                "word": "(A)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b": [
+                    {
+                        "title": "Teddy Hit +5",
+                        "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 11 cell\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "108(Skill level *90).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Concussion",
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6241.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Concussion",
+                                "buff": "Debuff",
+                                "descEf": "Dizziness caused by the impact \n with the teddy bear.",
+                                "duration": "Duration: 6 seconds",
+                                "dmginc": "Move in a different direction \n against the player's will for 2 \n seconds.",                               
+                                "eleminc": "There is a 20% chance that \n damage received from melee \n attacks is increased by 20%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                                "word": "(B)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c": [
+                    {
+                        "title": "Teddy Hit +4",
+                        "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 11 cell\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "90(Skill level *90).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Concussion",
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6241.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Concussion",
+                                "buff": "Debuff",
+                                "descEf": "Dizziness caused by the impact \n with the teddy bear.",
+                                "duration": "Duration: 5 seconds",
+                                "dmginc": "Move in a different direction \n against the player's will for 2 \n seconds.",                               
+                                "eleminc": "There is a 15% chance that \n damage received from melee \n attacks is increased by 20%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d": [
+                    {
+                        "title": "Teddy Hit +3",
+                        "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 11 cell\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "72(Skill level *90).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Concussion",
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6241.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Concussion",
+                                "buff": "Debuff",
+                                "descEf": "Dizziness caused by the impact \n with the teddy bear.",
+                                "duration": "Duration: 4 seconds",
+                                "dmginc": "Move in a different direction \n against the player's will for 2 \n seconds.",                               
+                                "eleminc": "There is a 15% chance that \n damage received from melee \n attacks is increased by 15%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                                "word": "(D)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e": [
+                    {
+                        "title": "Teddy Hit +2",
+                        "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 11 cell\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "45(Skill level *90).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Concussion",
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6241.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Concussion",
+                                "buff": "Debuff",
+                                "descEf": "Dizziness caused by the impact \n with the teddy bear.",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "Move in a different direction \n against the player's will for 2 \n seconds.",                               
+                                "eleminc": "There is a 10% chance that \n damage received from melee \n attacks is increased by 15%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                                "word": "(E)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f": [
+                    {
+                        "title": "Teddy Hit +1",
+                        "times": "Casting time : 0.6 sec.\nCool time : 20 seconds\nConsumption MP: 100",
+                        "ranget": "Attack Range: 11 cell\nTarget: Around Enemy in 3 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "27(Skill level *90).",
+                        "chance": "There is a 100% chance of causing",
+                        "bcard2": "Concussion",
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6241.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Concussion",
+                                "buff": "Debuff",
+                                "descEf": "Dizziness caused by the impact \n with the teddy bear.",
+                                "duration": "Duration: 2 seconds",
+                                "dmginc": "Move in a different direction \n against the player's will for 2 \n seconds.",                               
+                                "eleminc": "There is a 10% chance that \n damage received from melee \n attacks is increased by 10%.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6242.png",
+                                "word": "(F)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "s1": [
+                    {
+                        "title": "Running Attack +7",
+                        "times": "Casting time : 0.6 sec.\nCool time : 10 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 4 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "300(Skill level *120).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Puppet Mastery",
+                        "word": "(S).",
+                        "img": "https://cdn.olympusgg.com/images/6243.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Puppet Mastery",
+                                "buff": "Debuff",
+                                "duration": "Duration: 5 seconds",
+                                "dmginc": "Skill cooldown is increased by 50% \n Reduced to carrying out normal \n attacks by sheer anger. \n \n Side effect: after 0.2 seconds \n Movement speed is decreased by 2. \n Dodge impossible.",
+                                "eleminc": "Transformed by the power of the \n puppet master.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                                "word": "(S)",
+                                "effiLvL": 5,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "a1": [
+                    {
+                        "title": "Running Attack +6",
+                        "times": "Casting time : 0.6 sec.\nCool time : 10 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 4 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "180(Skill level *120).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Puppet Mastery",
+                        "word": "(A).",
+                        "img": "https://cdn.olympusgg.com/images/6243.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Puppet Mastery",
+                                "buff": "Debuff",
+                                "duration": "Duration: 4 seconds",
+                                "dmginc": "Skill cooldown is increased by 35% \n Reduced to carrying out normal \n attacks by sheer anger. \n \n Side effect: after 0.2 seconds \n Movement speed is decreased by 2.",
+                                "eleminc": "Transformed by the power of the \n puppet master.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                                "word": "(A)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "b1": [
+                    {
+                        "title": "Running Attack +5",
+                        "times": "Casting time : 0.6 sec.\nCool time : 10 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 4 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "144(Skill level *120).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Puppet Mastery",
+                        "word": "(B).",
+                        "img": "https://cdn.olympusgg.com/images/6243.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Puppet Mastery",
+                                "buff": "Debuff",
+                                "duration": "Duration: 4 seconds",
+                                "dmginc": "Skill cooldown is increased by 30% \n Reduced to carrying out normal \n attacks by sheer anger. \n \n Side effect: after 0.2 seconds \n Movement speed is decreased by 2.",
+                                "eleminc": "Transformed by the power of the \n puppet master.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                                "word": "(B)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "c1": [
+                    {
+                        "title": "Running Attack +4",
+                        "times": "Casting time : 0.6 sec.\nCool time : 10 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 4 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "120(Skill level *120).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Puppet Mastery",
+                        "word": "(C).",
+                        "img": "https://cdn.olympusgg.com/images/6243.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Puppet Mastery",
+                                "buff": "Debuff",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "Skill cooldown is increased by 25% \n Reduced to carrying out normal \n attacks by sheer anger. \n \n Side effect: after 0.2 seconds \n Movement speed is decreased by 2.",
+                                "eleminc": "Transformed by the power of the \n puppet master.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                                "word": "(C)",
+                                "effiLvL": 2,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "d1": [
+                    {
+                        "title": "Running Attack +3",
+                        "times": "Casting time : 0.6 sec.\nCool time : 10 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 4 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "96(Skill level *120).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Puppet Mastery",
+                        "word": "(D).",
+                        "img": "https://cdn.olympusgg.com/images/6243.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Puppet Mastery",
+                                "buff": "Debuff",
+                                "duration": "Duration: 3 seconds",
+                                "dmginc": "Skill cooldown is increased by 20% \n Reduced to carrying out normal \n attacks by sheer anger. \n \n Side effect: after 0.2 seconds \n Movement speed is decreased by 2.",
+                                "eleminc": "Transformed by the power of the \n puppet master.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                                "word": "(D)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "e1": [
+                    {
+                        "title": "Running Attack +2",
+                        "times": "Casting time : 0.6 sec.\nCool time : 10 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 4 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "60(Skill level *120).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Puppet Mastery",
+                        "word": "(E).",
+                        "img": "https://cdn.olympusgg.com/images/6243.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Puppet Mastery",
+                                "buff": "Debuff",
+                                "duration": "Duration: 2 seconds",
+                                "dmginc": "Skill cooldown is increased by 15% \n Reduced to carrying out normal \n attacks by sheer anger. \n \n Side effect: after 0.2 seconds \n Movement speed is decreased by 2.",
+                                "eleminc": "Transformed by the power of the \n puppet master.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                                "word": "(E)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ],
+                "f1": [
+                    {
+                        "title": "Running Attack +1",
+                        "times": "Casting time : 0.6 sec.\nCool time : 10 seconds\nConsumption MP: 150",
+                        "ranget": "Attack Range: Itself\nTarget: Around Enemy in 4 cell",
+                        "dmginc": "Melee attack is increased by\n",
+                        "eleminc": "Shadow element is increased by\n",
+                        "attackNum": "36(Skill level *120).",
+                        "chance": "There is a 8% chance of causing",
+                        "bcard2": "Puppet Mastery",
+                        "word": "(F).",
+                        "img": "https://cdn.olympusgg.com/images/6243.png",
+                        "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                        "secminiEffe": [],
+                        "firsDebuff": [
+                            {
+                                "title": "Puppet Mastery",
+                                "buff": "Debuff",
+                                "duration": "Duration: 2 seconds",
+                                "dmginc": "Skill cooldown is increased by 10% \n Reduced to carrying out normal \n attacks by sheer anger. \n \n Side effect: after 0.2 seconds \n Movement speed is decreased by 2.",
+                                "eleminc": "Transformed by the power of the \n puppet master.",
+                                "miniEffe": "https://cdn.olympusgg.com/images/6244.png",
+                                "word": "(F)",
+                                "effiLvL": 1,
+                                "BcardBuffExtra": [],
+                                "miniBcard": [],
+                                "miniBcard2": [],
+                                "effi": []
+                            }
+                        ],
+                        "secDebuff": [],
+                        "thirdDebuff": []
+                    }
+                ]
+            }
+        ]
     }
 ]

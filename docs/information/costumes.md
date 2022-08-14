@@ -170,3 +170,85 @@ hide_title: true
 | Costume  | Costume Hat | Puppet Curse  |    
 |:-:|:-:|:-:|
 | ![](https://i.imgur.com/1jd15T0.png) | ![](https://i.imgur.com/3e4Jt8X.png) | ![](https://i.imgur.com/mpGu7No.png)|
+
+
+### ``Honeybee Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/pRQlVgA.png) | ![](https://i.imgur.com/LNUpOXA.png) |
+
+| Costume  | Costume Hat | Totally Blind |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/mbPfJfV.png) | ![](https://i.imgur.com/k2Akofd.png) | ![](https://i.imgur.com/EwKZa3m.png)|
+
+
+### ``Fire Devil Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/KyeKDrK.png) | ![](https://i.imgur.com/ErQeVX6.png) |
+
+| Costume  | Costume Hat | Burnt Hand |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/kDJYAvi.png) | ![](https://i.imgur.com/6ZCxCqh.png) | ![](https://i.imgur.com/NDVVccd.png)|
+
+
+### ``Ice Witch Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/MHxe6d2.png) | ![](https://i.imgur.com/Ob8bfHn.png) |
+
+| Costume  | Costume Hat | Frozen |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/ijti5tY.png) | ![](https://i.imgur.com/aFpSSFP.png) | ![](https://i.imgur.com/i5f1xQu.png)|
+
+
+### ``Death Lancer Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/3mtj5aW.png) | ![](https://i.imgur.com/EbV8RuL.png) |
+
+| Costume  | Costume Hat | Cursed |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/HUXIsBD.png) | ![](https://i.imgur.com/QQqu0ou.png) | ![](https://i.imgur.com/HcN3RD7.png)|
+
+
+## **Costumes Wings **
+
+### ``Honeybee Wings``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/XVgWvqJ.png) | ![](https://i.imgur.com/ZJ4d6A1.png) |
+
+| Wings  |   
+|:-:|
+| ![](https://i.imgur.com/uzFa57r.png) | 
+
+
+### ``Fire Devil Costume Wings ``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/sEZiP5E.png) | ![](https://i.imgur.com/GS0rwKf.png) |
+
+| Wings  |    
+|:-:|
+| ![](https://i.imgur.com/jjlaNiU.png) | 
+
+
+### ``Ice Witch Costume Wings ``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/V28MKfp.png) | ![](https://i.imgur.com/9BdCWWR.png) |
+
+| Wings  |     
+|:-:|
+| ![](https://i.imgur.com/SEilxbR.png) | 
+
+
+### ``Death Lancer Murderwings``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/oEdaBah.png) | ![](https://i.imgur.com/olQPdbO.png) |
+
+| Wings  |    
+|:-:|
+| ![](https://i.imgur.com/Wn2RJWt.png) | 

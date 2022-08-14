@@ -89,7 +89,7 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ![](https://i.imgur.com/bIClKOk.png)
 
 
-## **Event Boxes**
+## **Easter Event Boxes**
 
 ### Chicken Queen
 ![](https://i.imgur.com/RQACXnu.png)
@@ -97,6 +97,22 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Mad March Hare
 ![](https://i.imgur.com/0yiXZy1.png)
 
+## **Vessel Event Boxes**
+
+### Sealed Treasure Chest
+![](https://i.imgur.com/CTMTT0i.png)
+
+### Honeybee Random Chest
+![](https://i.imgur.com/md6UJzg.png)
+
+### Fire Devil Random Chest
+![](https://i.imgur.com/3gaRUs4.png)
+
+### Ice Witch Random Chest
+![](https://i.imgur.com/v5KFJuo.png)
+
+### Death Lancer Random Chest
+![](https://i.imgur.com/GQXk6ra.png)
 
 ## **Other Boxes**
 

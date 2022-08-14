@@ -47,6 +47,23 @@ hide_title: true
 | Pet | Stats | Pet debuff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/oGZf73s.png)|![](https://i.imgur.com/z9Mu3g8.png)|![](https://i.imgur.com/fuhvOAO.png)|![](https://i.imgur.com/VAyYiWj.png)|
+### ``Tame Queen Bee``
+| Pet | Stats | Pet Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/212.png)|![](https://i.imgur.com/ZIE8pFb.png)|![](https://i.imgur.com/ImfqMtf.png)|![](https://i.imgur.com/AqgIXcH.png)|
+### ``Mini Fire Devil``
+| Pet | Stats | Pet Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/uQWZGyl.png)|![](https://i.imgur.com/wBu6zvc.png)|![](https://i.imgur.com/H7HNQua.png)|![](https://i.imgur.com/yJJMMqS.png)|
+### ``Small Ice Witch``
+| Pet | Stats | Pet Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/552.png)|![](https://i.imgur.com/nYYCXR7.png)|![](https://i.imgur.com/DsGBDpn.png)|![](https://i.imgur.com/j0p2YLK.png)|
+### ``Death Lancer``
+| Pet | Stats | Pet Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/441.png)|![](https://i.imgur.com/ei1dftU.png)|![](https://i.imgur.com/02mWr8J.png)|![](https://i.imgur.com/UaqOlcg.png)|
+
 
 ## **Bushtails**
 

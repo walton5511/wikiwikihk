@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[36796],{64148:function(e){e.exports=JSON.parse('{"permalink":"/shop/page/3","page":3,"postsPerPage":10,"totalPages":3,"totalCount":29,"previousPage":"/shop/page/2","nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

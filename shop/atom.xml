@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/shop</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-08-02T00:00:00.000Z</updated>
+    <updated>2022-08-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/shop"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shop rotation - Week 36]]></title>
+        <id>2022-08-14-rotations-week-36</id>
+        <link href="https://wiki.olympusgg.com/shop/2022-08-14-rotations-week-36"/>
+        <updated>2022-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pets]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Otter Random Box <img src="https://cdn.olympusgg.com/images/4145.png" width="25px"></li><li><font color="orange">[NEW]</font> Fluffy Bally Random Box <img src="https://cdn.olympusgg.com/images/2581.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Onyx Wings Random Box <img src="https://cdn.olympusgg.com/images/2731.png" width="25px"></li><li><font color="orange">[NEW]</font> Mega Titan Random Box <img src="https://cdn.olympusgg.com/images/2998.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="mount">Mount<a class="hash-link" href="#mount" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Magic Jaguar Random Box <img src="https://cdn.olympusgg.com/images/2999.png" width="25px"></li><li><font color="orange">[NEW]</font> Windsurfer Random Box <img src="https://cdn.olympusgg.com/images/2619.png" width="25px"></li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="shop" term="shop"/>
+        <category label="rotation" term="rotation"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shop rotation - Week 35]]></title>
+        <id>2022-08-08-rotations-week-35</id>
+        <link href="https://wiki.olympusgg.com/shop/2022-08-08-rotations-week-35"/>
+        <updated>2022-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PSPs]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="psps">PSPs<a class="hash-link" href="#psps" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> One-Winged Perti Random Box <img src="https://cdn.olympusgg.com/images/4142.png" width="25px"></li><li><font color="orange">[NEW]</font> Palina the Puppet Master Random Box <img src="https://cdn.olympusgg.com/images/2803.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Blade Wings Random Box <img src="https://cdn.olympusgg.com/images/4324.png" width="25px"></li><li><font color="orange">[NEW]</font> Onyx Wings Random Box <img src="https://cdn.olympusgg.com/images/2731.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="costume">Costume<a class="hash-link" href="#costume" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Wizard of Noz Costume Random Box <img src="https://cdn.olympusgg.com/images/4291.png" width="25px"></li><li><font color="orange">[NEW]</font> Puppet Costume Random Box <img src="https://cdn.olympusgg.com/images/4047.png" width="25px"></li></ul>]]></content>
+        <author>
+            <name>Jundi</name>
+        </author>
+        <category label="shop" term="shop"/>
+        <category label="rotation" term="rotation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shop rotation - Week 34]]></title>
         <id>2022-08-02-rotations-week-34</id>

@@ -60,6 +60,7 @@ module.exports = {
           label: 'Quests',
           className:'questl-icon',
           items: [
+            { type: 'doc', id: 'guides/quests/valhalla-questline', label: 'Valhalla Questline', className:'valhallaquestline-icon' },
             { type: 'doc', id: 'guides/quests/act-6-questline', label: 'Act 6.1 Questline', className:'q6-1-icon' },
             { type: 'doc', id: 'guides/quests/act-6-daily-quests', label: 'Act 6 Daily Quests', className:'dquest-icon' },
           ]
@@ -77,7 +78,8 @@ module.exports = {
         { type: 'doc', id: 'custom-features/emotes', label: 'Custom Emotes', className:'poggers-icon' },
         { type: 'doc', id: 'custom-features/gods-altar', label: 'Gods Altar', className:'godaltar-icon' },
         { type: 'doc', id: 'custom-features/loyalty-system', label: 'Loyalty System', className:'loyal-icon' },
-        { type: 'doc', id: 'custom-features/notification-system', label: 'Notification System', className:'bell-icon' },
+        { type: 'doc', id: 'custom-features/map-monster-drop', label: 'Map & Monster Drops', className:'mapmonsterdrop-icon' },
+        { type: 'doc', id: 'custom-features/event-notification-system', label: 'Events and Notifications', className:'bell-icon' },
         { type: 'doc', id: 'custom-features/npc-buffers', label: 'NPC Buffer', className:'npcbuff-icon' },
         { type: 'doc', id: 'custom-features/pet-upgrading', label: 'Pet Upgrading', className:'petup-icon' },
         { type: 'doc', id: 'custom-features/pocket-dimensions', label: 'Pocket Dimension', className:'pocket-icon' },

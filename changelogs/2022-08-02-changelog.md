@@ -5,7 +5,7 @@ authors:
   - name: Jundi
     title: Wiki Manager
     image_url: https://avatars.githubusercontent.com/u/102407130?s=400
-tags: [changelog, changes, balances, fixes, features]
+tags: [changelog, changes, balance, fixes, features]
 hide_table_of_contents: false
 ---
 

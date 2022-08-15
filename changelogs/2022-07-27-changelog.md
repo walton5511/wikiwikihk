@@ -5,7 +5,7 @@ authors:
   - name: Protect
     title: Wiki Maintainer
     image_url: https://avatars.githubusercontent.com/u/75447510?s=400&u=6611d243cb33099270ad8c0cb66a5e659009bd08&v=4
-tags: [changelog, changes, balances, fixes]
+tags: [changelog, changes, balance, fixes]
 hide_table_of_contents: false
 ---
 

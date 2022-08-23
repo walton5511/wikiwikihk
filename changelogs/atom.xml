@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-08-14T00:00:00.000Z</updated>
+    <updated>2022-08-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 23/08/2022]]></title>
+        <id>2022-08-23-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-08-23-changelog"/>
+        <updated>2022-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[23/08/2022 - 16.30 (14.30 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>23/08/2022 - 16.30 (14.30 ST) <br>
+Server Version: 1.383.0 <br>
+Client Version: 1.148.0  <br>     </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ul><li>Changed "Magic Speed Booster (1 Day)" in God's Altar with tradable Speed Booster Upgrade Kit that can be converted into Magic Speed Boosters via Hatem.</li><li>Made it possible to block people from your own family.</li><li>Increased all AoE buffing skills' ranges to 10 except healing buffs.</li><li>Increased the sealed vessel limit per Miniland from 10 to 30.</li><li>Reworded the effect in costume wings to avoid confusion.</li><li>Due to the increase in player count in Caligor, doubled its durability so everyone has more time to gather activity points.</li><li>Added lesser bonus drops to Sealed Monsters: <ul><li>Partner Skill Ticket (All) : 2%</li><li>Random Tarot Card : 3% </li><li>Fairy Booster : 4%</li><li>Ancelloan's Blessing : 5% </li><li>Divine Recovery Potion x25 : 10%</li></ul></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="fixes">Fixes<a class="hash-link" href="#fixes" title="Direct link to heading">​</a></h2><ul><li>Fixed Improved Elite Shadow Knight's decay time.</li><li>Fixed Seer's shadow clones being targetable by some AoEs.</li><li>Fixed infinite Draco/Glacerus raid bug.</li><li>Fixed "Curse Power" tattoo buff effect not working correctly.</li><li>Fixed Pushback rune power in pushing enemies in PvE.</li></ul>]]></content>
+        <author>
+            <name>Protect</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="fixes" term="fixes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 14/08/2022]]></title>
         <id>2022-08-14-changelog</id>

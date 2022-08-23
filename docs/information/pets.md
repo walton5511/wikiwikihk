@@ -7,14 +7,22 @@ hide_title: true
 
 ## **Common**
 
-### ``Baby Raptor Blue``
-| Pet | Stats | Pet buff | Player buff |
-| -------- | -------- | -------- | -------- |
-|![](https://cdn.olympusgg.com/images/monsters/2766.png)|![](https://i.imgur.com/S9D5OLE.png)|![](https://i.imgur.com/tUvsRgD.png)|![](https://i.imgur.com/3Dv7039.png)|
 ### ``Darko``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/wAvWZzB.png)|![](https://i.imgur.com/U2SVzF4.png)|![](https://i.imgur.com/A4XEHKJ.png)|
+### ``Rusty Robby``
+| Pet | Stats | Debuff |
+| -------- | -------- | -------- |
+|![](https://i.imgur.com/GMc8v1s.png)|![](https://i.imgur.com/ML2IvZF.png)|![](https://i.imgur.com/syfIb41.png)|
+### ``Leo the Coward``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/EeRMcMd.png)|![](https://i.imgur.com/PxJGBG3.png)|![](https://i.imgur.com/P6OSWgr.png)|![](https://i.imgur.com/RVE9hpH.png)|
+### ``Rudi Rowdy``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/ObrRs4l.png)|![](https://i.imgur.com/o9fuN62.png)|![](https://i.imgur.com/alpXOem.png)|![](https://i.imgur.com/N6c9oIq.png)|
 ### ``Fibi Frosty``
 | Pet | Stats | Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
@@ -27,22 +35,17 @@ hide_title: true
 | Pet | Stats | Player buff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/9w00GI3.png)|![](https://i.imgur.com/MZsB58M.png)|![](https://i.imgur.com/JDhepp3.png)|
-### ``Leo the Coward``
-| Pet | Stats | Pet buff | Player buff |
-| -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/EeRMcMd.png)|![](https://i.imgur.com/PxJGBG3.png)|![](https://i.imgur.com/P6OSWgr.png)|![](https://i.imgur.com/RVE9hpH.png)|
 ### ``Otter``
 | Pet | Stats | Pet skill | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://i.imgur.com/2pDOoPO.png)|![](https://i.imgur.com/Xdzdza2.png)|![](https://i.imgur.com/lALlR2i.png)|![](https://i.imgur.com/j9yoCw4.png)|
-### ``Rudi Rowdy``
+### ``Baby Raptor Blue``
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/ObrRs4l.png)|![](https://i.imgur.com/o9fuN62.png)|![](https://i.imgur.com/alpXOem.png)|![](https://i.imgur.com/N6c9oIq.png)|
-### ``Rusty Robby``
-| Pet | Stats | Debuff |
-| -------- | -------- | -------- |
-|![](https://i.imgur.com/GMc8v1s.png)|![](https://i.imgur.com/ML2IvZF.png)|![](https://i.imgur.com/syfIb41.png)|
+|![](https://cdn.olympusgg.com/images/monsters/2766.png)|![](https://i.imgur.com/S9D5OLE.png)|![](https://i.imgur.com/tUvsRgD.png)|![](https://i.imgur.com/3Dv7039.png)|
+
+## **Event**
+
 ### ``Pix``
 | Pet | Stats | Pet debuff | Player buff |
 | -------- | -------- | -------- | -------- |
@@ -58,19 +61,35 @@ hide_title: true
 ### ``Small Ice Witch``
 | Pet | Stats | Pet Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
-|![](https://cdn.olympusgg.com/images/monsters/552.png)|![](https://i.imgur.com/nYYCXR7.png)|![](https://i.imgur.com/DsGBDpn.png)|![](https://i.imgur.com/j0p2YLK.png)|
+|![](https://cdn.olympusgg.com/images/monsters/552.png)|![](https://i.imgur.com/nYYCXR7.png)|![](https://i.imgur.com/DsGBDpn.png)|![](https://i.imgur.com/AMcRGu4.png)|
 ### ``Death Lancer``
 | Pet | Stats | Pet Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/441.png)|![](https://i.imgur.com/ei1dftU.png)|![](https://i.imgur.com/02mWr8J.png)|![](https://i.imgur.com/UaqOlcg.png)|
 
-
-## **Bushtails**
+## **Common Bushtails**
 
 ### ``Ninja Bushi``
 | Pet | Stats | Player buff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/fihQQNt.png)|![](https://i.imgur.com/hRLTRsT.png)|![](https://i.imgur.com/mhlHo9U.png)|
+### ``Indian Bushi``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/aqZSA2p.png)|![](https://i.imgur.com/wEcVxRm.png)|![](https://i.imgur.com/Cw0Dtv1.png)|![](https://i.imgur.com/ga7UqAS.png)|
+### ``Rudolph Bushi``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/gOvsdLV.png)|![](https://i.imgur.com/MZA3yHd.png)|![](https://i.imgur.com/WJxOEvQ.png)|![](https://i.imgur.com/iV21jUY.png)|
+### ``Viking Bushi``
+| Pet | Stats | Pet buff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/7jDzy4L.png)|![](https://i.imgur.com/Afpep7o.png)|![](https://i.imgur.com/hp3cb5b.png)|![](https://i.imgur.com/2D0oWBX.png)|
+
+
+## **Bushtails**
+
+
 ### ``Aqua Bushtail``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
@@ -95,14 +114,6 @@ hide_title: true
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/4HkZJa3.png)|![](https://i.imgur.com/pqmVBp6.png)|![](https://i.imgur.com/F8Fo2Fy.png)|
-### ``Indian Bushi``
-| Pet | Stats | Pet buff | Player buff |
-| -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/aqZSA2p.png)|![](https://i.imgur.com/wEcVxRm.png)|![](https://i.imgur.com/Cw0Dtv1.png)|![](https://i.imgur.com/ga7UqAS.png)|
-### ``Rudolph Bushi``
-| Pet | Stats | Pet buff | Player buff |
-| -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/gOvsdLV.png)|![](https://i.imgur.com/MZA3yHd.png)|![](https://i.imgur.com/WJxOEvQ.png)|![](https://i.imgur.com/iV21jUY.png)|
 ### ``Samurai Bushtail``
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
@@ -119,8 +130,5 @@ hide_title: true
 | Pet | Stats | Debuff |
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/qiQknIZ.png)|![](https://i.imgur.com/f8xniYW.png)|![](https://i.imgur.com/ZBmTl12.png)|
-### ``Viking Bushi``
-| Pet | Stats | Pet buff | Player buff |
-| -------- | -------- | -------- | -------- |
-|![](https://i.imgur.com/7jDzy4L.png)|![](https://i.imgur.com/Afpep7o.png)|![](https://i.imgur.com/hp3cb5b.png)|![](https://i.imgur.com/2D0oWBX.png)|
+
 

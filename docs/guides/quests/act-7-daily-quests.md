@@ -108,7 +108,7 @@ hide_title: true
 
 | NPC  | Quest	&nbsp; | Rewards            |
 |:-: |:-: |:-:|
-| **Chief Tator** <br/> <br/> <img src="https://i.imgur.com/p9pKJ4T.png"/> <img src="https://cdn.olympusgg.com/images/monsters/3067.png"/> <br/> <br/>  |  Talk to [Chief Tator] when you have 30x [Belial's Orders] | CXP <img src="https://cdn.olympusgg.com/images/4279.png"/> |
+| **Chief Tator** <br/> <br/> <img src="https://i.imgur.com/p9pKJ4T.png"/> <img src="https://cdn.olympusgg.com/images/monsters/3067.png"/> <br/> <br/>  |  Talk to [Chief Tator] when you have 30x [Belial's Orders] <br/> <br/> <font color="Grey"> [Belial's Orders] can be farmed in Celestial Spire 1-5  </font>   | CXP <img src="https://cdn.olympusgg.com/images/4279.png"/> |
 
 <br/>
 

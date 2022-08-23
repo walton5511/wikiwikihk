@@ -24,6 +24,8 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 | ![](https://i.imgur.com/K22XDsj.png) |   Peepo No  |
 | ![](https://i.imgur.com/DT6QSUN.png) |   Peepo What |
 | ![](https://i.imgur.com/HwjH7hU.png) |   Hap Emote  |
+| ![](https://i.imgur.com/dfnBrGb.png) |   Risitas Issou |
+| ![](https://i.imgur.com/e7UbBVk.png) |   Peepo Sus  |
 
 
 

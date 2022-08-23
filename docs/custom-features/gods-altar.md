@@ -35,7 +35,7 @@ God's Altar can be found near the trees accross Hatem and Helen.
 
 ### Common Prizes
 
-!["Common Prizes"](https://i.imgur.com/93exjes.png)
+!["Common Prizes"](https://i.imgur.com/TiDinl0.png)
 
 Common prizes are easy to get, though not all of them are equally likely to get.
 
@@ -52,14 +52,16 @@ Common prizes are easy to get, though not all of them are equally likely to get.
 - Ancelloan's Blessing 1x
 - Special Pet Food 1x
 - Tarot Card Game 1x
-- Magic Speed Booster (1 Day) 1x
+- Speed Booster Upgrade Kit 1x
 - Partner Skill Ticket (Single) 1x
-- Peepo What Emote Unlocker 1x
-- Hap Emote Unlocker 1x
+
+#### [Emotes](https://wiki.olympusgg.com/custom-features/emotes)
+	- Risitas Issou Emote Unlocker 1x
+	- Peepo  Sus Emote Unlocker 1x
 
 ``P.S.: These rewards can be changed later on, based on their prices and demand.``
 
-**Last rotation update**: 18.07.2022
+**Last rotation update**: 23.08.2022
 
 ### Rare Prizes
 
@@ -68,22 +70,17 @@ These prizes will be picked among items that were once in shop rotation.
 
 When you get a Rare Prize, it will be announced so that everyone can know how lucky you are.
 
-**Last rotation update**: 18.07.2022
+**Last rotation update**: 23.08.2022
 
-- Fabled Costume Random Chest <ItemIcon iconId="1399" width="25px" /> *(it contains one of costume sets below)*
-
-    - Illusionist Costume Set   
-    - Nutcracker Costume Set    
-    - Karate Costume Set    
-  
-- Nossi the Dragon <ItemIcon iconId="770" width="25px" />
+- Oto-Fox Costume Set <ItemIcon iconId="1402" width="25px" /> 
+- Viking Bushtail <ItemIcon iconId="2673" width="25px" />
 
 ### Legendary Prizes
 
 In this rotation, all weapon skins released so far (except Christmas skins) are in the Altar.
 If you're lucky enough to roll legendary loot, you'll get one of listed below.
 
-**Last rotation update**: 18.07.2022
+**Last rotation update**: 23.08.2022
 
 - Steampunk Weapons Random Chest
 - Celebration Weapons Random Chest

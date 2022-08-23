@@ -293,7 +293,8 @@ Move to the designated location on the map: South Beach <br/>
 #### <font color="#3399ff"> Gone Fishin' Where? </font> 
 <font color="Grey"> Search for clues as to the fishermen's whereabouts. </font>  <br/> 
 Move to the designated location on the map: South Beach <br/> 
-<img src="https://i.imgur.com/QAgQqE2.png"/>
+<img src="https://i.imgur.com/QAgQqE2.png"/> <br/> 
+<font color="#88B4D3"> Quest Reward: </font> CXP <img src="https://cdn.olympusgg.com/images/4279.png"/>
 
 ---
 

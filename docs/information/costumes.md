@@ -221,7 +221,7 @@ hide_title: true
 
 | Wings  |   
 |:-:|
-| ![](https://i.imgur.com/uzFa57r.png) | 
+| ![](https://i.imgur.com/gInORKZ.png) | 
 
 
 ### ``Fire Devil Costume Wings ``
@@ -231,7 +231,7 @@ hide_title: true
 
 | Wings  |    
 |:-:|
-| ![](https://i.imgur.com/jjlaNiU.png) | 
+| ![](https://i.imgur.com/Y0uN9PR.png) | 
 
 
 ### ``Ice Witch Costume Wings ``
@@ -241,7 +241,7 @@ hide_title: true
 
 | Wings  |     
 |:-:|
-| ![](https://i.imgur.com/SEilxbR.png) | 
+| ![](https://i.imgur.com/ChI03ks.png) | 
 
 
 ### ``Death Lancer Murderwings``
@@ -251,4 +251,4 @@ hide_title: true
 
 | Wings  |    
 |:-:|
-| ![](https://i.imgur.com/Wn2RJWt.png) | 
+| ![](https://i.imgur.com/10gULS8.png) | 

@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-08-23T00:00:00.000Z</updated>
+    <updated>2022-08-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 28/08/2022]]></title>
+        <id>2022-08-28-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-08-28-changelog"/>
+        <updated>2022-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[28/08/2022 - 1730 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>28/08/2022 - 17:30 (15:30 ST) <br>
+Server Version: 1.387.0 <br>
+Client Version: 1.152.0  <br>     </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="event">Event<a class="hash-link" href="#event" title="Direct link to heading">​</a></h2><ul><li>Disabled sealed vessel event, removed all sealed vessels (but not treasure chests)</li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ul><li>Added "Bottomless Ammo Case" to Starter Pack and Teoman's shop: this item will serve as infinite ammo for bows, crossbows and catapults.</li><li>Made "Cuarry Bank Debit Card" usable in Glacernon.</li><li>Added custom reputation ranks in between Elite and Legend ranks, see: <a href="https://wiki.olympusgg.com/information/reputation" target="_blank" rel="noopener noreferrer">https://wiki.olympusgg.com/information/reputation</a></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="fixes">Fixes<a class="hash-link" href="#fixes" title="Direct link to heading">​</a></h2><ul><li>Fixed Wild Keeper's "Forest Power" range.</li><li>Most bugs related to mails should be fixed</li></ul>]]></content>
+        <author>
+            <name>Protect</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="fixes" term="fixes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 23/08/2022]]></title>
         <id>2022-08-23-changelog</id>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[33962],{55856:function(s){s.exports=JSON.parse('{"allTagsPath":"/shop/tags","slug":"/shop/tags/shop","name":"shop","count":33,"permalink":"/shop/tags/shop"}')}}]);

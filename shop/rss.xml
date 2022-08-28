@@ -4,9 +4,19 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Tue, 23 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shop rotation - Week 38]]></title>
+            <link>https://wiki.olympusgg.com/shop/2022-08-23-rotations-week-38</link>
+            <guid>2022-08-23-rotations-week-38</guid>
+            <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pets]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Fluffy Bally Random Box <img src="https://cdn.olympusgg.com/images/2581.png" width="25px"></li><li><font color="orange">[NEW]</font> Gecko Paladin Random Box <img src="https://cdn.olympusgg.com/images/4337.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Zephyr Wings Random Box <img src="https://cdn.olympusgg.com/images/4074.png" width="25px"></li><li><font color="orange">[NEW]</font> Lunar Wings Random Box <img src="https://i.imgur.com/Lk87sW1.png" width="20px"><br><br></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="mount">Mount<a class="hash-link" href="#mount" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Windsurfer Random Box <img src="https://cdn.olympusgg.com/images/2619.png" width="25px"></li><li><font color="orange">[NEW]</font> Black Unicorn Random Box <img src="https://cdn.olympusgg.com/images/2593.png" width="25px"></li></ul>]]></content:encoded>
+            <category>shop</category>
+            <category>rotation</category>
+        </item>
         <item>
             <title><![CDATA[Shop rotation - Week 37]]></title>
             <link>https://wiki.olympusgg.com/shop/2022-08-23-rotations-week-37</link>

@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/shop</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-08-23T00:00:00.000Z</updated>
+    <updated>2022-08-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/shop"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shop rotation - Week 38]]></title>
+        <id>2022-08-23-rotations-week-38</id>
+        <link href="https://wiki.olympusgg.com/shop/2022-08-23-rotations-week-38"/>
+        <updated>2022-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pets]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Fluffy Bally Random Box <img src="https://cdn.olympusgg.com/images/2581.png" width="25px"></li><li><font color="orange">[NEW]</font> Gecko Paladin Random Box <img src="https://cdn.olympusgg.com/images/4337.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Zephyr Wings Random Box <img src="https://cdn.olympusgg.com/images/4074.png" width="25px"></li><li><font color="orange">[NEW]</font> Lunar Wings Random Box <img src="https://i.imgur.com/Lk87sW1.png" width="20px"><br><br></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="mount">Mount<a class="hash-link" href="#mount" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Windsurfer Random Box <img src="https://cdn.olympusgg.com/images/2619.png" width="25px"></li><li><font color="orange">[NEW]</font> Black Unicorn Random Box <img src="https://cdn.olympusgg.com/images/2593.png" width="25px"></li></ul>]]></content>
+        <author>
+            <name>Protect</name>
+        </author>
+        <category label="shop" term="shop"/>
+        <category label="rotation" term="rotation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shop rotation - Week 37]]></title>
         <id>2022-08-23-rotations-week-37</id>

@@ -4,9 +4,22 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/changelogs</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Tue, 23 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Changelog - 28/08/2022]]></title>
+            <link>https://wiki.olympusgg.com/changelogs/2022-08-28-changelog</link>
+            <guid>2022-08-28-changelog</guid>
+            <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[28/08/2022 - 1730 ST)]]></description>
+            <content:encoded><![CDATA[<blockquote><p>28/08/2022 - 17:30 (15:30 ST) <br>
+Server Version: 1.387.0 <br>
+Client Version: 1.152.0  <br>     </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="event">Event<a class="hash-link" href="#event" title="Direct link to heading">​</a></h2><ul><li>Disabled sealed vessel event, removed all sealed vessels (but not treasure chests)</li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ul><li>Added "Bottomless Ammo Case" to Starter Pack and Teoman's shop: this item will serve as infinite ammo for bows, crossbows and catapults.</li><li>Made "Cuarry Bank Debit Card" usable in Glacernon.</li><li>Added custom reputation ranks in between Elite and Legend ranks, see: <a href="https://wiki.olympusgg.com/information/reputation" target="_blank" rel="noopener noreferrer">https://wiki.olympusgg.com/information/reputation</a></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="fixes">Fixes<a class="hash-link" href="#fixes" title="Direct link to heading">​</a></h2><ul><li>Fixed Wild Keeper's "Forest Power" range.</li><li>Most bugs related to mails should be fixed</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>changes</category>
+            <category>fixes</category>
+        </item>
         <item>
             <title><![CDATA[Changelog - 23/08/2022]]></title>
             <link>https://wiki.olympusgg.com/changelogs/2022-08-23-changelog</link>

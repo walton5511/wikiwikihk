@@ -43,6 +43,10 @@ hide_title: true
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/2766.png)|![](https://i.imgur.com/S9D5OLE.png)|![](https://i.imgur.com/tUvsRgD.png)|![](https://i.imgur.com/3Dv7039.png)|
+### ``Gecko Paladin``
+| Pet | Stats | Pet Skill | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://i.imgur.com/4hIWHeH.png)|![](https://i.imgur.com/feQiyjO.png)|![](https://i.imgur.com/Z10umyq.png)|![](https://i.imgur.com/O95uY6I.png)|
 
 ## **Event**
 

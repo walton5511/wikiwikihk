@@ -1,5 +1,5 @@
 .partnerDesc {
-  color: #FFE9A9;
+  color: #ffe9a9;
   width: 200px;
   height: 550px;
   z-index: 999;
@@ -28,7 +28,13 @@
 
 .titleDiv {
   display: inline-block;
-  background: linear-gradient(rgb(70, 70, 70), rgb(45, 45, 45) 15%, rgb(45, 45, 45) 50%, rgb(0, 0, 0) 50%, rgb(0, 0, 0));
+  background: linear-gradient(
+    rgb(70, 70, 70),
+    rgb(45, 45, 45) 15%,
+    rgb(45, 45, 45) 50%,
+    rgb(0, 0, 0) 50%,
+    rgb(0, 0, 0)
+  );
   border-radius: 2px;
   white-space: nowrap;
   overflow: hidden;
@@ -38,7 +44,7 @@
   width: 100%;
   margin-left: -1px;
   height: 20px;
-  color: #FFF;
+  color: #fff;
   text-align: center;
   text-shadow: var(--nt-txt-shadow);
   font-family: Tahoma;
@@ -80,14 +86,14 @@
   box-shadow: inset 0 0 0 1px #000;
   background: rgba(50, 50, 50, 0.7);
   position: relative;
-  color: #FFF;
+  color: #fff;
 }
 
 .skillsBar {
   position: relative;
   box-shadow: 0 0 3px #000;
   border: 1px solid #999;
-  background: #000A;
+  background: #000a;
   border-radius: 4px;
   z-index: 1;
   margin-bottom: 3px;
@@ -100,9 +106,10 @@
 }
 
 .lefCube1 {
-  box-shadow: 1px 1px 0px #000, -1px -1px 0px #000, 1px -1px 0px #000, -1px 1px 0px #000;
+  box-shadow: 1px 1px 0px #000, -1px -1px 0px #000, 1px -1px 0px #000,
+    -1px 1px 0px #000;
   border: 1px solid #999;
-  background: #232a2fAA;
+  background: #232a2faa;
   position: relative;
   bottom: 0px;
   height: 275px;
@@ -115,7 +122,8 @@
 }
 
 .requParr {
-  box-shadow: 1px 1px 0px #001818, -1px -1px 0px #001818, 1px -1px 0px #001818, -1px 1px 0px #001818;
+  box-shadow: 1px 1px 0px #001818, -1px -1px 0px #001818, 1px -1px 0px #001818,
+    -1px 1px 0px #001818;
   border-top: 1px solid #97a3b5;
   border-left: 1px solid #727e90;
   border-right: 1px solid #727e90;
@@ -133,7 +141,7 @@
 .inforPara {
   background: #0005;
   text-align: center;
-  color: #FFA;
+  color: #ffa;
   text-shadow: var(--nt-txt-shadow);
   padding: 3px;
   display: inline-block;
@@ -144,17 +152,31 @@
 .inforPara2 {
   background: #0005;
   text-align: center;
-  color: #FFA;
+  color: #ffa;
   text-shadow: var(--nt-txt-shadow);
-  padding: 3px;
   display: inline-block;
   width: 100%;
+  margin: auto;
+  padding: 0;
 }
 
 .resis {
-  margin-top: -8px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 100%;
+  height: 50%;
 }
 
+.resis > div {
+  display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.resis > div > img {
+  margin: 5px;
+}
 .miniParIcon {
   display: inline-flex;
   flex-wrap: wrap;
@@ -167,18 +189,33 @@
   justify-content: flex-start;
   position: relative;
   display: inline-block;
-  color: #FFF;
+  color: #fff;
   vertical-align: top;
   padding: 4px;
 }
 
 .pspIcon {
-  flex: content;
-  margin-right: 145px;
+  left: 0;
+  padding: 12px 0 0 12px;
+  position: absolute;
+  width: 30%;
+}
+
+.imgPsp {
+  object-fit: none;
+}
+
+.BottomLeftBox {
+  display: flex;
+  flex-direction: column;
+}
+
+.BLBoxTop {
+  height: 5em;
 }
 
 .modalleft {
-  color: #FFE9A9;
+  color: #ffe9a9;
   width: 300px;
   height: 550px;
   z-index: 999;
@@ -206,7 +243,7 @@
 }
 
 .modalMid {
-  color: #FFE9A9;
+  color: #ffe9a9;
   width: 300px;
   height: 550px;
   z-index: 999;
@@ -234,7 +271,7 @@
 }
 
 .modalRight {
-  color: #FFE9A9;
+  color: #ffe9a9;
   width: 300px;
   height: 550px;
   z-index: 999;
@@ -272,7 +309,7 @@
   border-radius: 5px;
   margin-left: -3px;
 }
-.greyTable1{
+.greyTable1 {
   margin: 0px 1px 1px 1px;
   border: 1px solid rgb(80, 80, 80);
   background-color: rgb(80, 80, 80);
@@ -285,9 +322,14 @@
   margin-left: 400px;
   z-index: 1;
 }
-.titleDiv1{
-
-  background: linear-gradient(rgb(70, 70, 70), rgb(45, 45, 45) 15%, rgb(45, 45, 45) 50%, rgb(0, 0, 0) 50%, rgb(0, 0, 0));
+.titleDiv1 {
+  background: linear-gradient(
+    rgb(70, 70, 70),
+    rgb(45, 45, 45) 15%,
+    rgb(45, 45, 45) 50%,
+    rgb(0, 0, 0) 50%,
+    rgb(0, 0, 0)
+  );
   border-radius: 2px;
   white-space: nowrap;
   overflow: hidden;
@@ -296,15 +338,17 @@
   border: 1px solid rgb(140, 140, 140);
   width: 300px;
   margin-left: 400px;
-  color: #FFF;
+  margin-bottom: 0 !important;
+  color: #fff;
   text-align: center;
   text-shadow: var(--nt-txt-shadow);
   font-family: Tahoma;
   font-size: 14px;
   padding: 4px 0px;
   height: 35px;
+  font-weight: bold;
 }
-.button0{
+.button0 {
   display: inline-block;
   background-repeat: no-repeat;
   height: 36px;
@@ -320,7 +364,7 @@
   border-spacing: 2px;
   margin: 2px;
 }
-.button2p{
+.button2p {
   height: 15px;
   width: 15px;
   background-position: center;
@@ -332,18 +376,17 @@
   margin-left: 80px;
   margin-top: 5px;
 }
-.pointer{
+.pointer {
   cursor: pointer;
 }
 .skillRank {
   position: relative;
   box-shadow: 0 0 3px #000;
   border: 1px solid #999;
-  background: #000A;
+  background: #000a;
   border-radius: 4px;
   z-index: 1;
   margin-top: -49px;
-
 }
 
 .skillRank p {
@@ -383,5 +426,5 @@ button[hover]:hover::after {
   z-index: 19;
   position: absolute;
   transform: translateX(0%);
-  color: #FFF;
+  color: #fff;
 }

@@ -1,516 +1,482 @@
-import React, { useRef, useState } from 'react';
-import draggable from '../../draggable';
-import psp from './dataPartner.json';
+// @ts-nocheck
+import React, { useEffect, useRef, useState } from "react";
+import draggable from "../../draggable";
+import psp from "./dataPartner.json";
 
 const DraggableCard = ({ children }) => {
-    const cardRef = useRef(null);
-    draggable(cardRef);
+  const cardRef = useRef(null);
 
-    return (
-        <div className="modal" ref={cardRef}>
-            {children}
-        </div>
-    );
+  draggable(cardRef);
+
+  return (
+    <div className="modal" ref={cardRef}>
+      {children}
+    </div>
+  );
 };
 
-function App() {
-    {/*Complete Table*/ }
-    const [popupcontent, setpopupcontent] = useState([]);
-    const [popuptogle, setpopuptogle] = useState(false);
-    const changeContent = (change) => {
-        setpopupcontent([change]);
-        setpopuptogle(!popuptogle);
-    }
-    {/*First Buff/Debuff Modal*/ }
-    const [popupcontentFB, setpopupcontentFB] = useState([]);
-    const [popuptogleFB, setpopuptogleFB] = useState(false);
-    const changeContentFB = (firsDebuff) => {
-        setpopupcontentFB([firsDebuff]);
-        setpopuptogleFB(!popuptogleFB);
-    }
-    {/*Second Buff/Debuff Modal*/ }
-    const [popupcontentSB, setpopupcontentSB] = useState([]);
-    const [popuptogleSB, setpopuptogleSB] = useState(false);
-    const changeContentSB = (firsDebuff) => {
-        setpopupcontentSB([firsDebuff]);
-        setpopuptogleSB(!popuptogleSB);
-    }
-    {/*Second Buff/Debuff1.0 Modal*/ }
-    const [popupcontentmini, setpopupcontentmini] = useState([]);
-    const [popuptoglemini, setpopuptoglemini] = useState(false);
-    const changeContentmini = (firsDebuff) => {
-        setpopupcontentmini([firsDebuff]);
-        setpopuptoglemini(!popuptoglemini);
-    }
-    {/*Third Buff/Debuff Modal*/ }
-    const [popupcontentRB, setpopupcontentRB] = useState([]);
-    const [popuptogleRB, setpopuptogleRB] = useState(false);
-    const changeContentRB = (firsDebuff) => {
-        setpopupcontentRB([firsDebuff]);
-        setpopuptogleRB(!popuptogleRB);
-    }
-    {/*Third2.0 Buff/Debuff Modal*/ }
-    const [popupcontent2RB, setpopupcontent2RB] = useState([]);
-    const [popuptogle2RB, setpopuptogle2RB] = useState(false);
-    const changeContent2RB = (secDebuff) => {
-        setpopupcontent2RB([secDebuff]);
-        setpopuptogle2RB(!popuptogle2RB);
-    }
-    {/*Third3.0 Buff/Debuff Modal*/ }
-    const [popupcontent3RB, setpopupcontent3RB] = useState([]);
-    const [popuptogle3RB, setpopuptogle3RB] = useState(false);
-    const changeContent3RB = (thirdDebuff) => {
-        setpopupcontent3RB([thirdDebuff]);
-        setpopuptogle3RB(!popuptogle3RB);
-    }
-    {/*Left Modal*/ }
-    const [popupcontentL, setpopupcontentL] = useState([]);
-    const [popuptogleL, setpopuptogleL] = useState(false);
-    const changeContentL = (s) => {
-        setpopupcontentL([s]);
-        setpopuptogleL(!popuptogleL);
-    }
-    {/*Mid Modal*/ }
-    const [popupcontentM, setpopupcontentM] = useState([]);
-    const [popuptogleM, setpopuptogleM] = useState(false);
-    const changeContentM = (s1) => {
-        setpopupcontentM([s1]);
-        setpopuptogleM(!popuptogleM);
-    }
-    {/*Right Modal*/ }
-    const [popupcontentR, setpopupcontentR] = useState([]);
-    const [popuptogleR, setpopuptogleR] = useState(false);
-    const changeContentR = (s2) => {
-        setpopupcontentR([s2]);
-        setpopuptogleR(!popuptogleR);
-    }
-    {/*Right Modal*/ }
-    const [popupcontentex, setpopupcontentex] = useState([]);
-    const [popuptogleex, setpopuptogleex] = useState(false);
-    const changeContentex = (s2) => {
-        setpopupcontentex([s2]);
-        setpopuptogleex(!popuptogleex);
-    }
-    return (
-        <div>
-            <div className='titleDiv1'><b>Choose a Card</b></div>
-            <div className='greyTable1'>
-                <div className='tableSkills0'>
-                    {
-                        psp.map(psp => {
-                            return (
-                                <div className='button0'>
-                                    {
-                                        psp.change.map(change => {
-                                            return (
-                                                <div title={change.cardName} className='pointer' hover={change.cardName} onClick={() => changeContent(change)} ><img src={change.buttonImg} /></div>
-                                            )
-                                        })}
-                                </div>
-
-                            )
-                        })
-                    }
-
-                </div>
-            </div>
-            <div>
-                {
-                    popupcontent.map(pop1 => {
-                        return (
-                            <div className='contentDiv'>
-                                <div className='titleDiv'>{pop1.cardName}</div>
-                                <div className='contentDiv greyTable'>
-                                    <div className='partnerDesc'>
-                                        <div className='lefCube1'>
-                                            <p className='requParr'>Information</p>
-                                            <p className='inforPara'>Partners</p>
-                                            <div className='miniParIcon'>
-                                                <a className='imgParIcon'><img src={pop1.partner1} /></a>
-                                                <a className='imgParIcon'><img src={pop1.partner2} /></a>
-                                                <a className='imgParIcon'><img src={pop1.partner3} /></a>
-                                                <a className='imgParIcon'><img src={pop1.partner4} /></a>
-                                            </div>
-                                            <p className='inforPara2'>Resistances</p>
-                                            <div className='resis' >
-                                                <p><img className='resis' src='https://cdn.olympusgg.com/images/element_1.png' /> {pop1.fireRes}%</p>
-                                                <p><img className='resis' src='https://cdn.olympusgg.com/images/element_2.png' /> {pop1.waterRes}%</p>
-                                                <p><img className='resis' src='https://cdn.olympusgg.com/images/element_3.png' /> {pop1.lightRes}%</p>
-                                                <p><img className='resis' src='https://cdn.olympusgg.com/images/element_4.png' /> {pop1.shadowRes}%</p>
-                                            </div>
-                                        </div>
-                                        {
-                                            pop1.minieffi.map(mini => {
-                                                return (
-                                                    <button onClick={() => changeContentex(mini)} className='button2p'><img src={mini.img} /></button>
-                                                )
-                                            })
-                                        }
-                                        <p className='pspIcon'><img src={pop1.icon} /></p>
-                                        <p className='imgPsp'><img src={pop1.psp} /></p>
-                                    </div>
-                                    {/*Left Modal*/}
-                                    <div className='modalleft'>
-                                        <div className='skillRank'>
-                                            {
-                                                [pop1.f.map(f => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#EEE' }} onClick={() => changeContentL(f)}>F</p>
-                                                    )
-                                                }),
-                                                pop1.e.map(e => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#DDE' }} onClick={() => changeContentL(e)}>E</p>
-                                                    )
-                                                }),
-                                                pop1.d.map(d => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0EF' }} onClick={() => changeContentL(d)}>D</p>
-                                                    )
-                                                }),
-                                                pop1.c.map(c => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0EF' }} onClick={() => changeContentL(c)}>C</p>
-                                                    )
-                                                }),
-                                                pop1.b.map(b => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0F9' }} onClick={() => changeContentL(b)}>B</p>
-                                                    )
-                                                }),
-                                                pop1.a.map(a => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0C0' }} onClick={() => changeContentL(a)}>A</p>
-                                                    )
-                                                }),
-                                                pop1.s.map(s => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#FE0' }} onClick={() => changeContentL(s)}>S</p>
-                                                    )
-                                                })]
-                                            }
-                                        </div>
-                                        <div className='modalNiv'>
-                                            {
-                                                popupcontentL.map(popL => {
-                                                    return (
-                                                        <div>
-                                                            <div>
-                                                                <label class="imgbasePart"><img src={popL.img} /></label>
-                                                                <p class="style-title">{popL.title}</p>
-                                                                <p style={{ color: '#FA5' }}>{popL.fairyY}</p>
-                                                                <p style={{ color: '#f5c478' }}>{popL.times}</p>
-                                                                <p style={{ color: '#f5c478' }}>{popL.ranget}</p>
-                                                                <p style={{ color: '#FA5' }}>{popL.dmginc} {popL.attackNum} {popL.attackNumL}<br />{popL.eleminc} {popL.attackNum} {popL.attackNumL1}<br />{popL.chance}<br />
-                                                                    {
-                                                                        popL.firsDebuff.map(firsDebuff => {
-                                                                            return (
-                                                                                <button onClick={() => changeContentFB(firsDebuff)} className='button2'><img src={popL.miniEffe} /></button>
-                                                                            )
-                                                                        })}
-                                                                    {popL.bcard2} {popL.word} </p>
-                                                                <p style={{ color: '#FA5' }}></p>
-                                                            </div>
-                                                        </div>
-                                                    )
-                                                })}
-                                        </div>
-                                    </div>
-                                    {/*Mid Modal*/}
-                                    <div className='modalMid'>
-                                        <div className='skillRank'>
-                                            {
-                                                [pop1.f1.map(f1 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#EEE' }} onClick={() => changeContentM(f1)}>F</p>
-                                                    )
-                                                }),
-                                                pop1.e1.map(e1 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#DDE' }} onClick={() => changeContentM(e1)}>E</p>
-                                                    )
-                                                }),
-                                                pop1.d1.map(d1 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0EF' }} onClick={() => changeContentM(d1)}>D</p>
-                                                    )
-                                                }),
-                                                pop1.c1.map(c1 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0EF' }} onClick={() => changeContentM(c1)}>C</p>
-                                                    )
-                                                }),
-                                                pop1.b1.map(b1 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0F9' }} onClick={() => changeContentM(b1)}>B</p>
-                                                    )
-                                                }),
-                                                pop1.a1.map(a1 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0C0' }} onClick={() => changeContentM(a1)}>A</p>
-                                                    )
-                                                }),
-                                                pop1.s1.map(s1 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#FE0' }} onClick={() => changeContentM(s1)}>S</p>
-                                                    )
-                                                })]
-                                            }
-                                        </div>
-                                        <div className='modalNiv'>
-                                            {
-                                                popupcontentM.map(popM => {
-                                                    return (
-                                                        <div>
-                                                            <div>
-                                                                <label class="imgbasePart"><img src={popM.img} /></label>
-                                                                <p class="style-title">{popM.title}</p>
-                                                                <p style={{ color: '#FA5' }}>{popM.fairyY}</p>
-                                                                <p style={{ color: '#f5c478' }}>{popM.times}</p>
-                                                                <p style={{ color: '#f5c478' }}>{popM.ranget}</p>
-                                                                <p style={{ color: '#FA5' }}>{popM.dmginc} {popM.attackNum}<br />{popM.eleminc} {popM.attackNum}<br />{popM.chance}<br />
-                                                                    {
-                                                                        popM.firsDebuff.map(firsDebuff => {
-                                                                            return (
-                                                                                <button onClick={() => changeContentSB(firsDebuff)} className='button2'><img src={popM.miniEffe} /></button>
-                                                                            )
-                                                                        })}
-                                                                    {popM.bcard2} {popM.word} </p>
-                                                                <p style={{ color: '#FA5' }}></p>
-                                                            </div>
-                                                        </div>
-                                                    )
-                                                })}
-                                        </div>
-                                    </div>
-                                    {/*Right Modal*/}
-                                    <div className='modalRight'>
-                                        <div className='skillRank'>
-                                            {
-                                                [pop1.f2.map(f2 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#EEE' }} onClick={() => changeContentR(f2)}>F</p>
-                                                    )
-                                                }),
-                                                pop1.e2.map(e2 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#DDE' }} onClick={() => changeContentR(e2)}>E</p>
-                                                    )
-                                                }),
-                                                pop1.d2.map(d2 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0EF' }} onClick={() => changeContentR(d2)}>D</p>
-                                                    )
-                                                }),
-                                                pop1.c2.map(c2 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0EF' }} onClick={() => changeContentR(c2)}>C</p>
-                                                    )
-                                                }),
-                                                pop1.b2.map(b2 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0F9' }} onClick={() => changeContentR(b2)}>B</p>
-                                                    )
-                                                }),
-                                                pop1.a2.map(a2 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#0C0' }} onClick={() => changeContentR(a2)}>A</p>
-                                                    )
-                                                }),
-                                                pop1.s2.map(s2 => {
-                                                    return (
-                                                        <p className='skillRank p selected' style={{ color: '#FE0' }} onClick={() => changeContentR(s2)}>S</p>
-                                                    )
-                                                })]
-                                            }
-                                        </div>
-                                        <div className='modalNiv'>
-                                            {
-                                                popupcontentR.map(popR => {
-                                                    return (
-                                                        <div>
-                                                            <div>
-                                                                <label class="imgbasePart"><img src={popR.img} /></label>
-                                                                <p class="style-title">{popR.title}</p>
-                                                                <p style={{ color: '#FA5' }}>{popR.fairyY}</p>
-                                                                <p style={{ color: '#f5c478' }}>{popR.times}</p>
-                                                                <p style={{ color: '#f5c478' }}>{popR.ranget}</p>
-                                                                <p style={{ color: '#FA5' }}>{popR.dmginc}
-                                                                    {
-                                                                        popR.firsDebuff.map(firsDebuff => {
-                                                                            return (
-                                                                                <button onClick={() => changeContentRB(firsDebuff)} className='button2'><img src={popR.secminiEffe} /></button>
-                                                                            )
-                                                                        })}
-                                                                    {popR.attackNum}{popR.attackNum1} {popR.word}<br />{popR.eleminc} <br />{popR.chance}
-                                                                    {
-                                                                        popR.secDebuff.map(secDebuff => {
-                                                                            return (
-                                                                                <button onClick={() => changeContent2RB(secDebuff)} className='button2'><img src={popR.miniEffe} /></button>
-                                                                            )
-                                                                        })}
-                                                                    {popR.bcard2} {popR.word2}<br />{popR.dmginc2}
-                                                                    {
-                                                                        popR.thirdDebuff.map(thirdDebuff => {
-                                                                            return (
-                                                                                <button onClick={() => changeContent3RB(thirdDebuff)} className='button2'><img src={popR.miniEffe2} /></button>
-                                                                            )
-                                                                        })} {popR.bcard3}
-                                                                </p>
-                                                                <p style={{ color: '#FA5' }}></p>
-                                                            </div>
-                                                        </div>
-                                                    )
-                                                })}
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>)
-                    })
-                }
-                {/*Content of the First Effe*/}
-                {popuptogleFB &&
-                    <div>
-                        {
-                            popupcontentFB.map(popFB => {
-                                return (
-                                    <div>
-                                        <DraggableCard>
-                                            <button onClick={changeContentFB} className='close'></button>
-                                            <label class="imgbase"><img src={popFB.miniEffe} width="30px" height="30px" /></label>
-                                            <p class="style-title">{popFB.title} {popFB.word}</p>
-                                            <p style={{ color: '#FFF' }}>{popFB.buff}<br />Level {popFB.effiLvL}<br /><a style={{ color: '#f5c478' }}>{popFB.duration}</a></p>
-                                            <p style={{ color: '#FFF' }}>{popFB.descEf}</p>
-                                            <p style={{ color: '#FA5' }}>{popFB.dmginc} {popFB.miniBcard}<br /> {popFB.eleminc} {popFB.miniBcard2}<br />{popFB.BcardBuffExtra}</p>
-                                        </DraggableCard></div>
-                                )
-                            })}
-                    </div>
-                }
-                {/*Content of the Second Effe*/}
-                {popuptogleSB &&
-                    <div>
-                        {
-                            popupcontentSB.map(popSB => {
-                                return (
-                                    <div>
-                                        <DraggableCard>
-                                            <button onClick={changeContentSB} className='close'></button>
-                                            <label class="imgbase"><img src={popSB.miniEffe} width="30px" height="30px" /></label>
-                                            <p class="style-title">{popSB.title} {popSB.word}</p>
-                                            <p style={{ color: '#FFF' }}>{popSB.buff}<br />Level {popSB.effiLvL}<br /><a style={{ color: '#f5c478' }}>{popSB.duration}</a></p>
-                                            <p style={{ color: '#FFF' }}>{popSB.eleminc}</p>
-                                            <p style={{ color: '#FA5' }}>{popSB.dmginc}
-                                                {
-                                                    popSB.effi.map(effi => {
-                                                        return (
-                                                            <button onClick={() => changeContentmini(effi)} className='button2'><img src={effi.miniEffe} /></button>
-                                                        )
-                                                    })
-                                                }{popSB.cause}
-                                            </p>
-                                        </DraggableCard></div>
-                                )
-                            })}
-                    </div>
-                }
-                {/*Content of the Second 1.0 Effe*/}
-                {popuptoglemini &&
-                    <div>
-                        {
-                            popupcontentmini.map(popmini => {
-                                return (
-                                    <div>
-                                        <DraggableCard>
-                                            <button onClick={changeContentmini} className='close'></button>
-                                            <label class="imgbase"><img src={popmini.miniEffe} width="30px" height="30px" /></label>
-                                            <p class="style-title">{popmini.title}</p>
-                                            <p style={{ color: '#FFF' }}>{popmini.buff}<br /><a style={{ color: '#f5c478' }}>{popmini.duration}</a></p>
-                                            <p style={{ color: '#FFF' }}>{popmini.eleminc}</p>
-                                            <p style={{ color: '#FA5' }}>{popmini.dmginc}</p>
-                                        </DraggableCard></div>
-                                )
-                            })}
-                    </div>
-                }
-                {/*Content of the Third Effe*/}
-                {popuptogleRB &&
-                    <div>
-                        {
-                            popupcontentRB.map(popRB => {
-                                return (
-                                    <div>
-                                        <DraggableCard>
-                                            <button onClick={changeContentRB} className='close'></button>
-                                            <label class="imgbase"><img src={popRB.miniEffe} width="30px" height="30px" /></label>
-                                            <p class="style-title">{popRB.title} {popRB.word}</p>
-                                            <p style={{ color: '#FFF' }}>{popRB.buff}<br />Level {popRB.effiLvL}<br /><a style={{ color: '#f5c478' }}>{popRB.duration}</a></p>
-                                            <p style={{ color: '#FFF' }}>{popRB.eleminc}</p>
-                                            <p style={{ color: '#FA5' }}>{popRB.dmginc} <img className='imgEfeStyle' src={popRB.miniImg} /> {popRB.dmginc2}<br />{popRB.BcardBuffExtra} <img className='imgEfeStyle' src={popRB.miniImg2} /> {popRB.dmginc3}{popRB.extrabcard}</p>
-                                        </DraggableCard></div>
-                                )
-                            })}
-                    </div>
-                }
-                {/*Content of the Third2.0 Effe*/}
-                {popuptogle2RB &&
-                    <div>
-                        {
-                            popupcontent2RB.map(pop2RB => {
-                                return (
-                                    <div>
-                                        <DraggableCard>
-                                            <button onClick={changeContent2RB} className='close'></button>
-                                            <label class="imgbase"><img src={pop2RB.miniEffe} width="30px" height="30px" /></label>
-                                            <p class="style-title">{pop2RB.title} {pop2RB.word2}</p>
-                                            <p style={{ color: '#FFF' }}>{pop2RB.buff}<br />Level {pop2RB.effiLvL}<br /><a style={{ color: '#f5c478' }}>{pop2RB.duration}</a></p>
-                                            <p style={{ color: '#FFF' }}>{pop2RB.eleminc}</p>
-                                            <p style={{ color: '#FA5' }}>{pop2RB.dmginc}</p>
-                                        </DraggableCard></div>
-                                )
-                            })}
-                    </div>
-                }
-                {/*Content of the Third3.0 Effe*/}
-                {popuptogle3RB &&
-                    <div>
-                        {
-                            popupcontent3RB.map(pop3RB => {
-                                return (
-                                    <div>
-                                        <DraggableCard>
-                                            <button onClick={changeContent3RB} className='close'></button>
-                                            <label class="imgbase"><img src={pop3RB.miniEffe} width="30px" height="30px" /></label>
-                                            <p class="style-title">{pop3RB.title} {pop3RB.word2}</p>
-                                            <p style={{ color: '#FFF' }}>{pop3RB.buff}<br />Level {pop3RB.effiLvL}<br /><a style={{ color: '#f5c478' }}>{pop3RB.duration}</a></p>
-                                            <p style={{ color: '#FFF' }}>{pop3RB.eleminc}</p>
-                                            <p style={{ color: '#FA5' }}>{pop3RB.dmginc}</p>
-                                        </DraggableCard></div>
-                                )
-                            })}
-                    </div>
-                }
-                {/*Content Minibuff*/}
-                {popuptogleex &&
-                    <div>
-                        {
-                            popupcontentex.map(popex => {
-                                return (
-                                    <div>
-                                        <DraggableCard>
-                                            <button onClick={changeContentex} className='close'></button>
-                                            <label class="imgbase"><img src={popex.img} width="30px" height="30px" /></label>
-                                            <p class="style-title">{popex.title}</p>
-                                            <p style={{ color: '#FFF' }}>{popex.buff}<br />Level {popex.effiLvL}<br /><a style={{ color: '#f5c478' }}>{popex.duration}</a></p>
-                                            <p style={{ color: '#FFF' }}>{popex.eleminc}</p>
-                                            <p style={{ color: '#FA5' }}>{popex.dmginc}</p>
-                                        </DraggableCard></div>
-                                )
-                            })}
-                    </div>
-                }
-            </div>
-        </div>
-    )
+// To store the rank of each spell card to dynamically change the render when someone change the active psp
+function getItemsFromSessionStorage() {
+  return JSON.parse(sessionStorage.getItem("spellRank"));
 }
-export default App;
+
+function setItemsInSessionStorage(data) {
+  sessionStorage.setItem("spellRank", JSON.stringify(data));
+}
+
+export default function App() {
+  const [activePartner, setActivePartner] = useState({});
+  const [toggleBox, setToggleBox] = useState(false);
+
+  const setData = (data) => {
+    setActivePartner(data);
+    setToggleBox(true);
+  };
+  return (
+    <>
+      <PartnerPicker setData={setData} />
+      <PartnerBox dataPartner={activePartner} toggleBox={toggleBox} />
+    </>
+  );
+}
+
+const PartnerPicker = ({ setData }) => {
+  return (
+    <>
+      <h3 className="titleDiv1">Choose a Card</h3>
+      <div className="greyTable1">
+        <div className="tableSkills0">
+          {psp.map((partner) => {
+            return (
+              <div className="button0" key={psp.indexOf(partner)}>
+                <div
+                  className="pointer"
+                  key={psp.indexOf(partner)}
+                  onClick={() => setData(partner)}
+                >
+                  <img src={partner.buttonImg} alt={partner.cardName} />
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </>
+  );
+};
+
+const PartnerBox = ({ dataPartner, toggleBox }) => {
+  const [modal, setModal] = useState(false);
+  const [spellEffect, setSpellEffect] = useState({});
+  if (!dataPartner.cardName && !toggleBox) return null;
+  return (
+    <>
+      <div className="contentDiv">
+        <div className="titleDiv">{dataPartner.cardName}</div>
+        <div className="contentDiv greyTable">
+          <LeftPartnerBox dataPartner={dataPartner} />
+          <RightPartnerBox
+            dataPartner={dataPartner}
+            setSpellEffect={setSpellEffect}
+            modal={modal}
+            setModal={setModal}
+          />
+        </div>
+      </div>
+      {/*  TO FIX - SpellEffect is undefined ??? */}
+      {spellEffect != {} && (
+        <ModalSpellEffect
+          spellEffect={spellEffect}
+          modal={modal}
+          setModal={setModal}
+        />
+      )}
+    </>
+  );
+};
+
+const RightPartnerBox = ({ dataPartner, setSpellEffect, setModal, modal }) => {
+  return (
+    <>
+      <div className="modalleft">
+        <Skills
+          dataPartner={dataPartner}
+          skillIndex={0}
+          setSpellEffect={setSpellEffect}
+          setModal={setModal}
+          modal={modal}
+        />
+      </div>
+      <div className="modalMid">
+        <Skills
+          dataPartner={dataPartner}
+          skillIndex={1}
+          setSpellEffect={setSpellEffect}
+          setModal={setModal}
+          modal={modal}
+        />
+      </div>
+      <div className="modalRight">
+        <Skills
+          dataPartner={dataPartner}
+          skillIndex={2}
+          setSpellEffect={setSpellEffect}
+          setModal={setModal}
+          modal={modal}
+        />
+      </div>
+    </>
+  );
+};
+// rank check need fix
+const Skills = ({
+  dataPartner,
+  skillIndex,
+  setSpellEffect,
+  setModal,
+  modal,
+}) => {
+  const skillRanks = [
+    { rank: "f", color: "#EEE" },
+    { rank: "e", color: "#DDE" },
+    { rank: "d", color: "#0EF" },
+    { rank: "c", color: "#0EF" },
+    { rank: "b", color: "#0F9" },
+    { rank: "a", color: "#0C0" },
+    { rank: "s", color: "#FE0" },
+  ];
+  // We put 6 here to render the s rank by default
+  const [rankIndex, setRankIndex] = useState(6);
+  const [isActive, setIsActive] = useState(6);
+
+  const changeSkill = (index, rankIndex) => {
+    setIsActive(rankIndex);
+    let tempStorage = getItemsFromSessionStorage();
+    tempStorage = tempStorage ?? [6, 6, 6];
+    tempStorage[index] = rankIndex;
+    setRankIndex(rankIndex);
+
+    sessionStorage.clear();
+    setItemsInSessionStorage(tempStorage);
+  };
+
+  return (
+    <>
+      <div className="skillRank">
+        {skillRanks.map((skillRank, index) => {
+          return (
+            <p
+              key={index}
+              className={`skillRank p ${isActive == index ? "selected" : ""}`}
+              style={{ color: skillRank.color, textTransform: "uppercase" }}
+              onClick={() => changeSkill(skillIndex, index)}
+            >
+              {skillRank.rank}
+            </p>
+          );
+        })}
+      </div>
+      <Skill
+        dataPartner={dataPartner}
+        rankIndex={rankIndex}
+        index={skillIndex}
+        setSpellEffect={setSpellEffect}
+        setModal={setModal}
+        modal={modal}
+      />
+    </>
+  );
+};
+
+const Skill = ({
+  dataPartner,
+  rankIndex,
+  index,
+  setSpellEffect,
+  setModal,
+  modal,
+}) => {
+  const skills = [];
+
+  dataPartner.skills.forEach((s) => {
+    let temp = [];
+    for (let i = s.length - 1; i >= 0; i--) {
+      temp.push(s[i]);
+    }
+    skills.push(temp);
+  });
+  const skill = skills[index][rankIndex];
+  useEffect(() => {
+    setSpellEffect(skill.effects[0]);
+  }, [skill]);
+
+  const renderSpellEffect = (skill) => {
+    setModal(!modal);
+    setSpellEffect(skill);
+  };
+
+  return (
+    <>
+      <div className="modalNiv">
+        <div>
+          <div>
+            <div className="skillHeader">
+              <label className="imgbasePart">
+                <img src={skill.img} alt={skill.title} />
+              </label>
+              <p className="style-title2">{skill.title}</p>
+            </div>
+            {skill.fairyEffect && skill.fairyEffect != "" && (
+              <p style={{ color: "#FA5" }}>{skill.fairyEffect}</p>
+            )}
+            <p style={{ color: "#f5c478" }}>{skill.times}</p>
+            <p style={{ color: "#f5c478" }}>{skill.range}</p>
+            {skill.bcard.length > 0 && (
+              <>
+                {skill.bcard.map((bcard) => {
+                  return (
+                    <p
+                      style={{
+                        color: "#FA5",
+                        margin: "0 10px",
+                        whiteSpace: "pre-wrap",
+                      }}
+                      key={bcard.desc}
+                    >
+                      {bcard.desc} {bcard.value} <br />
+                    </p>
+                  );
+                })}
+              </>
+            )}
+            {skill.effects.length > 0 && (
+              <>
+                {skill.effects.map((effect, index) => {
+                  return (
+                    <p
+                      style={{
+                        color: "#FA5",
+                        margin: "0 10px",
+                        whiteSpace: "pre-wrap",
+                      }}
+                      key={effect.desc}
+                    >
+                      {skill.bcardEffects[index]} <br />{" "}
+                      <button
+                        onClick={() => renderSpellEffect(skill.effects[index])}
+                        className="button2"
+                        style={{ color: "#FA5", margin: 0 }}
+                      >
+                        <img src={skill.effectImg[index]} />
+                      </button>
+                      {effect.title} {effect.rank}
+                    </p>
+                  );
+                })}
+              </>
+            )}
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+
+const ModalSpellEffect = ({ spellEffect, modal, setModal }) => {
+  const [trigger, setTrigger] = useState(false);
+  useEffect(() => {
+    setModal(!modal);
+  }, [trigger]);
+  return modal || spellEffect == {} || !spellEffect ? null : (
+    <>
+      <DraggableCard>
+        <button onClick={() => setTrigger(!trigger)} className="close"></button>
+        <label className="imgbase">
+          <img
+            src={spellEffect.img}
+            alt={spellEffect.title}
+            width="30px"
+            height="30px"
+          />
+        </label>
+        <p className="style-title2">
+          {spellEffect.title} {spellEffect.rank}
+        </p>
+        <p style={{ color: "#FFF" }}>
+          {spellEffect.type}
+          <br />
+          (Level {spellEffect.level})
+        </p>
+        <p style={{ color: "#f5c478" }}>
+          Duration: {spellEffect.duration} seconds
+        </p>
+        <p style={{ color: "#FFF" }}>{spellEffect.desc}</p>
+        {spellEffect.bcard && spellEffect.bcard != [] && (
+          <>
+            {spellEffect.bcard.map((bcard) => {
+              return (
+                <p
+                  style={{
+                    color: "#FA5",
+                    margin: "5px 10px",
+                    whiteSpace: "pre-wrap",
+                  }}
+                  key={bcard.desc}
+                >
+                  {bcard.desc} {bcard.value} <br />
+                </p>
+              );
+            })}
+          </>
+        )}
+        {spellEffect.effects && spellEffect.effects != [] && (
+          <>
+            {spellEffect.effects.map((effect, index) => {
+              return (
+                <p
+                  style={{
+                    color: "#FA5",
+                    margin: "0 10px",
+                    whiteSpace: "pre-wrap",
+                  }}
+                  key={effect.desc}
+                >
+                  {spellEffect.effects && (
+                    <>{spellEffect.effects?.[index].description} </>
+                  )}
+                  {spellEffect.bcardEffects?.[index] + '\n'}
+                  <button
+                    onClick={() => renderSpellEffect(effect)}
+                    className="button2"
+                    style={{ color: "#FA5", margin: 0 }}
+                  >
+                    <img src={spellEffect.effects?.[index].img} />
+                  </button>
+                  {spellEffect.effects?.[index].title}{" "}
+                  {spellEffect.effects?.[index].rank}
+                </p>
+              );
+            })}
+          </>
+        )}
+      </DraggableCard>
+    </>
+  );
+};
+const LeftPartnerBox = ({ dataPartner }) => {
+  const [modal, setModal] = useState(false);
+
+  return (
+    <div className="partnerDesc">
+      <div className="lefCube1">
+        <p className="requParr">Information</p>
+        <p className="inforPara">Partners</p>
+        <div className="miniParIcon">
+          {/* To change for an array in the json file */}
+          <img src={dataPartner.partner1Img} className="imgParIcon" />
+          <img src={dataPartner.partner2Img} className="imgParIcon" />
+          <img src={dataPartner.partner3Img} className="imgParIcon" />
+          <img src={dataPartner.partner4Img} className="imgParIcon" />
+        </div>
+        <p className="inforPara2">Resistances</p>
+        <div className="resis">
+          <div>
+            <img
+              className="resisImg"
+              src="https://cdn.olympusgg.com/images/element_1.png"
+            />{" "}
+            {dataPartner.resistances.fire}%
+          </div>
+          <div>
+            {dataPartner.resistances.light}%{" "}
+            <img
+              className="resisImg"
+              src="https://cdn.olympusgg.com/images/element_3.png"
+            />
+          </div>
+          <div>
+            <img
+              className="resisImg"
+              src="https://cdn.olympusgg.com/images/element_2.png"
+            />{" "}
+            {dataPartner.resistances.water}%
+          </div>
+          <div>
+            {dataPartner.resistances.shadow}%{" "}
+            <img
+              className="resisImg"
+              src="https://cdn.olympusgg.com/images/element_4.png"
+            />
+          </div>
+        </div>
+      </div>
+      <div className="BottomLeftBox">
+        <div className="BLBoxTop">
+          {dataPartner.playerBuff.title && (
+            <img
+              onClick={() => setModal(true)}
+              className="button2p"
+              src={dataPartner.playerBuff.img}
+            />
+          )}
+          <img className="pspIcon" src={dataPartner.iconImg} />
+        </div>
+        <div className="BLBoxBottom">
+          <img className="imgPsp" src={dataPartner.pspImg} />
+        </div>
+      </div>
+      {dataPartner.playerBuff.title && (
+        <ModalBuffEffect
+          spellEffect={dataPartner.playerBuff}
+          modal={modal}
+          setModal={setModal}
+        />
+      )}
+    </div>
+  );
+};
+
+const ModalBuffEffect = ({ spellEffect, modal, setModal }) => {
+  const [trigger, setTrigger] = useState(true);
+
+  useEffect(() => {
+    setModal(false);
+  }, [trigger]);
+
+  return (
+    <>
+      {modal && (
+        <div>
+          <DraggableCard>
+            <button onClick={() => setTrigger(!trigger)} className="close" />
+            <label className="imgbase">
+              <img src={spellEffect.img} width="30px" height="30px" />
+            </label>
+            {/* css need some work for the title */}
+            <p className="style-title2">{spellEffect.title}</p>
+            <p style={{ color: "#FFF" }}>
+              {spellEffect.type}
+              <br />
+              (Level {spellEffect.level})
+            </p>
+            <p style={{ color: "#f5c478" }}>
+              Duration: {spellEffect.duration} seconds
+            </p>
+            <p style={{ color: "#fff" }}>{spellEffect.desc}</p>
+            <div style={{ marginBottom: "2em" }}>
+              {spellEffect.bcard.map((bcard) => {
+                return (
+                  <p style={{ color: "#FA5", margin: "0.5em" }}>
+                    {bcard.desc}
+                    <br />
+                    {bcard.value}
+                  </p>
+                );
+              })}
+            </div>
+          </DraggableCard>
+        </div>
+      )}
+    </>
+  );
+};

@@ -69,8 +69,8 @@
   -ms-user-select: none;
   user-select: none;
   white-space: pre;
-  padding-top: 50px;
-  padding-bottom: -40;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .close {

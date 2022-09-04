@@ -1,0 +1,61 @@
+{
+    "cardName": "",
+    "buttonImg": "",
+    "iconImg": "",
+    "pspImg": "",
+    "partner1Img": "",
+    "partner2Img": "",
+    "partner3Img": "",
+    "partner4Img": "",
+    "playerBuff": {
+        "title": "",
+        "img": "",
+        "desc": "",
+        "type": "Buff",
+        "duration": 0,
+        "bcard": [{
+            "desc": "",
+            "value": ""
+        }],
+        "rank": "(S).",
+        "level": 10
+    },
+    "resistances": {
+        "fire": 0,
+        "water": 0,
+        "light": 0,
+        "shadow": 0
+    },
+    "skills": [
+        [{
+            "title": "",
+            "times": "",
+            "range": "",
+            "fairyEffect": "",
+            "bcard": [{
+                "desc": "",
+                "value": ""
+            }],
+            "rank": "(S).",
+            "img": "",
+            "effectImg": [],
+            "bcardEffects": [],
+            "effects": [{
+                "title": "",
+                "img": "",
+                "desc": "",
+                "type": "",
+                "duration": 0,
+                "bcard": [{
+                    "desc": "",
+                    "value": ""
+                }],
+                "rank": "(S).",
+                "level": 5
+            }]
+        }],
+        [],
+        []
+    ]
+
+}

@@ -1423,36 +1423,36 @@
                         "mas5": [
                             {
                                 "mas": "+5",
-                                "value1": "8%",
-                                "value2": "8% of the\ndamage being reflected at the\nopponent."
+                                "value1": "7%",
+                                "value2": "7% of the\ndamage being reflected at the\nopponent."
                             }
                         ],
                         "mas6": [
                             {
                                 "mas": "+6",
-                                "value1": "10%",
-                                "value2": "10% of the\ndamage being reflected at the\nopponent."
+                                "value1": "9%",
+                                "value2": "9% of the\ndamage being reflected at the\nopponent."
                             }
                         ],
                         "mas7": [
                             {
                                 "mas": "+7",
-                                "value1": "13%",
-                                "value2": "13% of the\ndamage being reflected at the\nopponent."
+                                "value1": "11%",
+                                "value2": "11% of the\ndamage being reflected at the\nopponent."
                             }
                         ],
                         "mas8": [
                             {
                                 "mas": "+8",
-                                "value1": "16%",
-                                "value2": "16% of the\ndamage being reflected at the\nopponent."
+                                "value1": "13%",
+                                "value2": "13% of the\ndamage being reflected at the\nopponent."
                             }
                         ],
                         "mas9": [
                             {
                                 "mas": "+9",
-                                "value1": "20%",
-                                "value2": "20% of the\ndamage being reflected at the\nopponent."
+                                "value1": "15%",
+                                "value2": "15% of the\ndamage being reflected at the\nopponent."
                             }
                         ]
                     }

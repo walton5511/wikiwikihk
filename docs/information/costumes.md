@@ -14,7 +14,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Blackout
 |:-:|:-:|:-:| 
-| ![](https://i.imgur.com/xFIL95Y.png) | ![](https://i.imgur.com/85o1sup.png) | ![](https://i.imgur.com/S8XsbEf.png)  |
+| ![](https://i.imgur.com/xFIL95Y.png) | ![](https://i.imgur.com/csHujpO.png) | ![](https://i.imgur.com/S8XsbEf.png)  |
 
 ### ``Winter Costume``
 | Costume Male | Costume Female | 
@@ -68,7 +68,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Heavy Glue |    
 |:-:|:-: |:-:|
-| ![](https://i.imgur.com/TyB4Of2.png) | ![](https://i.imgur.com/eunP27d.png) | ![](https://i.imgur.com/cx0pxVA.png)|
+| ![](https://i.imgur.com/TyB4Of2.png) | ![](https://i.imgur.com/qad17bT.png) | ![](https://i.imgur.com/afcv28M.png)|
 
 ### ``Desert Costume``
 | Costume Male |
@@ -104,7 +104,7 @@ hide_title: true
 
 | Costume | Rush | Costume Hat | Short Blackout |    
 |:-:|:-:|:-:|:-:|
-| ![](https://i.imgur.com/BYMIjab.png) | ![](https://i.imgur.com/eSY4kZj.png) | ![](https://i.imgur.com/XOxi15q.png) | ![](https://i.imgur.com/f6Xy0zt.png)|
+| ![](https://i.imgur.com/BYMIjab.png) | ![](https://i.imgur.com/eSY4kZj.png) | ![](https://i.imgur.com/Umxk9jF.png) | ![](https://i.imgur.com/f6Xy0zt.png)|
 
 ### ``Easter Bunny Party Costume``
 | Costume Male | Costume Female | 
@@ -122,7 +122,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Shock |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/Mr3gnAc.png) | ![](https://i.imgur.com/BYZeehR.png) | ![](https://i.imgur.com/CwV7aXJ.png)|
+| ![](https://i.imgur.com/Mr3gnAc.png) | ![](https://i.imgur.com/PWXd51s.png) | ![](https://i.imgur.com/CwV7aXJ.png)|
 
 ### ``Viking Costume``
 | Costume Male | Costume Female | 
@@ -140,7 +140,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Madness |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/9roNBgB.png) | ![](https://i.imgur.com/uexQnWQ.png) | ![](https://i.imgur.com/qLmFBFt.png)|
+| ![](https://i.imgur.com/9roNBgB.png) | ![](https://i.imgur.com/zIp3iSn.png) | ![](https://i.imgur.com/qLmFBFt.png)|
 
 
 ### ``Wizard of Noz Costume``
@@ -150,7 +150,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Noz's Blessing |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/wBvSwwK.png) | ![](https://i.imgur.com/p7o9DCG.png) | ![](https://i.imgur.com/z4Ao0OU.png)|
+| ![](https://i.imgur.com/wBvSwwK.png) | ![](https://i.imgur.com/GxbBL24.png) | ![](https://i.imgur.com/z4Ao0OU.png)|
 
 ### ``Puppet Master's Dress Costume``
 | Costume Female | 
@@ -159,7 +159,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Puppet Curse |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/noUShjw.png) | ![](https://i.imgur.com/iKDqKWQ.png) | ![](https://i.imgur.com/mpGu7No.png)|
+| ![](https://i.imgur.com/noUShjw.png) | ![](https://i.imgur.com/nxatYDO.png) | ![](https://i.imgur.com/R2CAzKi.png)|
 
 
 ### ``Puppet Master's Bear Costume``
@@ -169,7 +169,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Puppet Curse  |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/1jd15T0.png) | ![](https://i.imgur.com/3e4Jt8X.png) | ![](https://i.imgur.com/mpGu7No.png)|
+| ![](https://i.imgur.com/1jd15T0.png) | ![](https://i.imgur.com/upBPyxA.png) | ![](https://i.imgur.com/R2CAzKi.png)|
 
 
 ### ``Honeybee Costume``
@@ -179,7 +179,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Totally Blind |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/mbPfJfV.png) | ![](https://i.imgur.com/k2Akofd.png) | ![](https://i.imgur.com/EwKZa3m.png)|
+| ![](https://i.imgur.com/mbPfJfV.png) | ![](https://i.imgur.com/fqW2OwT.png) | ![](https://i.imgur.com/2iY9iHC.png)|
 
 
 ### ``Fire Devil Costume``
@@ -189,7 +189,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Burnt Hand |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/kDJYAvi.png) | ![](https://i.imgur.com/6ZCxCqh.png) | ![](https://i.imgur.com/NDVVccd.png)|
+| ![](https://i.imgur.com/kDJYAvi.png) | ![](https://i.imgur.com/Zw3TxzK.png) | ![](https://i.imgur.com/YDQ9zKt.png)|
 
 
 ### ``Ice Witch Costume``
@@ -199,7 +199,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Frozen |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/ijti5tY.png) | ![](https://i.imgur.com/aFpSSFP.png) | ![](https://i.imgur.com/i5f1xQu.png)|
+| ![](https://i.imgur.com/ijti5tY.png) | ![](https://i.imgur.com/ToQXaDA.png) | ![](https://i.imgur.com/i5f1xQu.png)|
 
 
 ### ``Death Lancer Costume``
@@ -209,7 +209,7 @@ hide_title: true
 
 | Costume  | Costume Hat | Cursed |    
 |:-:|:-:|:-:|
-| ![](https://i.imgur.com/HUXIsBD.png) | ![](https://i.imgur.com/QQqu0ou.png) | ![](https://i.imgur.com/HcN3RD7.png)|
+| ![](https://i.imgur.com/HUXIsBD.png) | ![](https://i.imgur.com/36PIea5.png) | ![](https://i.imgur.com/HcN3RD7.png)|
 
 
 ## **Costumes Wings **

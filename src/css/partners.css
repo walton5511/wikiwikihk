@@ -405,7 +405,7 @@
   background: linear-gradient(#666, #333);
 }
 .modalNiv {
-  margin-top: 100px;
+  margin-top: 2em;
 }
 
 .imgbasePart {
@@ -427,4 +427,17 @@ button[hover]:hover::after {
   position: absolute;
   transform: translateX(0%);
   color: #fff;
+}
+
+.style-title2 {
+  color: #f5c478;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 0.8em;
+}
+
+.skillHeader {
+  display: flex;
+  margin-bottom: 1em;
+  justify-content: space-around;
 }

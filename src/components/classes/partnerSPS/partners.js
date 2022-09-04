@@ -115,7 +115,7 @@ const RightPartnerBox = ({ dataPartner, setSpellEffect, setModal, modal }) => {
           setModal={setModal}
           modal={modal}
         />
-      </div>{" "}
+      </div>
       <div className="modalRight">
         <Skills
           dataPartner={dataPartner}
@@ -150,10 +150,9 @@ const Skills = ({
   const [isActive, setIsActive] = useState(6);
 
   const changeSkill = (index, rankIndex) => {
-    // skillRanks.forEach(e => e.selected = false);
     setIsActive(rankIndex);
     let tempStorage = getItemsFromSessionStorage();
-    tempStorage = tempStorage ? tempStorage : [6, 6, 6];
+    tempStorage = tempStorage ?? [6, 6, 6];
     tempStorage[index] = rankIndex;
     setRankIndex(rankIndex);
 
@@ -197,7 +196,6 @@ const Skill = ({
   setModal,
   modal,
 }) => {
-  console.log(0);
   const skills = [];
 
   dataPartner.skills.forEach((s) => {
@@ -207,9 +205,7 @@ const Skill = ({
     }
     skills.push(temp);
   });
-  console.log("rankIndex", rankIndex);
   const skill = skills[index][rankIndex];
-  console.log(skill);
   useEffect(() => {
     setSpellEffect(skill.effects[0]);
   }, [skill]);
@@ -314,7 +310,7 @@ const ModalSpellEffect = ({ spellEffect, modal, setModal }) => {
         <p style={{ color: "#f5c478" }}>
           Duration: {spellEffect.duration} seconds
         </p>
-        <p style={{ color: "#FFF" }}>{spellEffect.dec}</p>
+        <p style={{ color: "#FFF" }}>{spellEffect.desc}</p>
         {spellEffect.bcard && spellEffect.bcard != [] && (
           <>
             {spellEffect.bcard.map((bcard) => {

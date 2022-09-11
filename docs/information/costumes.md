@@ -88,6 +88,7 @@ hide_title: true
 |:-:|:-:|
 | ![](https://i.imgur.com/BkWGAvm.png) | ![](https://i.imgur.com/QJFk1Wf.png) |
 
+
 ### ``Groovy Beach``
 | Costume Male | Costume Female | 
 |:-:|:-: |
@@ -114,6 +115,15 @@ hide_title: true
 | Costume  | Costume Hat |    
 |:-:|:-:|
 | ![](https://i.imgur.com/TzqCDGv.png) | ![](https://i.imgur.com/eXMYsUS.png) |
+
+### ``Fluffy Rabbit Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/tdevxaN.png) | ![](https://i.imgur.com/S3GzVtH.png) |
+
+| Costume  | Costume Hat | Bind |
+|:-:|:-:|:-:
+| ![](https://i.imgur.com/bpOAVCJ.png) | ![](https://i.imgur.com/9FGTg64.png) | ![](https://i.imgur.com/zX7fSza.png)
 
 ### ``Concierge Uniform``
 | Costume Male | Costume Female | 
@@ -210,6 +220,15 @@ hide_title: true
 | Costume  | Costume Hat | Cursed |    
 |:-:|:-:|:-:|
 | ![](https://i.imgur.com/HUXIsBD.png) | ![](https://i.imgur.com/36PIea5.png) | ![](https://i.imgur.com/HcN3RD7.png)|
+
+### ``Navy Costume``
+| Costume Male | Costume Female | 
+|:-:|:-:|
+| ![](https://i.imgur.com/woDq8UY.png) | ![](https://i.imgur.com/yzOOv5U.png) |
+
+| Costume  | Costume Hat | Slight Blackout |    
+|:-:|:-:|:-:|
+| ![](https://i.imgur.com/1Ms9xiN.png) | ![](https://i.imgur.com/5k3hLmS.png) | ![](https://i.imgur.com/WSgjzJK.png)|
 
 
 ## **Costumes Wings **

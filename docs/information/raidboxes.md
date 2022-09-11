@@ -114,6 +114,11 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Death Lancer Random Chest
 ![](https://i.imgur.com/GQXk6ra.png)
 
+## ** Summer Event Boxes**
+
+### Captain Pete O'Peng
+![](https://i.imgur.com/YKwD7Eh.png)
+
 ## **Other Boxes**
 
 ### Glacernon Mount Box

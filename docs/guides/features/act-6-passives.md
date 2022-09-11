@@ -42,7 +42,7 @@ hide_title: true
 | Defensive Strategy of Lord Cuarry's Knights (1) | 28 | Achievement: Angels III | Increases overall defence power by 30. |
 | Defensive Strategy of Lord Cuarry's Knights (2) | 38 | Brainwashed Crusader | Increases overall defence power by 50. |
 | Attack Strategy of Lord Cuarry's Knights (1) | 28 | Achievement: Demons III | Increases overall attack power by 30. |
-| Attack Strategy of Lord Cuarry's Knights (2) | 28 | Crazed Crusader | Increases overall attack power by 50. |
+| Attack Strategy of Lord Cuarry's Knights (2) | 38 | Crazed Crusader | Increases overall attack power by 50. |
 
 ## Other Books
 

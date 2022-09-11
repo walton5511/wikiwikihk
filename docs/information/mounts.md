@@ -28,6 +28,7 @@ hide_title: true
 | **Magic Bone Drake** <br/> <br/>  <img src="https://cdn.olympusgg.com/images/monsters/2679.png"/>  | 21 | Act6 +3 | There is a certain chance for the Shadow Prowler buff to take effect when the Speed Booster ends. | +3 for 5s | A6.1 Raidboxes |
 | **Magic Donkey Pinata** <br/> <br/>  <img src="https://cdn.olympusgg.com/images/monsters/1444.png"/> | 21 | Act6 +3 | There is a certain chance for the Shadow Prowler buff to take effect when the Speed Booster ends. | +3 for 5s | A6.1 Raidboxes |
 | **Speedy Alpaca** <br/> <br/>  <img src="https://cdn.olympusgg.com/images/monsters/1448.png"/>  | 22 | City +4 | Restores (level x 10) HP | +3 for 5s | Shop |
+| **Olympian Cloud** <br/> <br/>  <img src="https://cdn.olympusgg.com/images/monsters/1429.png"/>  | 22 | none | none | +3 for 5s | PVE Event |
 | **'Joey' the Kangaroo** <br/> <br/>  <img src="https://cdn.olympusgg.com/images/monsters/2767.png"/>   | 22 | none | Removes all bad effects up to level 4 | +3 for 5s | Shop in Arena of Glory |
 | **Windsurfer** <br/> <br/>  <img src="https://cdn.olympusgg.com/images/monsters/1932.png"/>  | 21 | Act7 +3 | Removes all bad effects up to level 4. | +3 for 5s | A7.1 Raidboxes |
 | **Magic Scooter** <br/> <br/>  <img src="https://cdn.olympusgg.com/images/monsters/1368.png"/> | 21 | Act7 +3 | Teleports you 5 spaces forward. | +3 for 5s | A7.1 Raidboxes |

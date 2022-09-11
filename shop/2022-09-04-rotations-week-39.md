@@ -33,4 +33,4 @@ import ItemIcon from "../src/components/itemicon";
 - <font color="orange">[NEW]</font> Otter Random Box <ItemIcon iconId="4145" width="25px"/>
 
 ## Mounts
-- <font color="orange">[NEW]</font> Peculiar UFO Random Box <ItemIcon iconId="4145" width="25px"/>
+- <font color="orange">[NEW]</font> Peculiar UFO Random Box <ItemIcon iconId="2594" width="25px"/>

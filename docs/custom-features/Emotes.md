@@ -48,6 +48,9 @@ You can get emotes from the God's Altar and NPCs. And there are few emotes exclu
 | ![](https://i.imgur.com/Xt5EdDe.png) |  Peepo Love |
 | ![](https://i.imgur.com/s4QlEyq.png) |  Pepa  |
 | ![](https://i.imgur.com/vuXhfoI.png) |  Worry Love  |
+| ![](https://i.imgur.com/HcZihRl.png) |  Wait a minute Emote Unlocker  |
+| ![](https://i.imgur.com/DoR36NC.png) |  Delete this Emote Unlocker  |
+
 
 ### **Emotes from PvP Events**
 

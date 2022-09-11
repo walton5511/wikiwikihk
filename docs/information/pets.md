@@ -12,9 +12,13 @@ hide_title: true
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/wAvWZzB.png)|![](https://i.imgur.com/U2SVzF4.png)|![](https://i.imgur.com/A4XEHKJ.png)|
 ### ``Rusty Robby``
-| Pet | Stats | Debuff |
+| Pet | Stats | Debuff | 
 | -------- | -------- | -------- |
 |![](https://i.imgur.com/GMc8v1s.png)|![](https://i.imgur.com/ML2IvZF.png)|![](https://i.imgur.com/syfIb41.png)|
+### ``Rainbow Pegasus ``
+| Pet | Stats | Debuff | Player buff |
+| -------- | -------- | -------- |-------- |
+|![](https://cdn.olympusgg.com/images/monsters/663.png)|![](https://i.imgur.com/SIS1i6O.png)|![](https://i.imgur.com/yTeck0Z.png)| ![](https://i.imgur.com/DXduBcH.png)
 ### ``Leo the Coward``
 | Pet | Stats | Pet buff | Player buff |
 | -------- | -------- | -------- | -------- |
@@ -70,6 +74,26 @@ hide_title: true
 | Pet | Stats | Pet Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/441.png)|![](https://i.imgur.com/ei1dftU.png)|![](https://i.imgur.com/02mWr8J.png)|![](https://i.imgur.com/UaqOlcg.png)|
+### ``Pirate Bushi (Water)``
+| Pet | Stats | Pet Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/1505.png)|![](https://i.imgur.com/6EPyCjM.png)|![](https://i.imgur.com/bUzmLyU.png)|![](https://i.imgur.com/goXE06C.png)|
+### ``Pirate Bushi (Fire)``
+| Pet | Stats | Pet Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/1505.png)|![](https://i.imgur.com/Ys0ZduX.png)|![](https://i.imgur.com/bUzmLyU.png)|![](https://i.imgur.com/o9AwooS.png)|
+### ``Pirate Bushi (Light)``
+| Pet | Stats | Pet Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/1505.png)|![](https://i.imgur.com/WGQVxRX.png)|![](https://i.imgur.com/bUzmLyU.png)|![](https://i.imgur.com/o7PQ2nC.png)|
+### ``Pirate Bushi (Shadow)``
+| Pet | Stats | Pet Debuff | Player buff |
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/1505.png)|![](https://i.imgur.com/e7RrYIe.png)|![](https://i.imgur.com/bUzmLyU.png)|![](https://i.imgur.com/3Br6Io5.png)|
+### ``Mini Jackpen``
+| Pet | Stats | 
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/545.png)|![](https://i.imgur.com/BNxpBZB.png)|
 
 ## **Common Bushtails**
 

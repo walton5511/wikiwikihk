@@ -26,3 +26,17 @@ import ItemIcon from "../src/components/itemicon";
 # Fixes
 - - Fixed AM Heal
 
+---
+
+> 11/09/2022 - 23:00 (21:00 ST) <br/>
+> Server Version: 1.402.0 <br/>
+> Client Version: 1.158.0
+
+# Changed
+- Pirate Seal can now be sold in Bazaar
+- Pirate SP Upgrade Scrolls can now be sold in Bazaar
+
+# Fixes
+- Some Summer Events Achievements couldn't be finished
+- Some bug fixes related to summoned monsters in some scenario
+- Bug with damages reflect on monsters that are hit by % HP

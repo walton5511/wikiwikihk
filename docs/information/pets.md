@@ -90,10 +90,18 @@ hide_title: true
 | Pet | Stats | Pet Debuff | Player buff |
 | -------- | -------- | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/1505.png)|![](https://i.imgur.com/e7RrYIe.png)|![](https://i.imgur.com/bUzmLyU.png)|![](https://i.imgur.com/3Br6Io5.png)|
+### ``Navy Bushtail``
+| Pet | Stats | Debuff |Player buff
+| -------- | -------- | -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/838.png)|![](https://i.imgur.com/OGoFTHJ.png)|![](https://i.imgur.com/kk5QXLY.png) | ![](https://i.imgur.com/y210XQ6.png)
 ### ``Mini Jackpen``
 | Pet | Stats | 
 | -------- | -------- |
 |![](https://cdn.olympusgg.com/images/monsters/545.png)|![](https://i.imgur.com/BNxpBZB.png)|
+### ``Mini Kangpen``
+| Pet | Stats | 
+| -------- | -------- |
+|![](https://cdn.olympusgg.com/images/monsters/544.png)|![](https://i.imgur.com/SwkL7e1.png)|
 
 ## **Common Bushtails**
 
